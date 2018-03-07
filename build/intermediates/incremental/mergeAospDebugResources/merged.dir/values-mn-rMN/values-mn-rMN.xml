@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="html_input_to_desc_values">
+    <item msgid="4096172354068997146">"Товч"</item>
+    <item msgid="2699169428263688931">"Сонгох нүд"</item>
+    <item msgid="7550171965279727706">"Өнгө сонгогч"</item>
+    <item msgid="2406148632948142554">"Огноо цаг сонгогч"</item>
+    <item msgid="6206734636643693831">"Огноо цаг сонгогч"</item>
+    <item msgid="6494793311723250360">"Огноо сонгогч"</item>
+    <item msgid="6233043014283782070">"Имэйл оруулах нүд"</item>
+    <item msgid="182198520168681864">"Файл сонгогч"</item>
+    <item msgid="7635844014202244925"/>
+    <item msgid="7139901113287304585">"Товч"</item>
+    <item msgid="7877770148678429766">"Сар сонгогч"</item>
+    <item msgid="7002577823944482722">"Зөвхөн тоо оруулах нүд"</item>
+    <item msgid="917273821530305195">"Нууц үг оруулах нүд"</item>
+    <item msgid="5154071363992838475">"Радио товч"</item>
+    <item msgid="2560372821541772181">"Слайдер"</item>
+    <item msgid="779695939031888316">"Дахин шинэчлэх"</item>
+    <item msgid="1955065531595564834">"Хайлтын нүд"</item>
+    <item msgid="3623131192112730435">"Товч"</item>
+    <item msgid="6312991181689088005">"Утасны дугаар оруулах нүд"</item>
+    <item msgid="8762125587567231566">"Текст засах"</item>
+    <item msgid="1947579002513979409">"URL хаяг оруулах нүд"</item>
+    <item msgid="3903775116049114237">"Жил сонгогчийн долоо хоног сонгогч"</item>
+  </string-array>
+    <string-array name="html_role_to_desc_values">
+    <item msgid="3658512898735203541">"Сэрэмжлүүлэг"</item>
+    <item msgid="935137618042089194">"Анхааруулах цонх"</item>
+    <item msgid="686369214205693600">"Товч"</item>
+    <item msgid="5449693577048552694">"Сонгох нүд"</item>
+    <item msgid="7272822698378169340">"Комбо нүд"</item>
+    <item msgid="5713583829575581939">"Цонх"</item>
+    <item msgid="5216929483884327567">"Хүснэгтийн нүд"</item>
+    <item msgid="19661835905260843">"Холбоос"</item>
+    <item msgid="8836528596849462517">"Лог"</item>
+    <item msgid="6363472636779109133">"Тэмдэглэгээ"</item>
+    <item msgid="207979235591166657">"Цэс"</item>
+    <item msgid="5314221954121037157">"Сонгох нүдтэй цэс"</item>
+    <item msgid="8530188741088975507">"Радио товчтой цэс"</item>
+    <item msgid="7133038652454746643">"Сонголт"</item>
+    <item msgid="8884929996375815553">"Явц заагч"</item>
+    <item msgid="2491530352752186178">"Радио товч"</item>
+    <item msgid="5885543297378953099">"Радио товчний грүп"</item>
+    <item msgid="3817058470626837478">"Гүйлгэгч"</item>
+    <item msgid="2598539587247777337">"Слайдер"</item>
+    <item msgid="7266241064748434859">"Спин товч"</item>
+    <item msgid="4150753681642535303">"Статус"</item>
+    <item msgid="3573349580765929816">"Таб"</item>
+    <item msgid="9107453920877701301">"Таб хавтан"</item>
+    <item msgid="5718988101358695130">"Текст нүд"</item>
+    <item msgid="9046935926547104284">"Цаг хэмжигч"</item>
+    <item msgid="8242601659670346415">"Багаж самбар"</item>
+    <item msgid="8035569092868245025">"Багаж зөвлөмж"</item>
+    <item msgid="4623430632959558435">"Мод"</item>
+  </string-array>
+    <string-array name="html_tag_to_desc_values">
+    <item msgid="1581643603826521323">"Холбоос"</item>
+    <item msgid="5847514471672094541">"Толгой нэг"</item>
+    <item msgid="7964504533413328902">"Толгой хоёр"</item>
+    <item msgid="7775012721364572701">"Толгой гурав"</item>
+    <item msgid="1979200594411818064">"Толгой дөрөв"</item>
+    <item msgid="7881108930806590659">"Толгой тав"</item>
+    <item msgid="8181883417007695049">"Толгой зург"</item>
+    <item msgid="2343598882253497500">"Товч"</item>
+    <item msgid="5522305372945364608">"Комбо нүд"</item>
+    <item msgid="2674550010931559202">"Хүснэгт"</item>
+    <item msgid="6844260645051963771">"Текст оруулагч"</item>
+  </string-array>
+    <string-array name="switch_access_color_entries">
+    <item msgid="7934595828699536711">"Ногоон"</item>
+    <item msgid="7616478199824616148">"Улбар шар"</item>
+    <item msgid="528738291475141372">"Улаан"</item>
+    <item msgid="3613307072137891343">"Цэнхэр"</item>
+    <item msgid="1719741716015833575">"Цагаан"</item>
+  </string-array>
+    <string-array name="switch_access_scanning_methods_entries">
+    <item msgid="3706133143777972955">"Мөр-багана (зөвхөн гарын)"</item>
+    <item msgid="6882375457227534722">"Мөр-багана"</item>
+    <item msgid="4021832268378176260">"Скан хийх сонголт"</item>
+  </string-array>
+    <string-array name="switch_access_weight_entries">
+    <item msgid="5215195704613305820">"Нарийн тасралтгүй зураас"</item>
+    <item msgid="7698398358042168523">"Дунд зэргийн тасралтгүй зураас"</item>
+    <item msgid="4047443674448719927">"Өргөн тасралтгүй зураас"</item>
+  </string-array>
+    <plurals formatted="false" msgid="5524438721359954583" name="auto_scan_time_delay_summary_format">
+      <item quantity="other">%.2f Секунд</item>
+      <item quantity="one">1 Секунд</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709295987864614176" name="label_import_succeeded">
+      <item quantity="other">%d шошгыг шинэчилсэн</item>
+      <item quantity="one">1 шошгыг шинэчилсэн</item>
+    </plurals>
+    <plurals formatted="false" msgid="8070929030388121623" name="label_num_keys_assigned_format">
+      <item quantity="other">%d түлхүүр оноосон</item>
+      <item quantity="one">%d түлхүүр оноосон</item>
+    </plurals>
+    <plurals formatted="false" msgid="9179529663500973282" name="template_containers">
+      <item quantity="other"><ns1:g id="TYPE_2">%1$s</ns1:g> зүйлийг <ns1:g id="COUNT_3">%2$d</ns1:g> харуулж байна.</item>
+      <item quantity="one"><ns1:g id="TYPE_0">%1$s</ns1:g> нь <ns1:g id="COUNT_1">%2$d</ns1:g> зүйлийг харуулж байна.</item>
+    </plurals>
+    <plurals formatted="false" msgid="4038822501642812499" name="template_dump_event_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT">%1$d</ns1:g> арга хэмжээ сонгосон</item>
+      <item quantity="one">1 арга хэмжээ сонгосон</item>
+    </plurals>
+    <plurals formatted="false" msgid="5016154931003131594" name="template_list_column_count">
+      <item quantity="other"><ns1:g id="COLUMN_COUNT_1">%1$d</ns1:g> багана</item>
+      <item quantity="one"><ns1:g id="COLUMN_COUNT_0">%1$d</ns1:g> багана</item>
+    </plurals>
+    <plurals formatted="false" msgid="3432009359831385828" name="template_list_row_count">
+      <item quantity="other"><ns1:g id="ROW_COUNT_1">%1$d</ns1:g> мөр</item>
+      <item quantity="one"><ns1:g id="ROW_COUNT_0">%1$d</ns1:g> мөр</item>
+    </plurals>
+    <plurals formatted="false" msgid="3955737557576761990" name="template_list_total_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT_1">%1$d</ns1:g> зүйл</item>
+      <item quantity="one"><ns1:g id="TOTAL_COUNT_0">%1$d</ns1:g> зүйл</item>
+    </plurals>
+    <plurals formatted="false" msgid="1628316286149773405" name="template_password_character_count">
+      <item quantity="other"><ns1:g id="CHARACTER_COUNT_1">%1$d</ns1:g> тэмдэгт</item>
+      <item quantity="one"><ns1:g id="CHARACTER_COUNT_0">%1$d</ns1:g> тэмдэгт</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Нүүр хуудас руу шилжих"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Дээш шилжих"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Нэмэлт сонголтууд"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Дууссан"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Бүгдийг харах"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Апп сонгох"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Хайх..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Асуулгыг цэвэрлэх"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Хайх асуулга"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Хайх"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Асуулгыг илгээх"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Дуут хайлт"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Хуваалцах"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s-тай хуваалцах"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Хумих"</string>
+    <string msgid="3283027285894267908" name="accessibility_tutorial_title">"Хандалтын заавар"</string>
+    <string msgid="8073233516135659087" name="action_name_click">"Сонгох"</string>
+    <string msgid="4275752158295125939" name="action_name_dismiss">"Алгасах"</string>
+    <string msgid="5708679123666477849" name="action_name_long_click">"Удаан дарах"</string>
+    <string msgid="4106603510441280028" name="action_name_next">"Дараах"</string>
+    <string msgid="5382750123072539005" name="action_name_previous">"Өмнөх"</string>
+    <string msgid="4257814255726312722" name="action_name_reverse_auto_scan">"Авто сканыг ухраах"</string>
+    <string msgid="579045012327139100" name="action_name_scroll_backward">"Буцаан гүйлгэх"</string>
+    <string msgid="6969788891937406270" name="action_name_scroll_forward">"Цааш нь гүйлгэх"</string>
+    <string msgid="697316167642517245" name="arc_android_window">"Андройд цонх"</string>
+    <string msgid="6957148997380624671" name="arc_maximize_window_for_touch_hint">"Хүрэлт, хэлсэн саналаар шилдэг илэрц авахын тулд апп-н цонхыг томруулна уу"</string>
+    <string msgid="3272314052097101117" name="arc_navigation_hint">"Шилжүүлэхийн тулд search + сумыг дарна уу"</string>
+    <string msgid="293518233104520901" name="arc_open_manage_keyboard_shortcuts_hint">"Товчлолын жагсаалтыг харахын тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу"</string>
+    <string msgid="9026011084239235722" name="arc_open_talkback_settings_hint">"TalkBack-н тохиргоог нээхийн тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу"</string>
+    <string msgid="8528412412593489695" name="axis_character">"Тэмдэгтээр шилжих."</string>
+    <string msgid="816142869754118685" name="axis_default_web_view_behavior">"Хөтчийн үндсэн харалтаар шилжих."</string>
+    <string msgid="8037283796488966887" name="axis_document">"Документаар шилжих."</string>
+    <string msgid="8829265824683632088" name="axis_heading">"Толгойгоор шилжих."</string>
+    <string msgid="4398740201672273541" name="axis_sentence">"Өгүүлбэрээр шилжих."</string>
+    <string msgid="3267377527761217139" name="axis_sibling">"Сиблингээр шилжих."</string>
+    <string msgid="8823389407337076750" name="axis_word">"Үгээр шилжих."</string>
+    <string msgid="7776830309528651093" name="button_accept_changed_gesture_mappings">"Дохиог зөвшөөрөх"</string>
+    <string msgid="301383322727007726" name="button_check_all_events">"Бүгдийг нь сонгох"</string>
+    <string msgid="2128349101908653825" name="button_clear_all_events">"Бүгдийг нь арилгах"</string>
+    <string msgid="5895884645531139464" name="button_customize_gesture_mappings">"Дохиог тохируулах"</string>
+    <string msgid="2754406023113433479" name="cannot_add_label">"Энэ зүйлийг шошголох боломжгүй."</string>
+    <string msgid="3556846822411648601" name="character_collapse_template">" <ns1:g id="NUMBER">%1$d</ns1:g> <ns1:g id="CHARACTER">%2$s</ns1:g>"</string>
+    <string msgid="1222984615395028719" name="column_heading_template">"Баганын гарчиг"</string>
+    <string msgid="258393957626754806" name="column_index_template">"Багана <ns1:g id="COL">%1$d</ns1:g>"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь одоогоор ажиллах боломжгүй нэг болон түүнээс дээш Google Play үйлчилгээг шаардаж байна. Тусламж хэрэгтэй бол хөгжүүлэгчтэй холбоо барина уу."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Google Play үйлчилгээг идэвхжүүлэх"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Google Play үйлчилгээг идэвхжүүлэх"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Google Play үйлчилгээг авах"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"Google Play үйлчилгээ нь таны утсанд байхгүй учир <ns1:g id="APP_NAME">%1$s</ns1:g> ажиллах боломжгүй."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"Таны таблетад Google Play үйлчилгээ байхгүй учир <ns1:g id="APP_NAME">%1$s</ns1:g> ажиллах боломжгүй."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Google Play үйлчилгээг авах"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"Тогтоосон бүртгэл нь энэ төхөөрөмжид байхгүй байна. Та өөр бүртгэл сонгоно уу."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Хүчингүй бүртгэл"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Сүлжээний алдаа"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Google Play бүртгэлийн алдаа"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"Хязгаарлагдсан профайлаас бүртгэлд хандах боломжгүй."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Хязгаарлагдсан профайл"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Тогтоосон бүртгэлд нэвтрэхэд алдаа гарлаа. Өөр бүртгэл сонгоно уу."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Нэвтрэлт амжилтгүй"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь Google Play-н үйлчилгээг ашиглахад алдаа гарлаа. Хэрэв алдаа гарсаар байвал хөгжүүлэгчтэй холбогдож, зөвлөгөө аваарай."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь Google Play үйлчилгээний тусламжтай ажилладаг боловч таны төхөөрөмж үүнийг дэмждэггүй. Тусламж авахын тулд үйлдвэрлэгчтэй холбоо барина уу."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play үйлчилгээ"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Шинэчлэх"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь таныг Google Play үйлчилгээг шинэчлэх хүртэл ажиллахгүй."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Google Play үйлчилгээг шинэчлэх"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play үйлчилгээг шинэчилж байна"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Утсаар нээх"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Нэвтрэх"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Google-р нэвтрэх:"</string>
+    <string msgid="330592638837220675" name="context_menu_layout_description">"Контекст цэс"</string>
+    <string msgid="7595558180210850775" name="dialog_message_dim_screen">"Та дэлгэцийн гэрлийг бүдгэрүүлэхийг хүсч байгаадаа итгэлтэй байна уу?"</string>
+    <string msgid="3526530041207600349" name="dialog_message_disable_exploration">"Хүрч хайх функцийг унтраах уу?\n\nТа төхөөрөмжний дэлгэцэнд хүрч товчлол дохиог хийх буюу эсвэл ярихад таны төхөөрөмж хариу өгөхгүй."</string>
+    <string msgid="1939098607233562642" name="dialog_message_enable_tree_debug">"Та зангилаа модон дебаг-г идэвхжүүлэхдээ итгэлтэй байна уу?\n\nЗангилаа модон дебаг нь таны дэлгэцийн агуулгыг таны төхөөрөмжийн лог-т нээлттэй болгосноор өөр аппликешнүүдэд унших боломж олгоно."</string>
+    <string msgid="5767155087369798907" name="dialog_message_suspend_talkback">"Та итгэлтэй байна уу? Таны төхөөрөмж зөвлөмж харуулахаа болих бөгөөд Explore by Touch идэвхгүй болно. Түгжээний дэлгэц рүү буцах эсвэл дууны товчлуурын богино холбоосоор дамжуулан мэдэгдлээс TalkBack-ийг сэргээж болно"</string>
+    <string msgid="603850602120147151" name="dialog_title_dim_screen">"Дэлгэцийг бүдгэрүүлэх үү?"</string>
+    <string msgid="2662971136340460644" name="dialog_title_disable_exploration">"Хүрч хайх функцийг идэвхгүй болгох уу?"</string>
+    <string msgid="2107489862179537135" name="dialog_title_enable_tree_debug">"Зангилаа модон дебаг-г идэвхжүүлэх үү?"</string>
+    <string msgid="5117432568615750164" name="dialog_title_suspend_talkback">"TalkBack зогсоох уу?"</string>
+    <string msgid="6117331350509062908" name="display_name_aria_landmark">"ARIA газрын тэмдэглэгээ"</string>
+    <string msgid="6801468093111637502" name="display_name_button">"товчлуур"</string>
+    <string msgid="2060147158898197667" name="display_name_checkbox">"шалгах нүд"</string>
+    <string msgid="3627879841881471141" name="display_name_combobox">"комбо нүд"</string>
+    <string msgid="7621147750572129887" name="display_name_control">"удирдах"</string>
+    <string msgid="5014778180731737501" name="display_name_edit_field">"edit_field"</string>
+    <string msgid="1687969602866460765" name="display_name_focusable_item">"гол зүйл"</string>
+    <string msgid="5292831903337779423" name="display_name_graphic">"график"</string>
+    <string msgid="7554771761850653608" name="display_name_heading">"гарчиг"</string>
+    <string msgid="30730842343032834" name="display_name_heading_1">"гарчиг 1"</string>
+    <string msgid="754950733934619571" name="display_name_heading_2">"гарчиг 2"</string>
+    <string msgid="5499505893988231066" name="display_name_heading_3">"гарчиг 3"</string>
+    <string msgid="8795813919278024796" name="display_name_heading_4">"гарчиг 4"</string>
+    <string msgid="6033290790336260109" name="display_name_heading_5">"гарчиг 5"</string>
+    <string msgid="6401554046489668344" name="display_name_heading_6">"гарчиг 6"</string>
+    <string msgid="1766513019820473329" name="display_name_link">"холбоос"</string>
+    <string msgid="6043055138670390963" name="display_name_list">"жагсаалт"</string>
+    <string msgid="5955953898740497356" name="display_name_list_item">"жагсаалтын зүйл"</string>
+    <string msgid="4568845228422422699" name="display_name_section">"гарчиг, эсвэл газрын тэмдэглэгээ"</string>
+    <string msgid="1369599790038567007" name="display_name_table">"хүснэгт"</string>
+    <string msgid="3595733062526019550" name="end_of_text">"Төгсгөл"</string>
+    <string msgid="2634106379315171501" name="end_of_web">"Дараагийн <ns1:g id="ID_1">%1$s</ns1:g> байхгүй"</string>
+    <string msgid="8326879739948707767" name="global_action_back">"Буцах"</string>
+    <string msgid="2498984784930393183" name="global_action_home">"Нүүр"</string>
+    <string msgid="7052190988699716765" name="global_action_notifications">"Мэдэгдэл"</string>
+    <string msgid="51725242460849609" name="global_action_overview">"Тойм"</string>
+    <string msgid="425687562421432080" name="global_action_quick_settings">"Түргэн тохиргоо"</string>
+    <string msgid="2580664964591545065" name="global_context_menu_title">"Глобал контекст цэс"</string>
+    <string msgid="2036726841460203840" name="granularity_character">"Тэмдэгт"</string>
+    <string msgid="4948042687369948597" name="granularity_default">"Үндсэн"</string>
+    <string msgid="727359260064093782" name="granularity_line">"Шугам"</string>
+    <string msgid="2739238666516816581" name="granularity_page">"Хуудас"</string>
+    <string msgid="3760401274833105422" name="granularity_paragraph">"Параграф"</string>
+    <string msgid="437761042603242585" name="granularity_pseudo_web_special_content">"Тусгай агуулга"</string>
+    <string msgid="1885138772895126953" name="granularity_web_control">"Удирдлага"</string>
+    <string msgid="7817726975417542626" name="granularity_web_link">"Холбоосууд"</string>
+    <string msgid="4386991044245560102" name="granularity_web_list">"Жагсаалтууд"</string>
+    <string msgid="8219174463230029732" name="granularity_web_section">"Гарчиг болон газрын тэмдэглэгээ"</string>
+    <string msgid="2653776823920279013" name="granularity_word">"Үг"</string>
+    <string msgid="3585514481777782183" name="heading_template">"Толгой"</string>
+    <string msgid="2042130200569709650" name="hint_radial_menu">"Зүйл олохын тулд дэлгэцийг дараад, дугуй дотроос хайж, идэвхжүүлэхийн тулд өргөнө үү."</string>
+    <string msgid="6139951755594105602" name="hint_script_injection">"Хүрч хайх функц энэ веб контент дотор ажиллахгүй. Веб контентийг үзэх бол Хандалтын тохиргооны <ns1:g id="PREFERENCE_NAME">%1$s</ns1:g>-г асаана уу."</string>
+    <string msgid="2050246931229863299" name="hint_summary_jog_dial">"Дэлгэцний контентрүү шилжих бол дэлгэцэнд хүрч тойрог дотроос олоод дээшлүүлж сонгоно уу."</string>
+    <string msgid="6117098234531459917" name="imported_labels_reverted">"Импортлосон шошгыг буцаасан"</string>
+    <string msgid="71505978833721807" name="item_index_template">"<ns1:g id="ITEM">%1$d</ns1:g> зүйл"</string>
+    <string msgid="3635428232205897122" name="key_combo_preference_alt_plus">"ALT + "</string>
+    <string msgid="3798670998031739354" name="key_combo_preference_control_plus">"CTRL + "</string>
+    <string msgid="729970729293779243" name="key_combo_preference_instructions">"Жагсаалтад нэмэх болон хасахын тулд түлхүүрийн цуглуулгыг дарна уу"</string>
+    <string msgid="766369207787941384" name="key_combo_preference_reset_button">"Товчны оноолтыг арилгах"</string>
+    <string msgid="2809984878781105825" name="key_combo_preference_shift_plus">"SHIFT + "</string>
+    <string msgid="2481495794999250718" name="keycombo_announce_shortcut_not_supported">"Энэ товчлолыг дэмждэггүй"</string>
+    <string msgid="3473075449729957326" name="keycombo_assign_dialog_clear">"Товчлолыг устгах"</string>
+    <string msgid="8675660213696360536" name="keycombo_assign_dialog_default_keymap_instruction">"Шинэ товчлол тохируулахын тулд түлхүүрийн хослолыг <ns1:g id="TRIGGER_MODIFIER_NAME">%1$s</ns1:g> засварын түлхүүртэй хамт дарна уу."</string>
+    <string msgid="7298194792465449819" name="keycombo_assign_dialog_instruction">"Шинэ гарны холболт үүсгэхийн тулд товчлууруудын хослол дээр дарна уу. Энэ нь  ALT эсвэл Control товчнуудын аль нэгийг заавал агуулсан байх ёстой."</string>
+    <string msgid="2212047143066468004" name="keycombo_assign_dialog_message">"Гарны холбогч товчлуур нь"</string>
+    <string msgid="7481082388500840525" name="keycombo_assign_dialog_navigation_reminder">"Товчлолыг цэвэрлэхийн тулд backspace товчийг, хадгалахын тулд Enter товчийг, цуцлахын тулд Escape товчийг дарна уу."</string>
+    <string msgid="2088979197242112118" name="keycombo_key_arrow_down">"Доошоо заасан сум"</string>
+    <string msgid="7617113973940474625" name="keycombo_key_arrow_left">"Зүүн тийш заасан сум"</string>
+    <string msgid="3021807777617903460" name="keycombo_key_arrow_right">"Баруун тийш заасан сум"</string>
+    <string msgid="3428552869533106939" name="keycombo_key_arrow_up">"Дээш заасан сум"</string>
+    <string msgid="5899747265287524712" name="keycombo_key_modifier_alt">"Alt"</string>
+    <string msgid="7834452577952298995" name="keycombo_key_modifier_ctrl">"Ctrl"</string>
+    <string msgid="4552213738130479993" name="keycombo_key_modifier_meta">"Search"</string>
+    <string msgid="5635477035615538497" name="keycombo_key_modifier_shift">"Shift"</string>
+    <string msgid="1828508564583672416" name="keycombo_menu_alert_message_trigger_modifier">"TalkBack үсгийн зураглалыг дахин тохируулах бөгөөд засварын түлхүүрийг <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g> болгож өөрчилнө"</string>
+    <string msgid="2294464165508562696" name="keycombo_menu_alert_title_trigger_modifier">"TalkBack товчлуурын зураглалыг дахин шинэчилнэ"</string>
+    <string msgid="6826451509012716500" name="keycombo_menu_announce_active_keymap">"<ns1:g id="KEYMAP_NAME">%1$s</ns1:g> одоо идэвхтэй байна."</string>
+    <string msgid="7217139940963945885" name="keycombo_menu_announce_new_trigger_modifier">"Засварын түлхүүрийг <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g> болгож өөрчилсөн."</string>
+    <string msgid="6125748767740120870" name="keycombo_menu_announce_reset_keymap">"Түлхүүрийн холбоосыг дахин тохируулсан."</string>
+    <string msgid="7309875734492478067" name="keycombo_menu_category_global">"Дэлхий нийтийн үйл ажиллагаа"</string>
+    <string msgid="1510641633727773395" name="keycombo_menu_category_granularity">"Чиглүүлэгчийн тохиргоо"</string>
+    <string msgid="4152949225907039706" name="keycombo_menu_category_navigation">"Навигацын үйлдэл"</string>
+    <string msgid="440132295339458288" name="keycombo_menu_category_other">"Бусад үйлдэл"</string>
+    <string msgid="51409040763676563" name="keycombo_menu_category_select_keymap">"Түлхүүрийн холбоос"</string>
+    <string msgid="197426246774034347" name="keycombo_menu_category_web">"Вэб навигацийн үйл ажиллагаа"</string>
+    <string msgid="1134261938982195470" name="keycombo_menu_choose_trigger_modifier">"Засварын түлхүүрийг сонгох"</string>
+    <string msgid="4567585750566224959" name="keycombo_menu_global_back">"Буцах"</string>
+    <string msgid="7189369064773623371" name="keycombo_menu_global_home">"Нүүр"</string>
+    <string msgid="7376426148339964566" name="keycombo_menu_global_notifications">"Мэдэгдэл"</string>
+    <string msgid="927586811460340459" name="keycombo_menu_global_recent">"Сүүлийн апп"</string>
+    <string msgid="6155357392695951243" name="keycombo_menu_global_suspend">"TalkBack-г түр зогсоох, үргэлжлүүлэх"</string>
+    <string msgid="4124885036136489177" name="keycombo_menu_granularity_decrease">"Чиглүүлэгчийн өмнөх тохиргоо"</string>
+    <string msgid="4418197063118287013" name="keycombo_menu_granularity_increase">"Чиглүүлэгчийн дараагийн тохиргоо"</string>
+    <string msgid="8107187053010960249" name="keycombo_menu_navigate_down">"Доорх зүйл рүү очих"</string>
+    <string msgid="3158152161988911032" name="keycombo_menu_navigate_first">"Эхний зүйлд навигаци хий"</string>
+    <string msgid="1263547978659004801" name="keycombo_menu_navigate_last">"Сүүлийн зүйлд навигаци хий"</string>
+    <string msgid="759996660496701149" name="keycombo_menu_navigate_next">"Дараагийн зүйлд навигаци хий"</string>
+    <string msgid="2366740353671146191" name="keycombo_menu_navigate_next_character">"Дараагийн тэмдэгт рүү очих"</string>
+    <string msgid="25126714988891178" name="keycombo_menu_navigate_next_window">"Дараагийн цонх руу шилжих"</string>
+    <string msgid="1395811611039468067" name="keycombo_menu_navigate_next_word">"Дараагийн үг рүү очих"</string>
+    <string msgid="6854364806063486016" name="keycombo_menu_navigate_previous">"Өмнөх зүйлд навигаци хий"</string>
+    <string msgid="2721742949377224859" name="keycombo_menu_navigate_previous_character">"Өмнөх тэмдэгт рүү очих"</string>
+    <string msgid="4564537307456535973" name="keycombo_menu_navigate_previous_window">"Өмнөх цонх руу шилжих"</string>
+    <string msgid="4068599657564535841" name="keycombo_menu_navigate_previous_word">"Өмнөх үг рүү очих"</string>
+    <string msgid="8246000047771671403" name="keycombo_menu_navigate_up">"Дээрх зүйл рүү очих"</string>
+    <string msgid="2225006890613375860" name="keycombo_menu_other_global_context_menu">"Global Context Menu-г харуул"</string>
+    <string msgid="4021429520088110904" name="keycombo_menu_other_local_context_menu">"Local Context Menu-г харуул"</string>
+    <string msgid="1317406596143818756" name="keycombo_menu_other_open_manage_keyboard_shortcuts">"Гарын товчлолыг удирдах"</string>
+    <string msgid="7172351544340904928" name="keycombo_menu_other_open_talkback_settings">"TalkBack-н тохиргоог нээх"</string>
+    <string msgid="1511843443312220392" name="keycombo_menu_other_read_from_next_item">"Дараагийнхаас унших"</string>
+    <string msgid="5903852171117275622" name="keycombo_menu_other_read_from_top">"Дээрээс унших"</string>
+    <string msgid="5587057667593041194" name="keycombo_menu_other_toggle_search">"Дэлгэцээс хай"</string>
+    <string msgid="243666968746657931" name="keycombo_menu_perform_click">"Гүйцэтгэлийн товч"</string>
+    <string msgid="5580717252946630027" name="keycombo_menu_perform_long_click">"Удаан дарах"</string>
+    <string msgid="2023072719324737919" name="keycombo_menu_reset_keymap">"Түлхүүрийн холбоосыг дахин тохируулах"</string>
+    <string msgid="373592569630998413" name="keycombo_menu_select_keymap">"Түлхүүрийн холбоосыг сонгох"</string>
+    <string msgid="6234830691861291732" name="keycombo_menu_web_navigate_to_next_aria_landmark">"Дараагийн ARIA газрын тэмдэглэгээ рүү очих"</string>
+    <string msgid="5786404186459162862" name="keycombo_menu_web_navigate_to_next_button">"Дараагийн товчлуур руу очих"</string>
+    <string msgid="3722561185964557699" name="keycombo_menu_web_navigate_to_next_checkbox">"Дараагийн шалгах хайрцаг руу очих"</string>
+    <string msgid="8664957205621246821" name="keycombo_menu_web_navigate_to_next_combobox">"Дараагийн хослолын хайрцаг руу очих"</string>
+    <string msgid="5118493330693292266" name="keycombo_menu_web_navigate_to_next_control">"Дараагийн хяналт руу очих"</string>
+    <string msgid="212436471355413352" name="keycombo_menu_web_navigate_to_next_edit_field">"Дараагийн засварлах хэсэг рүү очих"</string>
+    <string msgid="6577338510655384932" name="keycombo_menu_web_navigate_to_next_focusable_item">"Дараагийн чиглүүлж болох зүйлд очих"</string>
+    <string msgid="3860950617153731037" name="keycombo_menu_web_navigate_to_next_graphic">"Дараагийн график руу очих"</string>
+    <string msgid="6529174070300116949" name="keycombo_menu_web_navigate_to_next_heading">"Дараагийн гарчиг руу очих"</string>
+    <string msgid="3244117772760471353" name="keycombo_menu_web_navigate_to_next_heading_1">"Дараагийн гарчиг 1 рүү очих"</string>
+    <string msgid="75822840123780036" name="keycombo_menu_web_navigate_to_next_heading_2">"Дараагийн гарчиг 2 руу очих"</string>
+    <string msgid="6068489868699550150" name="keycombo_menu_web_navigate_to_next_heading_3">"Дараагийн гарчиг 3 руу очих"</string>
+    <string msgid="3960229240959901354" name="keycombo_menu_web_navigate_to_next_heading_4">"Дараагийн гарчиг 4 рүү очих"</string>
+    <string msgid="9101669601111190142" name="keycombo_menu_web_navigate_to_next_heading_5">"Дараагийн гарчиг 5 руу очих"</string>
+    <string msgid="6918176243153506542" name="keycombo_menu_web_navigate_to_next_heading_6">"Дараагийн гарчиг 6 руу очих"</string>
+    <string msgid="3567614429970148323" name="keycombo_menu_web_navigate_to_next_link">"Дараагийн холбоос руу очих"</string>
+    <string msgid="8731606795102810314" name="keycombo_menu_web_navigate_to_next_list">"Дараагийн жагсаалт руу очих"</string>
+    <string msgid="5640113968924738728" name="keycombo_menu_web_navigate_to_next_list_item">"Дараагийн жагсаалтын зүйл рүү очих"</string>
+    <string msgid="6540415308854724223" name="keycombo_menu_web_navigate_to_next_table">"Дараагийн хүснэгт рүү очих"</string>
+    <string msgid="1779439621789951193" name="keycombo_menu_web_navigate_to_previous_aria_landmark">"Өмнөх ARIA газрын тэмдэглэгээ рүү очих"</string>
+    <string msgid="7341520853947364002" name="keycombo_menu_web_navigate_to_previous_button">"Өмнөх товчлуур руу очих"</string>
+    <string msgid="6560080364424986498" name="keycombo_menu_web_navigate_to_previous_checkbox">"Өмнөх шалгах хайрцаг руу очих"</string>
+    <string msgid="5252314449233286869" name="keycombo_menu_web_navigate_to_previous_combobox">"Өмнөх комбинаци хайрцаг руу очих"</string>
+    <string msgid="6218169838978520955" name="keycombo_menu_web_navigate_to_previous_control">"Өмнөх хяналтын хэсэг рүү очих"</string>
+    <string msgid="5495489017658262310" name="keycombo_menu_web_navigate_to_previous_edit_field">"Өмнөх засварлах хэсэг рүү очих"</string>
+    <string msgid="4960141150651374820" name="keycombo_menu_web_navigate_to_previous_focusable_item">"Өмнөх чиглүүлж болох зүйлд очих"</string>
+    <string msgid="4496215226346619518" name="keycombo_menu_web_navigate_to_previous_graphic">"Өмнөх график руу очих"</string>
+    <string msgid="3501846285908107279" name="keycombo_menu_web_navigate_to_previous_heading">"Өмнөх гарчиг руу очих"</string>
+    <string msgid="3317845146689095006" name="keycombo_menu_web_navigate_to_previous_heading_1">"Өмнөх гарчиг 1 рүү очих"</string>
+    <string msgid="2130159635618042033" name="keycombo_menu_web_navigate_to_previous_heading_2">"Өмнөх гарчиг 2 руу очих"</string>
+    <string msgid="3261881889523320310" name="keycombo_menu_web_navigate_to_previous_heading_3">"Өмнөх гарчиг 3 руу очих"</string>
+    <string msgid="4665169714217637276" name="keycombo_menu_web_navigate_to_previous_heading_4">"Өмнөх гарчиг 4 руу очих"</string>
+    <string msgid="1057554300668048210" name="keycombo_menu_web_navigate_to_previous_heading_5">"Өмнөх гарчиг 5 руу очих"</string>
+    <string msgid="2400489461796001671" name="keycombo_menu_web_navigate_to_previous_heading_6">"Өмнөх гарчиг 6 руу очих"</string>
+    <string msgid="1510672359574680127" name="keycombo_menu_web_navigate_to_previous_link">"Өмнөх холбоос руу очих"</string>
+    <string msgid="8999329379609937777" name="keycombo_menu_web_navigate_to_previous_list">"Өмнөх жагсаалт руу очих"</string>
+    <string msgid="3557085444094910366" name="keycombo_menu_web_navigate_to_previous_list_item">"Өмнөх жагсаалтын зүйл рүү очих"</string>
+    <string msgid="8234050317398672680" name="keycombo_menu_web_navigate_to_previous_table">"Өмнөх хүснэгт рүү очих"</string>
+    <string msgid="5817151372114230015" name="keycombo_unassigned">"Тодорхой бус"</string>
+    <string msgid="3288834802071890267" name="label_choose_app_to_export">"Шошго экспортлох апп сонгох:"</string>
+    <string msgid="4342585248215824717" name="label_dialog_edit_hint">"Шошгоны текст"</string>
+    <string msgid="5879506218245648848" name="label_dialog_text">"Энэ зурагт ашиглагдах текстийг дараах талбарт оруулна уу."</string>
+    <string msgid="1255044087558866043" name="label_dialog_title_add">"Шошго нэмэх"</string>
+    <string msgid="7914376979667771585" name="label_dialog_title_edit">"Шошго засах"</string>
+    <string msgid="1791163736307626930" name="label_dialog_title_remove">"Шошгыг арилгах"</string>
+    <string msgid="7663052451851715440" name="label_export_empty">"Экспортлох зүйл алга. Та шошго нэмээгүй байна"</string>
+    <string msgid="4500274103149146929" name="label_export_failed">"Шошгыг экспортлож чадсангүй"</string>
+    <string msgid="1773817433300194935" name="label_import">"Тохируулах шошгыг импортлох"</string>
+    <string msgid="7975227530187709469" name="label_import_dialog_message">"Зөрчил гарсан тохиолдолд байгаа шошгыг дарах, эсвэл алгасах эсэхээ сонгоно уу."</string>
+    <string msgid="4387408051194229513" name="label_import_dialog_override">"Дарж бичих"</string>
+    <string msgid="2078597180132028657" name="label_import_dialog_skip">"Алгасах"</string>
+    <string msgid="5305411653917870790" name="label_import_dialog_title">"TalkBack-н үндсэн шошгыг импортлох"</string>
+    <string msgid="1321882372299892757" name="label_import_failed">"Шошгыг импортолж чадсангүй"</string>
+    <string msgid="4478523067360108574" name="label_manager_no_packages_message">"Одоогоор тусгай шошго байхгүй байна. Та шошгогүй зурагт тусгай шошго үүсгэх боломжтой ба Локал Контекст Цэснээс шошгыг нэмэх боломжтой."</string>
+    <string msgid="6984665343963494151" name="label_manager_package_title">"<ns1:g id="APPLICATIONLABEL">%1$s</ns1:g>-н шошгыг удирдах"</string>
+    <string msgid="6786694853113585661" name="label_manager_summary_title">"Тусгай шошгуудыг удирдах"</string>
+    <string msgid="2632240906498521602" name="label_manager_timestamp_text">"Сүүлд өөрчилсөн цаг <ns1:g id="TIMESTAMP">%1$s</ns1:g>"</string>
+    <string msgid="372916461303485723" name="label_remove_dialog_text">"Та үнэхээр \"<ns1:g id="LABEL">%1$s</ns1:g>\" шошгыг устгах уу?"</string>
+    <string msgid="8329270316487665017" name="label_remove_dialog_text_app_name">"Та үнэхээр <ns1:g id="APP_NAME">%2$s</ns1:g> доторх \"<ns1:g id="LABEL">%1$s</ns1:g>\" шошгыг устгах уу?"</string>
+    <string msgid="6758073806811666684" name="label_talkback_context_menu">"Talkback глобал контекст цэс"</string>
+    <string msgid="3448225474115458693" name="links">"Холбоос"</string>
+    <string msgid="6672321005470828526" name="local_context_menu_title">"Орон нутгийн контекст цэс"</string>
+    <string msgid="4795202818108740382" name="main_description">"TalkBack нь хараагүй болон харааны бэрхшээлтэй хүмүүст зориулсан дэлгэцийн уншигч юм. Энэ нь ярианы тусламжтайгаар төхөөрөмжөө удирдах боломжийг олгодог."</string>
+    <string msgid="13771282771329188" name="message_in_reset_keymap_confirm_dialog">"Та энэ түлхүүрийн хослолд зориулан холбоосын түлхүүрийг өгөгдмөл утганд дахин тохируулахдаа итгэлтэй байна уу? Энэ үйлдлийг буцаах боломжгүйг анхаарна уу."</string>
+    <string msgid="6721228114050709276" name="message_resume_keyguard">"Та Talkback-г мэдэгдлийн хураангуй самбараас эсвэл түгжих дэлгэцрүү буцан ажиллуулах боломжтой."</string>
+    <string msgid="6522293510722570646" name="message_resume_manual">"Та Talkback-г мэдэгдлийн хураангуй самбараас ажиллуулах боломжтой."</string>
+    <string msgid="9016720947126938212" name="message_resume_screen_on">"Та Talkback-г мэдэгдлийн хураангуй самбараас эсвэл дэлгэцийг асаан ажиллуулах боломжтой."</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Дамжуулах"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Төхөөрөмжүүдийг хайж байна…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Төхөөрөмжтэй холбох"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Салгах"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Мэдээлэл байхгүй байна"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Түр зогсоох"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Тоглуулах"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Маршрут тохиргоо"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Нэвтрүүлэхийг зогсоох"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Систем"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Төхөөрөмжүүд"</string>
+    <string msgid="6379785627490220649" name="name_of_enter_key">"Оруулах"</string>
+    <string msgid="5083960909593906754" name="name_of_space_bar">"Багтаамж"</string>
+    <string msgid="6744983965001375397" name="name_of_tab_key">"Таб"</string>
+    <string msgid="4602958479941673535" name="navigation_bar">"шилжүүлэх самбар"</string>
+    <string msgid="2792530694141012295" name="no_key_assigned">"Оноосон товч байхгүй"</string>
+    <string msgid="7419188718124788690" name="notification_message_talkback_gestures_changed">"Хандалтын дохионы өөрчлөлтийг хянах бол товшино уу"</string>
+    <string msgid="1542127125162503034" name="notification_message_talkback_suspended">"Ажиллуулах бол товшино уу."</string>
+    <string msgid="7913123792593843784" name="notification_status_sync">"Синк"</string>
+    <string msgid="8680063755043078528" name="notification_title_talkback_gestures_changed">"TalkBack дохио өөрчлөгдөв"</string>
+    <string msgid="4350835042954222637" name="notification_title_talkback_suspended">"TalkBack зогссон"</string>
+    <string msgid="6810236215373132892" name="notification_tutorial_navigate_to_lession_1">"Хичээл 1-д автоматаар дэвшиж байна."</string>
+    <string msgid="8377204645672459594" name="notification_type_beginning_of_field">"Талбарын эхлэл"</string>
+    <string msgid="7980557705539894781" name="notification_type_end_of_field">"Талбарын төгсгөл"</string>
+    <string msgid="6585664098525214473" name="notification_type_missed_call">"Аваагүй дуудлага"</string>
+    <string msgid="3540829343521564569" name="notification_type_selection_cleared">"Сонголтыг устгасан"</string>
+    <string msgid="5851903648134458514" name="notification_type_selection_mode_off">"Сонголтын горимыг унтраасан"</string>
+    <string msgid="9089325915356056509" name="notification_type_selection_mode_on">"Сонголтын горимыг асаах"</string>
+    <string msgid="3593906461181368010" name="notification_type_status_chat">"Чат"</string>
+    <string msgid="8762616334364573004" name="notification_type_status_error">"Алдаа"</string>
+    <string msgid="4889548393564513820" name="notification_type_status_more">"Цааш"</string>
+    <string msgid="2024742614005804613" name="notification_type_status_mute">"Дууг хаах"</string>
+    <string msgid="6675459139116184337" name="notification_type_status_sdcard">"SD карт"</string>
+    <string msgid="6882955062811560802" name="notification_type_status_sdcard_usb">"SD карт USB"</string>
+    <string msgid="1071939833188591219" name="notification_type_status_started">"Эхэлсэн"</string>
+    <string msgid="6004666820256747725" name="notification_type_status_stopped">"Зогсоосон"</string>
+    <string msgid="3708903607797168409" name="notification_type_status_sync_noanim">"Синк"</string>
+    <string msgid="1611063561670902017" name="notification_type_status_voicemail">"Дуут шуудан"</string>
+    <string msgid="2034348456907055979" name="option_scan_switch_format">"Скан солих сонголт %1$d"</string>
+    <string msgid="4460266289722058928" name="option_scanning_menu_button">"ЦЭС"</string>
+    <string msgid="2204457920803882766" name="orientation_landscape">"Хэвтээ"</string>
+    <string msgid="7714435567541027105" name="orientation_portrait">"Босоо"</string>
+    <string msgid="9043246837899844909" name="override_keycombo">"Аль хэдийн ашиглагдаж буй товчлуур"</string>
+    <string msgid="3764483710022091999" name="override_keycombo_message_two_params">"Энэ товчлуурын хослолыг \'<ns1:g id="ID_1">%1$s</ns1:g>\' үйлдэлд ашиглана. Та үүнийг устгаж, \'<ns1:g id="ID_2">%2$s</ns1:g>\' үйлдлийг хийхэд ашигладаг болгохыг хүсч байна уу?"</string>
+    <string msgid="8065967887484901473" name="permission_labeling_desc">"TalkBack-р хэлсэн, тохируулсан шошгуудад хандалт хийх, өөрчлөх болон устгах зөвшөөрөл."</string>
+    <string msgid="2956001661481169498" name="permission_labeling_label">"TalkBack тохируулсан шошгуудыг удирдах"</string>
+    <string msgid="8320433482567759963" name="permission_talkback_desc">"Зангалтыг TalkBack руу илгээж, хэлэх хариултыг үргэлжлүүлэх зөвшөөрөл."</string>
+    <string msgid="2235244838320678938" name="permission_talkback_label">"ТalkBack контрол"</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Хайлтыг цэвэрлэх"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Хайх"</string>
+    <string msgid="8323015765774812284" name="reset_button_in_reset_keymap_confirm_dialog">"Дахин тохируулах"</string>
+    <string msgid="5508730389432571776" name="revert_imported_labels">"Импортлосон шошгыг буцаах"</string>
+    <string msgid="7106495985061954643" name="row_heading_template">"Мөрний гарчиг"</string>
+    <string msgid="4107789959609911947" name="row_index_template">"Эгнээ <ns1:g id="ROW">%1$d</ns1:g>"</string>
+    <string msgid="5398278773451196019" name="save">"Хадгалах"</string>
+    <string msgid="378010604065368658" name="screen_brightness_restored">"Дэлгэцийн тодролыг сэргээсэн"</string>
+    <string msgid="8072279323762069231" name="screen_dimmed">"Дэлгэц бүдгэрсэн"</string>
+    <string msgid="176693707001658416" name="screen_dimming_exit_instruction_line1">"TalkBack нэвтрэх үйлчилгээ нь дэлгэцийн гэрлийг бүдгэрүүлсэн байна."</string>
+    <string msgid="2111548310775079127" name="screen_dimming_exit_instruction_line2">"Ихэсгэх, Багасгах товчлууруудыг хамтад нь гурван удаа хурдан дарж үйлдлийг буцаана."</string>
+    <string msgid="7006494712728198438" name="screen_dimming_exit_instruction_line3">"TalkBack тохиргооноос дэлгэцийн бүдгэрлийг хянаж болно."</string>
+    <string msgid="5109861709058665917" name="scrollable_backward">"Буцаан гүйлгэх"</string>
+    <string msgid="6312908487874132401" name="scrollable_forward">"Дагуу гүйлгэх"</string>
+    <string msgid="7273037326593054813" name="search_dialog_label">"Хайх: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>"</string>
+    <string msgid="4938867934958343710" name="search_mode_cancel">"Хайлтыг цуцалсан."</string>
+    <string msgid="7166574479757238944" name="search_mode_finish">"Хайлт дууссан."</string>
+    <string msgid="3919282680896571220" name="search_mode_hint_no_query">"Асуулга оруулаагүй байна."</string>
+    <string msgid="882227441829755961" name="search_mode_hint_no_selection">"Сонгосон зүйл байхгүй."</string>
+    <string msgid="5896493032072187997" name="search_mode_hint_query">"Одоогийн асуулга: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>."</string>
+    <string msgid="8541673936818652399" name="search_mode_hint_selection">"Одоогийн сонголт: <ns1:g id="SELECTED_NODE">%1$s</ns1:g>."</string>
+    <string msgid="4597528088567439979" name="search_mode_hint_start">"Хайлтын горим."</string>
+    <string msgid="910823044260738937" name="search_mode_open">"Хайлтын горим нээгдсэн."</string>
+    <string msgid="2558372839282319745" name="shortcut_back">"Буцах товч"</string>
+    <string msgid="9018001118250050381" name="shortcut_copy_last_utterance_to_clipboard">"Сүүлд хэлсэн үгийг түр санах ойд хуулах"</string>
+    <string msgid="8041762180167320322" name="shortcut_disable_dimming">"Дэлгэц бүдгэрүүлэхийг зогсоох"</string>
+    <string msgid="751310793206738883" name="shortcut_enable_dimming">"Дэлгэц бүдгэрүүлэх"</string>
+    <string msgid="4549343120881649603" name="shortcut_first_in_screen">"Дэлгэцэн дээрх эхний зүйлд анхаарал хандуулах"</string>
+    <string msgid="5711865496104188848" name="shortcut_hear_lesson">"Цэсийг тайлбарлах"</string>
+    <string msgid="6670249804418900175" name="shortcut_home">"Нүүр товч"</string>
+    <string msgid="1584183195221110323" name="shortcut_last_in_screen">"Дэлгэцэн дээрх сүүлийн зүйлд анхаарал хандуулах"</string>
+    <string msgid="8164203174881196072" name="shortcut_local_breakout">"Локал контекст цэс нээх"</string>
+    <string msgid="6887743145853506373" name="shortcut_next">"Дараагийн зүйл"</string>
+    <string msgid="5058063575500265017" name="shortcut_next_granularity">"Чиглүүлэгчийн дараагийн тохиргоо"</string>
+    <string msgid="5291839248233515759" name="shortcut_notifications">"Мэдэгдэл нээх"</string>
+    <string msgid="3649651004283936027" name="shortcut_overview">"Тоймлох товчлуур"</string>
+    <string msgid="1412613174540942399" name="shortcut_pause_feedback">"Өгөгдөл түр зогсоох"</string>
+    <string msgid="3679790113454394245" name="shortcut_previous">"Өмнөх зүйл"</string>
+    <string msgid="5483850878839529117" name="shortcut_previous_granularity">"Чиглүүлэгчийн өмнөх тохиргоо"</string>
+    <string msgid="7570974794642091616" name="shortcut_print_node_tree">"Зангилаа модыг хэвлэх"</string>
+    <string msgid="5769337869539736463" name="shortcut_read_from_current">"Дараагийнхаас унших"</string>
+    <string msgid="6031418895933550221" name="shortcut_read_from_top">"Дээрээс унших"</string>
+    <string msgid="9059705754075010951" name="shortcut_repeat_last_utterance">"Сүүлийн хэллэгийг давтах"</string>
+    <string msgid="1025337926618449476" name="shortcut_scroll_back">"Буцааж гүйлгэж харах"</string>
+    <string msgid="7299589176359902775" name="shortcut_scroll_forward">"Цааш нь гүйлгэж харах"</string>
+    <string msgid="1996746992705940253" name="shortcut_show_custom_actions">"Захиалгат үйл явдлыг харуулах"</string>
+    <string msgid="642984322649148879" name="shortcut_spell_last_utterance">"Сүүлийн хэллэгийг үсэглэх"</string>
+    <string msgid="2673085935736432213" name="shortcut_talkback_breakout">"Глобал контекст цэс нээх"</string>
+    <string msgid="1803159459924262469" name="shortcut_unassigned">"Тодорхой бус"</string>
+    <string msgid="3193206799395252518" name="show_suspend_warning_label">"Энэ анхааруулгыг байнга харуулах"</string>
+    <string msgid="9028725565467565133" name="start_of_web">"Өмнөх <ns1:g id="ID_1">%1$s</ns1:g> байхгүй байна"</string>
+    <string msgid="6000275621941971563" name="status_bar">"статусын хэсэг"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1601902797531350013" name="summaryOff_pref_a11y_hints">"Хандалтын фокусыг өөрчлөхөд хэрэглээний зөвлөмжийг хэлэхгүй."</string>
+    <string msgid="5187278527518557715" name="summaryOff_pref_intonation">"Дууны хэмжээгээ өөрчлөхгүйгээр ярина"</string>
+    <string msgid="2801720386630515717" name="summaryOff_pref_phonetic_letters">"Авиа зүйн үсгийг хэлэхгүй."</string>
+    <string msgid="2976964867820234940" name="summaryOff_pref_proximity">"Зай мэдрэгч яриаг удирдах боломжгүй"</string>
+    <string msgid="1820564330334595916" name="summaryOff_pref_speak_screenoff">"Дэлгэц унтарсан үед ярих боломжгүй"</string>
+    <string msgid="7312945354572119026" name="summaryOn_pref_a11y_hints">"Шилжүүлэх явцад түр хугацаанд саатсаны дараа хэрэглэгчийн сануулгыг хэлэх болно."</string>
+    <string msgid="2753815930477168225" name="summaryOn_pref_intonation">"Гарын өгөгдлийг сул өнгөөр дуудна"</string>
+    <string msgid="6864480534029061476" name="summaryOn_pref_phonetic_letters">"Компьютерийн гарыг удаан дарах, эсвэл тэмдэгт хооронд шилжихэд авиа зүйн үсгийг хэлнэ."</string>
+    <string msgid="8552562564045883839" name="summaryOn_pref_proximity">"Зай мэдрэгч дууг чимээгүй болгоно"</string>
+    <string msgid="3200696691374942097" name="summaryOn_pref_speak_screenoff">"Дэлгэц унтарсан үед мэдэгдлүүдийг уншина is off"</string>
+    <string msgid="3575108337945375864" name="summary_pref_play_store">"Одоогийн TalkBack Хувилбар: <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1868206223500105704" name="summary_pref_single_tap">"(Туршилт) Идэвхжүүлэх бол голлуулсан зүйл дээр дарна уу"</string>
+    <string msgid="4049484318410744029" name="summary_pref_use_audio_focus">"Дуубайхдаа бусад аудионы хэмжээг багасгана уу"</string>
+    <string msgid="3996491708050765411" name="summary_pref_web_scripts">"Веб контентын хандалтын скриптийг татаж авах"</string>
+    <string msgid="8907204357556153170" name="switch_access_auto_start_scan_summary">"Шилжигчийг дарах шаардлагагүйгээр сканыг эхлүүлэх боломжтой"</string>
+    <string msgid="1112172023292555792" name="switch_access_auto_start_scan_title">"Aвтоматаар скан хийж эхлэх"</string>
+    <string msgid="2470480705014577440" name="switch_access_dup_bounds_format">"%1$s (%2$d)"</string>
+    <string msgid="777214990214649732" name="switch_access_global_menu_disable_autoselect">"Автоматаар сонгохыг идэвхгүй болгох"</string>
+    <string msgid="1781611399874689922" name="switch_access_global_menu_enable_autoselect">"Автоматаар сонгохыг идэвхжүүлэх"</string>
+    <string msgid="1084530527433232522" name="switch_access_move_next_character">"Дараагийн тэмдэгт"</string>
+    <string msgid="1957454942120077989" name="switch_access_move_next_line">"Дараагийн мөр"</string>
+    <string msgid="5509521398337232740" name="switch_access_move_next_page">"Дараагийн хуудас"</string>
+    <string msgid="2401188575204362710" name="switch_access_move_next_paragraph">"Дараагийн хэсэг"</string>
+    <string msgid="4364935355445273844" name="switch_access_move_next_word">"Дараагийн үг"</string>
+    <string msgid="8927445469710181053" name="switch_access_move_prev_character">"Өмнөх тэмдэгт"</string>
+    <string msgid="4933911200239574311" name="switch_access_move_prev_line">"Өмнөх шугам"</string>
+    <string msgid="2162166283498843093" name="switch_access_move_prev_page">"Өмнөх хуудас"</string>
+    <string msgid="6628794063582527750" name="switch_access_move_prev_paragraph">"Өмнөх хэсэг"</string>
+    <string msgid="8425765588178702402" name="switch_access_move_prev_word">"Өмнөх үг"</string>
+    <string msgid="8339289604407443597" name="switch_access_preferences_title">"Хандалтын тохируулгыг сэлгэх"</string>
+    <string msgid="1958519878116811543" name="switch_access_service_description">"Хандалтыг сэлгэх нь таныг 1 болон хэд хэдэн солигчийн тусламжтайгаар зүйлсийг хайж, сонгох боломжийг олгодог."</string>
+    <string msgid="6043415138576713888" name="switch_service_name">"Switch Access"</string>
+    <string msgid="7456083235616834438" name="symbol_almost_equals">"Ойролцоо тэнцүү"</string>
+    <string msgid="2896965192299496498" name="symbol_ampersand">"Амперсант"</string>
+    <string msgid="7380903071611293121" name="symbol_angle_bracket_left">"Зүүн гурвалжин хаалт"</string>
+    <string msgid="1868235467151646558" name="symbol_angle_bracket_right">"Баруун гурвалжин хаалт"</string>
+    <string msgid="7208629120802819915" name="symbol_apostrophe">"Апостроф"</string>
+    <string msgid="3850753675865899520" name="symbol_approximately_equals">"Ойролцоолон тэнцүүлэх тэнцүү тэмдэгт"</string>
+    <string msgid="6817126584493630223" name="symbol_asterisk">"Од"</string>
+    <string msgid="2065827119717043200" name="symbol_at_sign">"Эт"</string>
+    <string msgid="1611754081972480510" name="symbol_backslash">"Хойшоо халуу зураас"</string>
+    <string msgid="5289487097432366247" name="symbol_beamed_sixteenth_note">"Холбосон арван зургаат нотууд"</string>
+    <string msgid="4016846628518042983" name="symbol_black_circle">"Хар өнгөтэй дугуй дүрс"</string>
+    <string msgid="2472170057113549474" name="symbol_black_heart">"Хар өнгөтэй зүрхэн хэлбэртэй дүрс"</string>
+    <string msgid="3400946876721230212" name="symbol_black_square">"Хар өнгөтэй дөрвөлжин дүрс"</string>
+    <string msgid="6183317822489362024" name="symbol_black_star">"Хар өнгөтэй од хэлбэртэй дүрс"</string>
+    <string msgid="6813132652561276644" name="symbol_broken_bar">"Тасарсан босоо зураас"</string>
+    <string msgid="8476099303225493047" name="symbol_bullet">"Цэг"</string>
+    <string msgid="7971468907049474418" name="symbol_bullseye">"Бухын нүд хэлбэртэй дүрс"</string>
+    <string msgid="3928223571254608359" name="symbol_caret">"Оруулгын тэмдэг"</string>
+    <string msgid="1072933014815535633" name="symbol_celsius_degree">"Цельсийн хэм"</string>
+    <string msgid="2397683564958310433" name="symbol_cent">"Цент"</string>
+    <string msgid="3982983201762226254" name="symbol_circle_left_half_black">"Зүүн хагас нь хар өнгөтэй дугуй дүрс"</string>
+    <string msgid="2702128700103408427" name="symbol_circle_right_half_black">"Баруун хагас нь хар өнгөтэй дугуй дүрс"</string>
+    <string msgid="4099865219187606667" name="symbol_colon">"Хоёр цэг"</string>
+    <string msgid="5645826628625828518" name="symbol_comma">"Таслал"</string>
+    <string msgid="4560734240781916706" name="symbol_copyright">"Зохиогчийн эрх"</string>
+    <string msgid="2875419571455950965" name="symbol_curly_bracket_left">"Зүүн угалзан хаалт"</string>
+    <string msgid="7223443061586552971" name="symbol_curly_bracket_right">"Баруун угалзан хаалт"</string>
+    <string msgid="3851601116109370799" name="symbol_currency_sign">"Валютын тэмдэг"</string>
+    <string msgid="2370756516179429371" name="symbol_degree">"Хэм"</string>
+    <string msgid="8469030548234745900" name="symbol_division">"Хуваах тэмдэг"</string>
+    <string msgid="7172720889757863645" name="symbol_dollar_sign">"Долларын тэмдэг"</string>
+    <string msgid="1093826934627615258" name="symbol_downwards_arrow">"Доошоо чиглэсэн сум"</string>
+    <string msgid="7550656761730728669" name="symbol_eighth_note">"Наймт нот"</string>
+    <string msgid="6107023479924320264" name="symbol_ellipsis">"Олон цэг"</string>
+    <string msgid="9095293634011901230" name="symbol_em_dash">"Дундуур зураас"</string>
+    <string msgid="7221481427651082891" name="symbol_en_dash">"Дундуур зураас"</string>
+    <string msgid="5554709359828733331" name="symbol_equal">"Тэнцүү тэмдэг"</string>
+    <string msgid="7368999812147737584" name="symbol_euro">"Евро"</string>
+    <string msgid="988583649131855220" name="symbol_exclamation_mark">"Анхаарлын тэмдэг"</string>
+    <string msgid="7868161106382873456" name="symbol_fahrenheit_degree">"Фаренгейтийн хэм"</string>
+    <string msgid="2832652212740214355" name="symbol_female">"Эмэгтэй хүнийг илэрхийлдэг бэлгэ тэмдэг"</string>
+    <string msgid="2871187029685072964" name="symbol_grave_accent">"Өргөлтийн тэмдэг"</string>
+    <string msgid="6395913704731547145" name="symbol_hyphen_minus">"Дундуур зураас"</string>
+    <string msgid="6535139335710090448" name="symbol_integral">"Бүхэл тоо"</string>
+    <string msgid="4461462147632976820" name="symbol_left_black_lenticular_bracket">"Хар өнгөтэй хагас гүдгэр зүүн талын хаалт"</string>
+    <string msgid="2662006752461479838" name="symbol_left_corner_bracket">"Зүүн булангийн хаалт"</string>
+    <string msgid="2516207072081863313" name="symbol_leftwards_arrow">"Зүүн сум"</string>
+    <string msgid="4485675468642882911" name="symbol_liter">"Литр"</string>
+    <string msgid="1311537029059161496" name="symbol_low_double_quote">"Доод хоёр хашилт"</string>
+    <string msgid="614668218440322904" name="symbol_male">"Эрэгтэй хүнийг илэрхийлдэг бэлгэ тэмдэг"</string>
+    <string msgid="3513065482309329740" name="symbol_micro_sign">"Микро тэмдэг"</string>
+    <string msgid="4500464364344640871" name="symbol_multiplication">"Үржвэрийн тэмдэг"</string>
+    <string msgid="6848635267438885623" name="symbol_new_line">"Шинэ мөр"</string>
+    <string msgid="5319485097346278422" name="symbol_not_equals">"Тэнцүү биш"</string>
+    <string msgid="6673590940229304440" name="symbol_not_sign">"Байхгүй тэмдэг"</string>
+    <string msgid="5514376704992468938" name="symbol_paragraph_mark">"Парагарафын тэмдэг"</string>
+    <string msgid="6800146954886245634" name="symbol_parenthesis_left">"Зүүн хаалт"</string>
+    <string msgid="7215651695123277015" name="symbol_parenthesis_right">"Баруун хаалт"</string>
+    <string msgid="5459242644598387133" name="symbol_percent">"Хувь"</string>
+    <string msgid="5437120137086222612" name="symbol_period">"Цэг"</string>
+    <string msgid="9110332441949361829" name="symbol_pi">"пи"</string>
+    <string msgid="9058945923657357434" name="symbol_plus_minus_sign">"Нэмэх хасах тэмдэг"</string>
+    <string msgid="93826676999305096" name="symbol_pound">"Фунт"</string>
+    <string msgid="728725055605726481" name="symbol_pound_sterling">"Фунт"</string>
+    <string msgid="5036555895753560541" name="symbol_quarter_note">"Дөрөвт нот"</string>
+    <string msgid="8540567415937384964" name="symbol_question_mark">"Асуултын тэмдэг"</string>
+    <string msgid="1191348665202247948" name="symbol_quotation_mark">"Ишлэх"</string>
+    <string msgid="905951483425189419" name="symbol_reference">"Ишлэлийн тэмдэг"</string>
+    <string msgid="3258562921626703647" name="symbol_registered_trademark">"Бүртгэгдсэн ялгарах тэмдэг"</string>
+    <string msgid="3919101748915826659" name="symbol_right_black_lenticular_bracket">"Хар өнгөтэй хагас гүдгэр баруун талын хаалт"</string>
+    <string msgid="4305940879297701054" name="symbol_right_corner_bracket">"Баруун булангийн хаалт"</string>
+    <string msgid="3621071010761086207" name="symbol_rightwards_arrow">"Баруун тийш чиглэсэн сум"</string>
+    <string msgid="5442584145297714761" name="symbol_rupee">"Рупи"</string>
+    <string msgid="1425993244831126813" name="symbol_section_sign">"Гарын үсгийн хэсэг"</string>
+    <string msgid="5125185295573713214" name="symbol_semicolon">"Цэгтэй таслал"</string>
+    <string msgid="7183595255121136380" name="symbol_slash">"Ташуу зураас"</string>
+    <string msgid="5566592322045991166" name="symbol_smiley">"Инээсэн царай"</string>
+    <string msgid="803832672390677661" name="symbol_solar">"Нар хэлбэртэй дүрс"</string>
+    <string msgid="5752206151798562920" name="symbol_space">"Хоосон зай"</string>
+    <string msgid="8272586261793885172" name="symbol_square_bracket_left">"Зүүн дөрвөлжин хаалт"</string>
+    <string msgid="5927399844117072754" name="symbol_square_bracket_right">"Баруун дөрвөлжин хаалт"</string>
+    <string msgid="683692620277245490" name="symbol_square_root">"Квадрат язгуур"</string>
+    <string msgid="8207841648391314530" name="symbol_tilde">"Долгионтой зураас"</string>
+    <string msgid="3263529639090333558" name="symbol_trademark">"Ялгарах тэмдэг"</string>
+    <string msgid="7192169250700774805" name="symbol_underscore">"Доогуур зураас"</string>
+    <string msgid="6338361764081105639" name="symbol_upwards_arrow">"Дээшээ сум"</string>
+    <string msgid="1121156640601168272" name="symbol_vertical_bar">"Босоо самбар"</string>
+    <string msgid="246091813103192112" name="symbol_white_circle">"Цагаан өнгөтэй дугуй дүрс"</string>
+    <string msgid="9023266146462694521" name="symbol_white_club_suit">"Цагаан өнгөтэй цэцгэн хэлбэртэй дүрс"</string>
+    <string msgid="148190588729388201" name="symbol_white_diamond">"Цагаан өнгөтэй ромбо хэлбэртэй дүрс"</string>
+    <string msgid="2759895601608939558" name="symbol_white_down_pointing_triangle">"Цагаан өнгөтэй доошоо харсан гурвалжин дүрс"</string>
+    <string msgid="3902539821929296760" name="symbol_white_heart">"Цагаан өнгөтэй зүрхэн хэлбэртэй дүрс"</string>
+    <string msgid="5774703989927211853" name="symbol_white_left_pointing_index">"Цагаан өнгөтэй зүүн тийш заасан гарны дүрс"</string>
+    <string msgid="4714391974332267014" name="symbol_white_left_pointing_triangle">"Цагаан өнгөтэй зүүн тийш заасан гурвалжин дүрс"</string>
+    <string msgid="6971705818446128861" name="symbol_white_right_pointing_index">"Цагаан өнгөтэй баруун тийш заасан гарны дүрс"</string>
+    <string msgid="1147044895009619696" name="symbol_white_right_pointing_triangle">"Цагаан өнгөтэй баруун тийш заасан гурвалжин дүрс"</string>
+    <string msgid="364770901730057047" name="symbol_white_spade_suit">"Цагаан өнгөтэй гил дүрс"</string>
+    <string msgid="6607687155279147668" name="symbol_white_square">"Цагаан өнгөтэй дөврөлжин дүрс"</string>
+    <string msgid="6150436720760853960" name="symbol_white_star">"Цагаан өнгөтэй од дүрс"</string>
+    <string msgid="1445685217848949209" name="symbol_white_up_pointing_triangle">"Цагаан өнгөтэй дээшээ заасан гурвалжин дүрс"</string>
+    <string msgid="6959844046981982031" name="symbol_won">"Воны  тэмдэглэгээ"</string>
+    <string msgid="5956873078564706159" name="symbol_yen">"Иен"</string>
+    <string msgid="6065419331469295927" name="talkback_built_in_gesture_change_details">"TalkBack-н энэ хувилбарт үндсэн хандалтын зангалтад оруулсан өөрчлөлтүүд багтсан.\n\nДээш-доош зангалтаар дэлгэцийн эхний зүйл рүү шилжих бөгөөд доош-дээш зангалтаар сүүлийн зүйл рүү шилжинэ.\n\nУнших масштабыг тухайн зүйлийг сонгосны дараа локал контекстын цэснээс масштабыг сонгох замаар өөрчилж болно.\n\nТа эдгээр зангалтаар гүйцэтгэх үйлдэлүүдийг TalkBack Тохиргоон дотроос өөрчилж болно."</string>
+    <string msgid="7727588774719330051" name="talkback_built_in_gesture_change_details_45">"TalkBack-н энэ хувилбарт хандалтын өгөгдмөл зангааг өөрчилсөн.\n\nДээшээ зангаагаар удирдлагын өмнөх хэсэгт очиж, харин доошоо зангаагаар удирдлагын дараагийн хэсэгт очих боломжтой боллоо."</string>
+    <string msgid="2536155587482587238" name="talkback_disabled">"TalkBack-г унтраасан."</string>
+    <string msgid="1242896734553682887" name="talkback_gesture_change_details">"TalkBack-н энэ хувилбарт үндсэн хандалтын дохионууд өөрчлөгдсөн. Эдгээр дохиотой холбогдсон үйлдлүүдийг TalkBack тохиргооноос тохируулах боломжтой. Хүрч хайх идэвхжсэн үед та дараах дохионуудыг ашиглан тодорхой үйлдлийг гүйцэтгэх боломжтой.\n\n<ns1:g id="MAPPINGS">%1$s</ns1:g>"</string>
+    <string msgid="315529674405160699" name="talkback_on">"TalkBack асаалттай"</string>
+    <string msgid="1318051290124952165" name="talkback_preferences_subtitle">"Хувилбар <ns1:g id="VERSION_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4249486159144445549" name="talkback_preferences_title">"TalkBack Тохиргоо"</string>
+    <string msgid="3229591037647690759" name="talkback_resumed">"Talkback-г үргэлжлүүлсэн"</string>
+    <string msgid="5081383053733275450" name="talkback_service_description">"TalkBack асаалттай үед таны төхөөрөмж хараагүй болон харааны бэрхшээлтэй хүмүүст яриагаар хариу үзүүлнэ. Жишээлбэл энэ нь таны хүрэх, сонгох эсвэл идэвхжүүлж байгаа зүйлсийг тайлбарлаж өгдөг.\n\nХэрэв та TalkBack-г санамсаргүйгээр асаасан бол унтраах товчлуурыг ногоон хүрээ гарах хүртэл дараад, дараа нь үүнийг 2 удаа дарна уу. Баталгаажуулалтын харилцан ярианы илэрцэд ижил үйлдэл хийнэ үү."</string>
+    <string msgid="183421830476125877" name="talkback_suspended">"TalkBack түр зогссон"</string>
+    <string msgid="7563462166661082029" name="tap_sensitivity_high">"Өндөр"</string>
+    <string msgid="6514475998218787336" name="tap_sensitivity_low">"Бага"</string>
+    <string msgid="1137618443590383650" name="tap_sensitivity_lowest">"Хамгийн бага"</string>
+    <string msgid="5512827926666078515" name="tap_sensitivity_medium">"Дундаж"</string>
+    <string msgid="5493715708649314332" name="template_alert_dialog_template">"<ns1:g id="MESSAGE">%1$s</ns1:g> анхааруулга"</string>
+    <string msgid="8500638272120951960" name="template_announce_selected_text">"Сонгосон текст: <ns1:g id="SELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="4920626008395727629" name="template_capital_letter">"том <ns1:g id="UPPERCASE_CHARACTER">%1$s</ns1:g>"</string>
+    <string msgid="2038200557537960378" name="template_charging">"Цэнэглэж байна <ns1:g id="CHANGING_STATUS">%1$s</ns1:g> Батерейны цэнэгийн түвшин <ns1:g id="BATTERY_LEVEL">%2$s</ns1:g> хувьтай байна."</string>
+    <string msgid="2167296836815021551" name="template_collection_end">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g>-с"</string>
+    <string msgid="8386016656549198972" name="template_collection_level">"<ns1:g id="LEVEL">%1$s</ns1:g>-р үе"</string>
+    <string msgid="4362535543397747567" name="template_collection_start">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g>-д"</string>
+    <string msgid="3963364867159704159" name="template_current_tts_engine">"<ns1:g id="ENGINE_NAME">%1$s</ns1:g>-г ашиглаж байна"</string>
+    <string msgid="6271864053572367186" name="template_custom_hint_for_actions">"<ns1:g id="HINT">%2$s</ns1:g>-н тулд <ns1:g id="ACTION">%1$s</ns1:g>"</string>
+    <string msgid="3049485226126876806" name="template_custom_hint_for_actions_keyboard">"<ns1:g id="KEYCOMBO">%1$s</ns1:g>-г <ns1:g id="HINT">%2$s</ns1:g>-н тулд дарна уу."</string>
+    <string msgid="1384724119268711688" name="template_custom_hint_for_long_clickable_actions">"<ns1:g id="ACTION">%1$s</ns1:g>, <ns1:g id="HINT">%2$s</ns1:g>-н тулд хүлээнэ үү."</string>
+    <string msgid="384588741799097665" name="template_drawer_opened">"<ns1:g id="TITLE">%1$s</ns1:g> цэс"</string>
+    <string msgid="504233139047201761" name="template_hint_checkable">"Сэлгэх бол <ns1:g id="ACTION">%1$s</ns1:g> хийнэ үү."</string>
+    <string msgid="3968541225490733596" name="template_hint_checkable_keyboard">"Унтраах/асаахын тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу."</string>
+    <string msgid="3443819371543556149" name="template_hint_clickable">"Идэвхжүүлэхийн тулд <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="5861489320881379198" name="template_hint_clickable_keyboard">"Идэвхжүүлэхийн тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу."</string>
+    <string msgid="543401796694872575" name="template_hint_custom_actions">"Тохируулсан үйлдэл"</string>
+    <string msgid="2298057410435081106" name="template_hint_edit_text">"Текст оруулах бол <ns1:g id="ACTION">%1$s</ns1:g> хийнэ үү."</string>
+    <string msgid="7634371425618645820" name="template_hint_edit_text_keyboard">"Текст оруулахын тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу."</string>
+    <string msgid="4546854599035099034" name="template_hint_long_clickable">"<ns1:g id="ACTION">%1$s</ns1:g> хийгээд удаан дарна уу."</string>
+    <string msgid="1256266252223424130" name="template_hint_long_clickable_keyboard">"Удаан дарахын тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу."</string>
+    <string msgid="5090637252098427661" name="template_hint_pager">"Хуудсыг солихын тулд хоёр хуруугаараа шударна уу."</string>
+    <string msgid="3607132801071926505" name="template_hint_pager_single_page">"Нэмэлт хуудас байхгүй байна."</string>
+    <string msgid="8074023820596008628" name="template_hint_seek_control_tv">"Солих бол <ns1:g id="ACTION">%1$s</ns1:g> хийнэ үү."</string>
+    <string msgid="7251008361827086735" name="template_hint_spinner">"Өөрчлөх бол <ns1:g id="ACTION">%1$s</ns1:g> хийнэ үү."</string>
+    <string msgid="7561069958801230664" name="template_hint_spinner_keyboard">"Өөрчлөхийн тулд <ns1:g id="KEYCOMBO">%1$s</ns1:g>-г дарна уу."</string>
+    <string msgid="6575017531554968477" name="template_labeled_item">"<ns1:g id="LABEL">%2$s</ns1:g>-н <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="1962442828386303832" name="template_long_clicked">"<ns1:g id="TITLE">%1$s</ns1:g> удаан дарагдсан"</string>
+    <string msgid="2592357933256217001" name="template_menu">"<ns1:g id="TITLE">%1$s</ns1:g> цэс"</string>
+    <string msgid="5665980541549462608" name="template_no_text_selected">"Текст сонгоогүй"</string>
+    <string msgid="962942796289068525" name="template_password_selected">"<ns1:g id="FROM_INDEX">%1$d</ns1:g>-с <ns1:g id="TO_INDEX">%2$d</ns1:g> тэмдэгт"</string>
+    <string msgid="937695852582849077" name="template_password_traversed">"Тэмдэгт <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="6118803183030408820" name="template_percent">"<ns1:g id="PERCENTAGE">%1$s</ns1:g> хувь."</string>
+    <string msgid="6384850410145990959" name="template_replaced_characters">"<ns1:g id="OLD_TEXT_LENGTH">%1$s</ns1:g> тэмдэгт <ns1:g id="NEW_TEXT_LENGTH">%2$s</ns1:g> тэмдэгтээр солигдсон"</string>
+    <string msgid="4696666433263950881" name="template_scroll_from_count">"Нийт <ns1:g id="TOTAL_COUNT">%2$d</ns1:g>-н <ns1:g id="FROM_INDEX">%1$d</ns1:g>-с үзүүлж байна."</string>
+    <string msgid="2060702043504844709" name="template_scroll_from_to_count">"Нийт <ns1:g id="TOTAL_COUNT">%3$d</ns1:g>-н <ns1:g id="FROM_INDEX">%1$d</ns1:g>-с <ns1:g id="TO_INDEX">%2$d</ns1:g> хүртэлхийг үзүүлж байна."</string>
+    <string msgid="1256791763596391124" name="template_split_screen_mode_landscape_ltr">"зүүн талд <ns1:g id="ID_1">%1$s</ns1:g>, баруун талд <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="7868698948612319665" name="template_split_screen_mode_landscape_rtl">"баруун талд <ns1:g id="ID_1">%1$s</ns1:g>, зүүн талд <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="7565682598301271955" name="template_split_screen_mode_portrait">"дээр нь <ns1:g id="ID_1">%1$s</ns1:g>, доор нь <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="1816951995792085063" name="template_stream_volume">"<ns1:g id="STREAM_NAME">%1$s</ns1:g>-н хэмжээ <ns1:g id="PERCENT">%2$d</ns1:g> хувь."</string>
+    <string msgid="4964670773272907835" name="template_stream_volume_set">"<ns1:g id="STREAM_NAME">%1$s</ns1:g>-н хэмжээг <ns1:g id="PERCENT">%2$d</ns1:g> хувь болгов."</string>
+    <string msgid="1059175355898959427" name="template_text_copied">"хуулсан, <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="7952067813030057908" name="template_text_cut">"таслах, <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="153775825635730287" name="template_text_error">"Буруу мэдээлэл <ns1:g id="ERROR_MSG">%1$s</ns1:g>"</string>
+    <string msgid="8439319384947093963" name="template_text_pasted">"хуулж тавьсан, <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="2069327286898545053" name="template_text_removed">"<ns1:g id="TEXT">%1$s</ns1:g> устсан"</string>
+    <string msgid="837970148139617839" name="template_text_replaced">"<ns1:g id="NEW_TEXT">%1$s</ns1:g> <ns1:g id="OLD_TEXT">%2$s</ns1:g>-р солигдсон"</string>
+    <string msgid="7969528330209940634" name="template_text_selected">"<ns1:g id="SELECTED_TEXT">%1$s</ns1:g>, сонгосон"</string>
+    <string msgid="8491489660236837367" name="template_text_unselected">"<ns1:g id="UNSELECTED_TEXT">%1$s</ns1:g>, сонгоогүй"</string>
+    <string msgid="4410160163389481887" name="template_tv_remote_mode_ended">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> дууссан"</string>
+    <string msgid="5968574403263650425" name="template_tv_remote_mode_started">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> эхэлсэн"</string>
+    <string msgid="4811442521690748167" name="template_viewpager_index_count">"Хуудас <ns1:g id="TOTAL_COUNT">%2$d</ns1:g>-н <ns1:g id="PAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="5093912546331180510" name="template_viewpager_index_count_short">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g>-н <ns1:g id="PAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="2517638358851774040" name="title_activity_dump_a11y_event">"Нэвтрэх арга хэмжээг сонгох"</string>
+    <string msgid="7908169922901920318" name="title_custom_action">"Тусгай үйлдлүүд"</string>
+    <string msgid="4738051430500766039" name="title_dim_screen_when_talkback_enabled">"TalkBack идэвхжих үед дэлгэцийг бүдгэрүүл"</string>
+    <string msgid="55211944889868460" name="title_edittext_breakout_end_selection_mode">"Сонголтын горимыг дуусгах"</string>
+    <string msgid="4021304144865258223" name="title_edittext_breakout_move_to_beginning">"Заагчийг эхэнд аваачих"</string>
+    <string msgid="3197737555808584828" name="title_edittext_breakout_move_to_end">"Заагчийг төгсгөлд аваачих"</string>
+    <string msgid="4183196270306568761" name="title_edittext_breakout_start_selection_mode">"Сонголтын горимыг эхлүүлэх"</string>
+    <string msgid="2102286116390895883" name="title_edittext_controls">"Заагч контрол"</string>
+    <string msgid="399801096771904747" name="title_granularity">"Чиглүүлэгчийн тохиргоо"</string>
+    <string msgid="5005702316138877183" name="title_labeling_controls">"Шошгууд"</string>
+    <string msgid="5016265453627241456" name="title_local_breakout_no_items">"Цэс хоосон"</string>
+    <string msgid="3770770318417664565" name="title_pref_a11y_hints">"Хэрэглээний сануулгыг хэлэх"</string>
+    <string msgid="7396126388313295285" name="title_pref_auto_scan_time_delay">"Цагийг автоматаар хайх"</string>
+    <string msgid="306503376875826605" name="title_pref_auto_scroll">"Жагсаалтыг автоматаар гүйлгэх"</string>
+    <string msgid="2804297157354831139" name="title_pref_category_auto_scan">"Автомат хайлт"</string>
+    <string msgid="4277057711356252674" name="title_pref_category_built_in_gestures">"Суурилагдсан зангалтууд"</string>
+    <string msgid="3576441094143356231" name="title_pref_category_developer_settings">"Хөгжүүлэгчийн тохиргоо"</string>
+    <string msgid="3417629010416895022" name="title_pref_category_feedback_settings">"Бусад өгөгдөл"</string>
+    <string msgid="463227090301036752" name="title_pref_category_key_mappings">"Товчнуудыг үйлдэлд оноох"</string>
+    <string msgid="6578504997140953627" name="title_pref_category_manage_gestures">"Зангалтуудыг удирдах"</string>
+    <string msgid="611512059219131263" name="title_pref_category_miscellaneous_settings">"Бусад"</string>
+    <string msgid="3352934615940599431" name="title_pref_category_scan_key_mappings">"Товчийг Скан хийх үйлдэлд оноох"</string>
+    <string msgid="8846405149013321460" name="title_pref_category_side_tap_shortcuts">"(Туршилтын) төхөөрөмжийн хажуу тал дээр товшино уу"</string>
+    <string msgid="802401622203667328" name="title_pref_category_touch_exploration">"Хүрэлтээр таних"</string>
+    <string msgid="4974406968544300731" name="title_pref_category_touch_shortcuts">"Товчлол зангалтууд"</string>
+    <string msgid="463133232649258739" name="title_pref_category_when_to_speak">"Яриа"</string>
+    <string msgid="7170662881035255012" name="title_pref_dim_volume_three_clicks">"Дэлгэц бүдгэрүүлэх товчлол"</string>
+    <string msgid="3999046718706391324" name="title_pref_dump_a11y_event">"Хандалтын үйл ажиллагааны нэвтрэлтийг шүүх"</string>
+    <string msgid="1836003265647871107" name="title_pref_explore_by_touch">"Хүрч хайх"</string>
+    <string msgid="8576056446194448505" name="title_pref_export_custom_labels">"Үндсэн шошгыг экспортлох"</string>
+    <string msgid="2022820131100451763" name="title_pref_help">"Тусламж"</string>
+    <string msgid="5718610056539542854" name="title_pref_help_and_feedback">"Тусламж, санал хүсэлт"</string>
+    <string msgid="7578057484183597929" name="title_pref_help_feedback">"Тусламж, санал хүсэлт"</string>
+    <string msgid="6745845465683574401" name="title_pref_highlight_0">"Тодруулгын загварыг хайж байна"</string>
+    <string msgid="2495577882313852825" name="title_pref_highlight_0_color">"Тодруулах тэмдгийн өнгө"</string>
+    <string msgid="7296464279890648714" name="title_pref_highlight_0_weight">"Тодруулах мөрийн загвар"</string>
+    <string msgid="7375380428425494034" name="title_pref_intonation">"Хэмжээний өөрчлөлтийг ашиглах"</string>
+    <string msgid="8300291129646957414" name="title_pref_keyboard_echo">"Гарын чимээ"</string>
+    <string msgid="267415170405921603" name="title_pref_log_level">"Лог гаргах түвшин"</string>
+    <string msgid="1365850439559496078" name="title_pref_manage_keyboard_shortcuts">"Гарын богино холбоосуудыг удирдах"</string>
+    <string msgid="8796338627297226539" name="title_pref_manage_labels">"Тусгай шошгуудыг удирдах"</string>
+    <string msgid="4315025096187253577" name="title_pref_phonetic_letters">"Авиа зүйн үсгийг хэлэх"</string>
+    <string msgid="5158596411034985043" name="title_pref_play_store">"Play Store дээр TalkBack нээх"</string>
+    <string msgid="3250995506517482375" name="title_pref_primary_scan_style">"Анхан шатны скан хэв маяг"</string>
+    <string msgid="4533552749993575929" name="title_pref_proximity">"Зайн мэдрэгчийг ашиглах"</string>
+    <string msgid="4098949311311089235" name="title_pref_resume_talkback">"Зогссоныг ажиллуулах"</string>
+    <string msgid="2351427385843210311" name="title_pref_scanning_methods">"Хайлтын арга"</string>
+    <string msgid="1335607796304866893" name="title_pref_shake_to_read_threshold">"Тасралтгүй уншихыг эхлүүлэх бол сэгсэрнэ"</string>
+    <string msgid="4454853121476703529" name="title_pref_shortcut_double_tap">"Хажуу тал дээр давхар товших"</string>
+    <string msgid="7510938211617979299" name="title_pref_shortcut_down">"Доош нь шудрах"</string>
+    <string msgid="6249716604721789627" name="title_pref_shortcut_down_and_left">"Доошоо татаад зүүнрүү татах"</string>
+    <string msgid="7683422992972248031" name="title_pref_shortcut_down_and_right">"Доошоо татаад баруунруу татах"</string>
+    <string msgid="862181907993343425" name="title_pref_shortcut_down_and_up">"Эхлээд доошоо дараа нь дээшээ шудрах"</string>
+    <string msgid="1294673470106169765" name="title_pref_shortcut_left">"Зүүн тийш шудрах"</string>
+    <string msgid="2899217574677150730" name="title_pref_shortcut_left_and_down">"Зүүнрүү татаад доош татах"</string>
+    <string msgid="320138621029568357" name="title_pref_shortcut_left_and_right">"Эхлээд зүүн дараа нь баруун тийш нь шудрах"</string>
+    <string msgid="369887751217245542" name="title_pref_shortcut_left_and_up">"Swipe left then up Зүүнрүү татаад дээшээ татах"</string>
+    <string msgid="2563651710870983074" name="title_pref_shortcut_right">"Баруун тийш нь шудрах"</string>
+    <string msgid="4893018634563250104" name="title_pref_shortcut_right_and_down">"Баруунруу татаад доошоо татах"</string>
+    <string msgid="1184543975336584677" name="title_pref_shortcut_right_and_left">"Эхлээд баруун дараа нь зүүн тийш нь шудрах"</string>
+    <string msgid="6848971895903777166" name="title_pref_shortcut_right_and_up">"Баруунруу татаад дээшээ татах"</string>
+    <string msgid="7220195169492947031" name="title_pref_shortcut_single_tap">"Хажуу тал дээр дан товших"</string>
+    <string msgid="464026441232788284" name="title_pref_shortcut_up">"Дээш нь шудрах"</string>
+    <string msgid="7970635117146596582" name="title_pref_shortcut_up_and_down">"Эхлээд дээшээ дараа нь доошоо шудрах"</string>
+    <string msgid="6548364994546979158" name="title_pref_shortcut_up_and_left">"Дээшээ татаад зүүнрүү татах"</string>
+    <string msgid="8856595421274730440" name="title_pref_shortcut_up_and_right">"Дээшээ татаад баруунруу татах"</string>
+    <string msgid="8048703987011256280" name="title_pref_show_context_menu_as_list">"Context Menu жагсаалт хэлбэрээр харуул"</string>
+    <string msgid="4420464510142864819" name="title_pref_show_privacy_policy">"Нууцлалын Бодлого"</string>
+    <string msgid="6167834013879233992" name="title_pref_show_tos">"Үйлчилгээний Нөхцөл"</string>
+    <string msgid="5333869781230265376" name="title_pref_single_tap">"Нэг даралтаар идэвхжүүлэх"</string>
+    <string msgid="3131811048184077738" name="title_pref_soundback">"Дууны өгөгдөл"</string>
+    <string msgid="8633886470832131926" name="title_pref_soundback_volume">"Дууны хэмжээ"</string>
+    <string msgid="7056106236376536133" name="title_pref_speak_screenoff">"Дэлгэц унтарвал ярина"</string>
+    <string msgid="17846978416951489" name="title_pref_speech_volume">"Дууны хэмжээ"</string>
+    <string msgid="3737945934603267137" name="title_pref_tap_sensitivity">"Товшилт мэдрэгчийн мэдрэмж"</string>
+    <string msgid="1525763448981997023" name="title_pref_tree_debug">"Зангилаа модон дебаг-г идэвхжүүлэх"</string>
+    <string msgid="4448445593132620627" name="title_pref_tts_overlay">"Дууны гаралтыг үзүүлэх"</string>
+    <string msgid="2810986068277138359" name="title_pref_tutorial">"TalkBack-н зааврыг эхлүүлэх"</string>
+    <string msgid="2306010395434853106" name="title_pref_two_part_vertical_gestures">"Хоёр хэсэгтэй босоо зангалтууд"</string>
+    <string msgid="4867534784887155899" name="title_pref_two_volume_button_long_click">"Talkback-г түр зогсоох, үргэлжлүүлэх түлхүүрийн товчлол"</string>
+    <string msgid="3150034317307025609" name="title_pref_use_audio_focus">"Ярианы аудиог тодруулна"</string>
+    <string msgid="4156396276749836864" name="title_pref_vibration">"Чичирхийллийн өгөгдөл"</string>
+    <string msgid="3016793641076890473" name="title_pref_web_scripts">"Веб хандалтыг сайжруулах"</string>
+    <string msgid="8335248824829650066" name="title_seek_bar_controls">"Тохируулагчийн удирдлага"</string>
+    <string msgid="4197424047192764616" name="title_seek_bar_edit">"Тохируулагчийн удирдлагын түвшинг засах"</string>
+    <string msgid="3596164166456847306" name="title_suggestions_breakout_anchor">"Засах хэсэг рүү буцах"</string>
+    <string msgid="8722323161157337123" name="title_suggestions_breakout_suggestions">"Санал болголтод шууд очих"</string>
+    <string msgid="5486233362252604824" name="title_suggestions_controls">"Автоматаар гүйцээх санал болголт"</string>
+    <string msgid="3037924006370977165" name="title_summary">"Түргэн шилжих"</string>
+    <string msgid="6936782185806198910" name="title_viewpager_breakout_next_page">"Дараагийн хуудас"</string>
+    <string msgid="1352284456691236167" name="title_viewpager_breakout_prev_page">"Өмнөх хуудас"</string>
+    <string msgid="3775818290312516095" name="title_viewpager_controls">"Хуудсын навигаци"</string>
+    <string msgid="7663977538463352430" name="title_web_breakout_next_control">"Дараагийн контрол"</string>
+    <string msgid="801337905459445939" name="title_web_breakout_next_list">"Дараагийн жагсаалт"</string>
+    <string msgid="7355139595269361571" name="title_web_breakout_next_section">"Дараагийн хэсэг"</string>
+    <string msgid="2637721101068457234" name="title_web_breakout_prev_control">"Өмнөх контрол"</string>
+    <string msgid="744039532529277819" name="title_web_breakout_prev_list">"Өмнөх жагсаалт"</string>
+    <string msgid="1738336598629616234" name="title_web_breakout_prev_section">"Өмнөх хэсэг"</string>
+    <string msgid="6873568861550304420" name="toast_msg_key_already_assigned">"\'<ns1:g id="KEY_NAME">%1$s</ns1:g>\' түлхүүрийг \'<ns1:g id="ACTION_NAME">%2$s</ns1:g>\'-д оноосон байна"</string>
+    <string msgid="6233811187483633874" name="tts_preferences_title">"Текст-ярианы тохиргоо"</string>
+    <string msgid="6480388345726953149" name="turn_off_talkback">"TalkBack-г унтраах"</string>
+    <string msgid="5426041850804920228" name="tutorial_alert_dialog_exit">"Гарах"</string>
+    <string msgid="153385821637979511" name="tutorial_disabled_item_clicked">"%1$s нь дадлагын горимд идэвхжсэн байна. Гарахын тулд ЦУЦЛАХ товчлуурыг идэвхжүүлнэ үү."</string>
+    <string msgid="9109552709434930176" name="tutorial_exercise_completed_auto">"Дасгал дууссан бөгөөд хэсэг хугацааны дараа үргэлжлэх болно"</string>
+    <string msgid="5711951853376611538" name="tutorial_home">"ЗААВРЫН НҮҮР ХУУДАС"</string>
+    <string msgid="2912330081549004678" name="tutorial_lesson_1_page1_description">"Хүрэлтээр танихыг идэвхжүүлсэн үед та хурууныхаа доор юу байгааг сонсох боломжтой. Дэлгэцийн төвд байгаа зүйлсийн дээгүүр хуруугаа хөдөлгөөрэй. Таныг 5 зүйл олсны дараа хичээл үргэлжлэх болно."</string>
+    <string msgid="8696897836045271462" name="tutorial_lesson_1_page1_subtitle">"1-р хэсэг: Хүрэлтээр таних"</string>
+    <string msgid="4328249029315743419" name="tutorial_lesson_1_page2_complete_message">"Зүйл 7-г идэвхжүүлсэн. Үргэлжлүүлэхийн тулд Дараах товчлуурыг олж, идэвхжүүлнэ үү"</string>
+    <string msgid="3437424287122738630" name="tutorial_lesson_1_page2_description">"Та хамгийн сүүлд сонссон зүйлээ идэвхжүүлэхийн тулд хүссэн газраа 2 удаа дарна уу. Зүйл 7-г олж, идэвхжүүлнэ үү. Үүний дараа үргэжлүүлэхийн тулд Дараах товчлуурыг дарна уу."</string>
+    <string msgid="395358029332125189" name="tutorial_lesson_1_page2_subtitle">"2-р хэсэг: Идэвхжүүлэхийн тулд 2 удаа дарна уу"</string>
+    <string msgid="6782138079048102236" name="tutorial_lesson_1_page3_description">"TalkBack-н хичээлийг хялбархан аргаар оруулсан. Дээд хэсэг нь хичээлийн хэсэг бөгөөд та энд хүссэн үедээ хайлт хийх, унших боломжтой. Мөн зүүн дээд хэсэгт Дадлагын нүүр хуудасны товчлуур байдаг. Дунд хэсэг нь дадлага хийх хэсэг. Харин доод хэсэгт таны явцыг гаргах бөгөөд хичээлийг удирдах товчлуур байдаг. Үргэлжлүүлэхийн тулд Дараагийн товчлуурыг идэвхжүүлнэ үү."</string>
+    <string msgid="5644143038265902856" name="tutorial_lesson_1_page3_subtitle">"3-р хэсэг: Шилжүүлэх хичээл"</string>
+    <string msgid="8864367516443934956" name="tutorial_lesson_1_page4_description">"Мөн та дэлгэцийг хуруугаа шударч судлах боломжтой. Зүүн тийш шударснаар дээш болон зүүн талын хэсгийг судалдаг бөгөөд баруун тийш шударснаар доош болон баруун талын хэсгийг судална. Оролдоод үзээрэй."</string>
+    <string msgid="8686179604479736061" name="tutorial_lesson_1_page4_subtitle">"4-р хэсэг: Судлахын тулд шудрах"</string>
+    <string msgid="6465486659264068934" name="tutorial_lesson_1_practice_description">"Таны хурууны доор юу байгааг сонсохын тулд хуруугаа дэлгэц дээр нааш цааш гүйлгээрэй. Сонссон зүйлээ идэвхжүүлэхийн тулд 2 удаа дарна уу. Хайхын тулд баруун, эсвэл зүүн тийш шударна уу."</string>
+    <string msgid="8409951305889305897" name="tutorial_lesson_1_practice_title">"5-р хэсэг: Дадлага"</string>
+    <string msgid="711726460367061721" name="tutorial_lesson_1_short_description">"Хайхын тулд хүрэх, хайхын тулд шудрах, идэвхжүүлэхийн тулд 2 удаа дарах"</string>
+    <string msgid="5236404350916286434" name="tutorial_lesson_1_title">"1-р хичээл: Үндсэн шилжүүлэлт"</string>
+    <string msgid="580551557422353615" name="tutorial_lesson_2_page1_description">"Босоо жагсаалтын дундуур гүйлгэхийн тулд жагсаалтын зүйлийг олж, 2 хуруугаа дээш доош гүйлгэнэ үү. Хэвтээ жагсаалтын дундуур гүйлгэхийн тулд жагсаалтын зүйлийг олж, 2 хуруугаа баруун, зүүн тийш хөдөлгөнө үү."</string>
+    <string msgid="3831360802282402385" name="tutorial_lesson_2_page1_subtitle">"1-р хэсэг: 2 хуруугаар гүйлгэх"</string>
+    <string msgid="6803623252361709120" name="tutorial_lesson_2_page2_description">"Та товчлолыг ашиглаж жагсаалтын урагш, хойш очих боломжтой. Урагш очихын тулд нэг хуруугаа эхлээд баруун тийш, дараа нь зүүн тийш нэг хөдөлгөөнөөр хөдөлгөнө үү. Арагшлуулахын тулд нэг хуруугаа эхлээд зүүн тийш, дараа нь баруун тийш хөдөлгөнө үү. Энд оролдож үзнэ үү."</string>
+    <string msgid="4984192682960806856" name="tutorial_lesson_2_page2_subtitle">"2-р хэсэг: Товчлолыг гүйлгэх"</string>
+    <string msgid="408119978126134776" name="tutorial_lesson_2_practice_description">"Хоёр хуруугаа дээш доош гулсуулж гүйлгэнэ үү. Урагшлуулахын тулд нэг хуруугаа эхлээд баруун, дараа нь зүүн тийш хөдөлгөнө үү. Арагшлуулахын тулд нэг хуруугаа эхлээд зүүн, дараа нь баруун тийш хөдөлгөнө үү."</string>
+    <string msgid="2743676222265424015" name="tutorial_lesson_2_practice_title">"3-р хэсэг: Дадлага"</string>
+    <string msgid="1266674748996686981" name="tutorial_lesson_2_short_description">"2 хуруугаар гүйлгэх, урагшлуулах болон хойшлуулах"</string>
+    <string msgid="8944439067496916569" name="tutorial_lesson_2_title">"2-р хичээл: Гүйлгэх"</string>
+    <string msgid="2871203321195090324" name="tutorial_lesson_3_down_right">"Доошлуулаад, баруун тийш"</string>
+    <string msgid="7029517714331489043" name="tutorial_lesson_3_message">"Цэсний сонголт нь дэлгэцийн дунд босоо хэлбэрээр жагсаалттай байдаг. Та сонирхож үзээрэй. Дууссан үедээ Цуцлах товчлуурыг дарна уу."</string>
+    <string msgid="6970763850543511675" name="tutorial_lesson_3_page1_description">"TalkBack-д 2 өөр цэс байдаг. Эхнийх нь Олон улсын TalkBack цэс бөгөөд энэ нь үргэлж ижил тушаалтай байдаг. Та нэг хуруугаа доошлуулаад, баруун тийш нэг хөдөлгөөнөөр зөөж, хуруугаа авснаар үүнийг идэвхжүүлэх болно. Дадлагын хувилбарыг одоо идэвхжүүлнэ үү."</string>
+    <string msgid="769564591288469622" name="tutorial_lesson_3_page1_subtitle">"1-р хэсэг: Олон улсын TalkBack цэс"</string>
+    <string msgid="236959207452065871" name="tutorial_lesson_3_page2_description">"Хоёр дахь нь Орон нутгийн TalkBack цэс юм. Энэ цэсэд байгаа зүйлс нь таныг хамгийн сүүлд юу сонссоноос шалтгаалан өөр өөр байна. Та нэг хуруугаа дээшлүүлээд, баруун тийш нэг хөдөлгөөнөөр зөөж, хуруугаа авснаар үүнийг идэвхжүүлэх болно. Дадлагын цэсийг одоо идэвхжүүлнэ үү."</string>
+    <string msgid="3248006863733497778" name="tutorial_lesson_3_page2_subtitle">"2-р хэсэг: Орон нутгийн TalkBack цэс"</string>
+    <string msgid="4687022774852406126" name="tutorial_lesson_3_practice_content_description">"Олон улсын TalkBack Цэс: Доошлуулаад, баруун тийш. Орон нутгийн TalkBack Цэс: Дээшлүүлээд, баруун тийш"</string>
+    <string msgid="9053899021556392823" name="tutorial_lesson_3_practice_description">"Олон улсын TalkBack цэсийг идэвхжүүлэхийн тулд хуруугаа доошлуулаад, баруун тийш зөөнө үү. Орон нутгийн TalkBack цэсийг идэвхжүүлэхийн тулд хуруугаа дээшлүүлээд, баруун тийш зөөнө үү."</string>
+    <string msgid="7992894865660442281" name="tutorial_lesson_3_practice_title">"3-р хэсэг: Дадлага"</string>
+    <string msgid="4897481164693437589" name="tutorial_lesson_3_short_description">"Олон улсын TalkBack цэс, Орон нутгийн TalkBack цэс"</string>
+    <string msgid="1534037844912254504" name="tutorial_lesson_3_title">"3-р хичээл: TalkBack цэс"</string>
+    <string msgid="1257290751747215466" name="tutorial_lesson_3_up_right">"Дээшлүүлээд, баруун тийш"</string>
+    <string msgid="825751290656500339" name="tutorial_lesson_4_page1_description">"TalkBack нь танд текстийг хэсэгчлэн унших, мөрөөр унших, үгчлэн унших эсвэл тэмдэгтээр нь унших зэргээс сонгох боломжийг олгодог. Тэмдэгтээр уншсанаар танд зөв бичиж сурахад тусална. Текстийн удирдлагын түвшинг тэмдэгт болгохын тулд доорх текстийг дарж, дараа нь дээш болон доош шударна уу."</string>
+    <string msgid="4100459258679365726" name="tutorial_lesson_4_page1_message">"Энд унших хурдыг босоогоор жагсаасан сонголтууд байдаг. Тэмдэгтээр унших сонголтыг олж, идэвхжүүлээрэй."</string>
+    <string msgid="6722398610043882883" name="tutorial_lesson_4_page1_subtitle">"1-р хэсэг: Шилжүүлэх тохиргоо сонгох"</string>
+    <string msgid="665951393520581926" name="tutorial_lesson_4_page2_description">"Та одоо тэмдэгтээр уншиж байна. Жишээ текстийг сонгож, тэмдэгтээр уншихын тулд баруун тийш шударна уу."</string>
+    <string msgid="1749198627288834931" name="tutorial_lesson_4_page2_subtitle">"2-р хэсэг: Текст шилжүүлэх"</string>
+    <string msgid="2135338093046263335" name="tutorial_lesson_4_practice_description">"Дээш, доош шудран текстийн байршлыг өөрчлөөрэй. Баруун тийш шударснаар жишээ текстийн дараагийн тэмдэгтийг унших боломжтой."</string>
+    <string msgid="4917843401985911727" name="tutorial_lesson_4_practice_title">"3-р хэсэг: Дадлага"</string>
+    <string msgid="8795532729146357613" name="tutorial_lesson_4_sample_text">"Энд TalkBack-г ашиглахад дадлага болох хэдэн жишээ текст байна. \"Канзас хаана байгаа вэ?\" гэж залуу гайхширсан аястай асуулаа. Үүний хариуд \"Би мэдэхгүй байна, гэхдээ энэ чинь миний гэр орон шүү дээ, хаа нэгтээ байж л таараа\" гэж Дороти гунигтайгаар хэлэв.\n\n\"Тэр ч ойлгомжтой. Оз юм болгоныг чаддаг болохоор чамд Канзасыг олж өгнө гэж би найдаж байна. Гэхдээ чи эхлээд түүнтэй уулзах ёстой. Аугаа шидтэн маань хүмүүстэй тэр бүрчлэн уулзаад байхыг хүсдэггүй, уулзах хүнээ өөрөө сонгодог болохоор түүнийг олж уулзах амаргүй байх. Залуу яриагаа үргэлжлүүлэн, \"Харин ЧИ юу хүсэж байна?\" гэж Тотогоос асуув."</string>
+    <string msgid="7418527496120482465" name="tutorial_lesson_4_short_description">"Текст шилжүүлэх тохиргоо сонгох"</string>
+    <string msgid="4147432329454145413" name="tutorial_lesson_4_title">"4-р хичээл: Текст шилжүүлэх"</string>
+    <string msgid="5518047261885161170" name="tutorial_lesson_5_hint">"Текст засах"</string>
+    <string msgid="2284207114288159699" name="tutorial_lesson_5_page1_description">"Talkback-н тусламжтайгаар та текст бичих, сонгох, текст засварлахын тулд засах хайрцгийг 2 удаа дарж идэвхжүүлэх боломжтой. Засах хайрцгийг идэвхжүүлсний дараа дэлгэцийн доод хэсэгт компьютерийн гар харагдах болно. Та Буцах товчлуурыг дарснаар гарыг идэвхгүй болгож болно. Засах хайрцгийг одоо идэвхжүүлэхээр оролдоорой. Идэвхжүүлж дууссаныхаа дараа та гарын дээр харагдах Дараагийн гэсэн товчлуурыг дарна уу."</string>
+    <string msgid="1509462164197325310" name="tutorial_lesson_5_page1_subtitle">"1-р хэсэг: Засах хайрцгийг идэвхжүүлэх"</string>
+    <string msgid="8728726969848635963" name="tutorial_lesson_5_page2_description">"Бичихийн тулд засах хэсгийг идэвхжүүлж, дэлгэцийн гар дээр хуруугаа нааш, цааш гүйлгээрэй. Та өөрийн бичихийг хүссэн тэмдэгтийг сонсвол хуруугаа өргөж, идэвхжүүлнэ үү. Доорх засах хэсэгт бичиж, идэвхжүүлэхийг туршиж үзнэ үү."</string>
+    <string msgid="8696015537398598026" name="tutorial_lesson_5_page2_subtitle">"2-р хэсэг: Засах хайрцагт шивэх"</string>
+    <string msgid="325778749713576462" name="tutorial_lesson_5_page3_description">"Та төхөөрөмжийнхөө дууны түвшний товчлуурыг, эсвэл Talkback цэсийг ашиглан курсорыг зөөх боломжтой. Энэ цэсний курсор удирдах сонголтын тусламжтайгаар та текстийг сонгох, арилгах, хуулж тавих зэрэг үйлдлийг хийх боломжтой. Доорх засах хэсгийг идэвхжүүлж, жишээ текстэн дээр курсороо зөөж үзнэ үү."</string>
+    <string msgid="7553394100000534557" name="tutorial_lesson_5_page3_sample_text">"Дороти Гейлийн имэйл хаяг нь dorothy@ozmail.com юм"</string>
+    <string msgid="6803668615502110439" name="tutorial_lesson_5_page3_subtitle">"3-р хэсэг: Курсор ашиглах"</string>
+    <string msgid="4966124103376747840" name="tutorial_lesson_5_practice_description">"Засах хайрцгийг 2 удаа дарж идэвхжүүлнэ үү. Тэмдэгт хооронд хуруугаа гүйлгэж шивээд, хуруугаа аваарай. Курсорыг дууны түвшний болон дотоодын Talkback цэсийн тусламжтайгаар зөөгөөрэй. Local TalkBack цэсний курсор удирдах сонголтын дагуу текстийг сонгож, ажиллаарай."</string>
+    <string msgid="4502932434891583878" name="tutorial_lesson_5_practice_title">"4-р хэсэг: Дадлага"</string>
+    <string msgid="5739314401061989157" name="tutorial_lesson_5_short_description">"Засах хайрцгийг идэвхжүүлэх, шивэх, курсорыг хөдөлгөх, текст сонгох, текст дээр ажиллах"</string>
+    <string msgid="6951330400155565474" name="tutorial_lesson_5_title">"5-р хичээл: Текст засах"</string>
+    <string msgid="5584403341719984367" name="tutorial_lesson_number">"%1$d-р хичээл"</string>
+    <string msgid="2301417040370437180" name="tutorial_next">"ДАРААХ"</string>
+    <string msgid="1856740039454216256" name="tutorial_next_lesson">"ДАРААГИЙН ХИЧЭЭЛ"</string>
+    <string msgid="5664505784839483070" name="tutorial_no_touch_explore_message">"Энэ зааварт Хүрэлтээр таних онцлог шаардлагатай. Зааврыг эхлүүлэхийн тулд Хүрэлтээр хайх онцлогийг идэвхжүүлнэ үү."</string>
+    <string msgid="1958343592980548652" name="tutorial_no_touch_explore_title">"Хүрэлтээр таних онцлог шаардлагатай"</string>
+    <string msgid="2663970515299904800" name="tutorial_page_number">"%1$d-р хэсэг"</string>
+    <string msgid="7024184577193466936" name="tutorial_page_number_of">"%2$d-н %1$d-р хэсэг"</string>
+    <string msgid="8329925887106371812" name="tutorial_practice">"Дадлага"</string>
+    <string msgid="2176846563813803041" name="tutorial_practice_area">"Дадлагажих хэсэг"</string>
+    <string msgid="7310221766775514110" name="tutorial_practice_content">"дадлага хичээл <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="3270312755677041276" name="tutorial_previous">"ӨМНӨХ"</string>
+    <string msgid="2975374258662807931" name="tutorial_previous_lesson">"ӨМНӨХ ХИЧЭЭЛ"</string>
+    <string msgid="4109204744674617699" name="tutorial_service_inactive_message">"Энэ зааварт TalkBack идэвхжсэн байх шаардлагатай. Зааврыг эхлүүлэхийн өмнө TalkBack-г асаана уу."</string>
+    <string msgid="14143423693392009" name="tutorial_service_inactive_title">"TalkBack-г идэвхгүй болгосон"</string>
+    <string msgid="126663814939225670" name="tutorial_service_suspended_message">"Санал хүсэлт илгээхийг түр зогсоосон үед TalkBack зааврыг ашиглах боломжгүй. TalkBack санал хүсэлтийг үргэлжлүүлсний дараа зааврыг дахин эхлүүлэн үргэлжлүүлнэ үү."</string>
+    <string msgid="7825932862221387070" name="tutorial_service_suspended_title">"TalkBack-г түр хаасан"</string>
+    <string msgid="8656234062338441589" name="tutorial_start_lesson">"Сурах"</string>
+    <string msgid="6993792008827898101" name="tutorial_start_lesson_content">"хичээл сурах <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="491797656581740453" name="tutorial_template_item">"Зүйл <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="1602036284900841687" name="tutorial_title">"TalkBack-н заавар"</string>
+    <string msgid="3902654026290995891" name="tutorial_up_button_description">"Зааврын нүүр хуудасны товчлуур"</string>
+    <string msgid="7017590766394623328" name="untitled_window">"гарчиггүй"</string>
+    <string msgid="2459787142940409576" name="value_button">"Товчлуур"</string>
+    <string msgid="3838601485428893942" name="value_caps_lock_off">"Томоор бичих горимыг идэвхжүүлээгүй."</string>
+    <string msgid="7573294600745888208" name="value_caps_lock_on">"Томоор бичих горимыг идэвхжүүлсэн."</string>
+    <string msgid="668616875637472508" name="value_checkbox">"Шалгах хуудас"</string>
+    <string msgid="3006751014125833966" name="value_checked">"сонгогдсон"</string>
+    <string msgid="5183845393779526573" name="value_classic_keymap">"Түлхүүрийн сонгодог холбоос"</string>
+    <string msgid="3341356513608380759" name="value_collapsed">"хураасан"</string>
+    <string msgid="2991108554131770843" name="value_default_keymap">"Түлхүүрийн өгөгдмөл холбоос"</string>
+    <string msgid="5503481137448624626" name="value_device_unlocked">"Төхөөрөмж нээгдсэн."</string>
+    <string formatted="false" msgid="3589346610879193419" name="value_dim_volume_three_clicks">"Дэлгэц бүдгэрүүлэхийг хурдан идэвхжүүлэх, идэвхгүй болгохын тулд дууны хоёр товчлуурыг гурван удаа зэрэг дарна уу"</string>
+    <string msgid="8072362433982733982" name="value_direction_down">"доош"</string>
+    <string msgid="8554316039693996323" name="value_direction_down_and_left">"доош дараа нь зүүн"</string>
+    <string msgid="7001881662779097616" name="value_direction_down_and_right">"доош дараа нь баруун"</string>
+    <string msgid="8751291630548709587" name="value_direction_down_and_up">"доошоо дараа нь дээшээ"</string>
+    <string msgid="676932617445677488" name="value_direction_left">"зүүн"</string>
+    <string msgid="7803183066938070433" name="value_direction_left_and_down">"зүүн дараа нь доош"</string>
+    <string msgid="5700946272615649006" name="value_direction_left_and_right">"зүүн дараа нь баруун"</string>
+    <string msgid="1953824696291100833" name="value_direction_left_and_up">"зүүн дараа нь дээш"</string>
+    <string msgid="3555261520059818184" name="value_direction_right">"баруун"</string>
+    <string msgid="3939890273004054796" name="value_direction_right_and_down">"баруун дараа нь доош"</string>
+    <string msgid="8982138891493120929" name="value_direction_right_and_left">"баруун дараа нь зүүн"</string>
+    <string msgid="9165127187203257982" name="value_direction_right_and_up">"баруун дараа нь дээш"</string>
+    <string msgid="1646290331150992975" name="value_direction_up">"дээш"</string>
+    <string msgid="3964398023350956969" name="value_direction_up_and_down">"дээшээ дараа нь доошоо"</string>
+    <string msgid="2880257670663743521" name="value_direction_up_and_left">"дээш дараа нь зүүн"</string>
+    <string msgid="1769623264993139598" name="value_direction_up_and_right">"дээш дараа нь баруун"</string>
+    <string msgid="5160977094078900656" name="value_disabled">"идэвхгүй болсон"</string>
+    <string msgid="6104708724544509699" name="value_double_tap">"Давхар-товшилт"</string>
+    <string msgid="3400838694172416741" name="value_edit_box">"Засах хэсэг"</string>
+    <string msgid="761496650256809196" name="value_edit_box_editing">"Засаж байна"</string>
+    <string msgid="3777451536288368857" name="value_expanded">"дэлгэсэн"</string>
+    <string msgid="7426444022147570511" name="value_googletv_screen_saver">"Дэлгэц амраагч"</string>
+    <string msgid="1382219539169157957" name="value_gridview">"Хүснэгт"</string>
+    <string msgid="6443720093459914584" name="value_hint_tv_remote_mode_seek_control">"Утга өөрчлөх бол сумтай товчлуурыг дарж, дуусгахын тулд сонгох товчлуурыг дарна уу."</string>
+    <string msgid="5114229220871881124" name="value_image">"Зураг"</string>
+    <string msgid="6889426165608387394" name="value_keyboard_echo_always">"Дарагдсан товчийг байнга дуудах"</string>
+    <string msgid="7181327459690946870" name="value_keyboard_echo_never">"Дарагдсан товчийг дуудахгүй"</string>
+    <string msgid="1595001302535254665" name="value_keyboard_echo_softkeys">"Зөвхөн дэлгэцэн дээрх гарны хувьд"</string>
+    <string msgid="7625152822709234439" name="value_listview">"Жагсаалт"</string>
+    <string formatted="false" msgid="541929774635348126" name="value_long_volume_pressed_suspend_talkback">"Дууны дээш, доош товчлуурыг удаан дар"</string>
+    <string msgid="37422559536361725" name="value_not_checked">"сонгогдоогүй"</string>
+    <string msgid="5404406119689977269" name="value_notification_shade_opened">"Хураангүй самбар нээгдэв"</string>
+    <string msgid="1037451128304445281" name="value_num_lock_off">"Тоо бичих горимыг идэвхжүүлээгүй."</string>
+    <string msgid="5129177598867360081" name="value_num_lock_on">"Тоо бичих горимыг идэвхжүүлсэн."</string>
+    <string msgid="6700497510945744608" name="value_off">"унтраалттай"</string>
+    <string msgid="39454338086317219" name="value_on">"асаалттай"</string>
+    <string msgid="4936310094261315665" name="value_options_menu_open">"Сонголтууд."</string>
+    <string msgid="7708574424402835461" name="value_pager">"Олон хуудас харах"</string>
+    <string msgid="7671668766555622125" name="value_pager_page">"Хуудас"</string>
+    <string msgid="7285572231215250557" name="value_password">"нууц үг"</string>
+    <string msgid="4270348255373188872" name="value_press_select">"Сонгохыг дарах"</string>
+    <string msgid="254185377743644004" name="value_radio_button">"Радио товчлуур"</string>
+    <string msgid="2780570849205482994" name="value_resume_keyguard">"Дэлгэц түгжигдэх үед"</string>
+    <string msgid="615523100721295547" name="value_resume_manual">"Зөвхөн мэдэгдлээс"</string>
+    <string msgid="2104101584116309597" name="value_resume_screen_on">"Дэлгэц асахад"</string>
+    <string msgid="3881352685288650823" name="value_ringer_silent">"Хонхыг хаах."</string>
+    <string msgid="2453075127843329125" name="value_ringer_vibrate">"Хонхны чичиргээ."</string>
+    <string msgid="4442166505764238236" name="value_screen_off">"Дэлгэц унтрах."</string>
+    <string msgid="4051568127659724519" name="value_screen_on">"Дэлгэц асаалттай байна"</string>
+    <string msgid="4083567784058485871" name="value_scroll_lock_off">"Гүйлгэх горимыг идэвхжүүлээгүй."</string>
+    <string msgid="2645082633954205788" name="value_scroll_lock_on">"Гүйлгэх горимыг идэвхжүүлсэн."</string>
+    <string msgid="4084950138979192413" name="value_seek_bar">"Слайдэрийн тохиргоо"</string>
+    <string msgid="4688216864497436971" name="value_seek_bar_dialog_instructions">"0-с 100-н хооронд тоо оруулна уу."</string>
+    <string msgid="1999088520209822207" name="value_seek_bar_dialog_percent">"%"</string>
+    <string msgid="1307429702194660766" name="value_selected">"сонгогдсон"</string>
+    <string msgid="33115748930768552" name="value_shake_to_read_disabled">"Идэвхгүйжүүлсэн"</string>
+    <string msgid="7661843662865960874" name="value_shake_to_read_threshold_hard">"Хүчтэй"</string>
+    <string msgid="6122029921067500618" name="value_shake_to_read_threshold_light">"Гэрэл"</string>
+    <string msgid="8892692566516131981" name="value_shake_to_read_threshold_medium">"Дундаж"</string>
+    <string msgid="3423392173494851854" name="value_shake_to_read_threshold_very_hard">"Маш хүчтэй"</string>
+    <string msgid="2767872234193772050" name="value_shake_to_read_threshold_very_light">"Маш сул"</string>
+    <string msgid="5044168772549910285" name="value_single_tap">"Товших"</string>
+    <string msgid="1275285354723670810" name="value_sliding_drawer_opened">"Гулсагч самбар нээгдэв"</string>
+    <string msgid="9204474944714379541" name="value_spinner">"Дэлгэрэнгүй харах жагсаалт"</string>
+    <string msgid="7440086841584851897" name="value_stream_alarm">"Сэрүүлэг"</string>
+    <string msgid="433463500088767280" name="value_stream_dtmf">"Хөгөнд хүрч дугаар цуглуулах"</string>
+    <string msgid="4636086067147877021" name="value_stream_master">"Гол"</string>
+    <string msgid="3472112192147204509" name="value_stream_music">"Хөгжим"</string>
+    <string msgid="7166743133549871424" name="value_stream_notification">"Мэдэгдэл"</string>
+    <string msgid="5981333765536911375" name="value_stream_ring">"Хонхны дуу"</string>
+    <string msgid="2589285265752092053" name="value_stream_system">"Системийн дуу"</string>
+    <string msgid="3808346037153621863" name="value_stream_voice_call">"Утасны дуудлага"</string>
+    <string msgid="6946709666466895221" name="value_switch">"Шилжигч"</string>
+    <string msgid="6935453013254857519" name="value_tabwidget">"Таб хавтан"</string>
+    <string msgid="6558192295636412162" name="value_text_cleared">"Текст арилгагдсан"</string>
+    <string msgid="4129865255646994586" name="value_text_max_length">"Дээд уртад хүрсэн"</string>
+    <string msgid="9064311081864073839" name="value_text_removed">"устсан"</string>
+    <string msgid="2003438824962970029" name="value_tv_remote_mode_seek_control">"Тохируулагчийн удирлдагын горим"</string>
+    <string msgid="6226815555228981094" name="value_unlabelled">"Хаяггүй"</string>
+    <string formatted="false" msgid="1925212291067338164" name="value_volume_100_percent">"Медиа хэмжээг тохируулах"</string>
+    <string formatted="false" msgid="7765340636472447035" name="value_volume_25_percent">"медиа хэмжээний 25%"</string>
+    <string formatted="false" msgid="571313670701581653" name="value_volume_50_percent">"медиа хэмжээний 50%"</string>
+    <string formatted="false" msgid="4112643575612833142" name="value_volume_75_percent">"медиа хэмжээний 75%"</string>
+</resources>

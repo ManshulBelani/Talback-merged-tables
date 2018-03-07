@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"Наистина ли искате да спрете TalkBack?\n\nДокато услугата е изключена, устройството ви няма да предоставя обратна връзка и изследването чрез докосване ще бъде деактивирано."</string>
+</resources>

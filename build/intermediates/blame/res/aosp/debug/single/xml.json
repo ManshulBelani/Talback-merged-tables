@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\switch_access_accessibilityservice.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\switch_access_accessibilityservice.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\switch_access_preferences.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\switch_access_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\file_paths.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\dump_events_preferences.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\dump_events_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\key_combo_preferences.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\key_combo_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\default_key_combo_preferences.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\default_key_combo_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\gesture_preferences.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\gesture_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\xml\\accessibilityservice.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\xml\\accessibilityservice.xml"
+    }
+]

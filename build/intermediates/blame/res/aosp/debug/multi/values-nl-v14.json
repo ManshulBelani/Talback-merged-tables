@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugResources\\merged.dir\\values-nl-v14\\values-nl-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 254,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-nl-v14\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 254,
+                        "endOffset": 420
+                    }
+                }
+            }
+        ]
+    }
+]

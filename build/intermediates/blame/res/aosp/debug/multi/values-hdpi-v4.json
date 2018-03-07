@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 554
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"TalkBack\'i askıya almak istediğinizden emin misiniz?\n\nTalkBack askıya alındığında, cihazınız geri bildirim sağlamayacak ve Dokunarak Keşfetme özelliği devre dışı bırakılacaktır."</string>
+</resources>

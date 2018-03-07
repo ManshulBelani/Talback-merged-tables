@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\layout-v21\\suspend_talkback_dialog.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\layout-v21\\suspend_talkback_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\53c38396979989693be2f23128af35cc017906a0\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

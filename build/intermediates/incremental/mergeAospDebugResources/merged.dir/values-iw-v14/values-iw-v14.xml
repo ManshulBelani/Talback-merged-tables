@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"‏האם אתה בטוח שברצונך להשהות את TalkBack?\n\n בזמן ש-TalkBack מושהה, המכשיר לא יספק משוב. כמו כן, \'גילוי באמצעות מגע\' יושבת."</string>
+</resources>

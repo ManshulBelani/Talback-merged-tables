@@ -1,0 +1,467 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\booleans.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 68,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 68,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 69,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 69,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 73,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 73,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 75,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 75,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 58,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 58,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 70,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 70,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 67,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 67,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 45,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 45,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 51,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 51,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 72,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ad88fb077430bbb166654460c3d537be467f681c\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 72,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 52,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 52,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 51,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 51,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 49,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 49,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 44,
+                    "endOffset": 947
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 894,
+                        "endColumn": 44,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 952,
+                    "endColumn": 65,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 65,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 65,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 65,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 62,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 62,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 58,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 58,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 62,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1202,
+                        "endColumn": 62,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 54,
+                    "endOffset": 1319
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endColumn": 54,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1324,
+                    "endColumn": 102,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1444,
+                        "endColumn": 109,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2002
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2007,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2171
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 857
+                    }
+                }
+            }
+        ]
+    }
+]

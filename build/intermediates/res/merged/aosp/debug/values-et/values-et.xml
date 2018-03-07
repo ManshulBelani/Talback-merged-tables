@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="html_input_to_desc_values">
+    <item msgid="2793341578357584466">"Nupp"</item>
+    <item msgid="2031284088774168661">"Märkeruut"</item>
+    <item msgid="9091685013189255594">"Värvivalija"</item>
+    <item msgid="7650731353307926535">"Kuupäeva ja kellaaja valimine"</item>
+    <item msgid="8280936284109186802">"Kuupäeva ja kellaaja valimine"</item>
+    <item msgid="6366195742201292951">"Kuupäeva valimine"</item>
+    <item msgid="4817890851441750596">"Muuda meili teksti"</item>
+    <item msgid="5708434584742847903">"Failivalik"</item>
+    <item msgid="6588178056570524624"/>
+    <item msgid="9133148733620281210">"Nupp"</item>
+    <item msgid="5468837159284323298">"Kuu valimine"</item>
+    <item msgid="3604586918762860736">"Teksti muutmine on ainult numbriline"</item>
+    <item msgid="2268738486961365938">"Parooli muutmise tekst"</item>
+    <item msgid="4054764445934639546">"Raadionupp"</item>
+    <item msgid="8620342430107579622">"Liugur"</item>
+    <item msgid="4526908839966163389">"Lähtesta"</item>
+    <item msgid="6890269752295368575">"Muuda otsingu teksti"</item>
+    <item msgid="1732239384416208952">"Nupp"</item>
+    <item msgid="2844423601130585486">"Muuke telefoninumbri teksti"</item>
+    <item msgid="4429211852856836454">"Muuda teksti"</item>
+    <item msgid="6916351398697981908">"Muuda URL-i teksti"</item>
+    <item msgid="7370324241352123803">"Aasta nädala valimine"</item>
+  </string-array>
+    <string-array name="html_role_to_desc_values">
+    <item msgid="3576890934970356898">"Märguanne"</item>
+    <item msgid="7079664451178245333">"Märguande dialoogiaken"</item>
+    <item msgid="7175460279619232788">"Nupp"</item>
+    <item msgid="7682652928153230885">"Märkeruut"</item>
+    <item msgid="6271342434037552568">"Liitboks"</item>
+    <item msgid="3816282149905203330">"Dialoog"</item>
+    <item msgid="3607246563706513907">"Ruudustiku lahter"</item>
+    <item msgid="6690887636341505376">"Link"</item>
+    <item msgid="8956345708233247462">"Logi"</item>
+    <item msgid="7023984577635455031">"Vooltekst"</item>
+    <item msgid="2455128273329194018">"Menüü-üksus"</item>
+    <item msgid="2579774298837415022">"Menüü-üksuse märkeruut"</item>
+    <item msgid="8295115526987695111">"Menüü-üksuse raadionupp"</item>
+    <item msgid="9208148803968404705">"Valik"</item>
+    <item msgid="7278111388436893213">"Edenemisriba"</item>
+    <item msgid="2040534193363832208">"Raadionupp"</item>
+    <item msgid="3518786141398291419">"Raadionuppude rühm"</item>
+    <item msgid="3369418675400502879">"Kerimisriba"</item>
+    <item msgid="4160771832888077199">"Liugur"</item>
+    <item msgid="4913996245258357058">"Kerimisnupp"</item>
+    <item msgid="4720560353967686603">"Olek"</item>
+    <item msgid="8848835768265321609">"Vahekaart"</item>
+    <item msgid="1902084479060424039">"Vahelehe paneel"</item>
+    <item msgid="1434580592616799847">"Tekstiväli"</item>
+    <item msgid="2857905070846962311">"Taimer"</item>
+    <item msgid="5359803593845515833">"Tööriistariba"</item>
+    <item msgid="5431429272751911412">"Kohtspikker"</item>
+    <item msgid="6370853370296882006">"Puuüksus"</item>
+  </string-array>
+    <string-array name="html_tag_to_desc_values">
+    <item msgid="6249748634825725696">"Link"</item>
+    <item msgid="5377511479758471198">"1. pealkiri"</item>
+    <item msgid="1326639266444424357">"2. pealkiri"</item>
+    <item msgid="1794794287319870162">"3. pealkiri"</item>
+    <item msgid="8913956457917314695">"4. pealkiri"</item>
+    <item msgid="9214322369762997523">"5. pealkiri"</item>
+    <item msgid="703456364875978891">"6. pealkiri"</item>
+    <item msgid="1873899093503383879">"Nupp"</item>
+    <item msgid="397012629783441956">"Liitboks"</item>
+    <item msgid="130879601035659196">"Tabel"</item>
+    <item msgid="1026513754307890628">"Teksti ala"</item>
+  </string-array>
+    <string msgid="5059604520074645703" name="axis_character">"Tähemärgi järgi navigeerimine."</string>
+    <string msgid="4427026616802959980" name="axis_default_web_view_behavior">"Veebi vaatamise vaikekäitumise järgi navigeerimine."</string>
+    <string msgid="1581988340856497809" name="axis_document">"Liigu dokumenti."</string>
+    <string msgid="8928386537164255063" name="axis_heading">"Pealkirja järgi navigeerimine."</string>
+    <string msgid="5569363499210008882" name="axis_sentence">"Lause järgi navigeerimine."</string>
+    <string msgid="7260754205862306385" name="axis_sibling">"Vennasobjektide järgi navigeerimine."</string>
+    <string msgid="7745798763195184060" name="axis_word">"Sõna järgi navigeerimine."</string>
+    <string msgid="3709582843147387025" name="button_accept_changed_gesture_mappings">"Nõustu liigutustega"</string>
+    <string msgid="6198453024008558647" name="button_customize_gesture_mappings">"Kohanda liigutusi"</string>
+    <string msgid="6127861834252515898" name="character_collapse_template">" <ns1:g id="NUMBER">%1$d</ns1:g> <ns1:g id="CHARACTER">%2$s</ns1:g>"</string>
+    <string msgid="206632033549219529" name="dialog_message_disable_exploration">"Kas olete kindel, et soovite funktsiooni Puudutusega navigeerimine välja lülitada?\n\nTeie seade ei reageeri enam otseteede liigutustele ega esita helina üksuste nimesid, kui puudutate ekraani."</string>
+    <string msgid="7378497787526587410" name="dialog_message_suspend_talkback">"Kas soovite kindlasti TalkBacki peatada?\n\nKui TalkBack on peatatud, ei esita seade tagasisidet."</string>
+    <string msgid="6318745977662978395" name="dialog_title_disable_exploration">"Kas keelata funktsioon Puudutusega navigeerimine?"</string>
+    <string msgid="452536442417893349" name="dialog_title_suspend_talkback">"Kas peatada TalkBack?"</string>
+    <string msgid="4039485166364049724" name="end_of_text">"Lõpp"</string>
+    <string msgid="4193116470272754377" name="granularity_character">"Tähemärkide detailsus"</string>
+    <string msgid="1492012550776943179" name="granularity_default">"Vaikedetailsus"</string>
+    <string msgid="1793187671583430921" name="granularity_line">"Rea detailsus"</string>
+    <string msgid="6606518772023711853" name="granularity_page">"Lehe detailsus"</string>
+    <string msgid="679117001255664930" name="granularity_paragraph">"Lõigu detailsus"</string>
+    <string msgid="8235312346324504685" name="granularity_pseudo_web_special_content">"Erisisus navigeerimine"</string>
+    <string msgid="8614337019107379031" name="granularity_web_control">"Juhtelementides navigeerimine"</string>
+    <string msgid="2865126503773287493" name="granularity_web_list">"Loendis navigeerimine"</string>
+    <string msgid="2970666819922742515" name="granularity_web_section">"Jaotises navigeerimine"</string>
+    <string msgid="6605314874729471957" name="granularity_word">"Sõna detailsus"</string>
+    <string msgid="3815241030009647972" name="hint_radial_menu">"Puudutage ekraani, otsige ringjalt, kuni leiate üksuse, ja tõstke selle valimiseks sõrm ekraanilt."</string>
+    <string msgid="2973894305173271874" name="hint_script_injection">"Veebisisu puhul ei ole puutefunktsioon saadaval. Veebisisuga tutvumiseks lülitage juurdepääsu seadetes sisse eelistus <ns1:g id="PREFERENCE_NAME">%1$s</ns1:g>."</string>
+    <string msgid="8205055415827657230" name="hint_summary_jog_dial">"Puudutage ekraani, navigeerige ringjalt ekraanisisus ja seejärel tõstke fokuseerimiseks sõrm ekraanilt."</string>
+    <string msgid="1909934608642527277" name="label_dialog_edit_hint">"Sildi tekst"</string>
+    <string msgid="1215316331086955256" name="label_dialog_text">"Sisestage allolevale väljale tekst, mida selle kujutise puhul kasutatakse."</string>
+    <string msgid="5382481431231127704" name="label_dialog_title_add">"Sildi lisamine"</string>
+    <string msgid="4092558174381892707" name="label_dialog_title_edit">"Sildi muutmine"</string>
+    <string msgid="3378715305025501902" name="label_dialog_title_remove">"Sildi eemaldamine"</string>
+    <string msgid="2531887372542054600" name="label_manager_no_packages_message">"Praegu pole ühtegi kohandatud silti. Selle loomiseks navigeerige sildita kujutisele ja lisage silt kohalikust kontekstimenüüst."</string>
+    <string msgid="5518823554025145373" name="label_manager_package_title">"Rakenduse <ns1:g id="APPLICATIONLABEL">%1$s</ns1:g> siltide haldamine"</string>
+    <string msgid="6129629673621990309" name="label_manager_summary_title">"Kohandatud siltide haldamine"</string>
+    <string msgid="5161359164826380670" name="label_manager_timestamp_text">"Viimati muudetud <ns1:g id="TIMESTAMP">%1$s</ns1:g>"</string>
+    <string msgid="3934146603628571606" name="label_remove_dialog_text">"Kas soovite kindlasti eemaldada sildi „<ns1:g id="LABEL">%1$s</ns1:g>”?"</string>
+    <string msgid="2384427835919655322" name="label_remove_dialog_text_app_name">"Kas soovite kindlasti eemaldada rakenduse <ns1:g id="APP_NAME">%2$s</ns1:g> sildi „<ns1:g id="LABEL">%1$s</ns1:g>”?"</string>
+    <string msgid="102441078934343795" name="label_talkback_context_menu">"TalkBacki globaalne kontekstimenüü"</string>
+    <string msgid="5674175288909957654" name="links">"Lingid"</string>
+    <string msgid="8347218053451487513" name="message_resume_keyguard">"Saate TalkBacki uuesti sisse lülitada märguandealalt või avakuvale naastes."</string>
+    <string msgid="4491108398618252430" name="message_resume_manual">"Saate TalkBacki uuesti sisse lülitada märguandealalt."</string>
+    <string msgid="2080032080971819102" name="message_resume_screen_on">"Saate TalkBacki uuesti sisse lülitada märguandealalt või ekraani sisse lülitades."</string>
+    <string msgid="5639775622146513884" name="notification_message_talkback_gestures_changed">"Puudutage, et vaadata üle juurdepääsuliigutuste muudatused"</string>
+    <string msgid="3312683762001713772" name="notification_message_talkback_suspended">"Puudutage jätkamiseks."</string>
+    <string msgid="4919271166470257796" name="notification_status_sync">"Sünkroonimine"</string>
+    <string msgid="8384253637363301938" name="notification_title_talkback_gestures_changed">"TalkBacki liigutusi on muudet."</string>
+    <string msgid="2185046615850691522" name="notification_title_talkback_suspended">"TalkBack on peatatud"</string>
+    <string msgid="4227042474220035667" name="notification_type_missed_call">"Vastamata kõne"</string>
+    <string msgid="6270641711377218448" name="notification_type_status_chat">"Vestlus"</string>
+    <string msgid="9106600515811868558" name="notification_type_status_error">"Viga"</string>
+    <string msgid="3191659976249507098" name="notification_type_status_more">"Rohkem"</string>
+    <string msgid="575502984311443548" name="notification_type_status_mute">"Summuta"</string>
+    <string msgid="2268627072134312579" name="notification_type_status_sdcard">"SD-kaart"</string>
+    <string msgid="410122674028987252" name="notification_type_status_sdcard_usb">"SD-kaardi USB"</string>
+    <string msgid="7207653060078653323" name="notification_type_status_sync_noanim">"Sünkroonimine"</string>
+    <string msgid="7888717277194798847" name="notification_type_status_voicemail">"Kõnepost"</string>
+    <string msgid="129313890178554132" name="orientation_landscape">"Horisontaalne"</string>
+    <string msgid="5280362272647722922" name="orientation_portrait">"Vertikaalne"</string>
+    <string msgid="2506887117365155231" name="permission_labeling_desc">"Luba hankida juurdepääs TalkBacki esitatud kohandatud siltidele ning luba neid muuta ja kustutada."</string>
+    <string msgid="1480122506788515888" name="permission_labeling_label">"TalkBacki kohandatud siltide haldamine"</string>
+    <string msgid="7998251777426211557" name="permission_talkback_desc">"Luba saata liigutusi TalkBackile ja jätkata esitatud tagasisidet."</string>
+    <string msgid="7399199628843033396" name="permission_talkback_label">"TalkBacki juhtimine"</string>
+    <string msgid="8404153155835310379" name="shortcut_back">"Nupp Tagasi"</string>
+    <string msgid="3905505999818649470" name="shortcut_home">"Nupp Avaleht"</string>
+    <string msgid="6177140532797600317" name="shortcut_local_breakout">"Ava kohalik kontekstimenüü"</string>
+    <string msgid="7234767026975704922" name="shortcut_notifications">"Ava teatised"</string>
+    <string msgid="1125364186583919621" name="shortcut_pause_feedback">"Tagasiside peatamine"</string>
+    <string msgid="5207148703245353791" name="shortcut_read_from_current">"Loe alates järgmisest üksusest"</string>
+    <string msgid="2022846874992888639" name="shortcut_read_from_top">"Loe ülalt alates"</string>
+    <string msgid="2063136654845335137" name="shortcut_repeat_last_utterance">"Korda viimast lausungit"</string>
+    <string msgid="106643257328883413" name="shortcut_spell_last_utterance">"Esita viimane lausung"</string>
+    <string msgid="568168492542718040" name="shortcut_talkback_breakout">"Ava üldine kontekstimenüü"</string>
+    <string msgid="8631675444401168361" name="shortcut_unassigned">"Määramata"</string>
+    <string msgid="2767993698595859057" name="show_suspend_warning_label">"Kuva see hoiatus alati"</string>
+    <string msgid="8702174746754615499" name="summaryOff_pref_intonation">"Ära muuda kõne ajal helikõrgust"</string>
+    <string msgid="3024213283254452034" name="summaryOff_pref_proximity">"Lähedust määrav andur ei juhi kõnet"</string>
+    <string msgid="6148656407539902635" name="summaryOff_pref_speak_screenoff">"Kõnet ei toimu, kui ekraan on välja lülitatud"</string>
+    <string msgid="9077400986652228237" name="summaryOn_pref_intonation">"Esita klaviatuuri tagasiside madalama häälega"</string>
+    <string msgid="9000886370261892995" name="summaryOn_pref_proximity">"Lähedust määrav andur vaigistab kõne"</string>
+    <string msgid="8939554146179627909" name="summaryOn_pref_speak_screenoff">"Märguanded esitatakse, kui ekraan on välja lülitatud"</string>
+    <string msgid="3011671416541372042" name="summary_pref_single_tap">"(Eksperimentaalne) Valimiseks puudutage praegu esile tõstetud üksust"</string>
+    <string msgid="6384160228414065955" name="summary_pref_use_audio_focus">"Helitugevuse vähendamine rääkimise ajal"</string>
+    <string msgid="5271359440699022407" name="summary_pref_web_scripts">"Veebisisu juurdepääsuskriptide allalaadimine"</string>
+    <string msgid="1653570364882667595" name="symbol_almost_equals">"Peaaegu võrdub"</string>
+    <string msgid="5698645694023845951" name="symbol_ampersand">"Ampersand"</string>
+    <string msgid="4012332036420438751" name="symbol_angle_bracket_left">"Vasak noolsulg"</string>
+    <string msgid="8089627029502892140" name="symbol_angle_bracket_right">"Parem noolsulg"</string>
+    <string msgid="5346507079221500519" name="symbol_apostrophe">"Ülakoma"</string>
+    <string msgid="6899588751917310921" name="symbol_asterisk">"Tärn"</string>
+    <string msgid="4119576952183181755" name="symbol_at_sign">"@"</string>
+    <string msgid="7724827547647422722" name="symbol_backslash">"Kurakaldkriips"</string>
+    <string msgid="1777821269046780826" name="symbol_broken_bar">"Katkega püstkriips"</string>
+    <string msgid="7202475090589298539" name="symbol_bullet">"Täpp"</string>
+    <string msgid="3701748999835671059" name="symbol_caret">"Sisestusmärk"</string>
+    <string msgid="837913106634164879" name="symbol_cent">"Sent"</string>
+    <string msgid="1766173490108112841" name="symbol_colon">"Koolon"</string>
+    <string msgid="7243221681903156668" name="symbol_comma">"Koma"</string>
+    <string msgid="6068444819135113413" name="symbol_copyright">"Autoriõigused"</string>
+    <string msgid="8532637321657230438" name="symbol_curly_bracket_left">"Vasak looksulg"</string>
+    <string msgid="6985489217737970385" name="symbol_curly_bracket_right">"Parem looksulg"</string>
+    <string msgid="7144446821437630777" name="symbol_currency_sign">"Valuutamärk"</string>
+    <string msgid="7006804982085051639" name="symbol_degree">"Kraad"</string>
+    <string msgid="4791397535826699505" name="symbol_division">"Jagamismärk"</string>
+    <string msgid="4816772894471123223" name="symbol_dollar_sign">"Dollarimärk"</string>
+    <string msgid="3891332472133850270" name="symbol_ellipsis">"Mõttepunktid"</string>
+    <string msgid="658543896507447622" name="symbol_em_dash">"Emm-kriips"</string>
+    <string msgid="234490117412068534" name="symbol_en_dash">"Enn-kriips"</string>
+    <string msgid="8754914286710071533" name="symbol_euro">"Euro"</string>
+    <string msgid="1423755347958355783" name="symbol_exclamation_mark">"Hüüumärk"</string>
+    <string msgid="6594493842492693387" name="symbol_grave_accent">"Graavis"</string>
+    <string msgid="1649545825116000516" name="symbol_hyphen_minus">"Sidekriips"</string>
+    <string msgid="7090590636020442062" name="symbol_leftwards_arrow">"Vasaknool"</string>
+    <string msgid="1677227578460338049" name="symbol_low_double_quote">"Alumised jutumärgid"</string>
+    <string msgid="647089591706610860" name="symbol_micro_sign">"Mikro tähis"</string>
+    <string msgid="596972035072689274" name="symbol_multiplication">"Korrutusmärk"</string>
+    <string msgid="7363881715875223224" name="symbol_new_line">"Uus rida"</string>
+    <string msgid="4969533365479104300" name="symbol_not_equals">"Ei võrdu"</string>
+    <string msgid="1705947242583463656" name="symbol_not_sign">"Ei-märk"</string>
+    <string msgid="6904765434705887290" name="symbol_paragraph_mark">"Lõigumärk"</string>
+    <string msgid="1458738253545330283" name="symbol_parenthesis_left">"Vasak ümarsulg"</string>
+    <string msgid="8912693050994297988" name="symbol_parenthesis_right">"Parem ümarsulg"</string>
+    <string msgid="798679652539918927" name="symbol_percent">"Protsent"</string>
+    <string msgid="5069898565390445839" name="symbol_period">"Punkt"</string>
+    <string msgid="6899622292494510231" name="symbol_pi">"Pii"</string>
+    <string msgid="1635411027540923886" name="symbol_pound">"Nael"</string>
+    <string msgid="6433746765884232219" name="symbol_pound_sterling">"Naelsterling"</string>
+    <string msgid="1666021876560174073" name="symbol_question_mark">"Küsimärk"</string>
+    <string msgid="4210926032013869946" name="symbol_quotation_mark">"Tsitaat"</string>
+    <string msgid="2461061529593236186" name="symbol_registered_trademark">"Registreeritud kaubamärk"</string>
+    <string msgid="5046720536230643125" name="symbol_section_sign">"Paragrahvimärk"</string>
+    <string msgid="1433521326404786767" name="symbol_semicolon">"Semikoolon"</string>
+    <string msgid="3965129865291400067" name="symbol_slash">"Kaldkriips"</string>
+    <string msgid="747615636574539315" name="symbol_smiley">"Naerunägu"</string>
+    <string msgid="5943066533922386082" name="symbol_space">"Tühik"</string>
+    <string msgid="4651446946636041863" name="symbol_square_bracket_left">"Vasak nurksulg"</string>
+    <string msgid="4383765695828692950" name="symbol_square_bracket_right">"Parem nurksulg"</string>
+    <string msgid="2765967632052613827" name="symbol_square_root">"Ruutjuur"</string>
+    <string msgid="7855500032009132790" name="symbol_trademark">"Kaubamärk"</string>
+    <string msgid="4704253128574141726" name="symbol_underscore">"Alljoon"</string>
+    <string msgid="6902164954804994511" name="symbol_upwards_arrow">"Ülesnool"</string>
+    <string msgid="1048988153298679308" name="symbol_vertical_bar">"Püstkriips"</string>
+    <string msgid="3603544638369460075" name="symbol_yen">"Jeen"</string>
+    <string msgid="1504489384911892122" name="talkback_built_in_gesture_change_details">"See TalkBacki versioon sisaldab juurdepääsu vaikeliigutuste muudatusi.\n\nÜlalt alla liigutus võimaldab liikuda ekraanil oleva esimese üksuse juurde ja alt üles liigutus viimase üksuse juurde.\n\nLugemise detailsust saab nüüd muuta, valides üksuse ja seejärel kohalikust kontekstimenüüst detailsuse.\n\nNende liigutustega sooritatavaid toiminguid saate muuta TalkBacki seadetes."</string>
+    <string msgid="2919155220372343154" name="talkback_gesture_change_details">"See TalkBacki versioon hõlmab muudatusi juurdepääsu vaikeliigutustele. Nende liigutustega seotud toiminguid saab kohandada TalkBacki seadetes. Kui on lubatud puudutusega sirvimine, saate teatud toimingute jaoks kasutada järgmisi liigutusi.\n\n<ns1:g id="MAPPINGS">%1$s</ns1:g>"</string>
+    <string msgid="615685549632541311" name="talkback_preferences_title">"TalkBacki seaded"</string>
+    <string msgid="983212841294665356" name="talkback_service_description">"Kui TalkBack on sisse lülitatud, siis annab seade rääkides tagasisidet pimedatele ja vaegnägijatele. Seade kirjeldab näiteks, mida puudutate, valite ja aktiveerite."</string>
+    <string msgid="578525726030867650" name="template_alert_dialog_template">"Märguanne <ns1:g id="MESSAGE">%1$s</ns1:g>"</string>
+    <string msgid="6774709818484366257" name="template_button">"Nupp <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="9151240217884890264" name="template_capital_letter">"Suurtäht <ns1:g id="UPPERCASE_CHARACTER">%1$s</ns1:g>"</string>
+    <string msgid="5452847405394165465" name="template_checkbox">"Märkeruut <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="2402080656466274253" name="template_current_tts_engine">"Kasutatakse rakendust <ns1:g id="ENGINE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8644462446565912356" name="template_edit_box">"Muutmiskast. <ns1:g id="TEXT_CONTENT">%1$s</ns1:g>"</string>
+    <string msgid="6312875663486456665" name="template_hint_checkable">"Vahetamiseks <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="1687873106975426560" name="template_hint_clickable">"Valimiseks <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="4793267613633348902" name="template_hint_edit_text">"Teksti sisestamiseks <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="4276746786982054368" name="template_hint_long_clickable">"Pikaks hoidmiseks <ns1:g id="ACTION">%1$s</ns1:g> ja hoidke."</string>
+    <string msgid="1320498935380159474" name="template_hint_spinner">"<ns1:g id="ACTION">%1$s</ns1:g> muutmiseks."</string>
+    <string msgid="3704140260750999514" name="template_labeled_item">"<ns1:g id="ITEM">%1$s</ns1:g> valikule <ns1:g id="LABEL">%2$s</ns1:g>"</string>
+    <string msgid="915072513538350747" name="template_long_clicked">"Pikalt vajutatud: <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="1721331413132447874" name="template_menu">"Üksuse <ns1:g id="TITLE">%1$s</ns1:g> menüü"</string>
+    <string msgid="7528235887386963927" name="template_password_selected">"Valitud tähed <ns1:g id="FROM_INDEX">%1$s</ns1:g> kuni <ns1:g id="TO_INDEX">%2$s</ns1:g>"</string>
+    <string msgid="8298434876867671403" name="template_percent">"<ns1:g id="PERCENTAGE">%1$s</ns1:g> protsenti."</string>
+    <string msgid="6220410400770793883" name="template_radio_button">"Raadionupp <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="5425385364820310962" name="template_replaced_characters">"<ns1:g id="OLD_TEXT_LENGTH">%1$s</ns1:g> märgid on asendatud <ns1:g id="NEW_TEXT_LENGTH">%2$s</ns1:g> tähemärgiga"</string>
+    <string msgid="677594507054979865" name="template_scroll_from_count">"Kuvatakse üksus <ns1:g id="FROM_INDEX">%1$d</ns1:g>/<ns1:g id="TOTAL_COUNT">%2$d</ns1:g>."</string>
+    <string msgid="3686789962835061906" name="template_scroll_from_to_count">"Kuvatakse üksused <ns1:g id="FROM_INDEX">%1$d</ns1:g>–<ns1:g id="TO_INDEX">%2$d</ns1:g>/<ns1:g id="TOTAL_COUNT">%3$d</ns1:g>."</string>
+    <string msgid="8598603084443742698" name="template_seek_bar">"Kontrollimise otsimine <ns1:g id="TITLE">%1$s</ns1:g>."</string>
+    <string msgid="3914981448273826697" name="template_spinner">"Rippmenüü loend <ns1:g id="TITLE">%1$s</ns1:g>."</string>
+    <string msgid="7768533936282059501" name="template_stream_volume">"Voo <ns1:g id="STREAM_NAME">%1$s</ns1:g> helitugevus <ns1:g id="PERCENT">%2$d</ns1:g> protsenti."</string>
+    <string msgid="5961200256130745221" name="template_stream_volume_set">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> helitugevuseks on määratud <ns1:g id="PERCENT">%2$d</ns1:g> protsenti."</string>
+    <string msgid="1615681613214625067" name="template_switch">"<ns1:g id="TITLE">%1$s</ns1:g>, lüliti"</string>
+    <string msgid="515933675336971194" name="template_text_removed">"<ns1:g id="TEXT">%1$s</ns1:g> on kustutatud."</string>
+    <string msgid="7412248329207268610" name="template_text_replaced">"Tekst <ns1:g id="OLD_TEXT">%2$s</ns1:g> on asendatud tekstiga <ns1:g id="NEW_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="510330666175123037" name="template_unlabeled_button">"Nupp <ns1:g id="TITLE">%1$d</ns1:g>. Silti pole"</string>
+    <string msgid="6539830337756717284" name="template_unlabeled_image_view">"Kujutis <ns1:g id="TITLE">%1$d</ns1:g>. Silti pole"</string>
+    <string msgid="4598173414473149328" name="title_edittext_breakout_end_selection_mode">"Sule valimisrežiim"</string>
+    <string msgid="8890923524547821086" name="title_edittext_breakout_move_to_beginning">"Paiguta kursor algusesse"</string>
+    <string msgid="2374451054202604999" name="title_edittext_breakout_move_to_end">"Paiguta kursor lõppu"</string>
+    <string msgid="7089324238012221820" name="title_edittext_breakout_start_selection_mode">"Käivita valimisrežiim"</string>
+    <string msgid="3244305133134056288" name="title_edittext_controls">"Kursori juhtimine"</string>
+    <string msgid="8810561997342447201" name="title_granularity">"Muuda detailsust"</string>
+    <string msgid="5329026809097946643" name="title_labeling_controls">"Sildi juhtelemendid"</string>
+    <string msgid="1550674209206752498" name="title_local_breakout_no_items">"Menüü-üksuseid pole."</string>
+    <string msgid="5676036153048224469" name="title_pref_auto_scroll">"Loendite automaatne kerimine"</string>
+    <string msgid="1414845059814636961" name="title_pref_caller_id">"Helistaja ID"</string>
+    <string msgid="1088371786802119419" name="title_pref_category_built_in_gestures">"Sisseehitatud liigutused"</string>
+    <string msgid="6580150385309942699" name="title_pref_category_developer_settings">"Arendaja seaded"</string>
+    <string msgid="1245161004109313841" name="title_pref_category_feedback_settings">"Muu tagasiside"</string>
+    <string msgid="5457025819029526883" name="title_pref_category_manage_gestures">"Halda liigutusi"</string>
+    <string msgid="4300919879277841983" name="title_pref_category_miscellaneous_settings">"Mitmesugust"</string>
+    <string msgid="4152747299134842442" name="title_pref_category_touch_exploration">"Puudutusega uurimine"</string>
+    <string msgid="4220670726993962812" name="title_pref_category_touch_shortcuts">"Otsetee liigutused"</string>
+    <string msgid="9082038550046119493" name="title_pref_category_when_to_speak">"Kõne"</string>
+    <string msgid="4051040843081874790" name="title_pref_explore_by_touch">"Puudutusega uurimine"</string>
+    <string msgid="7762392438106753854" name="title_pref_intonation">"Kasuta helikõrguse muutusi"</string>
+    <string msgid="860353418869467119" name="title_pref_keyboard_echo">"Klaviatuuri kaja"</string>
+    <string msgid="1608733715034404715" name="title_pref_log_level">"Logi väljundtase"</string>
+    <string msgid="593992209353672625" name="title_pref_manage_labels">"Halda kohandatud silte"</string>
+    <string msgid="4957940010293002852" name="title_pref_proximity">"Lähedusanduri kasutamine"</string>
+    <string msgid="7672596366500481032" name="title_pref_resume_talkback">"Jätka peatatud olekust"</string>
+    <string msgid="544749941147543935" name="title_pref_shake_to_read_threshold">"Raputage pideva lugemise alustamiseks"</string>
+    <string msgid="5252410921504649704" name="title_pref_shortcut_down_and_left">"Alla ja vasakule pühkimine"</string>
+    <string msgid="70468539039651273" name="title_pref_shortcut_down_and_right">"Alla ja paremale pühkimine"</string>
+    <string msgid="7133444152727902323" name="title_pref_shortcut_left_and_down">"Pühkige vasakule, seejärel alla"</string>
+    <string msgid="2432229113065295801" name="title_pref_shortcut_left_and_up">"Pühkige vasakule, seejärel üles"</string>
+    <string msgid="8367941430094918701" name="title_pref_shortcut_right_and_down">"Pühkige paremale, seejärel alla"</string>
+    <string msgid="3803984082758463130" name="title_pref_shortcut_right_and_up">"Pühkige paremale, seejärel üles"</string>
+    <string msgid="6488345551912922700" name="title_pref_shortcut_up_and_left">"Üles ja vasakule pühkimine"</string>
+    <string msgid="8936164693273303141" name="title_pref_shortcut_up_and_right">"Üles ja paremale pühkimine"</string>
+    <string msgid="3053869870881145209" name="title_pref_single_tap">"Ühe puudutusega valimine"</string>
+    <string msgid="4700299128916932277" name="title_pref_soundback">"Helitagasiside"</string>
+    <string msgid="7800640782909840723" name="title_pref_soundback_volume">"Helitugevus"</string>
+    <string msgid="1278357255432372076" name="title_pref_speak_screenoff">"Räägi, kui ekraan väljas"</string>
+    <string msgid="4013853601342391397" name="title_pref_speech_volume">"Kõne helitugevus"</string>
+    <string msgid="7821227047722471620" name="title_pref_tts_overlay">"Kõne väljundi kuvamine"</string>
+    <string msgid="3232021917181479854" name="title_pref_two_part_vertical_gestures">"Kaheosalised vertikaalsed liigutused"</string>
+    <string msgid="3377176622565829045" name="title_pref_use_audio_focus">"Kõnele keskendumine"</string>
+    <string msgid="3844312655168149890" name="title_pref_vibration">"Tagasiside vibratsioonina"</string>
+    <string msgid="4384237853588668209" name="title_pref_web_scripts">"Veebijuurdepääsu täiustamine"</string>
+    <string msgid="1892383897326964505" name="title_summary">"Kiire navigeerimine"</string>
+    <string msgid="8569901339110496653" name="title_viewpager_breakout_next_page">"Järgmine leht"</string>
+    <string msgid="628828561164930528" name="title_viewpager_breakout_prev_page">"Eelmine leht"</string>
+    <string msgid="5445165716688066887" name="title_viewpager_controls">"Lehe juhtelemendid"</string>
+    <string msgid="2232647062212814971" name="title_web_breakout_next_control">"Järgmine juhtnupp"</string>
+    <string msgid="7718977609680126993" name="title_web_breakout_next_list">"Järgmine loend"</string>
+    <string msgid="5988697179364261514" name="title_web_breakout_next_section">"Järgmine jaotis"</string>
+    <string msgid="4941025100780529097" name="title_web_breakout_prev_control">"Eelmine juhtnupp"</string>
+    <string msgid="324873118848501053" name="title_web_breakout_prev_list">"Eelmine loend"</string>
+    <string msgid="5962027293396650880" name="title_web_breakout_prev_section">"Eelmine jaotis"</string>
+    <string msgid="5234989698372864892" name="value_checked">"märgitud"</string>
+    <string msgid="1424846510201818289" name="value_device_unlocked">"Seade on lukustamata."</string>
+    <string msgid="1136254602001079211" name="value_direction_down_and_left">"alla ja vasakule"</string>
+    <string msgid="140660680925482349" name="value_direction_down_and_right">"alla ja paremale"</string>
+    <string msgid="4588058477082880034" name="value_direction_left_and_down">"vasakule ja alla"</string>
+    <string msgid="4226646383830488949" name="value_direction_left_and_up">"vasakule ja üles"</string>
+    <string msgid="2454015754931124603" name="value_direction_right_and_down">"paremale ja alla"</string>
+    <string msgid="3852212966335840721" name="value_direction_right_and_up">"paremale ja üles"</string>
+    <string msgid="7249297190773068777" name="value_direction_up_and_left">"üles ja vasakule"</string>
+    <string msgid="4554541402217255929" name="value_direction_up_and_right">"üles ja paremale"</string>
+    <string msgid="65077823320194685" name="value_disabled">"keelatud"</string>
+    <string msgid="7829968646330038608" name="value_double_tap">"puudutage kaks korda"</string>
+    <string msgid="4641188128529437451" name="value_googletv_screen_saver">"Ekraanisäästja"</string>
+    <string msgid="9093738961981389981" name="value_gridview">"Ruudustik"</string>
+    <string msgid="6227871839200687680" name="value_keyboard_echo_always">"Nimeta alati sisestatud klahvid"</string>
+    <string msgid="7272733066649438914" name="value_keyboard_echo_never">"Ära nimeta kunagi sisestatud klahvi"</string>
+    <string msgid="6592352879887617590" name="value_keyboard_echo_softkeys">"Ainult ekraanil kuvatavale klaviatuurile"</string>
+    <string msgid="3437715684913760710" name="value_listview">"Loend"</string>
+    <string msgid="193134740901545340" name="value_not_checked">"märkimata"</string>
+    <string msgid="3832526419695611670" name="value_notification_shade_opened">"Varjestus avatud"</string>
+    <string msgid="8668502811176292723" name="value_options_menu_open">"Valikud."</string>
+    <string msgid="52094746222829357" name="value_password">"parool"</string>
+    <string msgid="8491148490485472512" name="value_resume_keyguard">"Lukustuskuva ilmumisel"</string>
+    <string msgid="3579426418356648756" name="value_resume_manual">"Ainult märguandest"</string>
+    <string msgid="578384141075489503" name="value_resume_screen_on">"Ekraani sisselülitamisel"</string>
+    <string msgid="672965424730167385" name="value_ringer_silent">"Hääletu helin."</string>
+    <string msgid="4632889587347385751" name="value_ringer_vibrate">"Vibreeriv helin."</string>
+    <string msgid="8705438751467344903" name="value_screen_off">"Ekraan väljas."</string>
+    <string msgid="7945430806615898289" name="value_shake_to_read_disabled">"Keelatud"</string>
+    <string msgid="7069014518326801700" name="value_shake_to_read_threshold_hard">"Kõvasti"</string>
+    <string msgid="4580119834253168964" name="value_shake_to_read_threshold_light">"Õrnalt"</string>
+    <string msgid="2529807635899614805" name="value_shake_to_read_threshold_medium">"Keskmiselt"</string>
+    <string msgid="8601099072316359601" name="value_shake_to_read_threshold_very_hard">"Väga kõvasti"</string>
+    <string msgid="8259101887571872418" name="value_shake_to_read_threshold_very_light">"Väga õrnalt"</string>
+    <string msgid="6461432282985355533" name="value_single_tap">"puudutage"</string>
+    <string msgid="2149064620861446612" name="value_sliding_drawer_opened">"Liugsahtel avatud"</string>
+    <string msgid="8999482549602611898" name="value_stream_alarm">"Alarm"</string>
+    <string msgid="7153448300406120426" name="value_stream_dtmf">"Toonvalimine"</string>
+    <string msgid="6130733378374740098" name="value_stream_master">"Peamine"</string>
+    <string msgid="2420531377342647139" name="value_stream_music">"Muusika"</string>
+    <string msgid="4097029371092384177" name="value_stream_notification">"Teatis"</string>
+    <string msgid="426689477101897215" name="value_stream_ring">"Helin"</string>
+    <string msgid="3108718602352746749" name="value_stream_system">"Süsteemi heli"</string>
+    <string msgid="5305385298856357591" name="value_stream_voice_call">"Telefonikõne"</string>
+    <string msgid="5550633699198799743" name="value_tabwidget">"Vaheleheriba"</string>
+    <string msgid="3190458526844389854" name="value_text_cleared">"Tekst on kustutatud"</string>
+    <string msgid="2700105425865376595" name="value_text_removed">"kustutatud"</string>
+    <string formatted="false" msgid="6676030754946177658" name="value_volume_100_percent">"Vii vastavusse meediumi helitugevusega"</string>
+    <string formatted="false" msgid="4441038207089946938" name="value_volume_25_percent">"25% meediumi helitugevusest"</string>
+    <string formatted="false" msgid="2830571913174435107" name="value_volume_50_percent">"50% meediumi helitugevusest"</string>
+    <string formatted="false" msgid="7578844180160160971" name="value_volume_75_percent">"75% meediumi helitugevusest"</string>
+</resources>

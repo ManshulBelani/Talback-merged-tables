@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\bb0665e60d4e5aa6c6af78576dc55aa03801fa75\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\gesture_end.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\gesture_end.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\focus.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\focus.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\tutorial_trigger.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\tutorial_trigger.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\chime_up.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\chime_up.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\speechstrategy_googletv.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\speechstrategy_googletv.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_2.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_2.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_7.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_7.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\speechstrategy.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\speechstrategy.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\phonetic_letters.json",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\phonetic_letters.json"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_1.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_1.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_4.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_4.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\volume_beep.ogg",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\volume_beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\scroll_tone.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\scroll_tone.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_5.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_5.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_8.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_8.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\window_state.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\window_state.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\paused_feedback.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\paused_feedback.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\tutorial.json",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\tutorial.json"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\view_entered.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\view_entered.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_6.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_6.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\speechstrategy_kitkat.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\speechstrategy_kitkat.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\tick.ogg",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\tick.ogg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\italic.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\italic.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\scroll_more.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\scroll_more.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\long_clicked.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\long_clicked.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\chime_down.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\chime_down.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\simple_page_webview.html",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\raw\\simple_page_webview.html"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\speechstrategy_apps.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\speechstrategy_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\ready.ogg",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\ready.ogg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\bold.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\bold.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\radial_menu_3.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\radial_menu_3.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\hyperlink.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\hyperlink.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\gesture_begin.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\gesture_begin.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\complete.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\complete.mid"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\raw\\focus_actionable.mid",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\raw\\focus_actionable.mid"
+    }
+]

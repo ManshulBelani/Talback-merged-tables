@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\layout-v17\\suspend_talkback_dialog.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\layout-v17\\suspend_talkback_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ad88fb077430bbb166654460c3d537be467f681c\\output\\res\\layout-v17\\mr_media_route_list_item.xml"
+    }
+]

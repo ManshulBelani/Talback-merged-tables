@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"Yakin ingin menangguhkan TalkBack?\n\nSaat TalkBack ditangguhkan, perangkat tidak akan memberikan masukan dan fitur Jelajahi dengan Sentuhan akan dinonaktifkan.."</string>
+</resources>

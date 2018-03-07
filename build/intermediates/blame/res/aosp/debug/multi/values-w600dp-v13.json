@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 63,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 54,
+                        "endOffset": 393
+                    }
+                }
+            }
+        ]
+    }
+]

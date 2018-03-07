@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"Estás seguro de que queres suspender TalkBack?\n\nMentres estea suspendido, o teu dispositivo non fornecerá indicacións e a exploración táctil estará desactivada."</string>
+</resources>

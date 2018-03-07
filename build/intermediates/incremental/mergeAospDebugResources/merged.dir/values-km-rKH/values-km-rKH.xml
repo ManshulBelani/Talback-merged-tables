@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="html_input_to_desc_values">
+    <item msgid="4096172354068997146">"ប៊ូតុង"</item>
+    <item msgid="2699169428263688931">"ប្រអប់​គូស​ធីក"</item>
+    <item msgid="7550171965279727706">"ឧបករណ៍​ជ្រើស​ពណ៌"</item>
+    <item msgid="2406148632948142554">"ការ​ពិនិត្យ​ពេល​វេលា​​កាលបរិច្ឆេទ"</item>
+    <item msgid="6206734636643693831">"ការ​ពិនិត្យ​ពេល​វេលា​​កាលបរិច្ឆេទ"</item>
+    <item msgid="6494793311723250360">"ការ​​ពិនិត្យ​កាលបរិច្ឆេទ"</item>
+    <item msgid="6233043014283782070">"កែ​​អត្ថបទ​សម្រាប់​​​អ៊ីមែល"</item>
+    <item msgid="182198520168681864">"ការ​ជ្រើស​ឯកសារ"</item>
+    <item msgid="7635844014202244925"/>
+    <item msgid="7139901113287304585">"ប៊ូតុង"</item>
+    <item msgid="7877770148678429766">"ការ​ពិនិត្យ​មើល​ខែ"</item>
+    <item msgid="7002577823944482722">"កែ​តែ​លេខ​អត្ថបទ​ប៉ុណ្ណោះ"</item>
+    <item msgid="917273821530305195">"កែសម្រួល​ពាក្យ​សម្ងាត់​អត្ថបទ"</item>
+    <item msgid="5154071363992838475">"ប៊ូតុង​​មូល"</item>
+    <item msgid="2560372821541772181">"គ្រាប់​រំកិល"</item>
+    <item msgid="779695939031888316">"កំណត់​ឡើងវិញ"</item>
+    <item msgid="1955065531595564834">"កែ​អត្ថបទ​សម្រាប់​​ស្វែង​រក"</item>
+    <item msgid="3623131192112730435">"ប៊ូតុង"</item>
+    <item msgid="6312991181689088005">"កែ​​អត្ថបទ​សម្រាប់​លេខ​ទូរសព្ទ"</item>
+    <item msgid="8762125587567231566">"កែ​អត្ថបទ"</item>
+    <item msgid="1947579002513979409">"កែ​​អត្ថបទ​សម្រាប់ URL"</item>
+    <item msgid="3903775116049114237">"ការ​ពិនិត្យ​សប្ដាហ៍​នៃ​ឆ្នាំ"</item>
+  </string-array>
+    <string-array name="html_role_to_desc_values">
+    <item msgid="3658512898735203541">"ជូន​ដំណឹង"</item>
+    <item msgid="935137618042089194">"ប្រអប់​​ជូន​ដំណឹង"</item>
+    <item msgid="686369214205693600">"ប៊ូតុង"</item>
+    <item msgid="5449693577048552694">"ប្រអប់​គូស​ធីក"</item>
+    <item msgid="7272822698378169340">"ប្រអប់​បន្សំ"</item>
+    <item msgid="5713583829575581939">"ប្រអប់"</item>
+    <item msgid="5216929483884327567">"ក្រឡា​"</item>
+    <item msgid="19661835905260843">"តំណ"</item>
+    <item msgid="8836528596849462517">"កំណត់​ហេតុ"</item>
+    <item msgid="6363472636779109133">"សំពត់​តង់"</item>
+    <item msgid="207979235591166657">"ធាតុ​ម៉ឺនុយ"</item>
+    <item msgid="5314221954121037157">"ប្រអប់​គូស​ធីក​ធាតុ​ម៉ឺនុយ"</item>
+    <item msgid="8530188741088975507">"ធាតុ​ម៉ឺនុយ​ប៊ូតុង​មូល"</item>
+    <item msgid="7133038652454746643">"ជម្រើស"</item>
+    <item msgid="8884929996375815553">"របារ​ដំណើរការ"</item>
+    <item msgid="2491530352752186178">"ប៊ូតុង​​មូល"</item>
+    <item msgid="5885543297378953099">"ក្រុម​ប៊ូតុង​មូល"</item>
+    <item msgid="3817058470626837478">"របារ​រមូរ"</item>
+    <item msgid="2598539587247777337">"គ្រាប់​រំកិល"</item>
+    <item msgid="7266241064748434859">"ប៊ូតុង​បង្កើន​បន្ថយ"</item>
+    <item msgid="4150753681642535303">"ស្ថានភាព"</item>
+    <item msgid="3573349580765929816">"ផ្ទាំង"</item>
+    <item msgid="9107453920877701301">"បន្ទះ​ផ្ទាំង"</item>
+    <item msgid="5718988101358695130">"ប្រអប់​អក្សរ"</item>
+    <item msgid="9046935926547104284">"កម្មវិធី​កំណត់​ពេល"</item>
+    <item msgid="8242601659670346415">"របារ​ឧបករណ៍"</item>
+    <item msgid="8035569092868245025">"ព័ត៌មាន​ជំនួយ​"</item>
+    <item msgid="4623430632959558435">"ធាតុ​មែកធាង"</item>
+  </string-array>
+    <string-array name="html_tag_to_desc_values">
+    <item msgid="1581643603826521323">"តំណ"</item>
+    <item msgid="5847514471672094541">"ចំណងជើង​មួយ"</item>
+    <item msgid="7964504533413328902">"ចំណងជើង​​ពីរ"</item>
+    <item msgid="7775012721364572701">"ចំណងជើង​បី"</item>
+    <item msgid="1979200594411818064">"ចំណង​ជើង​​បួន"</item>
+    <item msgid="7881108930806590659">"ចំណងជើង​ប្រាំ"</item>
+    <item msgid="8181883417007695049">"ចំណងជើង​​ប្រាំមួយ"</item>
+    <item msgid="2343598882253497500">"ប៊ូតុង"</item>
+    <item msgid="5522305372945364608">"ប្រអប់​បន្សំ"</item>
+    <item msgid="2674550010931559202">"តារាង"</item>
+    <item msgid="6844260645051963771">"ផ្ទៃ​​អត្ថបទ"</item>
+  </string-array>
+    <string-array name="switch_access_color_entries">
+    <item msgid="7934595828699536711">"បៃតង"</item>
+    <item msgid="7616478199824616148">"ទឹកក្រូច"</item>
+    <item msgid="528738291475141372">"ក្រហម"</item>
+    <item msgid="3613307072137891343">"ខៀវ"</item>
+    <item msgid="1719741716015833575">"ស"</item>
+  </string-array>
+    <string-array name="switch_access_scanning_methods_entries">
+    <item msgid="3706133143777972955">"ជួរដេក-ជួរឈរ (ក្តារចុចតែប៉ុណ្ណោះ)"</item>
+    <item msgid="6882375457227534722">"ជួរដេក-ជួរឈរ"</item>
+    <item msgid="4021832268378176260">"ការស្កេនទៅតាមជម្រើស"</item>
+  </string-array>
+    <string-array name="switch_access_weight_entries">
+    <item msgid="5215195704613305820">"បន្ទាត់ដិតស្តើង"</item>
+    <item msgid="7698398358042168523">"បន្ទាត់ដិតមធ្យម"</item>
+    <item msgid="4047443674448719927">"បន្ទាត់ដិតក្រាស់"</item>
+  </string-array>
+    <plurals formatted="false" msgid="5524438721359954583" name="auto_scan_time_delay_summary_format">
+      <item quantity="other">%.2f វិនាទី</item>
+      <item quantity="one">1 វិនាទី</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709295987864614176" name="label_import_succeeded">
+      <item quantity="other">បានអាប់ដេតសា្លក %d</item>
+      <item quantity="one">បានអាប់ដេតសា្លក 1</item>
+    </plurals>
+    <plurals formatted="false" msgid="8070929030388121623" name="label_num_keys_assigned_format">
+      <item quantity="other">បានកំណត់គ្រាប់ចុច %d</item>
+      <item quantity="one">បានកំណត់គ្រាប់ចុច %d</item>
+    </plurals>
+    <plurals formatted="false" msgid="9179529663500973282" name="template_containers">
+      <item quantity="other"><ns1:g id="TYPE_2">%1$s</ns1:g> បង្ហាញធាតុ <ns1:g id="COUNT_3">%2$d</ns1:g></item>
+      <item quantity="one"><ns1:g id="TYPE_0">%1$s</ns1:g> បង្ហាញធាតុ <ns1:g id="COUNT_1">%2$d</ns1:g></item>
+    </plurals>
+    <plurals formatted="false" msgid="4038822501642812499" name="template_dump_event_count">
+      <item quantity="other">បានជ្រើសព្រឹត្តិការណ៍ <ns1:g id="TOTAL_COUNT">%1$d</ns1:g></item>
+      <item quantity="one">បានជ្រើសព្រឹត្តិការណ៍ 1</item>
+    </plurals>
+    <plurals formatted="false" msgid="5016154931003131594" name="template_list_column_count">
+      <item quantity="other">ជួរឈរ <ns1:g id="COLUMN_COUNT_1">%1$d</ns1:g></item>
+      <item quantity="one">ជួរឈរ <ns1:g id="COLUMN_COUNT_0">%1$d</ns1:g></item>
+    </plurals>
+    <plurals formatted="false" msgid="3432009359831385828" name="template_list_row_count">
+      <item quantity="other">ជួរដេក <ns1:g id="ROW_COUNT_1">%1$d</ns1:g></item>
+      <item quantity="one">ជួរដេក <ns1:g id="ROW_COUNT_0">%1$d</ns1:g></item>
+    </plurals>
+    <plurals formatted="false" msgid="3955737557576761990" name="template_list_total_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT_1">%1$d</ns1:g> ធាតុ</item>
+      <item quantity="one"><ns1:g id="TOTAL_COUNT_0">%1$d</ns1:g> ធាតុ</item>
+    </plurals>
+    <plurals formatted="false" msgid="1628316286149773405" name="template_password_character_count">
+      <item quantity="other"><ns1:g id="CHARACTER_COUNT_1">%1$d</ns1:g> តួ</item>
+      <item quantity="one"><ns1:g id="CHARACTER_COUNT_0">%1$d</ns1:g> តួ</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"រកមើល​ទៅ​ដើម"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"រកមើល​ឡើងលើ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ជម្រើស​ច្រើន​ទៀត"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"រួចរាល់"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"មើល​ទាំងអស់"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ជ្រើស​កម្មវិធី​​"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ស្វែងរក…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"សម្អាត​សំណួរ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ស្វែងរក​សំណួរ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ស្វែងរក"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ដាក់​​​ស្នើ​សំណួរ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ការស្វែងរក​សំឡេង"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ចែករំលែក​ជាមួយ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ចែករំលែក​ជាមួយ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"បង្រួម"</string>
+    <string msgid="3283027285894267908" name="accessibility_tutorial_title">"ការបង្រៀនពីលទ្ធភាពប្រើប្រាស់"</string>
+    <string msgid="8073233516135659087" name="action_name_click">"ជ្រើស"</string>
+    <string msgid="4275752158295125939" name="action_name_dismiss">"បដិសេធ"</string>
+    <string msgid="5708679123666477849" name="action_name_long_click">"ចុចឲ្យយូរ"</string>
+    <string msgid="4106603510441280028" name="action_name_next">"បន្ទាប់"</string>
+    <string msgid="5382750123072539005" name="action_name_previous">"មុន"</string>
+    <string msgid="4257814255726312722" name="action_name_reverse_auto_scan">"ឆ្លាស់ការស្កេនស្វ័យប្រវត្តិ"</string>
+    <string msgid="579045012327139100" name="action_name_scroll_backward">"រមូរថយក្រោយ"</string>
+    <string msgid="6969788891937406270" name="action_name_scroll_forward">"រមូរទៅមុខ"</string>
+    <string msgid="697316167642517245" name="arc_android_window">"ផ្ទាំងវិនដូ Android"</string>
+    <string msgid="6957148997380624671" name="arc_maximize_window_for_touch_hint">"ដើម្បីទទួលបានលទ្ធផលល្អបំផុតចំពោះការប៉ះ និងការផ្តល់មតិជាសំឡេង សូមពង្រីកផ្ទាំងវិនដូកម្មវិធីនេះ។"</string>
+    <string msgid="3272314052097101117" name="arc_navigation_hint">"ចុចស្វែងរកដោយប្រើព្រួញដើម្បីរុករក"</string>
+    <string msgid="293518233104520901" name="arc_open_manage_keyboard_shortcuts_hint">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីមើលបញ្ជីផ្លូវកាត់"</string>
+    <string msgid="9026011084239235722" name="arc_open_talkback_settings_hint">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីបើកការកំណត់ TalkBack"</string>
+    <string msgid="8528412412593489695" name="axis_character">"រុករក​តាម​​តួអក្សរ​។"</string>
+    <string msgid="816142869754118685" name="axis_default_web_view_behavior">"រុករក​តាម​ឥរិយាបថ​ទិដ្ឋភាព​បណ្ដាញ​លំនាំ​ដើម។"</string>
+    <string msgid="8037283796488966887" name="axis_document">"រុករក​តាម​​ឯកសារ​។"</string>
+    <string msgid="8829265824683632088" name="axis_heading">"រុករក​តាម​​ចំណងជើង​។"</string>
+    <string msgid="4398740201672273541" name="axis_sentence">"រុករក​តាម​ឯកសារ។"</string>
+    <string msgid="3267377527761217139" name="axis_sibling">"រុករក​តាម​ទំនាក់ទំនង​។"</string>
+    <string msgid="8823389407337076750" name="axis_word">"រុករក​តាម​​ពាក្យ​។"</string>
+    <string msgid="7776830309528651093" name="button_accept_changed_gesture_mappings">"ទទួល​យក​កាយវិការ"</string>
+    <string msgid="301383322727007726" name="button_check_all_events">"គូសធីកទាំងអស់"</string>
+    <string msgid="2128349101908653825" name="button_clear_all_events">"ជម្រះទាំងអស់"</string>
+    <string msgid="5895884645531139464" name="button_customize_gesture_mappings">"ប្ដូរ​កាយវិការ​តាម​តម្រូវ​ការ"</string>
+    <string msgid="2754406023113433479" name="cannot_add_label">"ធាតុ​នេះ​មិន​អាច​​ដាក់​ស្លាក​​បាន​ទេ។"</string>
+    <string msgid="3556846822411648601" name="character_collapse_template">" <ns1:g id="NUMBER">%1$d</ns1:g> <ns1:g id="CHARACTER">%2$s</ns1:g>"</string>
+    <string msgid="1222984615395028719" name="column_heading_template">"ចំណងជើងជួរឈរ"</string>
+    <string msgid="258393957626754806" name="column_index_template">"ជួរឈរ <ns1:g id="COL">%1$d</ns1:g>"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> តម្រូវឲ្យមានសេវាកម្ម Google Play មួយ ឬច្រើន ប៉ុន្តែវាមិនមានផ្តល់ជូនទេបច្ចុប្បន្ននេះ។ សូមទាក់ទងអ្នកអភិវឌ្ឍន៍ដើម្បីទទួលជំនួយ។"</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"បើកសេវាកម្ម Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។"</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"បើកសេវាកម្ម Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"ទាញយកសេវាកម្ម Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> នឹងមិនដំណើរការទេ បើទូរស័ព្ទរបស់អ្នកមិនមានសេវាកម្ម Google Play។"</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> នឹងមិនដំណើរការទេ បើថេប្លេតរបស់អ្នកមិនមានសេវាកម្ម Google Play។"</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"ទាញយកសេវាកម្ម Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។"</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"គណនីមិនត្រឹមត្រូវ"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"តម្រូវឲ្យមានការភ្ជាប់ទិន្នន័យ ដើម្បីភ្ជាប់សេវាកម្ម Google Play"</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"កំហុស​បណ្ដាញ"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"កំហុសសេវាកម្ម Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"ការចូលដំណើរការគណនីចេញពីប្រវត្តិរូបដែលបានរឹតបន្តឹងមិនត្រូវបានគាំទ្រទេ"</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"ប្រវត្តិរូបដែលបានរឹតបន្តឹង"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"កំហុសក្នុងការចូលគណនីដែលបានបញ្ជាក់ សូមជ្រើសរើសគណនីផ្សេងទៀត។"</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"បានបរាជ័យក្នុងការចូល"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> កំពុងមានបញ្ហាជាមួយសេវាកម្ម Google Play។ ប្រសិនបើបញ្ហានេះនៅតែបន្តកើតមាន សូមទាក់ទងអ្នកអភិវឌ្ឍន៍ដើម្បីទទួលបានជំនួយ។"</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ពឹងផ្អែកលើសេវាកម្ម Google Play ប៉ុន្តែវាមិនគាំទ្រនៅលើឧបករណ៍របស់អ្នកទេ។ សូមទាក់ទងក្រុមហ៊ុនផលិតដើម្បីទទួលជំនួយ។"</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"សេវាកម្ម Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"អាប់ដេត"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកអាប់ដេតសេវាកម្ម Google Play។"</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"អាប់ដេតសេវាកម្ម Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។"</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"សេវាកម្ម Google Play កំពុងអាប់ដេត"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។"</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"បើកតាមទូរស័ព្ទ"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"ចូល"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"ចូលដោយប្រើ Google"</string>
+    <string msgid="330592638837220675" name="context_menu_layout_description">"ម៉ឺនុយបរិបទ"</string>
+    <string msgid="7595558180210850775" name="dialog_message_dim_screen">"តើអ្នកប្រាកដថាចង់ធ្វើអេក្រង់ស្រអាប់ឬទេ?"</string>
+    <string msgid="3526530041207600349" name="dialog_message_disable_exploration">"តើ​អ្នក​ប្រាកដ​ជា​ចង់​បិទ​ការ​រុករក​តាម​ការ​ប៉ះ?\n\nឧបករណ៍​របស់​អ្នក​នឹង​លែង​ឆ្លើយតប​កាយវិការ​ផ្លូវកាត់ ឬ​និយាយ​​ធាតុ​ណាមួយ​ពេល​អ្នក​ប៉ះ​អេក្រង់។"</string>
+    <string msgid="1939098607233562642" name="dialog_message_enable_tree_debug">"តើ​អ្នក​ប្រាកដ​ជា​ចង់​បើក​ការ​បំបាត់​កំហុស​ដើម​ថ្នាំង​?\n\nបំបាត់​កំហុស​ដើម​ថ្នាំង​បង្ហាញ​មាតិកា​នៃ​អេក្រង់​របស់​អ្នក​ទៅ​កាន់​កំណត់​ហេតុ​ឧបករណ៍​របស់​អ្នក​ ដែល​អ្នក​​អាច​អាន​តាម​​កម្មវិធី​ផ្សេង​ទៀត​។"</string>
+    <string msgid="5767155087369798907" name="dialog_message_suspend_talkback">"តើអ្នកប្រាកដទេ? ឧបករណ៍របស់អ្នកនឹងមិនផ្តល់មតិទេ ហើយកម្មវិធីរកមើលដោយប៉ះនឹងត្រូវបិទដំណើរការ។ អ្នកអាចបន្តដំណើរការ TalkBack ចេញពីការជូនដំណឹង ដោយត្រឡប់ទៅអេក្រង់ចាក់សោ ឬតាមរយៈផ្លូវកាត់ប៊ូតុងសំឡេង។"</string>
+    <string msgid="603850602120147151" name="dialog_title_dim_screen">"ធ្វើឲ្យអេក្រង់ស្រអាប់?"</string>
+    <string msgid="2662971136340460644" name="dialog_title_disable_exploration">"បិទ​ការ​​រុករក​​ដោយ​​ប៉ះ​?"</string>
+    <string msgid="2107489862179537135" name="dialog_title_enable_tree_debug">"បើក​ការ​​បំបាត់​កំហុស​ដើម​ថ្នាំង​?"</string>
+    <string msgid="5117432568615750164" name="dialog_title_suspend_talkback">"ផ្អាក TalkBack?"</string>
+    <string msgid="6117331350509062908" name="display_name_aria_landmark">"កន្លែងសម្គាល់ ARIA"</string>
+    <string msgid="6801468093111637502" name="display_name_button">"ប៊ូតុង"</string>
+    <string msgid="2060147158898197667" name="display_name_checkbox">"ប្រអប់​ធីក"</string>
+    <string msgid="3627879841881471141" name="display_name_combobox">"combobox"</string>
+    <string msgid="7621147750572129887" name="display_name_control">"អង្គគ្រប់គ្រង"</string>
+    <string msgid="5014778180731737501" name="display_name_edit_field">"edit_field"</string>
+    <string msgid="1687969602866460765" name="display_name_focusable_item">"ធាតុដែលអាចផ្តោត"</string>
+    <string msgid="5292831903337779423" name="display_name_graphic">"ក្រាហ្វិក"</string>
+    <string msgid="7554771761850653608" name="display_name_heading">"ចំណងជើង"</string>
+    <string msgid="30730842343032834" name="display_name_heading_1">"ចំណងជើងទី 1"</string>
+    <string msgid="754950733934619571" name="display_name_heading_2">"ចំណងជើងទី 2"</string>
+    <string msgid="5499505893988231066" name="display_name_heading_3">"ចំណងជើងទី 3"</string>
+    <string msgid="8795813919278024796" name="display_name_heading_4">"ចំណងជើងទី 4"</string>
+    <string msgid="6033290790336260109" name="display_name_heading_5">"ចំណងជើងទី 5"</string>
+    <string msgid="6401554046489668344" name="display_name_heading_6">"ចំណងជើងទី 6"</string>
+    <string msgid="1766513019820473329" name="display_name_link">"តំណ"</string>
+    <string msgid="6043055138670390963" name="display_name_list">"បញ្ជី"</string>
+    <string msgid="5955953898740497356" name="display_name_list_item">"ធាតុក្នុងបញ្ជី"</string>
+    <string msgid="4568845228422422699" name="display_name_section">"ចំណងជើង ឬកន្លែងសម្គាល់"</string>
+    <string msgid="1369599790038567007" name="display_name_table">"តារាង"</string>
+    <string msgid="3595733062526019550" name="end_of_text">"បញ្ចប់"</string>
+    <string msgid="2634106379315171501" name="end_of_web">"គ្មាន <ns1:g id="ID_1">%1$s</ns1:g> បន្ទាប់ទេ"</string>
+    <string msgid="8326879739948707767" name="global_action_back">"ថយក្រោយ"</string>
+    <string msgid="2498984784930393183" name="global_action_home">"ទំព័រដើម"</string>
+    <string msgid="7052190988699716765" name="global_action_notifications">"ការជូនដំណឹង"</string>
+    <string msgid="51725242460849609" name="global_action_overview">"ទិដ្ឋភាព"</string>
+    <string msgid="425687562421432080" name="global_action_quick_settings">"ការកំណត់រហ័ស"</string>
+    <string msgid="2580664964591545065" name="global_context_menu_title">"ម៉ឺនុយបរិបទសកល"</string>
+    <string msgid="2036726841460203840" name="granularity_character">"តួអក្សរ"</string>
+    <string msgid="4948042687369948597" name="granularity_default">"លំនាំដើម"</string>
+    <string msgid="727359260064093782" name="granularity_line">"បន្ទាត់"</string>
+    <string msgid="2739238666516816581" name="granularity_page">"ទំព័រ"</string>
+    <string msgid="3760401274833105422" name="granularity_paragraph">"កឋាខណ្ឌ"</string>
+    <string msgid="437761042603242585" name="granularity_pseudo_web_special_content">"មាតិកាពិសេស"</string>
+    <string msgid="1885138772895126953" name="granularity_web_control">"អង្គគ្រប់គ្រង"</string>
+    <string msgid="7817726975417542626" name="granularity_web_link">"តំណ"</string>
+    <string msgid="4386991044245560102" name="granularity_web_list">"បញ្ជី"</string>
+    <string msgid="8219174463230029732" name="granularity_web_section">"ចំណងជើង និងកន្លែងសម្គាល់"</string>
+    <string msgid="2653776823920279013" name="granularity_word">"ពាក្យ"</string>
+    <string msgid="3585514481777782183" name="heading_template">"ចំណង​ជើង"</string>
+    <string msgid="2042130200569709650" name="hint_radial_menu">"ប៉ះអេក្រង់ ហើយធ្វើការរុករកនៅក្នុងរង្វង់ដើម្បីស្វែងរកធាតុ បន្ទាប់មកលើកម្រាមដៃដើម្បីធ្វើឲ្យសកម្ម។"</string>
+    <string msgid="6139951755594105602" name="hint_script_injection">"រុក​រក​​តាម​​ការ​ប៉ះ​មិន​អាច​ប្រើ​​បាន​ក្នុង​មាតិកា​បណ្ដាញ​។ បើក <ns1:g id="PREFERENCE_NAME">%1$s</ns1:g> នៅ​ក្នុង​ការ​កំណត់​មធ្យោបាយ​ងាយស្រួល​​​ដើម្បី​រុករក​​មាតិកា​​បណ្ដាញ​។"</string>
+    <string msgid="2050246931229863299" name="hint_summary_jog_dial">"ប៉ះ​អេក្រង់​ និង​រុក​រក​​ក្នុង​រង្វង់ ​ដើម្បី​រក​មើល​​មាតិកា​លើ​អេក្រង់​, បន្ទាប់​មក​ដកដៃ​​ដើម្បី​ផ្ដោត។"</string>
+    <string msgid="6117098234531459917" name="imported_labels_reverted">"បានត្រឡប់ស្លាកនាំចូល"</string>
+    <string msgid="71505978833721807" name="item_index_template">"ធាតុ <ns1:g id="ITEM">%1$d</ns1:g>"</string>
+    <string msgid="3635428232205897122" name="key_combo_preference_alt_plus">"ALT + "</string>
+    <string msgid="3798670998031739354" name="key_combo_preference_control_plus">"CTRL + "</string>
+    <string msgid="729970729293779243" name="key_combo_preference_instructions">"ចុចបន្សំគ្រាប់ចុចដើម្បីបន្ថែម ឬយកវាចេញពីបញ្ជី"</string>
+    <string msgid="766369207787941384" name="key_combo_preference_reset_button">"សម្អាតការកំណត់គ្រាប់ចុច"</string>
+    <string msgid="2809984878781105825" name="key_combo_preference_shift_plus">"SHIFT + "</string>
+    <string msgid="2481495794999250718" name="keycombo_announce_shortcut_not_supported">"មិនគាំទ្រផ្លូវកាត់ទេ"</string>
+    <string msgid="3473075449729957326" name="keycombo_assign_dialog_clear">"ជម្រះផ្លូវកាត់"</string>
+    <string msgid="8675660213696360536" name="keycombo_assign_dialog_default_keymap_instruction">"ចុចការផ្សំគ្រាប់ចុចដោយប្រើគ្រាប់ចុចបន្សំ <ns1:g id="TRIGGER_MODIFIER_NAME">%1$s</ns1:g> ដើម្បីកំណត់ផ្លូវកាត់ថ្មី។"</string>
+    <string msgid="7298194792465449819" name="keycombo_assign_dialog_instruction">"ចុចបន្សំក្តារចុចដើម្បីកំណត់ផ្លូវកាត់ថ្មី។ វាត្រូវមានយ៉ាងហោចណាស់ប៊ូតុង ALT ឬ Control។"</string>
+    <string msgid="2212047143066468004" name="keycombo_assign_dialog_message">"ផ្លូវកាត់ក្តារចុចគឺ"</string>
+    <string msgid="7481082388500840525" name="keycombo_assign_dialog_navigation_reminder">"សូមចុច Backspace ដើម្បីជម្រះផ្លូវកាត់, ចុច Enter ដើម្បីរក្សាទុក, ឬចុច Escape ដើម្បីបោះបង់។"</string>
+    <string msgid="2088979197242112118" name="keycombo_key_arrow_down">"ព្រួញចុះក្រោម"</string>
+    <string msgid="7617113973940474625" name="keycombo_key_arrow_left">"ព្រួញទៅឆ្វេង"</string>
+    <string msgid="3021807777617903460" name="keycombo_key_arrow_right">"ព្រួញទៅស្ដាំ"</string>
+    <string msgid="3428552869533106939" name="keycombo_key_arrow_up">"ព្រួញឡើងលើ"</string>
+    <string msgid="5899747265287524712" name="keycombo_key_modifier_alt">"Alt"</string>
+    <string msgid="7834452577952298995" name="keycombo_key_modifier_ctrl">"Ctrl"</string>
+    <string msgid="4552213738130479993" name="keycombo_key_modifier_meta">"ស្វែងរក"</string>
+    <string msgid="5635477035615538497" name="keycombo_key_modifier_shift">"Shift"</string>
+    <string msgid="1828508564583672416" name="keycombo_menu_alert_message_trigger_modifier">"TalkBack នឹងកំណត់ប្លង់គ្រាប់ចុចឡើងវិញ និងផ្លាស់ប្តូរគ្រាប់ចុចបន្សំទៅជា <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g>"</string>
+    <string msgid="2294464165508562696" name="keycombo_menu_alert_title_trigger_modifier">"TalkBack នឹងកំណត់ប្លង់គ្រាប់ចុចឡើងវិញ"</string>
+    <string msgid="6826451509012716500" name="keycombo_menu_announce_active_keymap">"<ns1:g id="KEYMAP_NAME">%1$s</ns1:g> ឥឡូវនេះសកម្ម"</string>
+    <string msgid="7217139940963945885" name="keycombo_menu_announce_new_trigger_modifier">"គ្រាប់ចុចបន្សំត្រូវបានផ្លាស់ប្តូរទៅជា <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g>"</string>
+    <string msgid="6125748767740120870" name="keycombo_menu_announce_reset_keymap">"ផែនទីគ្រាប់ចុចត្រូវបានកំណត់ឡើងវិញ"</string>
+    <string msgid="7309875734492478067" name="keycombo_menu_category_global">"សកម្មភាពជាសកល"</string>
+    <string msgid="1510641633727773395" name="keycombo_menu_category_granularity">"ការកំណត់ការរុករក"</string>
+    <string msgid="4152949225907039706" name="keycombo_menu_category_navigation">"សកម្មភាពបញ្ជា"</string>
+    <string msgid="440132295339458288" name="keycombo_menu_category_other">"សកម្មភាពផ្សេងទៀត"</string>
+    <string msgid="51409040763676563" name="keycombo_menu_category_select_keymap">"ផែនទីគ្រាប់ចុច"</string>
+    <string msgid="197426246774034347" name="keycombo_menu_category_web">"សកម្មភាពរុករកអ៊ីនធឺណិត"</string>
+    <string msgid="1134261938982195470" name="keycombo_menu_choose_trigger_modifier">"ជ្រើសគ្រាប់ចុចបន្សំ"</string>
+    <string msgid="4567585750566224959" name="keycombo_menu_global_back">"ថយក្រោយ"</string>
+    <string msgid="7189369064773623371" name="keycombo_menu_global_home">"ទំព័រដើម"</string>
+    <string msgid="7376426148339964566" name="keycombo_menu_global_notifications">"ការជូនដំណឹង"</string>
+    <string msgid="927586811460340459" name="keycombo_menu_global_recent">"កម្មវិធីថ្មីៗ"</string>
+    <string msgid="6155357392695951243" name="keycombo_menu_global_suspend">"ផ្អាក ឬបន្ត TalkBack"</string>
+    <string msgid="4124885036136489177" name="keycombo_menu_granularity_decrease">"ការកំណត់ការរុករកពីមុន"</string>
+    <string msgid="4418197063118287013" name="keycombo_menu_granularity_increase">"ការកំណត់ការរុករកបន្ទាប់"</string>
+    <string msgid="8107187053010960249" name="keycombo_menu_navigate_down">"ទៅកាន់ធាតុខាងក្រោម"</string>
+    <string msgid="3158152161988911032" name="keycombo_menu_navigate_first">"ទៅកាន់ធាតុដំបូង"</string>
+    <string msgid="1263547978659004801" name="keycombo_menu_navigate_last">"ទៅកាន់ធាតុចុងក្រោយ"</string>
+    <string msgid="759996660496701149" name="keycombo_menu_navigate_next">"ទៅកាន់ធាតុបន្ទាប់"</string>
+    <string msgid="2366740353671146191" name="keycombo_menu_navigate_next_character">"ទៅកាន់តួអក្សរបន្ទាប់"</string>
+    <string msgid="25126714988891178" name="keycombo_menu_navigate_next_window">"ទៅកាន់ផ្ទាំងវិនដូបន្ទាប់"</string>
+    <string msgid="1395811611039468067" name="keycombo_menu_navigate_next_word">"ទៅកាន់ពាក្យបន្ទាប់"</string>
+    <string msgid="6854364806063486016" name="keycombo_menu_navigate_previous">"ទៅកាន់ធាតុពីមុន"</string>
+    <string msgid="2721742949377224859" name="keycombo_menu_navigate_previous_character">"ទៅកាន់តួអក្សរពីមុន"</string>
+    <string msgid="4564537307456535973" name="keycombo_menu_navigate_previous_window">"ទៅកាន់ផ្ទាំងវិនដូពីមុន"</string>
+    <string msgid="4068599657564535841" name="keycombo_menu_navigate_previous_word">"ទៅកាន់ពាក្យពីមុន"</string>
+    <string msgid="8246000047771671403" name="keycombo_menu_navigate_up">"ទៅកាន់ធាតុខាងលើ"</string>
+    <string msgid="2225006890613375860" name="keycombo_menu_other_global_context_menu">"បង្ហាញម៉ឺនុយបរិបទជាសកល"</string>
+    <string msgid="4021429520088110904" name="keycombo_menu_other_local_context_menu">"បង្ហាញម៉ឺនុយបរិបទមូលដ្ឋាន"</string>
+    <string msgid="1317406596143818756" name="keycombo_menu_other_open_manage_keyboard_shortcuts">"គ្រប់គ្រងផ្លូវកាត់ក្តារចុច"</string>
+    <string msgid="7172351544340904928" name="keycombo_menu_other_open_talkback_settings">"បើកការកំណត់ TalkBack"</string>
+    <string msgid="1511843443312220392" name="keycombo_menu_other_read_from_next_item">"អាន​ពី​ធាតុ​បន្ទាប់"</string>
+    <string msgid="5903852171117275622" name="keycombo_menu_other_read_from_top">"អាន​ពី​ខាង​លើ"</string>
+    <string msgid="5587057667593041194" name="keycombo_menu_other_toggle_search">"ស្វែងរកធាតុចេញពីអេក្រង់"</string>
+    <string msgid="243666968746657931" name="keycombo_menu_perform_click">"ធ្វើការចុច"</string>
+    <string msgid="5580717252946630027" name="keycombo_menu_perform_long_click">"អនុវត្តការចុចយូរ"</string>
+    <string msgid="2023072719324737919" name="keycombo_menu_reset_keymap">"កំណត់ផែនទីគ្រាប់ចុចឡើងវិញ"</string>
+    <string msgid="373592569630998413" name="keycombo_menu_select_keymap">"ជ្រើសផែនទីគ្រាប់ចុច"</string>
+    <string msgid="6234830691861291732" name="keycombo_menu_web_navigate_to_next_aria_landmark">"ទៅកាន់កន្លែងសម្គាល់ ARIA បន្ទាប់"</string>
+    <string msgid="5786404186459162862" name="keycombo_menu_web_navigate_to_next_button">"ទៅកាន់ប៊ូតុងបន្ទាប់"</string>
+    <string msgid="3722561185964557699" name="keycombo_menu_web_navigate_to_next_checkbox">"ទៅកាន់ប្រអប់ធីកបន្ទាប់"</string>
+    <string msgid="8664957205621246821" name="keycombo_menu_web_navigate_to_next_combobox">"ទៅកាន់ប្រអប់បន្សំបន្ទាប់"</string>
+    <string msgid="5118493330693292266" name="keycombo_menu_web_navigate_to_next_control">"ទៅកាន់អង្គគ្រប់គ្រងបន្ទាប់"</string>
+    <string msgid="212436471355413352" name="keycombo_menu_web_navigate_to_next_edit_field">"ទៅកាន់ប្រអប់កែសម្រួលបន្ទាប់"</string>
+    <string msgid="6577338510655384932" name="keycombo_menu_web_navigate_to_next_focusable_item">"ទៅកាន់ធាតុដែលអាចផ្តោតបានបន្ទាប់"</string>
+    <string msgid="3860950617153731037" name="keycombo_menu_web_navigate_to_next_graphic">"ទៅកាន់ក្រាហ្វិកបន្ទាប់"</string>
+    <string msgid="6529174070300116949" name="keycombo_menu_web_navigate_to_next_heading">"ទៅកាន់ចំណងជើងបន្ទាប់"</string>
+    <string msgid="3244117772760471353" name="keycombo_menu_web_navigate_to_next_heading_1">"ទៅកាន់ចំណងជើងទី 1 បន្ទាប់"</string>
+    <string msgid="75822840123780036" name="keycombo_menu_web_navigate_to_next_heading_2">"ទៅកាន់ចំណងជើងទី 2 បន្ទាប់"</string>
+    <string msgid="6068489868699550150" name="keycombo_menu_web_navigate_to_next_heading_3">"ទៅកាន់ចំណងជើងទី 3 បន្ទាប់"</string>
+    <string msgid="3960229240959901354" name="keycombo_menu_web_navigate_to_next_heading_4">"ទៅកាន់ចំណងជើងទី 4 បន្ទាប់"</string>
+    <string msgid="9101669601111190142" name="keycombo_menu_web_navigate_to_next_heading_5">"ទៅកាន់ចំណងជើងទី 5 បន្ទាប់"</string>
+    <string msgid="6918176243153506542" name="keycombo_menu_web_navigate_to_next_heading_6">"ទៅកាន់ចំណងជើងទី 6 បន្ទាប់"</string>
+    <string msgid="3567614429970148323" name="keycombo_menu_web_navigate_to_next_link">"ទៅកាន់តំណបន្ទាប់"</string>
+    <string msgid="8731606795102810314" name="keycombo_menu_web_navigate_to_next_list">"ទៅកាន់បញ្ជីបន្ទាប់"</string>
+    <string msgid="5640113968924738728" name="keycombo_menu_web_navigate_to_next_list_item">"ទៅកាន់ធាតុបញ្ជីបន្ទាប់"</string>
+    <string msgid="6540415308854724223" name="keycombo_menu_web_navigate_to_next_table">"ទៅកាន់តារាងបន្ទាប់"</string>
+    <string msgid="1779439621789951193" name="keycombo_menu_web_navigate_to_previous_aria_landmark">"ទៅកាន់កន្លែងសម្គាល់ ARIA ពីមុន"</string>
+    <string msgid="7341520853947364002" name="keycombo_menu_web_navigate_to_previous_button">"ទៅកាន់ប៊ូតុងពីមុន"</string>
+    <string msgid="6560080364424986498" name="keycombo_menu_web_navigate_to_previous_checkbox">"ទៅកាន់ប្រអប់ធីកពីមុន"</string>
+    <string msgid="5252314449233286869" name="keycombo_menu_web_navigate_to_previous_combobox">"ទៅកាន់ប្រអប់បន្សំពីមុន"</string>
+    <string msgid="6218169838978520955" name="keycombo_menu_web_navigate_to_previous_control">"ទៅកាន់អង្គគ្រប់គ្រងពីមុន"</string>
+    <string msgid="5495489017658262310" name="keycombo_menu_web_navigate_to_previous_edit_field">"ទៅកាន់ប្រអប់កែសម្រួលពីមុន"</string>
+    <string msgid="4960141150651374820" name="keycombo_menu_web_navigate_to_previous_focusable_item">"ទៅកាន់ធាតុដែលអាចផ្តោតបានពីមុន"</string>
+    <string msgid="4496215226346619518" name="keycombo_menu_web_navigate_to_previous_graphic">"ទៅកាន់ក្រាហ្វិកពីមុន"</string>
+    <string msgid="3501846285908107279" name="keycombo_menu_web_navigate_to_previous_heading">"ទៅកាន់ចំណងជើងពីមុន"</string>
+    <string msgid="3317845146689095006" name="keycombo_menu_web_navigate_to_previous_heading_1">"ទៅកាន់ចំណងជើងទី 1 ពីមុន"</string>
+    <string msgid="2130159635618042033" name="keycombo_menu_web_navigate_to_previous_heading_2">"ទៅកាន់ចំណងជើងទី 2 ពីមុន"</string>
+    <string msgid="3261881889523320310" name="keycombo_menu_web_navigate_to_previous_heading_3">"ទៅកាន់ចំណងជើងទី 3 ពីមុន"</string>
+    <string msgid="4665169714217637276" name="keycombo_menu_web_navigate_to_previous_heading_4">"ទៅកាន់ចំណងជើងទី 4 ពីមុន"</string>
+    <string msgid="1057554300668048210" name="keycombo_menu_web_navigate_to_previous_heading_5">"ទៅកាន់ចំណងជើងទី 5 ពីមុន"</string>
+    <string msgid="2400489461796001671" name="keycombo_menu_web_navigate_to_previous_heading_6">"ទៅកាន់ចំណងជើងទី 6 ពីមុន"</string>
+    <string msgid="1510672359574680127" name="keycombo_menu_web_navigate_to_previous_link">"ទៅកាន់តំណពីមុន"</string>
+    <string msgid="8999329379609937777" name="keycombo_menu_web_navigate_to_previous_list">"ទៅកាន់បញ្ជីពីមុន"</string>
+    <string msgid="3557085444094910366" name="keycombo_menu_web_navigate_to_previous_list_item">"ទៅកាន់ធាតុបញ្ជីពីមុន"</string>
+    <string msgid="8234050317398672680" name="keycombo_menu_web_navigate_to_previous_table">"ទៅកាន់តារាងពីមុន"</string>
+    <string msgid="5817151372114230015" name="keycombo_unassigned">"មិនបានចាត់"</string>
+    <string msgid="3288834802071890267" name="label_choose_app_to_export">"ជ្រើសកម្មវិធីដើម្បីនាំចេញស្លាក៖"</string>
+    <string msgid="4342585248215824717" name="label_dialog_edit_hint">"អត្ថបទ​ស្លាក"</string>
+    <string msgid="5879506218245648848" name="label_dialog_text">"បញ្ចូល​អត្ថបទ​ដែល​នឹង​ត្រូវ​បាន​ប្រើ​សម្រាប់​រូបភាព​នៅ​ក្នុង​វាល​ខាង​ក្រោម។"</string>
+    <string msgid="1255044087558866043" name="label_dialog_title_add">"បន្ថែម​ស្លាក"</string>
+    <string msgid="7914376979667771585" name="label_dialog_title_edit">"កែ​ស្លាក"</string>
+    <string msgid="1791163736307626930" name="label_dialog_title_remove">"លុប​ស្លាក​ចេញ"</string>
+    <string msgid="7663052451851715440" name="label_export_empty">"មិនមានអ្វីត្រូវនាំចេញទេ។ អ្នកមិនបានបន្ថែមស្លាកទេ"</string>
+    <string msgid="4500274103149146929" name="label_export_failed">"បានបរាជ័យក្នុងការនាំចេញស្លាក"</string>
+    <string msgid="1773817433300194935" name="label_import">"នាំចូលស្លាកផ្ទាល់ខ្លួន"</string>
+    <string msgid="7975227530187709469" name="label_import_dialog_message">"ជ្រើសរើសថាតើអ្នកចង់បដិសេធ ឬរំលងស្លាកដែលមានស្រាប់នៅក្នុងករណីដែលមិនត្រូវគ្នាឬទេ។"</string>
+    <string msgid="4387408051194229513" name="label_import_dialog_override">"បដិសេធ"</string>
+    <string msgid="2078597180132028657" name="label_import_dialog_skip">"រំលង"</string>
+    <string msgid="5305411653917870790" name="label_import_dialog_title">"នាំចូលស្លាកផ្ទាល់ខ្លួនទៅ TalkBack"</string>
+    <string msgid="1321882372299892757" name="label_import_failed">"បានបរាជ័យក្នុងការនាំចូលស្លាក"</string>
+    <string msgid="4478523067360108574" name="label_manager_no_packages_message">"បច្ចុប្បន្ន​គ្មាន​ស្លាក​ផ្ទាល់​ខ្លួន​។ អ្នក​អាច​បង្កើត​​ស្លាក​មួយ​ដោយ​​រុករក​​​​​រូបភាព​ដែល​មិន​បាន​ដាក់​ស្លាក ហើយ​បន្ទាប់​មក​​បន្ថែម​ស្លាក​ពី​ម៉ឺនុយ​បរិបទ​​មូលដ្ឋាន​។"</string>
+    <string msgid="6984665343963494151" name="label_manager_package_title">"គ្រប់គ្រង​ស្លាក​សម្រាប់ <ns1:g id="APPLICATIONLABEL">%1$s</ns1:g>"</string>
+    <string msgid="6786694853113585661" name="label_manager_summary_title">"គ្រប់គ្រង​ស្លាក​ផ្ទាល់​ខ្លួន"</string>
+    <string msgid="2632240906498521602" name="label_manager_timestamp_text">"បាន​កែប្រែ​ចុងក្រោយ <ns1:g id="TIMESTAMP">%1$s</ns1:g>"</string>
+    <string msgid="372916461303485723" name="label_remove_dialog_text">"តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​ស្លាក \"<ns1:g id="LABEL">%1$s</ns1:g>\" ?"</string>
+    <string msgid="8329270316487665017" name="label_remove_dialog_text_app_name">"តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​ស្លាក \"<ns1:g id="LABEL">%1$s</ns1:g>\" នៅ​ក្នុង <ns1:g id="APP_NAME">%2$s</ns1:g>?"</string>
+    <string msgid="6758073806811666684" name="label_talkback_context_menu">"ម៉ឺនុយ​បរិបទ​សកល​របស់ TalkBack"</string>
+    <string msgid="3448225474115458693" name="links">"តំណ"</string>
+    <string msgid="6672321005470828526" name="local_context_menu_title">"ម៉ឺនុយបរិបទមូលដ្ឋាន"</string>
+    <string msgid="4795202818108740382" name="main_description">"កម្មវិធី TalkBack គឺជាកម្មវិធីអានអេក្រង់ដែលត្រូវបានបង្កើតឡើងជាចម្បងសម្រាប់មនុស្សពិការភ្នែក និងខ្សោយភ្នែក។ វាអនុញ្ញាតឲ្យឧបករណ៍មានអន្តរកម្មជាមួយអ្នកប្រើដោយការផ្តល់មតិដោយការនិយាយ។"</string>
+    <string msgid="13771282771329188" name="message_in_reset_keymap_confirm_dialog">"តើអ្នកប្រាកដថាចង់កំណត់គ្រាប់ចុចផ្លូវកាត់របស់អ្នកសម្រាប់ផែនទីគ្រាប់ចុចនេះទៅតម្លៃលំនាំដើមរបស់ពួកវាឡើងវិញឬទេ?"</string>
+    <string msgid="6721228114050709276" name="message_resume_keyguard">"អ្នក​អាច​បន្ត ​TalkBack ពី​ការ​ជូន​ដំណឹង​ ឬ​ដោយ​​​ត្រឡប់​ទៅ​​​ចាក់សោ​អេក្រង់។"</string>
+    <string msgid="6522293510722570646" name="message_resume_manual">"អ្នក​អាច​បន្ត​ TalkBack ពី​ការ​ជូន​ដំណឹង​។"</string>
+    <string msgid="9016720947126938212" name="message_resume_screen_on">"អ្នក​អាច​បន្ត​ TalkBack ​ពី​ការ​​ជូន​ដំណឹង​ ឬ​​​ដោយ​បើក​អេក្រង់។"</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"បញ្ជូន"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"កំពុង​ស្វែងរក​ឧបករណ៍..."</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"ភ្ជាប់​ឧបករណ៍"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"ផ្ដាច់"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"មិនមានព័ត៌មានទេ"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"ផ្អាក"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"ចាក់"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"ការកំណត់ផ្លូវ"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"បញ្ឈប់ការខាស"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"ប្រព័ន្ធ"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"ឧបករណ៍"</string>
+    <string msgid="6379785627490220649" name="name_of_enter_key">"Enter"</string>
+    <string msgid="5083960909593906754" name="name_of_space_bar">"ដកឃ្លា"</string>
+    <string msgid="6744983965001375397" name="name_of_tab_key">"Tab"</string>
+    <string msgid="4602958479941673535" name="navigation_bar">"របាររុករក"</string>
+    <string msgid="2792530694141012295" name="no_key_assigned">"មិនមានការកំណត់គ្រាប់ចុចទេ"</string>
+    <string msgid="7419188718124788690" name="notification_message_talkback_gestures_changed">"ប៉ះ​ ដើម្បី​ពិនិត្យ​​​​ការ​ផ្លាស់ប្ដូរ​​ចំពោះ​​កាយវិការ​ភាព​ងាយស្រួល"</string>
+    <string msgid="1542127125162503034" name="notification_message_talkback_suspended">"ប៉ះ​ ដើម្បី​​បន្ត​។"</string>
+    <string msgid="7913123792593843784" name="notification_status_sync">"ធ្វើ​សមកាលកម្ម"</string>
+    <string msgid="8680063755043078528" name="notification_title_talkback_gestures_changed">"បាន​ប្ដូរ​កាយវិការ​ TalkBack"</string>
+    <string msgid="4350835042954222637" name="notification_title_talkback_suspended">"បាន​ផ្អាក TalkBack"</string>
+    <string msgid="6810236215373132892" name="notification_tutorial_navigate_to_lession_1">"ឈានចូលមេរៀនទី 1.ដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="8377204645672459594" name="notification_type_beginning_of_field">"ផ្នែកចាប់ផ្តើមនៃប្រអប់"</string>
+    <string msgid="7980557705539894781" name="notification_type_end_of_field">"ផ្នែកបញ្ចប់នៃប្រអប់"</string>
+    <string msgid="6585664098525214473" name="notification_type_missed_call">"ខកខាន​ទទួល"</string>
+    <string msgid="3540829343521564569" name="notification_type_selection_cleared">"ការជ្រើសត្រូវបានជម្រះ"</string>
+    <string msgid="5851903648134458514" name="notification_type_selection_mode_off">"បិទ​របៀប​ជ្រើស"</string>
+    <string msgid="9089325915356056509" name="notification_type_selection_mode_on">"បើក​របៀប​​ជ្រើស"</string>
+    <string msgid="3593906461181368010" name="notification_type_status_chat">"ជជែក"</string>
+    <string msgid="8762616334364573004" name="notification_type_status_error">"កំហុស"</string>
+    <string msgid="4889548393564513820" name="notification_type_status_more">"ច្រើន​ទៀត"</string>
+    <string msgid="2024742614005804613" name="notification_type_status_mute">"បិទ​សំឡេង"</string>
+    <string msgid="6675459139116184337" name="notification_type_status_sdcard">"កាត​អេសឌី"</string>
+    <string msgid="6882955062811560802" name="notification_type_status_sdcard_usb">"កាត​អេសឌី យូអេសប៊ី"</string>
+    <string msgid="1071939833188591219" name="notification_type_status_started">"បានចាប់ផ្តើម"</string>
+    <string msgid="6004666820256747725" name="notification_type_status_stopped">"បានបញ្ឈប់"</string>
+    <string msgid="3708903607797168409" name="notification_type_status_sync_noanim">"ធ្វើ​សមកាលកម្ម"</string>
+    <string msgid="1611063561670902017" name="notification_type_status_voicemail">"សារ​ជា​សំឡេង"</string>
+    <string msgid="2034348456907055979" name="option_scan_switch_format">"ប៊ូតុងជម្រើសនៃការស្កេន %1$d"</string>
+    <string msgid="4460266289722058928" name="option_scanning_menu_button">"ម៉ឺនុយ"</string>
+    <string msgid="2204457920803882766" name="orientation_landscape">"ផ្ដេក"</string>
+    <string msgid="7714435567541027105" name="orientation_portrait">"បញ្ឈរ"</string>
+    <string msgid="9043246837899844909" name="override_keycombo">"គ្រាប់ចុចបានប្រើរួចហើយ"</string>
+    <string msgid="3764483710022091999" name="override_keycombo_message_two_params">"បន្សំក្តារចុចនេះត្រូវបានប្រើសម្រាប់សកម្មភាព \'<ns1:g id="ID_1">%1$s</ns1:g>\'។ តើអ្នកចង់ជម្រះវា និងដាក់ផ្លូវកាត់នេះទៅ \'<ns1:g id="ID_2">%2$s</ns1:g>\' ទេ?"</string>
+    <string msgid="8065967887484901473" name="permission_labeling_desc">"សិទ្ធិ​ចូល​ដំណើរការ​, កែប្រែ ​និង​លុប​ស្លាក​ផ្ទាល់​​ខ្លួន​ដែល​បាន​អាន​​ដោយ​ TalkBack ។"</string>
+    <string msgid="2956001661481169498" name="permission_labeling_label">"គ្រប់គ្រង​ស្លាក​ផ្ទាល់ខ្លួន​របស់ TalkBack"</string>
+    <string msgid="8320433482567759963" name="permission_talkback_desc">"សិទ្ធិ​ក្នុង​ការ​ផ្ញើ​កាយវិការ​ទៅកាន់​ TalkBack និង​បន្ត​មតិយោបល់​ដែល​បាន​និយាយ។"</string>
+    <string msgid="2235244838320678938" name="permission_talkback_label">"ពិនិត្យ TalkBack"</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"ជម្រះការស្វែងរក"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"ស្វែងរក"</string>
+    <string msgid="8323015765774812284" name="reset_button_in_reset_keymap_confirm_dialog">"កំណត់ឡើងវិញ"</string>
+    <string msgid="5508730389432571776" name="revert_imported_labels">"ត្រឡប់ស្លាកដែលបាននាំចូល"</string>
+    <string msgid="7106495985061954643" name="row_heading_template">"ចំណងជើងជួរដេក"</string>
+    <string msgid="4107789959609911947" name="row_index_template">"ជួរដេក <ns1:g id="ROW">%1$d</ns1:g>"</string>
+    <string msgid="5398278773451196019" name="save">"រក្សាទុក"</string>
+    <string msgid="378010604065368658" name="screen_brightness_restored">"បានស្តារកម្រិតពន្លឺអេក្រង់"</string>
+    <string msgid="8072279323762069231" name="screen_dimmed">"បានធ្វើឲ្យអេក្រង់ស្រអាប់"</string>
+    <string msgid="176693707001658416" name="screen_dimming_exit_instruction_line1">"សេវាកម្មលទ្ធភាពប្រើប្រាស់ TalkBack បានធ្វើឲ្យអេក្រង់ស្រអាប់។"</string>
+    <string msgid="2111548310775079127" name="screen_dimming_exit_instruction_line2">"មិនធ្វើវិញដោយការចុចប៊ូតុងកម្រិតសម្លេងឡើង និងចុះរួមគ្នាបីដងឲ្យបានលឿន។"</string>
+    <string msgid="7006494712728198438" name="screen_dimming_exit_instruction_line3">"ការធ្វើឲ្យអេក្រង់ស្រអាប់អាចគ្រប់គ្រងបាននៅក្នុងការកំណត់ TalkBack។"</string>
+    <string msgid="5109861709058665917" name="scrollable_backward">"រមូរថយក្រោយ"</string>
+    <string msgid="6312908487874132401" name="scrollable_forward">"រមូរទៅមុខ"</string>
+    <string msgid="7273037326593054813" name="search_dialog_label">"ស្វែងរក៖ <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>"</string>
+    <string msgid="4938867934958343710" name="search_mode_cancel">"បាន​បោះបង់​ការ​ស្វែងរក។"</string>
+    <string msgid="7166574479757238944" name="search_mode_finish">"បាន​បញ្ចប់​ការ​ស្វែងរក។"</string>
+    <string msgid="3919282680896571220" name="search_mode_hint_no_query">"គ្មាន​សំណួរ​ត្រូវ​បាន​បញ្ចូល​។"</string>
+    <string msgid="882227441829755961" name="search_mode_hint_no_selection">"គ្មាន​ធាតុ​ដែល​បាន​ជ្រើស​។"</string>
+    <string msgid="5896493032072187997" name="search_mode_hint_query">"សំណួរ​បច្ចុប្បន្ន៖ <ns1:g id="SEARCH_QUERY">%1$s</ns1:g> ។"</string>
+    <string msgid="8541673936818652399" name="search_mode_hint_selection">"ការ​ជ្រើស​បច្ចុប្បន្ន៖ <ns1:g id="SELECTED_NODE">%1$s</ns1:g> ។"</string>
+    <string msgid="4597528088567439979" name="search_mode_hint_start">"របៀប​ស្វែងរក​។"</string>
+    <string msgid="910823044260738937" name="search_mode_open">"បាន​បើក​របៀប​ស្វែងរក​។"</string>
+    <string msgid="2558372839282319745" name="shortcut_back">"ប៊ូតុង​ថយក្រោយ"</string>
+    <string msgid="9018001118250050381" name="shortcut_copy_last_utterance_to_clipboard">"ចម្លងប្រយោគចុងក្រោយទៅក្ដារតម្បៀតខ្ទាស់"</string>
+    <string msgid="8041762180167320322" name="shortcut_disable_dimming">"កំណត់មិនឲ្យអេក្រង់ស្រអាប់"</string>
+    <string msgid="751310793206738883" name="shortcut_enable_dimming">"កំណត់ឲ្យអេក្រង់ស្រអាប់"</string>
+    <string msgid="4549343120881649603" name="shortcut_first_in_screen">"ផ្តោតលើធាតុដំបូងនៅលើអេក្រង់"</string>
+    <string msgid="5711865496104188848" name="shortcut_hear_lesson">"ពិពណ៌នាម៉ឺនុយ"</string>
+    <string msgid="6670249804418900175" name="shortcut_home">"ប៊ូតុង​​ដើម"</string>
+    <string msgid="1584183195221110323" name="shortcut_last_in_screen">"ផ្តោតលើធាតុចុងក្រោយនៅលើអេក្រង់"</string>
+    <string msgid="8164203174881196072" name="shortcut_local_breakout">"បើក​ម៉ឺនុយ​បរិបទ​​​មូលដ្ឋាន"</string>
+    <string msgid="6887743145853506373" name="shortcut_next">"ធាតុបន្ទាប់"</string>
+    <string msgid="5058063575500265017" name="shortcut_next_granularity">"ការកំណត់ការរុករកបន្ទាប់"</string>
+    <string msgid="5291839248233515759" name="shortcut_notifications">"បើក​ការ​ជូន​ដំណឹង"</string>
+    <string msgid="3649651004283936027" name="shortcut_overview">"ប៊ូតុងទិដ្ឋភាព"</string>
+    <string msgid="1412613174540942399" name="shortcut_pause_feedback">"ផ្អាក​មតិ​ត្រឡប់"</string>
+    <string msgid="3679790113454394245" name="shortcut_previous">"ធាតុពីមុន"</string>
+    <string msgid="5483850878839529117" name="shortcut_previous_granularity">"ការកំណត់ការរុករកពីមុន"</string>
+    <string msgid="7570974794642091616" name="shortcut_print_node_tree">"បោះពុម្ព​មែក​ធាង​ថ្នាំង"</string>
+    <string msgid="5769337869539736463" name="shortcut_read_from_current">"អាន​ពី​ធាតុ​បន្ទាប់"</string>
+    <string msgid="6031418895933550221" name="shortcut_read_from_top">"អាន​ពី​ខាង​លើ"</string>
+    <string msgid="9059705754075010951" name="shortcut_repeat_last_utterance">"អាន​ពាក្យ​ចុងក្រោយ​ម្ដងទៀត"</string>
+    <string msgid="1025337926618449476" name="shortcut_scroll_back">"រមូរថយក្រោយ"</string>
+    <string msgid="7299589176359902775" name="shortcut_scroll_forward">"រមូរទៅមុខ"</string>
+    <string msgid="1996746992705940253" name="shortcut_show_custom_actions">"បង្ហាញសកម្មភាពផ្ទាល់ខ្លួន"</string>
+    <string msgid="642984322649148879" name="shortcut_spell_last_utterance">"ប្រកប​ពាក្យ​ចុង​ក្រោយ"</string>
+    <string msgid="2673085935736432213" name="shortcut_talkback_breakout">"បើក​ម៉ឺនុយ​បរិបទ​ជា​សកល"</string>
+    <string msgid="1803159459924262469" name="shortcut_unassigned">"មិន​បាន​ផ្ដល់"</string>
+    <string msgid="3193206799395252518" name="show_suspend_warning_label">"បង្ហាញ​ការ​ព្រមាន​នេះ​ជា​និច្ច"</string>
+    <string msgid="9028725565467565133" name="start_of_web">"គ្មាន <ns1:g id="ID_1">%1$s</ns1:g> ពីមុនទេ"</string>
+    <string msgid="6000275621941971563" name="status_bar">"របារ​ស្ថានភាព"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1601902797531350013" name="summaryOff_pref_a11y_hints">"ព័ត៌មានជំនួយនឹងមិនបន្លឺឡើងនោះទេ នៅពេលផ្លាស់ទីការផ្តោតមធ្យោបាយងាយស្រួល។"</string>
+    <string msgid="5187278527518557715" name="summaryOff_pref_intonation">"កុំ​ប្ដូរ​​កម្រិត​សំឡេង​ពេល​និយាយ"</string>
+    <string msgid="2801720386630515717" name="summaryOff_pref_phonetic_letters">"អក្សរបញ្ចេញសូរស័ព្ទនឹងមិនត្រូវបាននិយាយទេ"</string>
+    <string msgid="2976964867820234940" name="summaryOff_pref_proximity">"ឧបករណ៍​ចាប់​សញ្ញា​​ក្បែរ​ៗ​មិន​ពិនិត្យ​ការ​និយាយ"</string>
+    <string msgid="1820564330334595916" name="summaryOff_pref_speak_screenoff">"គ្មាន​ការ​និយាយ​នៅ​ពេល​​បិទ​អេក្រង់"</string>
+    <string msgid="7312945354572119026" name="summaryOn_pref_a11y_hints">"គន្លឹះប្រើប្រាស់នឹងត្រូវបាននិយាយចេញមកអំឡុងពេលរុករក ក្រោយការពន្យារពេលបន្តិច។"</string>
+    <string msgid="2753815930477168225" name="summaryOn_pref_intonation">"អាន​មតិ​ត្រឡប់​ក្ដារចុច​នៅ​ក្នុង​កម្រិត​​សំឡេង​​តិចៗ"</string>
+    <string msgid="6864480534029061476" name="summaryOn_pref_phonetic_letters">"តួអក្សរសូរស័ព្ទនឹងបន្លឺឡើង នៅពេលដែលអ្នកចុចជាប់យូរនៅលើក្តារចុច និងនៅពេលផ្លាស់ទីការផ្តោតមធ្យោបាយងាយស្រួលតាមតួអក្សរ។"</string>
+    <string msgid="8552562564045883839" name="summaryOn_pref_proximity">"ឧបករណ៍​ចាប់​សញ្ញា​ក្បែរ​ៗ​ធ្វើ​ឲ្យ​ការ​និយាយ​ស្ងាត់"</string>
+    <string msgid="3200696691374942097" name="summaryOn_pref_speak_screenoff">"ការ​ជូន​ដំណឹង​ត្រូវ​បាន​និយាយ​នៅ​ពេល​បិទ​អេក្រង់​"</string>
+    <string msgid="3575108337945375864" name="summary_pref_play_store">"កំណែ TalkBack បច្ចុប្បន្ន៖ <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1868206223500105704" name="summary_pref_single_tap">"(សាកល្បង) ប៉ះនៅលើធាតុដែលបានផ្តោតបច្ចុប្បន្នដើម្បីធ្វើឲ្យសកម្ម"</string>
+    <string msgid="4049484318410744029" name="summary_pref_use_audio_focus">"បន្ថយ​កម្រិត​សំឡេង​អូឌីយ៉ូ​ផ្សេង​ទៀត​​​ពេល​​និយាយ"</string>
+    <string msgid="3996491708050765411" name="summary_pref_web_scripts">"ទាញ​យក​ស្គ្រីប​ភាព​ងាយស្រួល​សម្រាប់​មាតិកា​បណ្ដាញ"</string>
+    <string msgid="8907204357556153170" name="switch_access_auto_start_scan_summary">"ការស្កេនចាប់ផ្តើមដោយមិនចាំបាច់ចុចបិទ/បើក"</string>
+    <string msgid="1112172023292555792" name="switch_access_auto_start_scan_title">"ចាប់ផ្តើមស្កេនដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="2470480705014577440" name="switch_access_dup_bounds_format">"%1$s (%2$d)"</string>
+    <string msgid="777214990214649732" name="switch_access_global_menu_disable_autoselect">"បិទដំណើរការជ្រើសដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="1781611399874689922" name="switch_access_global_menu_enable_autoselect">"បើកដំណើរការជ្រើសដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="1084530527433232522" name="switch_access_move_next_character">"តួអក្សរបន្ទាប់"</string>
+    <string msgid="1957454942120077989" name="switch_access_move_next_line">"ជួរបន្ទាប់"</string>
+    <string msgid="5509521398337232740" name="switch_access_move_next_page">"ទំព័របន្ទាប់"</string>
+    <string msgid="2401188575204362710" name="switch_access_move_next_paragraph">"កថាខណ្ឌបន្ទាប់"</string>
+    <string msgid="4364935355445273844" name="switch_access_move_next_word">"ពាក្យបន្ទាប់"</string>
+    <string msgid="8927445469710181053" name="switch_access_move_prev_character">"តួអក្សរមុន"</string>
+    <string msgid="4933911200239574311" name="switch_access_move_prev_line">"ជួរមុន"</string>
+    <string msgid="2162166283498843093" name="switch_access_move_prev_page">"ទំព័រមុន"</string>
+    <string msgid="6628794063582527750" name="switch_access_move_prev_paragraph">"កថាខណ្ឌមុន"</string>
+    <string msgid="8425765588178702402" name="switch_access_move_prev_word">"ពាក្យមុន"</string>
+    <string msgid="8339289604407443597" name="switch_access_preferences_title">"ប្ដូរ​ចំណូល​ចិត្ត​ការ​ចូល​ដំណើរ​ការ"</string>
+    <string msgid="1958519878116811543" name="switch_access_service_description">"លក្ខណៈពិសេសប្តូរការចូលដំណើរការអនុញ្ញាតឲ្យអ្នកស្កេន និងជ្រើសធាតុដោយប្រើការប្តូរមួយ ឬច្រើន។"</string>
+    <string msgid="6043415138576713888" name="switch_service_name">"ប្ដូរ​ការ​ចូល​ដំណើរ​ការ"</string>
+    <string msgid="7456083235616834438" name="symbol_almost_equals">"ស្នើ​ស្ទើរតែ​ទាំងអស់"</string>
+    <string msgid="2896965192299496498" name="symbol_ampersand">"និង"</string>
+    <string msgid="7380903071611293121" name="symbol_angle_bracket_left">"វង់ក្រចក​មុំ​ខាង​ឆ្វេង"</string>
+    <string msgid="1868235467151646558" name="symbol_angle_bracket_right">"វង់ក្រចក​មុំ​ខាង​ស្ដាំ"</string>
+    <string msgid="7208629120802819915" name="symbol_apostrophe">"វណ្ណយុត្ត"</string>
+    <string msgid="3850753675865899520" name="symbol_approximately_equals">"ប្រហែលនឹង"</string>
+    <string msgid="6817126584493630223" name="symbol_asterisk">"សញ្ញា​ផ្កាយ"</string>
+    <string msgid="2065827119717043200" name="symbol_at_sign">"នៅ"</string>
+    <string msgid="1611754081972480510" name="symbol_backslash">"ឆូតបកក្រោយ"</string>
+    <string msgid="5289487097432366247" name="symbol_beamed_sixteenth_note">"សញ្ញាភ្លេង"</string>
+    <string msgid="4016846628518042983" name="symbol_black_circle">"រង្វង់ខ្មៅ"</string>
+    <string msgid="2472170057113549474" name="symbol_black_heart">"បេះពណ៌ខ្មៅ"</string>
+    <string msgid="3400946876721230212" name="symbol_black_square">"ការេខ្មៅ"</string>
+    <string msgid="6183317822489362024" name="symbol_black_star">"ផ្កាយខ្មៅ"</string>
+    <string msgid="6813132652561276644" name="symbol_broken_bar">"របារ​ខូច"</string>
+    <string msgid="8476099303225493047" name="symbol_bullet">"ចំណុច"</string>
+    <string msgid="7971468907049474418" name="symbol_bullseye">"ក្តាររង្វង់"</string>
+    <string msgid="3928223571254608359" name="symbol_caret">"ការ៉ាត់"</string>
+    <string msgid="1072933014815535633" name="symbol_celsius_degree">"ដឺក្រេស៊ែលស៊ីស"</string>
+    <string msgid="2397683564958310433" name="symbol_cent">"សេន"</string>
+    <string msgid="3982983201762226254" name="symbol_circle_left_half_black">"រង្វង់ពណ៌ខ្មៅខាងឆ្វេងពាក់កណ្តាល"</string>
+    <string msgid="2702128700103408427" name="symbol_circle_right_half_black">"រង្វង់ពណ៌ខ្មៅខាងស្តាំពាក់កណ្តាល"</string>
+    <string msgid="4099865219187606667" name="symbol_colon">"ចុចពីរ"</string>
+    <string msgid="5645826628625828518" name="symbol_comma">"ក្បៀស"</string>
+    <string msgid="4560734240781916706" name="symbol_copyright">"រក្សាសិទ្ធិ"</string>
+    <string msgid="2875419571455950965" name="symbol_curly_bracket_left">"ដង្កៀបអង្កាញ់ឆ្វេង"</string>
+    <string msgid="7223443061586552971" name="symbol_curly_bracket_right">"ដង្កៀបអង្កាញ់ស្តាំ"</string>
+    <string msgid="3851601116109370799" name="symbol_currency_sign">"សញ្ញា​រូបិយប័ណ្ណ"</string>
+    <string msgid="2370756516179429371" name="symbol_degree">"ដឺក្រេ"</string>
+    <string msgid="8469030548234745900" name="symbol_division">"សញ្ញា​ចែក"</string>
+    <string msgid="7172720889757863645" name="symbol_dollar_sign">"សញ្ញាដុល្លារ"</string>
+    <string msgid="1093826934627615258" name="symbol_downwards_arrow">"ព្រួញចុះក្រោម"</string>
+    <string msgid="7550656761730728669" name="symbol_eighth_note">"ណោតភ្លេងទីប្រាំបី"</string>
+    <string msgid="6107023479924320264" name="symbol_ellipsis">"ចុចបី"</string>
+    <string msgid="9095293634011901230" name="symbol_em_dash">"ឆូតវែង"</string>
+    <string msgid="7221481427651082891" name="symbol_en_dash">"ឆូតខ្លី"</string>
+    <string msgid="5554709359828733331" name="symbol_equal">"សញ្ញាស្មើ"</string>
+    <string msgid="7368999812147737584" name="symbol_euro">"អឺរ៉ូ"</string>
+    <string msgid="988583649131855220" name="symbol_exclamation_mark">"សញ្ញាឧទាន"</string>
+    <string msgid="7868161106382873456" name="symbol_fahrenheit_degree">"កម្រិតហ្វារិនហៃ"</string>
+    <string msgid="2832652212740214355" name="symbol_female">"និមិត្មសញ្ញាស្រី"</string>
+    <string msgid="2871187029685072964" name="symbol_grave_accent">"បន្តក់ទម្លាក់សំឡេង"</string>
+    <string msgid="6395913704731547145" name="symbol_hyphen_minus">"ឆូត"</string>
+    <string msgid="6535139335710090448" name="symbol_integral">"រួមបញ្ជូល"</string>
+    <string msgid="4461462147632976820" name="symbol_left_black_lenticular_bracket">"តង្រៀប Lenticular ខ្មៅខាងឆ្វេង"</string>
+    <string msgid="2662006752461479838" name="symbol_left_corner_bracket">"តង្កៀបជ្រុងខាងឆ្វេង"</string>
+    <string msgid="2516207072081863313" name="symbol_leftwards_arrow">"សញ្ញា​ព្រួញ​ទៅ​ឆ្វេង"</string>
+    <string msgid="4485675468642882911" name="symbol_liter">"លីត្រ"</string>
+    <string msgid="1311537029059161496" name="symbol_low_double_quote">"សញ្ញា​សម្រង់​ទាប"</string>
+    <string msgid="614668218440322904" name="symbol_male">"និមិត្មសញ្ញាបុរស"</string>
+    <string msgid="3513065482309329740" name="symbol_micro_sign">"សញ្ញា​មីក្រូហ្វូន"</string>
+    <string msgid="4500464364344640871" name="symbol_multiplication">"សញ្ញា​គុណ"</string>
+    <string msgid="6848635267438885623" name="symbol_new_line">"បន្ទាត់​ថ្មី"</string>
+    <string msgid="5319485097346278422" name="symbol_not_equals">"មិន​ស្មើ"</string>
+    <string msgid="6673590940229304440" name="symbol_not_sign">"គ្មាន​សញ្ញា"</string>
+    <string msgid="5514376704992468938" name="symbol_paragraph_mark">"សម្គាល់​កថាខណ្ឌ"</string>
+    <string msgid="6800146954886245634" name="symbol_parenthesis_left">"វង់​ក្រចកឆ្វេង"</string>
+    <string msgid="7215651695123277015" name="symbol_parenthesis_right">"វង់​ក្រចក​ស្ដាំ"</string>
+    <string msgid="5459242644598387133" name="symbol_percent">"ភាគរយ"</string>
+    <string msgid="5437120137086222612" name="symbol_period">"ចុច"</string>
+    <string msgid="9110332441949361829" name="symbol_pi">"Pi"</string>
+    <string msgid="9058945923657357434" name="symbol_plus_minus_sign">"សញ្ញាបូកដក"</string>
+    <string msgid="93826676999305096" name="symbol_pound">"ផោន"</string>
+    <string msgid="728725055605726481" name="symbol_pound_sterling">"ផោន"</string>
+    <string msgid="5036555895753560541" name="symbol_quarter_note">"សញ្ញាត្រីមាស"</string>
+    <string msgid="8540567415937384964" name="symbol_question_mark">"សញ្ញាសួរ"</string>
+    <string msgid="1191348665202247948" name="symbol_quotation_mark">"សម្រង់"</string>
+    <string msgid="905951483425189419" name="symbol_reference">"សញ្ញាសេចក្តីយោង"</string>
+    <string msgid="3258562921626703647" name="symbol_registered_trademark">"សញ្ញា​សម្គាល់​ដែល​បាន​ចុះ​ឈ្មោះ"</string>
+    <string msgid="3919101748915826659" name="symbol_right_black_lenticular_bracket">"តង្កៀប Lenticular ខ្មៅខាងស្តាំ"</string>
+    <string msgid="4305940879297701054" name="symbol_right_corner_bracket">"សញ្ញាតង្កៀបជ្រុងខាងស្តាំ"</string>
+    <string msgid="3621071010761086207" name="symbol_rightwards_arrow">"ព្រួញទៅស្តាំ"</string>
+    <string msgid="5442584145297714761" name="symbol_rupee">"រូពី"</string>
+    <string msgid="1425993244831126813" name="symbol_section_sign">"សញ្ញាផ្នែក"</string>
+    <string msgid="5125185295573713214" name="symbol_semicolon">"ក្បៀសចុច"</string>
+    <string msgid="7183595255121136380" name="symbol_slash">"ឆូតទៅមុខ"</string>
+    <string msgid="5566592322045991166" name="symbol_smiley">"មុខ​ញញឹម"</string>
+    <string msgid="803832672390677661" name="symbol_solar">"សញ្ញាព្រះអាទិត្យ"</string>
+    <string msgid="5752206151798562920" name="symbol_space">"ដកឃ្លា"</string>
+    <string msgid="8272586261793885172" name="symbol_square_bracket_left">"ដង្កៀបជ្រុងឆ្វេង"</string>
+    <string msgid="5927399844117072754" name="symbol_square_bracket_right">"ដង្កៀបជ្រុងស្តាំ"</string>
+    <string msgid="683692620277245490" name="symbol_square_root">"ឫសការ៉េ"</string>
+    <string msgid="8207841648391314530" name="symbol_tilde">"សញ្ញាទឹករលក"</string>
+    <string msgid="3263529639090333558" name="symbol_trademark">"និក្ខិត្ត​សញ្ញា​"</string>
+    <string msgid="7192169250700774805" name="symbol_underscore">"សញ្ញា _"</string>
+    <string msgid="6338361764081105639" name="symbol_upwards_arrow">"សញ្ញា​ព្រួញ​ឡើង​លើ"</string>
+    <string msgid="1121156640601168272" name="symbol_vertical_bar">"របារ​បញ្ឈរ"</string>
+    <string msgid="246091813103192112" name="symbol_white_circle">"រង្វង់ស"</string>
+    <string msgid="9023266146462694521" name="symbol_white_club_suit">"សញ្ញាជួង"</string>
+    <string msgid="148190588729388201" name="symbol_white_diamond">"ពេជ្រស"</string>
+    <string msgid="2759895601608939558" name="symbol_white_down_pointing_triangle">"ត្រីកោណចង្អុលចុះក្រោមពណ៌ស"</string>
+    <string msgid="3902539821929296760" name="symbol_white_heart">"បេះដូងស"</string>
+    <string msgid="5774703989927211853" name="symbol_white_left_pointing_index">"សន្ទស្សន៍ចង្អុលទៅខាងឆ្វេងពណ៌ស"</string>
+    <string msgid="4714391974332267014" name="symbol_white_left_pointing_triangle">"ត្រីកោណចង្អុលទៅខាងឆ្វេងពណ៌ស"</string>
+    <string msgid="6971705818446128861" name="symbol_white_right_pointing_index">"សន្ទស្សន៍ចង្អុលខាងស្តាំពណ៌ស"</string>
+    <string msgid="1147044895009619696" name="symbol_white_right_pointing_triangle">"ត្រីកោណចង្អុលទៅស្តាំពណ៌ស"</string>
+    <string msgid="364770901730057047" name="symbol_white_spade_suit">"សញ្ញាសន្លឹកប៊ិច"</string>
+    <string msgid="6607687155279147668" name="symbol_white_square">"ការេស"</string>
+    <string msgid="6150436720760853960" name="symbol_white_star">"ផ្កាយស"</string>
+    <string msgid="1445685217848949209" name="symbol_white_up_pointing_triangle">"ត្រីកោណចង្អុលឡើងលើពណ៌"</string>
+    <string msgid="6959844046981982031" name="symbol_won">"សញ្ញាវ៉ុន"</string>
+    <string msgid="5956873078564706159" name="symbol_yen">"យ៉ន"</string>
+    <string msgid="6065419331469295927" name="talkback_built_in_gesture_change_details">"កំណែ TalkBack នេះ​រួម​មាន​ការ​ប្ដូរ​កាយវិការ​ភាព​ងាយស្រួល​លំនាំដើម។\n\nកាយវិការ​ឡើង​លើ​ចុះ​ក្រោយ​នឹង​អនុញ្ញាត​ឲ្យ​អ្នក​ផ្លាស់ទី​ទៅ​ធាតុ​ដំបូង​នៅ​លើ​អេក្រង់ និង​កាយវិការ​ចុះក្រោម​ ឡើងលើ​នឹង​ផ្លាស់ទី​ទៅ​ធាតុ​ចុងក្រោយ។\n\nឥឡូវ​ការ​អាន​អាច​​ប្ដូរ​ដោយ​ផ្ដោត​លើ​ធាតុ បន្ទាប់​មក​ជ្រើស​ពី​ម៉ឺនុយ​បរិបទ​មូលដ្ឋាន។\n\nអ្នក​អាច​ប្ដូរ​សកម្មភាព​ដែល​បាន​អនុវត្ត​ដោយ​កាយវិការ​ទាំង​នេះ​នៅ​ក្នុង​ការ​កំណត់ TalkBack ។"</string>
+    <string msgid="7727588774719330051" name="talkback_built_in_gesture_change_details_45">"កំណែ TalkBack នេះរួមបញ្ចូលទាំងការផ្លាស់ប្តូរចំពោះកាយវិការបញ្ជាសម្រាប់លទ្ធភាពប្រើប្រាស់លំនាំដើម។\n\nឥឡូវនេះកាយវិការបញ្ជាឡើងបានផ្លាស់ទីទៅការកំណត់ការបញ្ជាពីមុន ហើយកាយវិការបញ្ជាចុះបានផ្លាស់ទីទៅការកំណត់ការបញ្ជាបន្ទាប់។"</string>
+    <string msgid="2536155587482587238" name="talkback_disabled">"TalkBack ត្រូវបានបិទ"</string>
+    <string msgid="1242896734553682887" name="talkback_gesture_change_details">"កំណែ TalkBack នេះ​រួមមាន​ការ​ផ្លាស់ប្ដូរ​ទៅ​កាយវិការ​ភាព​ងាយស្រួល​លំនាំដើម។ សកម្មភាព​ដែល​បាន​ភ្ជាប់​ជា​មួយ​កាយវិការ​ទាំង​នេះ​អាច​ត្រូវ​បាន​ប្ដូរ​តាម​តម្រូវ​ការ​នៅ​ក្នុង​ការ​កំណត់ TalkBack ។ នៅ​ពេល​ការ​រុករក​ដោយ​ប៉ះ​ត្រូវ​បាន​បើក អ្នក​អាច​ប្រើ​កាយវិការ​ដូច​ខាង​ក្រោម​ដើម្បី​អនុវត្ត​សកម្មភាព​ជាក់លាក់។\n\n<ns1:g id="MAPPINGS">%1$s</ns1:g>"</string>
+    <string msgid="315529674405160699" name="talkback_on">"TalkBack បានបើក"</string>
+    <string msgid="1318051290124952165" name="talkback_preferences_subtitle">"កំណែ <ns1:g id="VERSION_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4249486159144445549" name="talkback_preferences_title">"ការ​កំណត់ TalkBack"</string>
+    <string msgid="3229591037647690759" name="talkback_resumed">"បានបន្ត TalkBack"</string>
+    <string msgid="5081383053733275450" name="talkback_service_description">"នៅពេលបើក TalkBack ឧបករណ៍របស់អ្នកផ្តល់នូវមតិដោយការនិយាយដើម្បីជួយអ្នកប្រើដែលពិការ និងខ្សោយភ្នែក។ ឧទាហរណ៍៖ វាបន្លឺសំឡេងដើម្បីពិពណ៌នាពីអ្វីដែលអ្នកប៉ះ ជ្រើស និងធ្វើឲ្យសកម្ម។ \n\nប្រសិនបើអ្នកបើក TalkBack ដោយចៃដន្យ សូមបិទវាដោយប៉ះគន្លឹះបិទ/បើក រហូតដល់ខ្សែដិតពណ៌បៃតងបង្ហាញឡើងនៅជុំវិញវា បន្ទាប់មកប៉ះវាពីរដង។ ធ្វើសកម្មភាពដូចគ្នាសម្រាប់ប្រអប់បញ្ជាក់លទ្ធផល។"</string>
+    <string msgid="183421830476125877" name="talkback_suspended">"បានផ្អាក TalkBack"</string>
+    <string msgid="7563462166661082029" name="tap_sensitivity_high">"ខ្ពស់"</string>
+    <string msgid="6514475998218787336" name="tap_sensitivity_low">"ទាប"</string>
+    <string msgid="1137618443590383650" name="tap_sensitivity_lowest">"ទាប​បំផុត"</string>
+    <string msgid="5512827926666078515" name="tap_sensitivity_medium">"មធ្យម"</string>
+    <string msgid="5493715708649314332" name="template_alert_dialog_template">"ជូន​ដំណឹង <ns1:g id="MESSAGE">%1$s</ns1:g>"</string>
+    <string msgid="8500638272120951960" name="template_announce_selected_text">"អត្ថបទដែលបានជ្រើស៖ <ns1:g id="SELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="4920626008395727629" name="template_capital_letter">"អក្សរ​ធំ <ns1:g id="UPPERCASE_CHARACTER">%1$s</ns1:g>"</string>
+    <string msgid="2038200557537960378" name="template_charging">"ភាគរយ <ns1:g id="CHANGING_STATUS">%1$s</ns1:g> កម្រិតថ្ម <ns1:g id="BATTERY_LEVEL">%2$s</ns1:g> កំពុងសាក។"</string>
+    <string msgid="2167296836815021551" name="template_collection_end">"ក្នុងចំណោម <ns1:g id="COLLECTION_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8386016656549198972" name="template_collection_level">"វគ្គ <ns1:g id="LEVEL">%1$s</ns1:g>"</string>
+    <string msgid="4362535543397747567" name="template_collection_start">"ក្នុង <ns1:g id="COLLECTION_NAME">%1$s</ns1:g>"</string>
+    <string msgid="3963364867159704159" name="template_current_tts_engine">"ប្រើ <ns1:g id="ENGINE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="6271864053572367186" name="template_custom_hint_for_actions">"<ns1:g id="ACTION">%1$s</ns1:g> ដើម្បី <ns1:g id="HINT">%2$s</ns1:g>"</string>
+    <string msgid="3049485226126876806" name="template_custom_hint_for_actions_keyboard">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បី <ns1:g id="HINT">%2$s</ns1:g>"</string>
+    <string msgid="1384724119268711688" name="template_custom_hint_for_long_clickable_actions">"<ns1:g id="ACTION">%1$s</ns1:g> ឲ្យយូរដើម្បី <ns1:g id="HINT">%2$s</ns1:g>"</string>
+    <string msgid="384588741799097665" name="template_drawer_opened">"ម៉ឺនុយ <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="504233139047201761" name="template_hint_checkable">"<ns1:g id="ACTION">%1$s</ns1:g> ដើម្បី​បិទ/បើក"</string>
+    <string msgid="3968541225490733596" name="template_hint_checkable_keyboard">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីបិទ/បើក"</string>
+    <string msgid="3443819371543556149" name="template_hint_clickable">"<ns1:g id="ACTION">%1$s</ns1:g> ដើម្បីធ្វើឲ្យសកម្ម"</string>
+    <string msgid="5861489320881379198" name="template_hint_clickable_keyboard">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីធ្វើឲ្យសកម្ម"</string>
+    <string msgid="543401796694872575" name="template_hint_custom_actions">"សកម្មភាពផ្ទាល់ខ្លួន"</string>
+    <string msgid="2298057410435081106" name="template_hint_edit_text">"<ns1:g id="ACTION">%1$s</ns1:g> ដើម្បី​បញ្ចូល​អត្ថបទ។"</string>
+    <string msgid="7634371425618645820" name="template_hint_edit_text_keyboard">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីបញ្ចូលអត្ថបទ"</string>
+    <string msgid="4546854599035099034" name="template_hint_long_clickable">"<ns1:g id="ACTION">%1$s</ns1:g> និង​សង្កត់​ឲ្យ​យូរ។"</string>
+    <string msgid="1256266252223424130" name="template_hint_long_clickable_keyboard">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីចុចឲ្យជាប់"</string>
+    <string msgid="5090637252098427661" name="template_hint_pager">"អូសដោយប្រើម្រាមពីរដើម្បីប្តូរទំព័រ"</string>
+    <string msgid="3607132801071926505" name="template_hint_pager_single_page">"មិនមានទំព័របន្ថែមទៀតទេ"</string>
+    <string msgid="8074023820596008628" name="template_hint_seek_control_tv">"<ns1:g id="ACTION">%1$s</ns1:g> ដើម្បី​ផ្លាស់ប្ដូរ។"</string>
+    <string msgid="7251008361827086735" name="template_hint_spinner">"<ns1:g id="ACTION">%1$s</ns1:g> ដើម្បី​ផ្លាស់ប្ដូរ។"</string>
+    <string msgid="7561069958801230664" name="template_hint_spinner_keyboard">"ចុច <ns1:g id="KEYCOMBO">%1$s</ns1:g> ដើម្បីប្តូរ"</string>
+    <string msgid="6575017531554968477" name="template_labeled_item">"<ns1:g id="ITEM">%1$s</ns1:g> សម្រាប់ <ns1:g id="LABEL">%2$s</ns1:g>"</string>
+    <string msgid="1962442828386303832" name="template_long_clicked">"ចុច​ឲ្យ​យូរ <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="2592357933256217001" name="template_menu">"<ns1:g id="TITLE">%1$s</ns1:g> ម៉ឺនុយ"</string>
+    <string msgid="5665980541549462608" name="template_no_text_selected">"គ្មានអត្ថបទដែលបានជ្រើសទេ"</string>
+    <string msgid="962942796289068525" name="template_password_selected">"តួអក្សរ <ns1:g id="FROM_INDEX">%1$d</ns1:g> ទៅ <ns1:g id="TO_INDEX">%2$d</ns1:g>"</string>
+    <string msgid="937695852582849077" name="template_password_traversed">"តួអក្សរ <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="6118803183030408820" name="template_percent">"<ns1:g id="PERCENTAGE">%1$s</ns1:g> ភាគរយ។"</string>
+    <string msgid="6384850410145990959" name="template_replaced_characters">"<ns1:g id="OLD_TEXT_LENGTH">%1$s</ns1:g> បាន​ជំនួស​តួអក្សរ​ដោយ <ns1:g id="NEW_TEXT_LENGTH">%2$s</ns1:g> តួអក្សរ"</string>
+    <string msgid="4696666433263950881" name="template_scroll_from_count">"បង្ហាញ​ធាតុ <ns1:g id="FROM_INDEX">%1$d</ns1:g> នៃ <ns1:g id="TOTAL_COUNT">%2$d</ns1:g> ។"</string>
+    <string msgid="2060702043504844709" name="template_scroll_from_to_count">"បង្ហាញ​ធាតុ <ns1:g id="FROM_INDEX">%1$d</ns1:g> ដល់ <ns1:g id="TO_INDEX">%2$d</ns1:g> នៃ <ns1:g id="TOTAL_COUNT">%3$d</ns1:g> ។"</string>
+    <string msgid="1256791763596391124" name="template_split_screen_mode_landscape_ltr">"<ns1:g id="ID_1">%1$s</ns1:g> នៅខាងឆ្វេង <ns1:g id="ID_2">%2$s</ns1:g> នៅខាងស្តាំ"</string>
+    <string msgid="7868698948612319665" name="template_split_screen_mode_landscape_rtl">"<ns1:g id="ID_1">%1$s</ns1:g> នៅខាងស្តាំ <ns1:g id="ID_2">%2$s</ns1:g> នៅខាងឆ្វេង"</string>
+    <string msgid="7565682598301271955" name="template_split_screen_mode_portrait">"<ns1:g id="ID_1">%1$s</ns1:g> ខាងលើ <ns1:g id="ID_2">%2$s</ns1:g> ខាងក្រោម"</string>
+    <string msgid="1816951995792085063" name="template_stream_volume">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> ទំហំ <ns1:g id="PERCENT">%2$d</ns1:g> ភាគ​រយ​។"</string>
+    <string msgid="4964670773272907835" name="template_stream_volume_set">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> កំណត់​កម្រិត​សំឡេង​ដល់ <ns1:g id="PERCENT">%2$d</ns1:g> ភាគរយ។"</string>
+    <string msgid="1059175355898959427" name="template_text_copied">"បានថតចម្លង <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="7952067813030057908" name="template_text_cut">"បានកាត់ <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="153775825635730287" name="template_text_error">"ធាតុបញ្ចូលគ្មានសុពលភាព <ns1:g id="ERROR_MSG">%1$s</ns1:g>"</string>
+    <string msgid="8439319384947093963" name="template_text_pasted">"បានបិទភ្ជាប់ <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="2069327286898545053" name="template_text_removed">"បាន​លុប <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="837970148139617839" name="template_text_replaced">"<ns1:g id="NEW_TEXT">%1$s</ns1:g> បាន​ជំនួស <ns1:g id="OLD_TEXT">%2$s</ns1:g>"</string>
+    <string msgid="7969528330209940634" name="template_text_selected">"<ns1:g id="SELECTED_TEXT">%1$s</ns1:g> បានជ្រើស"</string>
+    <string msgid="8491489660236837367" name="template_text_unselected">"<ns1:g id="UNSELECTED_TEXT">%1$s</ns1:g> មិនបានជ្រើស"</string>
+    <string msgid="4410160163389481887" name="template_tv_remote_mode_ended">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> បានបញ្ចប់"</string>
+    <string msgid="5968574403263650425" name="template_tv_remote_mode_started">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> បានចាប់ផ្តើម"</string>
+    <string msgid="4811442521690748167" name="template_viewpager_index_count">"ទំព័រ <ns1:g id="PAGE_INDEX">%1$d</ns1:g> នៃ <ns1:g id="TOTAL_COUNT">%2$d</ns1:g>"</string>
+    <string msgid="5093912546331180510" name="template_viewpager_index_count_short">"<ns1:g id="PAGE_INDEX">%1$d</ns1:g> នៃ <ns1:g id="TOTAL_COUNT">%2$d</ns1:g>"</string>
+    <string msgid="2517638358851774040" name="title_activity_dump_a11y_event">"ជ្រើសព្រឹត្តិការណ៍ដែលត្រូវធ្វើកំណត់ហេតុ"</string>
+    <string msgid="7908169922901920318" name="title_custom_action">"សកម្មភាព​ផ្ទាល់ខ្លួន"</string>
+    <string msgid="4738051430500766039" name="title_dim_screen_when_talkback_enabled">"ធ្វើឲ្យអេក្រង់ស្រអាប់នៅពេលបើកដំណើរការ TalkBack"</string>
+    <string msgid="55211944889868460" name="title_edittext_breakout_end_selection_mode">"បញ្ចប់​របៀប​ជ្រើស"</string>
+    <string msgid="4021304144865258223" name="title_edittext_breakout_move_to_beginning">"ផ្លាស់ទី​ទស្សន៍ទ្រនិច​ដើម្បី​ចាប់ផ្ដើម"</string>
+    <string msgid="3197737555808584828" name="title_edittext_breakout_move_to_end">"ផ្លាស់ទី​ទស្សន៍ទ្រនិច​ទៅ​ចុង"</string>
+    <string msgid="4183196270306568761" name="title_edittext_breakout_start_selection_mode">"ចាប់ផ្ដើម​របៀប​ជ្រើស"</string>
+    <string msgid="2102286116390895883" name="title_edittext_controls">"វត្ថុ​បញ្ជា​ទស្សន៍ទ្រនិច"</string>
+    <string msgid="399801096771904747" name="title_granularity">"ការកំណត់ការរុករក"</string>
+    <string msgid="5005702316138877183" name="title_labeling_controls">"ស្លាក"</string>
+    <string msgid="5016265453627241456" name="title_local_breakout_no_items">"មិន​មាន​ធាតុ​ម៉ឺនុយ"</string>
+    <string msgid="3770770318417664565" name="title_pref_a11y_hints">"និយាយគន្លឹះប្រើប្រាស់"</string>
+    <string msgid="7396126388313295285" name="title_pref_auto_scan_time_delay">"រយៈពេលស្កេនដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="306503376875826605" name="title_pref_auto_scroll">"រមូរ​ស្វ័យប្រវត្តិ"</string>
+    <string msgid="2804297157354831139" name="title_pref_category_auto_scan">"ស្កេនដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="4277057711356252674" name="title_pref_category_built_in_gestures">"កាយវិការ​ជាប់​មក​ស្រាប់"</string>
+    <string msgid="3576441094143356231" name="title_pref_category_developer_settings">"ការ​កំណត់​​របស់​អ្នក​អភិវឌ្ឍ"</string>
+    <string msgid="3417629010416895022" name="title_pref_category_feedback_settings">"មតិ​ត្រឡប់​ផ្សេងៗ"</string>
+    <string msgid="463227090301036752" name="title_pref_category_key_mappings">"កំណត់​គ្រាប់ចុច​ឲ្យ​សកម្ម"</string>
+    <string msgid="6578504997140953627" name="title_pref_category_manage_gestures">"គ្រប់គ្រង​កាយវិការ"</string>
+    <string msgid="611512059219131263" name="title_pref_category_miscellaneous_settings">"ផ្សេងៗ"</string>
+    <string msgid="3352934615940599431" name="title_pref_category_scan_key_mappings">"កំណត់គ្រាប់ចុចសម្រាប់ស្កេន"</string>
+    <string msgid="8846405149013321460" name="title_pref_category_side_tap_shortcuts">"(ពិសោធន៍​) ប៉ះ​ចំហៀង​ឧបករណ៍"</string>
+    <string msgid="802401622203667328" name="title_pref_category_touch_exploration">"ការ​រុករ​ក​ដោយ​ប៉ះ"</string>
+    <string msgid="4974406968544300731" name="title_pref_category_touch_shortcuts">"កាយវិការ​ផ្លូវកាត់"</string>
+    <string msgid="463133232649258739" name="title_pref_category_when_to_speak">"និយាយ"</string>
+    <string msgid="7170662881035255012" name="title_pref_dim_volume_three_clicks">"ផ្លូវកាត់កំណត់ឲ្យអេក្រង់ស្រអាប់"</string>
+    <string msgid="3999046718706391324" name="title_pref_dump_a11y_event">"ការធ្វើកំណត់ហេតុព្រឹត្តិការណ៍លទ្ធភាពចូលដំណើរការតម្រង"</string>
+    <string msgid="1836003265647871107" name="title_pref_explore_by_touch">"រក​មើល​ដោយ​ការ​ប៉ះ"</string>
+    <string msgid="8576056446194448505" name="title_pref_export_custom_labels">"នាំចេញស្លាកផ្ទាល់ខ្លួន"</string>
+    <string msgid="2022820131100451763" name="title_pref_help">"ជំនួយ"</string>
+    <string msgid="5718610056539542854" name="title_pref_help_and_feedback">"ជំនួយ និងមតិ"</string>
+    <string msgid="7578057484183597929" name="title_pref_help_feedback">"ជំនួយ និងមតិ"</string>
+    <string msgid="6745845465683574401" name="title_pref_highlight_0">"ការស្កេនស្តាយ៍ហាយឡាយ"</string>
+    <string msgid="2495577882313852825" name="title_pref_highlight_0_color">"ពណ៌ហាយឡាយ"</string>
+    <string msgid="7296464279890648714" name="title_pref_highlight_0_weight">"ស្តាយ៍បន្ទាត់ហាយឡាយ"</string>
+    <string msgid="7375380428425494034" name="title_pref_intonation">"ប្រើការ​ប្ដូរ​សំឡេង"</string>
+    <string msgid="8300291129646957414" name="title_pref_keyboard_echo">"អេកូ​ក្ដារចុច"</string>
+    <string msgid="267415170405921603" name="title_pref_log_level">"កម្រិត​លទ្ធផល​កំណត់​ហេតុ"</string>
+    <string msgid="1365850439559496078" name="title_pref_manage_keyboard_shortcuts">"គ្រប់គ្រងផ្លូវកាត់ក្តារចុច"</string>
+    <string msgid="8796338627297226539" name="title_pref_manage_labels">"គ្រប់គ្រង​ស្លាក​ផ្ទាល់ខ្លួន"</string>
+    <string msgid="4315025096187253577" name="title_pref_phonetic_letters">"និយាយអក្សរបញ្ចេញសូរស័ព្ទ"</string>
+    <string msgid="5158596411034985043" name="title_pref_play_store">"បើក TalkBack នៅ​ឃ្លាំង​កម្មវិធី"</string>
+    <string msgid="3250995506517482375" name="title_pref_primary_scan_style">"រចនាបទស្កេនចម្បង"</string>
+    <string msgid="4533552749993575929" name="title_pref_proximity">"ប្រើ​ឧបករណ៍​ចាប់​សញ្ញា​ជិតៗ"</string>
+    <string msgid="4098949311311089235" name="title_pref_resume_talkback">"បន្ត​ពី​ការ​ផ្អាក"</string>
+    <string msgid="2351427385843210311" name="title_pref_scanning_methods">"វិធីសាស្ត្រស្កេន"</string>
+    <string msgid="1335607796304866893" name="title_pref_shake_to_read_threshold">"គ្រវី​ ដើម្បី​​បន្ត​ការ​អាន"</string>
+    <string msgid="4454853121476703529" name="title_pref_shortcut_double_tap">"ប៉ះ​ចំហៀង​ពីរ​ដង"</string>
+    <string msgid="7510938211617979299" name="title_pref_shortcut_down">"អួសចុះ"</string>
+    <string msgid="6249716604721789627" name="title_pref_shortcut_down_and_left">"អូស​ចុះក្រោម ​ហើយ​ទៅ​ឆ្វេង"</string>
+    <string msgid="7683422992972248031" name="title_pref_shortcut_down_and_right">"អូស​ចុះក្រោម ហើយ​ទៅ​ស្ដាំ"</string>
+    <string msgid="862181907993343425" name="title_pref_shortcut_down_and_up">"អូសចុះ ហើយអូសឡើង"</string>
+    <string msgid="1294673470106169765" name="title_pref_shortcut_left">"អូសទៅឆ្វេង"</string>
+    <string msgid="2899217574677150730" name="title_pref_shortcut_left_and_down">"អូស​ទៅ​ឆ្វេង ហើយ​ចុះក្រោម"</string>
+    <string msgid="320138621029568357" name="title_pref_shortcut_left_and_right">"អូសទៅឆ្វេង ហើយទៅស្តាំ"</string>
+    <string msgid="369887751217245542" name="title_pref_shortcut_left_and_up">"អូស​ទៅ​ឆ្វេង​ ហើយ​ឡើង​លើ"</string>
+    <string msgid="2563651710870983074" name="title_pref_shortcut_right">"អូសទៅស្តាំ"</string>
+    <string msgid="4893018634563250104" name="title_pref_shortcut_right_and_down">"អូស​ទៅ​ស្ដាំ ហើយ​ចុះក្រោម"</string>
+    <string msgid="1184543975336584677" name="title_pref_shortcut_right_and_left">"អូសទៅស្តាំ ហើយទៅឆ្វេង"</string>
+    <string msgid="6848971895903777166" name="title_pref_shortcut_right_and_up">"អូស​ទៅ​ស្ដាំ ហើយ​ឡើង​លើ"</string>
+    <string msgid="7220195169492947031" name="title_pref_shortcut_single_tap">"ប៉ះ​ចំហៀង​ម្ដង"</string>
+    <string msgid="464026441232788284" name="title_pref_shortcut_up">"អូសឡើង"</string>
+    <string msgid="7970635117146596582" name="title_pref_shortcut_up_and_down">"អូសឡើង ហើយអូសចុះ"</string>
+    <string msgid="6548364994546979158" name="title_pref_shortcut_up_and_left">"អូស​ឡើងលើ ហើយ​ទៅ​ឆ្វេង"</string>
+    <string msgid="8856595421274730440" name="title_pref_shortcut_up_and_right">"អូស​ឡើង​លើ ហើយ​ទៅ​ស្ដាំ"</string>
+    <string msgid="8048703987011256280" name="title_pref_show_context_menu_as_list">"បង្ហាញម៉ឺនុយបរិបទជាបញ្ជី"</string>
+    <string msgid="4420464510142864819" name="title_pref_show_privacy_policy">"គោលនយោបាយ​​ភាព​ឯកជន"</string>
+    <string msgid="6167834013879233992" name="title_pref_show_tos">"លក្ខខណ្ឌ​ប្រើប្រាស់"</string>
+    <string msgid="5333869781230265376" name="title_pref_single_tap">"ការធ្វើឲ្យសកម្មដោយប៉ះម្តង"</string>
+    <string msgid="3131811048184077738" name="title_pref_soundback">"សំឡេង​មតិ​ត្រឡប់"</string>
+    <string msgid="8633886470832131926" name="title_pref_soundback_volume">"កម្រិត​សំឡេង"</string>
+    <string msgid="7056106236376536133" name="title_pref_speak_screenoff">"និយាយ​​​ពេល​បិទ​អេក្រង់"</string>
+    <string msgid="17846978416951489" name="title_pref_speech_volume">"កម្រិត​សំឡេង​ការ​និយាយ"</string>
+    <string msgid="3737945934603267137" name="title_pref_tap_sensitivity">"ការ​ស្គាល់​ឧបករណ៍​​រក​ឃើញ​​ផ្ទាំង"</string>
+    <string msgid="1525763448981997023" name="title_pref_tree_debug">"បើក​ការ​បំបាត់​កំហុស​មែកធាង​ថ្នាំង"</string>
+    <string msgid="4448445593132620627" name="title_pref_tts_overlay">"បង្ហាញ​លទ្ធផល​​និយាយ"</string>
+    <string msgid="2810986068277138359" name="title_pref_tutorial">"ចាប់ផ្តើមការបង្រៀនអំពី TalkBack"</string>
+    <string msgid="2306010395434853106" name="title_pref_two_part_vertical_gestures">"កាយវិការ​បញ្ឈរ​ពីរ​ផ្នែក"</string>
+    <string msgid="4867534784887155899" name="title_pref_two_volume_button_long_click">"ផ្លូវកាត់ផ្អាក និងបន្ត TalkBack"</string>
+    <string msgid="3150034317307025609" name="title_pref_use_audio_focus">"ផ្ដោត​​លើ​សំឡេង​និយាយ"</string>
+    <string msgid="4156396276749836864" name="title_pref_vibration">"មតិ​ត្រឡប់​​ការ​ញ័រ"</string>
+    <string msgid="3016793641076890473" name="title_pref_web_scripts">"បង្កើន​មធ្យោបាយ​ងាយស្រួល​បណ្ដាញ"</string>
+    <string msgid="8335248824829650066" name="title_seek_bar_controls">"អង្គគ្រប់គ្រងការរកមើល"</string>
+    <string msgid="4197424047192764616" name="title_seek_bar_edit">"កែកម្រិតអង្គគ្រប់គ្រងការរកមើល"</string>
+    <string msgid="3596164166456847306" name="title_suggestions_breakout_anchor">"ត្រឡប់ទៅប្រអប់កែសម្រួល"</string>
+    <string msgid="8722323161157337123" name="title_suggestions_breakout_suggestions">"លោតទៅការស្នើ"</string>
+    <string msgid="5486233362252604824" name="title_suggestions_controls">"ការស្នើបំពេញដោយស្វ័យប្រវត្តិ"</string>
+    <string msgid="3037924006370977165" name="title_summary">"ការ​រុករក​រហ័ស"</string>
+    <string msgid="6936782185806198910" name="title_viewpager_breakout_next_page">"ទំព័រ​បន្ទាប់"</string>
+    <string msgid="1352284456691236167" name="title_viewpager_breakout_prev_page">"ទំព័រ​មុន"</string>
+    <string msgid="3775818290312516095" name="title_viewpager_controls">"ការ​រុករក​ទំព័រ"</string>
+    <string msgid="7663977538463352430" name="title_web_breakout_next_control">"ការ​​ពិនិត្យ​បន្ទាប់"</string>
+    <string msgid="801337905459445939" name="title_web_breakout_next_list">"បញ្ជី​បន្ទាប់​"</string>
+    <string msgid="7355139595269361571" name="title_web_breakout_next_section">"ផ្នែក​បន្ទាប់"</string>
+    <string msgid="2637721101068457234" name="title_web_breakout_prev_control">"ការ​ពិនិត្យ​មុន"</string>
+    <string msgid="744039532529277819" name="title_web_breakout_prev_list">"បញ្ជី​មុន"</string>
+    <string msgid="1738336598629616234" name="title_web_breakout_prev_section">"ផ្នែក​មុន"</string>
+    <string msgid="6873568861550304420" name="toast_msg_key_already_assigned">"បានកំណត់គ្រាប់ចុច \'<ns1:g id="KEY_NAME">%1$s</ns1:g>\' ទៅ \'<ns1:g id="ACTION_NAME">%2$s</ns1:g>\' រួចហើយ"</string>
+    <string msgid="6233811187483633874" name="tts_preferences_title">"ការកំណត់អត្ថបទទៅជាការនិយាយ"</string>
+    <string msgid="6480388345726953149" name="turn_off_talkback">"បិទ TalkBack"</string>
+    <string msgid="5426041850804920228" name="tutorial_alert_dialog_exit">"ចាកចេញ"</string>
+    <string msgid="153385821637979511" name="tutorial_disabled_item_clicked">"%1$s បានធ្វើឲ្យសកម្មនៅក្នុងរបៀបអនុវត្ត។ ធ្វើឲ្យប៊ូតុង បោះបង់ សកម្មដើម្បីចាកចេញ។"</string>
+    <string msgid="9109552709434930176" name="tutorial_exercise_completed_auto">"លំហាត់នេះត្រូវបានបញ្ចប់ ហើយវានឹងបន្តនៅពេលបន្តិចទៀតនេះ"</string>
+    <string msgid="5711951853376611538" name="tutorial_home">"ទំព័រដើមនៃការបង្រៀន"</string>
+    <string msgid="2912330081549004678" name="tutorial_lesson_1_page1_description">"នៅពេលដែលអ្នកបើកដំណើរការ លក្ខណៈពិសេសរកមើលដោយការប៉ះអនុញ្ញាតឲ្យអ្នកស្តាប់ឮអ្វីដែលស្ថិតនៅក្រោមម្រាមដៃរបស់អ្នក។ រំកិលម្រាមដៃរបស់អ្នកនៅលើធាតុដែលស្ថិតនៅចំកណ្តាលអេក្រង់។ បន្ទាប់ពីអ្នកបានរកឃើញធាតុចំនួនប្រាំហើយ នោះមេរៀននឹងបន្ត។"</string>
+    <string msgid="8696897836045271462" name="tutorial_lesson_1_page1_subtitle">"ផ្នែកទី 1៖ រកមើលដោយការប៉ះ"</string>
+    <string msgid="4328249029315743419" name="tutorial_lesson_1_page2_complete_message">"បានធ្វើឲ្យធាតុទី 7 សកម្ម។ ស្វែងរក និងធ្វើឲ្យប៊ូតុង បន្ទាប់ សកម្មដើម្បីបន្ត"</string>
+    <string msgid="3437424287122738630" name="tutorial_lesson_1_page2_description">"ដើម្បីធ្វើឲ្យធាតុចុងក្រោយដែលអ្នកបានឮសកម្ម សូមប៉ះពីរដងនៅកន្លែងណាក៏បាន។ ស្វែងរកធាតុទី 7 ហើយធ្វើឲ្យវាសកម្មឥឡូវនេះ។ បន្ទាប់មក ធ្វើឲ្យប៊ូតុង បន្ទាប់ សកម្មដើម្បីបន្ត។"</string>
+    <string msgid="395358029332125189" name="tutorial_lesson_1_page2_subtitle">"ផ្នែកទី 2៖ ប៉ះពីរដងដើម្បីធ្វើឲ្យសកម្ម"</string>
+    <string msgid="6782138079048102236" name="tutorial_lesson_1_page3_description">"មេរៀនអំពីកម្មវិធី TalkBack ត្រូវបានរៀបចំដោយមានលក្ខណៈស្រដៀងគ្នា។ ផ្នែកខាងលើមានមេរៀនដែលអ្នកអាចស្វែងយល់ និងអានបានគ្រប់ពេល។ វាក៏មានប៊ូតុងដើមសម្រាប់ការបង្រៀននៅជ្រុងខាងឆ្វេងផ្នែកខាងលើផងដែរ។ នៅផ្នែកកណ្តាលមានកន្លែងអនុវត្ត។ នៅផ្នែកខាងក្រោមមានសូចនាករបង្ហាញពីការវិវត្ត និងប៊ូតុងរុករកមេរៀន។ ធ្វើឲ្យប៊ូតុង បន្ទាប់ សកម្មឥឡូវនេះដើម្បីបន្ត។"</string>
+    <string msgid="5644143038265902856" name="tutorial_lesson_1_page3_subtitle">"ផ្នែកទី 3៖ មេរៀនអំពីការបញ្ជា"</string>
+    <string msgid="8864367516443934956" name="tutorial_lesson_1_page4_description">"អ្នកក៏អាចធ្វើការរកមើលដោយការអូសអេក្រង់ដោយប្រើម្រាមដៃរបស់អ្នកបានផងដែរ។ ការអូសទៅឆ្វេងមានន័យថារុករកទៅលើ និងខាងឆ្វេង ចំណែកឯការអូសទៅស្តាំមានន័យថារកមើលចុះក្រោម និងទៅស្តាំ។ សូមសាកល្បងឥឡូវនេះ។"</string>
+    <string msgid="8686179604479736061" name="tutorial_lesson_1_page4_subtitle">"ផ្នែកទី 4៖ អូសដើម្បីរកមើល"</string>
+    <string msgid="6465486659264068934" name="tutorial_lesson_1_practice_description">"ដើម្បីស្តាប់ឮអ្វីដែលស្ថិតនៅក្រោមម្រាមដៃរបស់អ្នក សូមផ្លាស់ទីម្រាមដៃនោះកាត់អេក្រង់។ ប៉ះពីរដងកន្លែងណាក៏បាន ដើម្បីធ្វើឲ្យអ្វីដែលអ្នកស្តាប់ឮសកម្ម។ អូសទៅឆ្វេង ឬទៅស្តាំដើម្បីរុករក។"</string>
+    <string msgid="8409951305889305897" name="tutorial_lesson_1_practice_title">"ផ្នែកទី 5៖ អនុវត្ត"</string>
+    <string msgid="711726460367061721" name="tutorial_lesson_1_short_description">"ប៉ះដើម្បីរុករក អូសដើម្បីរុករក ប៉ះពីរដងដើម្បីធ្វើឲ្យសកម្ម"</string>
+    <string msgid="5236404350916286434" name="tutorial_lesson_1_title">"មេរៀនទី 1៖ ការបញ្ជាជាមូលដ្ឋាន"</string>
+    <string msgid="580551557422353615" name="tutorial_lesson_2_page1_description">"ដើម្បីរមូរក្នុងបញ្ជីឈរ សូមរកមើលធាតុបញ្ជីមួយ បន្ទាប់មកផ្លាស់ទីម្រាមដៃពីរឡើង ឬចុះ។ ដើម្បីរមូរក្នុងបញ្ជីផ្តេក សូមរកមើលធាតុបញ្ជីមួយ បន្ទាប់មកផ្លាស់ទីម្រាមដៃពីរទៅឆ្វេង ឬទៅស្តាំ។"</string>
+    <string msgid="3831360802282402385" name="tutorial_lesson_2_page1_subtitle">"ផ្នែកទី 1៖ ការរមូរដោយប្រើម្រាមពីរ"</string>
+    <string msgid="6803623252361709120" name="tutorial_lesson_2_page2_description">"អ្នកអាចលោតទៅមុខ ឬថយក្រោយនៅក្នុងបញ្ជីដោយប្រើផ្លូវកាត់។ ដើម្បីលោតទៅមុខ រំកិលម្រាមដៃមួយទៅស្តាំ រួចទៅឆ្វេងក្នុងចលនាតែមួយ។ ដើម្បីលោតត្រឡប់ក្រោយ សូមរំកិលម្រាមដៃមួយទៅឆ្វេង រួចទៅស្តាំ។ សូមសាកល្បងធ្វើវានៅទីនេះ។"</string>
+    <string msgid="4984192682960806856" name="tutorial_lesson_2_page2_subtitle">"ផ្នែកទី 2៖ ផ្លូវកាត់ការរមូរ"</string>
+    <string msgid="408119978126134776" name="tutorial_lesson_2_practice_description">"រមូរដោយអូសម្រាមដៃពីរចុះ ឬឡើង។ លោតទៅមុខដោយរំកិលម្រាមដៃមួយទៅស្តាំ រួចទៅឆ្វេង។ លោតត្រឡប់មកវិញដោយរំកិលម្រាមដៃមួយទៅឆ្វេង រួចទៅស្តាំ។"</string>
+    <string msgid="2743676222265424015" name="tutorial_lesson_2_practice_title">"ផ្នែកទី 3៖ អនុវត្ត"</string>
+    <string msgid="1266674748996686981" name="tutorial_lesson_2_short_description">"ការរមូរដោយប្រើម្រាមពីរ លោតទៅមុខ និងថយក្រោយ"</string>
+    <string msgid="8944439067496916569" name="tutorial_lesson_2_title">"មេរៀនទី 2៖ ការរមូរ"</string>
+    <string msgid="2871203321195090324" name="tutorial_lesson_3_down_right">"ចុះក្រោមរួចទៅស្ដាំ"</string>
+    <string msgid="7029517714331489043" name="tutorial_lesson_3_message">"ជម្រើសម៉ឺនុយត្រូវបានរាយបញ្ឈរនៅកណ្តាលអេក្រង់។ សូមសាកល្បងរុករក នៅពេលដែលអ្នកបញ្ចប់ សូមធ្វើឲ្យប៊ូតុង បោះបង់សកម្ម។"</string>
+    <string msgid="6970763850543511675" name="tutorial_lesson_3_page1_description">"កម្មវិធី TalkBack មានម៉ឺនុយពីរផ្សេងគ្នា។ ម៉ឺនុយទីមួយគឺម៉ឺនុយ TalkBack សកលដែលផ្ទុកពាក្យបញ្ជាដូចគ្នាជានិច្ច។ អ្នកអាចធ្វើឲ្យវាសកម្មដោយការរំកិលម្រាមដៃមួយចុះ រួចទៅស្តាំក្នុងចលនាតែមួយ បន្ទាប់មកលើកម្រាមដៃរបស់អ្នក។ ធ្វើឲ្យកំណែអនុវត្តសកម្មឥឡូវនេះ។"</string>
+    <string msgid="769564591288469622" name="tutorial_lesson_3_page1_subtitle">"ផ្នែកទី 1៖ ម៉ឺនុយ TalkBack សកល"</string>
+    <string msgid="236959207452065871" name="tutorial_lesson_3_page2_description">"ម៉ឹនុយទីពីរគឺម៉ឺនុយ TalkBack មូលដ្ឋាន។ ធាតុនៅក្នុងម៉ឺនុយនេះមានភាពផ្សេងគ្នាអាស្រ័យលើអ្វីដែលអ្នកបានឮលើកចុងក្រោយ។ អ្នកអាចធ្វើឲ្យម៉ឺនុយនេះសកម្មដោយការរំកិលម្រាមដៃមួយឡើងលើ រួចទៅស្តាំក្នុងចលនាតែមួយ បន្ទាប់មកលើកម្រាមដៃរបស់អ្នក។ ធ្វើឲ្យម៉ឺនុយអនុវត្តសកម្មឥឡូវនេះ។"</string>
+    <string msgid="3248006863733497778" name="tutorial_lesson_3_page2_subtitle">"ផ្នែកទី 2៖ ម៉ឺនុយ TalkBack មូលដ្ឋាន"</string>
+    <string msgid="4687022774852406126" name="tutorial_lesson_3_practice_content_description">"ម៉ឺនុយ TalkBack សកល៖ ចុះក្រោមរួចទៅស្តាំ។ ម៉ឺនុយ TalkBack មូលដ្ឋាន៖ ឡើងលើរួចទៅស្តាំ"</string>
+    <string msgid="9053899021556392823" name="tutorial_lesson_3_practice_description">"រំកិលម្រាមដៃរបស់អ្នកចុះក្រោម រួចទៅស្តាំដើម្បីធ្វើឲ្យម៉ឺនុយ TalkBack សកល។ រំកិលម្រាមដៃរបស់អ្នកឡើងលើ រួចទៅស្តាំដើម្បីធ្វើឲ្យម៉ឺនុយ TalkBack មូលដ្ឋានសកម្ម។"</string>
+    <string msgid="7992894865660442281" name="tutorial_lesson_3_practice_title">"ផ្នែកទី 3៖ អនុវត្ត"</string>
+    <string msgid="4897481164693437589" name="tutorial_lesson_3_short_description">"ម៉ឺនុយ TalkBack សកល, ម៉ឺនុយ TalkBack មូលដ្ឋាន"</string>
+    <string msgid="1534037844912254504" name="tutorial_lesson_3_title">"មេរៀនទី 3៖ ម៉ឺនុយ TalkBack"</string>
+    <string msgid="1257290751747215466" name="tutorial_lesson_3_up_right">"ឡើងលើរួចទៅស្ដាំ"</string>
+    <string msgid="825751290656500339" name="tutorial_lesson_4_page1_description">"កម្មវិធី TalkBack អនុញ្ញាតឲ្យអ្នកគ្រប់គ្រងថាតើត្រូវអានអត្ថបទសម្រាប់អ្នកជាលក្ខណៈកថាខណ្ឌ ជួរ ពាក្យ ឬតួអក្សរឬយ៉ាងណា។ ការអានតាមតួអក្សរអាចជួយដល់អ្នកក្នុងការប្រកប។ កំណត់កម្រិតល្បឿនបញ្ជាអត្ថបទទៅកម្រិតតួអក្សរដោយប៉ះនៅលើអត្ថបទខាងក្រោម បន្ទាប់មកអូសចុះឡើង។"</string>
+    <string msgid="4100459258679365726" name="tutorial_lesson_4_page1_message">"ស្វែងយល់ពីជម្រើសកម្រិតល្បឿននៃការអានដែលបានរាយជាលក្ខណៈបញ្ឈរនៅទីនេះ។ រកមើល និងធ្វើឲ្យជម្រើស អានតាមតួអក្សរសកម្ម។"</string>
+    <string msgid="6722398610043882883" name="tutorial_lesson_4_page1_subtitle">"ផ្នែកទី 1៖ ការជ្រើសការកំណត់នៃការបញ្ជា"</string>
+    <string msgid="665951393520581926" name="tutorial_lesson_4_page2_description">"ឥឡូវនេះអ្នកកំពុងអាចតាមតួអក្សរ។ សូមជ្រើសអត្ថបទគំរូ បន្ទាប់មកអូសទៅស្តាំដើម្បីអានតាមតួអក្សរ។"</string>
+    <string msgid="1749198627288834931" name="tutorial_lesson_4_page2_subtitle">"ផ្នែកទី 2៖ ការបញ្ជាអត្ថបទ"</string>
+    <string msgid="2135338093046263335" name="tutorial_lesson_4_practice_description">"ប្តូរកម្រិតល្បឿនបញ្ជាអត្ថបទដោយអូសចុះ និងឡើង។ អានតួអក្សរបន្ទាប់នៅក្នុងអត្ថបទគំរូដោយអូសទៅស្តាំ។"</string>
+    <string msgid="4917843401985911727" name="tutorial_lesson_4_practice_title">"ផ្នែកទី 3៖ អនុវត្ត"</string>
+    <string msgid="8795532729146357613" name="tutorial_lesson_4_sample_text">"នេះជាអត្ថបទគំរូមួយចំនួនសម្រាប់អនុវត្ត TalkBack ។ បុរសនោះបានសួរដោយការភ្ញាក់ផ្អើរថា៖ \"តើ Kansas នៅឯណា?\" ។ Dorothy បានឆ្លើយដោយក្រៀមក្រំថា៖ \"ខ្ញុំមិនដឹងទេ\" \"ប៉ុន្តែនេះជាផ្ទះរបស់ខ្ញុំ ខ្ញុំប្រាកដថាវានៅកន្លែងណាមួយមិនខាន\"\n\n\"វាប្រាកដជាចឹង មេធ្មប់អាចធ្វើអ្វីបានគ្រប់យ៉ាង ដូច្នេះខ្ញុំគិតថាគាត់នឹងអាចរក Kansas ឲ្យអ្នកបាន។ ប៉ុន្តែអ្នកត្រូវទៅជួបគាត់ជាមុនសិន ហើយនេះជាកិច្ចការដ៏លំបាកសម្រាប់អ្នកពីព្រោះមេធ្មប់អស្ចារ្យមិនចូលចិត្តជួបនរណានោះទេ ហើយគាត់ចូលចិត្តធ្វើអ្វីតាមចិត្តរបស់គាត់។ គាត់បានបន្តដោយនិយាយទៅកាន់ Toto ថា៖ និយាយអញ្ចឹងតើអ្នកចង់បានអ្វី?\"។"</string>
+    <string msgid="7418527496120482465" name="tutorial_lesson_4_short_description">"ការជ្រើសការកំណត់នៃការបញ្ជាអត្ថបទ"</string>
+    <string msgid="4147432329454145413" name="tutorial_lesson_4_title">"មេរៀនទី 4៖ ការបញ្ជាអត្ថបទ"</string>
+    <string msgid="5518047261885161170" name="tutorial_lesson_5_hint">"កែអត្ថបទ"</string>
+    <string msgid="2284207114288159699" name="tutorial_lesson_5_page1_description">"ជាមួយកម្មវិធី TalkBack អ្នកអាចប្រើប្រអប់កែសម្រួលដើម្បីវាយបញ្ចូល ជ្រើស និងកែសម្រួលអត្ថបទ។ ដើម្បីធ្វើឲ្យប្រអប់កែសម្រួលសកម្ម សូមប៉ះវាពីរដង។ បន្ទាប់ពីអ្នកធ្វើឲ្យប្រអប់កែសម្រួលសកម្មហើយ ក្តារចុចនឹងបង្ហាញឡើងនៅផ្នែកខាងក្រោមនៃអេក្រង់។ អ្នកអាចបដិសេធក្តារចុចនោះដោយប៉ះប៊ូតុង ត្រឡប់។ សាកល្បងធ្វើឲ្យប្រអប់កែសម្រួលសកម្មឥឡូវនេះ។ នៅពេលដែលអ្នកបានបញ្ចប់ហើយ សូមធ្វើឲ្យប៊ូតុង បន្ទាប់សកម្ម ដែលឥឡូវនេះវាស្ថិតនៅផ្នែកខាងលើក្តារចុច។"</string>
+    <string msgid="1509462164197325310" name="tutorial_lesson_5_page1_subtitle">"ផ្នែកទី 1៖ ការធ្វើឲ្យប្រអប់កែសម្រួលសកម្ម"</string>
+    <string msgid="8728726969848635963" name="tutorial_lesson_5_page2_description">"ដើម្បីវាយបញ្ចូល សូមធ្វើឲ្យប្រអប់កែសម្រួលសកម្ម ហើយផ្លាស់ទីម្រាមដៃរបស់អ្នកកាត់ក្តារចុចនៅលើអេក្រង់។ នៅពេលដែលអ្នកឮសំឡេងតួអក្សរដែលអ្នកចង់បានហើយ សូមលើកម្រាមដៃរបស់អ្នកចេញដើម្បីធ្វើឲ្យវាសកម្ម។ សាកល្បងធ្វើឲ្យសកម្ម និងវាយបញ្ចូលនៅក្នុងប្រអប់កែសម្រួលខាងក្រោម។"</string>
+    <string msgid="8696015537398598026" name="tutorial_lesson_5_page2_subtitle">"ផ្នែកទី 2៖ ការវាយបញ្ចូលក្នុងប្រអប់កែសម្រួល"</string>
+    <string msgid="325778749713576462" name="tutorial_lesson_5_page3_description">"អ្នកអាចផ្លាស់ទីទស្សន៍ទ្រនិចដោយប្រើប៊ូតុងកម្រិតសំឡេងនៅលើឧបករណ៍របស់អ្នក ឬតាមរយៈម៉ឺនុយ TalkBack មូលដ្ឋាន។ អ្នកក៏អាចធ្វើការជ្រើសរើស កាត់ ចម្លង និងបិទភ្ជាប់អត្ថបទបានផងដែរជាមួយជម្រើសគ្រប់គ្រងទស្សន៍ទ្រនិចនៅក្នុងម៉ឺនុយនេះ។ សូមធ្វើឲ្យប្រអប់កែសម្រួលខាងក្រោមសកម្ម ហើយផ្លាស់ទីទស្សន៍ទ្រនិចនៅជុំវិញអត្ថបទគំរូ។"</string>
+    <string msgid="7553394100000534557" name="tutorial_lesson_5_page3_sample_text">"អាសយដ្ឋានអ៊ីមែលរបស់ Dorothy Gale គឺ dorothy@ozmail.com"</string>
+    <string msgid="6803668615502110439" name="tutorial_lesson_5_page3_subtitle">"ផ្នែកទី 3៖ ការប្រើទស្សន៍ទ្រនិច"</string>
+    <string msgid="4966124103376747840" name="tutorial_lesson_5_practice_description">"ធ្វើឲ្យប្រអប់កែសម្រួលសកម្មដោយប៉ះពីរដង។ វាយបញ្ចូលដោយផ្លាស់ទីម្រាមដៃរបស់អ្នកនៅលើតួអក្សរ បន្ទាប់មកលើកម្រាមដៃរបស់អ្នកចេញ។ ផ្លាស់ទីទស្សន៍ទ្រនិចជាមួយប៊ូតុងកម្រិតសំឡេង និងម៉ឺនុយ TalkBack មូលដ្ឋាន។ ជ្រើស និងធ្វើសកម្មភាពលើអត្ថបទដោយប្រើជម្រើសគ្រប់គ្រងទស្សន៍ទ្រនិចនៅក្នុងម៉ឺនុយ TalkBack មូលដ្ឋាន។"</string>
+    <string msgid="4502932434891583878" name="tutorial_lesson_5_practice_title">"ផ្នែកទី 4៖ អនុវត្ត"</string>
+    <string msgid="5739314401061989157" name="tutorial_lesson_5_short_description">"ការធ្វើឲ្យប្រអប់កែសម្រួលសកម្ម ការវាយបញ្ចូល ការផ្លាស់ទីទស្សន៍ទ្រនិច ការជ្រើស និងធ្វើសកម្មភាពលើអត្ថបទ"</string>
+    <string msgid="6951330400155565474" name="tutorial_lesson_5_title">"មេរៀនទី 5៖ ការកែសម្រួលអត្ថបទ"</string>
+    <string msgid="5584403341719984367" name="tutorial_lesson_number">"មេរៀនទី %1$d"</string>
+    <string msgid="2301417040370437180" name="tutorial_next">"បន្ទាប់"</string>
+    <string msgid="1856740039454216256" name="tutorial_next_lesson">"មេរៀនបន្ទាប់"</string>
+    <string msgid="5664505784839483070" name="tutorial_no_touch_explore_message">"ការបង្រៀននេះតម្រូវឲ្យមានលក្ខណៈពិសេសរកមើលដោយប៉ះ។ សូមបើកដំណើរការលក្ខណៈពិសេសរកមើលដោយប៉ះ មុនពេលចាប់ផ្តើមការបង្រៀន។"</string>
+    <string msgid="1958343592980548652" name="tutorial_no_touch_explore_title">"តម្រូវឲ្យមានការរកមើលដោយប៉ះ"</string>
+    <string msgid="2663970515299904800" name="tutorial_page_number">"ផ្នែកទី %1$d"</string>
+    <string msgid="7024184577193466936" name="tutorial_page_number_of">"ផ្នែកទី %1$d នៃ %2$d"</string>
+    <string msgid="8329925887106371812" name="tutorial_practice">"អនុវត្ដ"</string>
+    <string msgid="2176846563813803041" name="tutorial_practice_area">"តំបន់អនុវត្ត"</string>
+    <string msgid="7310221766775514110" name="tutorial_practice_content">"អនុវត្តមេរៀន <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="3270312755677041276" name="tutorial_previous">"មុន"</string>
+    <string msgid="2975374258662807931" name="tutorial_previous_lesson">"មេរៀនមុន"</string>
+    <string msgid="4109204744674617699" name="tutorial_service_inactive_message">"ការបង្រៀននេះតម្រូវឲ្យបើក TalkBack។ សូមបើក TalkBack មុនពេលចាប់ផ្តើមការបង្រៀន។"</string>
+    <string msgid="14143423693392009" name="tutorial_service_inactive_title">"បានបិទដំណើរការ TalkBack"</string>
+    <string msgid="126663814939225670" name="tutorial_service_suspended_message">"ការរបង្រៀន TalkBack មិនមានផ្តល់ជូនទេ ខណៈពេលដែលមតិត្រឡប់ត្រូវបានផ្អាក។ សូមបន្តមតិត្រឡប់ TalkBack ហើយចាប់ផ្ដើមការបង្រៀនឡើងវិញ ដើម្បីបន្ត។"</string>
+    <string msgid="7825932862221387070" name="tutorial_service_suspended_title">"បានផ្អាក TalkBack"</string>
+    <string msgid="8656234062338441589" name="tutorial_start_lesson">"ស្វែងយល់"</string>
+    <string msgid="6993792008827898101" name="tutorial_start_lesson_content">"រៀនមេរៀន <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="491797656581740453" name="tutorial_template_item">"ធាតុ <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="1602036284900841687" name="tutorial_title">"ការបង្រៀនអំពី TalkBack"</string>
+    <string msgid="3902654026290995891" name="tutorial_up_button_description">"ប៊ូតុងទំព័រដើមនៃការបង្រៀន"</string>
+    <string msgid="7017590766394623328" name="untitled_window">"គ្មានចំណងជើង"</string>
+    <string msgid="2459787142940409576" name="value_button">"ប៊ូតុង"</string>
+    <string msgid="3838601485428893942" name="value_caps_lock_off">"បិទពុម្ពអក្សរធំ"</string>
+    <string msgid="7573294600745888208" name="value_caps_lock_on">"បើកពុម្ពអក្សរធំ"</string>
+    <string msgid="668616875637472508" name="value_checkbox">"ប្រអប់ធីក"</string>
+    <string msgid="3006751014125833966" name="value_checked">"បាន​ធីក"</string>
+    <string msgid="5183845393779526573" name="value_classic_keymap">"ផែនទីគ្រាប់ចុចសាមញ្ញ"</string>
+    <string msgid="3341356513608380759" name="value_collapsed">"បានបង្រួម"</string>
+    <string msgid="2991108554131770843" name="value_default_keymap">"ផែនទីគ្រាប់ចុចលំនាំដើម"</string>
+    <string msgid="5503481137448624626" name="value_device_unlocked">"ដោះ​សោ​ឧបករណ៍​។"</string>
+    <string formatted="false" msgid="3589346610879193419" name="value_dim_volume_three_clicks">"ចុចគ្រាប់ចុចកម្រិតសំឡេងទាំងពីរបីដងឲ្យលឿនដើម្បីបើកដំណើរការ ឬបិទដំណើរការកំណត់អេក្រង់ស្រអាប់"</string>
+    <string msgid="8072362433982733982" name="value_direction_down">"ចុះ"</string>
+    <string msgid="8554316039693996323" name="value_direction_down_and_left">"ចុះក្រោម ទៅ​ឆ្វេង"</string>
+    <string msgid="7001881662779097616" name="value_direction_down_and_right">"ចុះ​ក្រោម​ រួច​​ទៅ​​ស្ដាំ"</string>
+    <string msgid="8751291630548709587" name="value_direction_down_and_up">"ចុះហើយឡើង"</string>
+    <string msgid="676932617445677488" name="value_direction_left">"ឆ្វេង"</string>
+    <string msgid="7803183066938070433" name="value_direction_left_and_down">"ទៅ​ឆ្វេង រួច​ចុះក្រោម"</string>
+    <string msgid="5700946272615649006" name="value_direction_left_and_right">"ឆ្វេងហើយស្តាំ"</string>
+    <string msgid="1953824696291100833" name="value_direction_left_and_up">"ទៅ​ឆ្វេង ​រួច​ឡើង​លើ"</string>
+    <string msgid="3555261520059818184" name="value_direction_right">"ស្ដាំ"</string>
+    <string msgid="3939890273004054796" name="value_direction_right_and_down">"ទៅ​ស្ដាំ​ រួច​ចុះក្រោម"</string>
+    <string msgid="8982138891493120929" name="value_direction_right_and_left">"ស្តាំហើយឆ្វេង"</string>
+    <string msgid="9165127187203257982" name="value_direction_right_and_up">"ទៅ​ស្ដាំ រួច​ឡើងលើ"</string>
+    <string msgid="1646290331150992975" name="value_direction_up">"ឡើង"</string>
+    <string msgid="3964398023350956969" name="value_direction_up_and_down">"ឡើងហើយចុះ"</string>
+    <string msgid="2880257670663743521" name="value_direction_up_and_left">"ឡើង​លើ រួច​ទៅ​ឆ្វេង"</string>
+    <string msgid="1769623264993139598" name="value_direction_up_and_right">"ឡើង​លើ រួច​ទៅ​ស្ដាំ"</string>
+    <string msgid="5160977094078900656" name="value_disabled">"បាន​បិទ"</string>
+    <string msgid="6104708724544509699" name="value_double_tap">"ប៉ះ​ពីរ​ដង"</string>
+    <string msgid="3400838694172416741" name="value_edit_box">"ប្រអប់កែសម្រួល"</string>
+    <string msgid="761496650256809196" name="value_edit_box_editing">"កំពុងកែសម្រួល"</string>
+    <string msgid="3777451536288368857" name="value_expanded">"បានពង្រីក"</string>
+    <string msgid="7426444022147570511" name="value_googletv_screen_saver">"ធាតុ​រក្សា​អេក្រង់"</string>
+    <string msgid="1382219539169157957" name="value_gridview">"ក្រឡា​"</string>
+    <string msgid="6443720093459914584" name="value_hint_tv_remote_mode_seek_control">"ចុចប៊ូតុងព្រួញដើម្បីផ្លាស់ប្តូរតម្លៃ ឬចុចជ្រើសរើសដើម្បីបញ្ចប់។"</string>
+    <string msgid="5114229220871881124" name="value_image">"រូបភាព"</string>
+    <string msgid="6889426165608387394" name="value_keyboard_echo_always">"និយាយ​ពាក្យ​គន្លឹះ​ដែល​បាន​បញ្ចូល​ជា​និច្ច"</string>
+    <string msgid="7181327459690946870" name="value_keyboard_echo_never">"កុំ​និយាយ​ពាក្យ​គន្លឹះ​ដែល​បាន​បញ្ចូល"</string>
+    <string msgid="1595001302535254665" name="value_keyboard_echo_softkeys">"សម្រាប់​តែ​ក្ដារចុច​លើ​អេក្រង់"</string>
+    <string msgid="7625152822709234439" name="value_listview">"បញ្ជី"</string>
+    <string formatted="false" msgid="541929774635348126" name="value_long_volume_pressed_suspend_talkback">"ចុចប៊ូតុងកម្រិតសម្លេងឡើង និងចុះឲ្យយូរ"</string>
+    <string msgid="37422559536361725" name="value_not_checked">"មិន​បាន​ធីក"</string>
+    <string msgid="5404406119689977269" name="value_notification_shade_opened">"បាន​បើក​ស្រមោល"</string>
+    <string msgid="1037451128304445281" name="value_num_lock_off">"បិទពុម្ពលេខ"</string>
+    <string msgid="5129177598867360081" name="value_num_lock_on">"បើកពុម្ពលេខ"</string>
+    <string msgid="6700497510945744608" name="value_off">"បិទ"</string>
+    <string msgid="39454338086317219" name="value_on">"បើក"</string>
+    <string msgid="4936310094261315665" name="value_options_menu_open">"ជម្រើស​។"</string>
+    <string msgid="7708574424402835461" name="value_pager">"ការមើលជាទំព័រច្រើន"</string>
+    <string msgid="7671668766555622125" name="value_pager_page">"ទំព័រ"</string>
+    <string msgid="7285572231215250557" name="value_password">"ពាក្យ​សម្ងាត់"</string>
+    <string msgid="4270348255373188872" name="value_press_select">"ចុចជ្រើស"</string>
+    <string msgid="254185377743644004" name="value_radio_button">"ប៊ូតុង​​មូល"</string>
+    <string msgid="2780570849205482994" name="value_resume_keyguard">"ពេល​បង្ហាញ​ការ​ចាក់សោ​អេក្រង់"</string>
+    <string msgid="615523100721295547" name="value_resume_manual">"ពី​ការ​ជូនដំណឹង​តែ​ប៉ុណ្ណោះ"</string>
+    <string msgid="2104101584116309597" name="value_resume_screen_on">"ពេល​បើក​អេក្រង់"</string>
+    <string msgid="3881352685288650823" name="value_ringer_silent">"កម្មវិធី​រោទ៍​ស្ងាត់។"</string>
+    <string msgid="2453075127843329125" name="value_ringer_vibrate">"កម្មវិធី​រោទ៍​ញ័រ។"</string>
+    <string msgid="4442166505764238236" name="value_screen_off">"បិទ​អេក្រង់។"</string>
+    <string msgid="4051568127659724519" name="value_screen_on">"បើកអេក្រង់។"</string>
+    <string msgid="4083567784058485871" name="value_scroll_lock_off">"បិទរមូរ"</string>
+    <string msgid="2645082633954205788" name="value_scroll_lock_on">"បើករមូរ"</string>
+    <string msgid="4084950138979192413" name="value_seek_bar">"អង្គគ្រប់គ្រងការរកមើល"</string>
+    <string msgid="4688216864497436971" name="value_seek_bar_dialog_instructions">"បញ្ចូលលេខចាប់ពី 0 ដល់ 100"</string>
+    <string msgid="1999088520209822207" name="value_seek_bar_dialog_percent">"%"</string>
+    <string msgid="1307429702194660766" name="value_selected">"​បាន​ជ្រើស"</string>
+    <string msgid="33115748930768552" name="value_shake_to_read_disabled">"បាន​បិទ"</string>
+    <string msgid="7661843662865960874" name="value_shake_to_read_threshold_hard">"ពិបាក"</string>
+    <string msgid="6122029921067500618" name="value_shake_to_read_threshold_light">"ពន្លឺ"</string>
+    <string msgid="8892692566516131981" name="value_shake_to_read_threshold_medium">"មធ្យម"</string>
+    <string msgid="3423392173494851854" name="value_shake_to_read_threshold_very_hard">"ពិបាក​ណាស់"</string>
+    <string msgid="2767872234193772050" name="value_shake_to_read_threshold_very_light">"ភ្លឺ​​ណាស់"</string>
+    <string msgid="5044168772549910285" name="value_single_tap">"ប៉ះ"</string>
+    <string msgid="1275285354723670810" name="value_sliding_drawer_opened">"រុញ​​ដើម្បី​បើក"</string>
+    <string msgid="9204474944714379541" name="value_spinner">"បញ្ជីទម្លាក់ចុះ"</string>
+    <string msgid="7440086841584851897" name="value_stream_alarm">"ការ​ជូនដំណឹង"</string>
+    <string msgid="433463500088767280" name="value_stream_dtmf">"សំឡេង​ពេល​ចុច"</string>
+    <string msgid="4636086067147877021" name="value_stream_master">"មេ"</string>
+    <string msgid="3472112192147204509" name="value_stream_music">"តន្ត្រី"</string>
+    <string msgid="7166743133549871424" name="value_stream_notification">"ការ​ជូនដំណឹង"</string>
+    <string msgid="5981333765536911375" name="value_stream_ring">"សំឡេង​រោទ៍"</string>
+    <string msgid="2589285265752092053" name="value_stream_system">"សំឡេង​ប្រព័ន្ធ"</string>
+    <string msgid="3808346037153621863" name="value_stream_voice_call">"ការ​ហៅ​ទូរសព្ទ"</string>
+    <string msgid="6946709666466895221" name="value_switch">"បិទ/បើក"</string>
+    <string msgid="6935453013254857519" name="value_tabwidget">"របារ​ផ្ទាំង"</string>
+    <string msgid="6558192295636412162" name="value_text_cleared">"បាន​សម្អាត​អត្ថបទ"</string>
+    <string msgid="4129865255646994586" name="value_text_max_length">"បានឈានដល់កម្រិតអតិបរមា"</string>
+    <string msgid="9064311081864073839" name="value_text_removed">"បាន​លុប"</string>
+    <string msgid="2003438824962970029" name="value_tv_remote_mode_seek_control">"របៀបអង្គគ្រប់គ្រងការរកមើល"</string>
+    <string msgid="6226815555228981094" name="value_unlabelled">"មិន​បាន​ដាក់​ស្លាក់"</string>
+    <string formatted="false" msgid="1925212291067338164" name="value_volume_100_percent">"ផ្គូផ្គង​កម្រិត​សំឡេង​មេឌៀ"</string>
+    <string formatted="false" msgid="7765340636472447035" name="value_volume_25_percent">"២៥% ​នៃ​កម្រិត​សំឡេង​មេឌៀ"</string>
+    <string formatted="false" msgid="571313670701581653" name="value_volume_50_percent">"៥០​%​ នៃ​កម្រិត​សំឡេង​​មេឌៀ"</string>
+    <string formatted="false" msgid="4112643575612833142" name="value_volume_75_percent">"៧៥% នៃ​កម្រិត​សំឡេង​​មេឌៀ"</string>
+</resources>

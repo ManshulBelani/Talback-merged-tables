@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"Ertu viss um að þú viljir loka fyrir TalkBack?\n\nÞegar lokað er fyrir TalkBack veitir tækið ekki svörun og slökkt verður á snertikönnun."</string>
+</resources>

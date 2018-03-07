@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-v18\\bools.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 48,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 48,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 48,
+                        "endOffset": 320
+                    }
+                }
+            }
+        ]
+    }
+]

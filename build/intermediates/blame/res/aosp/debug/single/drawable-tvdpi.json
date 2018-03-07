@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\108282e9d4482600f6719ea533cd30c2d4b12b7d\\output\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\108282e9d4482600f6719ea533cd30c2d4b12b7d\\output\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\108282e9d4482600f6719ea533cd30c2d4b12b7d\\output\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\108282e9d4482600f6719ea533cd30c2d4b12b7d\\output\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\drawable-tvdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\drawable-tvdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    }
+]

@@ -1,0 +1,569 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:2:1-290:12
+	package
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:6:5-35
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:5:5-43
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:29:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:32:5-78
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:32:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:35:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:35:22-65
+uses-permission#com.google.android.marvin.feedback.permission.TALKBACK
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:38:5-94
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:38:22-91
+uses-permission#com.google.android.marvin.talkback.permission.LABELING
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:41:5-94
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:41:22-91
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:44:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:47:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\dell\.android\build-cache\bb0665e60d4e5aa6c6af78576dc55aa03801fa75\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\dell\.android\build-cache\bf52fa4323631c9b2c31784e3da2199bb8afaf38\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:47:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:48:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\dell\.android\build-cache\bb0665e60d4e5aa6c6af78576dc55aa03801fa75\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\dell\.android\build-cache\da5333951a7508571df3a2346d7b53a5cf8b7134\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:48:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:50:5-81
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:50:22-78
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:53:5-55:36
+	android:required
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:55:9-33
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:54:9-52
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:56:5-58:36
+	android:required
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:58:9-33
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:57:9-61
+application
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:60:5-288:19
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\dell\.android\build-cache\2cb833955a33a7b2c042acb900a197122dde6bf4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\dell\.android\build-cache\bb0665e60d4e5aa6c6af78576dc55aa03801fa75\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\dell\.android\build-cache\dfaa9d943fc76ecb5864030f3ae15a4a3af054fe\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\dell\.android\build-cache\32528c52fc75b7ecde3b697b485fd92b09fa86aa\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\dell\.android\build-cache\21cbfc2dd79d1bb4523734355a8856ccdd0c43c4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\dell\.android\build-cache\ad88fb077430bbb166654460c3d537be467f681c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\dell\.android\build-cache\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\dell\.android\build-cache\16e69e290b22b3f85daa33d7dd230f1e184b9ab8\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\dell\.android\build-cache\fca723cb3c152899ab70382be774f72b21989d02\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\dell\.android\build-cache\bc04ddb63576c24f5e692b151b95d5c0337cd256\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\dell\.android\build-cache\bf52fa4323631c9b2c31784e3da2199bb8afaf38\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\dell\.android\build-cache\53c38396979989693be2f23128af35cc017906a0\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\dell\.android\build-cache\da5333951a7508571df3a2346d7b53a5cf8b7134\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\dell\.android\build-cache\41433d9c7cd94df88ef23d5d4da343a077aff1f9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\dell\.android\build-cache\108282e9d4482600f6719ea533cd30c2d4b12b7d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\dell\.android\build-cache\15ec7c2a38d29e0fc8b794b4bc7871f9d3ff63a6\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\dell\.android\build-cache\f7bc6a519276f69cd969bb2db9265a6a301f37bf\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\dell\.android\build-cache\32ae5381505315ba1166d13ae47c74adeaa10afd\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\dell\.android\build-cache\cc31145e7ebc35b9b29b5eb56cbfd720fe3683f9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\dell\.android\build-cache\211ef3801e72c06c500f3bdd3fdc302eb4f469e7\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\dell\.android\build-cache\98160e61f2f4b103eae317c572c2f60cc864de68\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:62:9-47
+	android:supportsRtl
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:63:9-35
+	android:icon
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:61:9-38
+receiver#com.android.talkback.BootReceiver
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:65:9-73:20
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:67:13-36
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:66:13-43
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:65:19-47
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCKED_BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:68:13-72:29
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:69:17-85
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:69:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:70:25-76
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:71:27-73
+activity#com.android.utils.TestActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:75:9-80:20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:78:17-45
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:79:17-47
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:77:17-41
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:76:17-62
+service#com.google.android.marvin.talkback.TalkBackService
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:83:9-100:19
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:85:13-36
+	android:permission
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:86:13-79
+	android:settingsActivity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:87:13-88
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:88:13-43
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:84:13-78
+intent-filter#android.accessibilityservice.AccessibilityService+android.accessibilityservice.category.FEEDBACK_AUDIBLE+android.accessibilityservice.category.FEEDBACK_HAPTIC+android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:89:13-95:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:90:17-92
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:90:25-89
+category#android.accessibilityservice.category.FEEDBACK_AUDIBLE
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:92:17-99
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:92:27-96
+category#android.accessibilityservice.category.FEEDBACK_HAPTIC
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:93:17-98
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:93:27-95
+category#android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:94:17-98
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:94:27-95
+meta-data#android.accessibilityservice
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:97:13-99:64
+	android:resource
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:99:17-61
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:98:17-60
+activity#com.android.talkback.TalkBackPreferencesActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:103:9-115:20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:106:13-63
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:107:13-43
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:105:13-36
+	tools:ignore
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:110:13-44
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:109:13-52
+	android:taskAffinity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:108:13-73
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:104:13-56
+intent-filter#android.accessibilityservice.SERVICE_SETTINGS+android.intent.action.MAIN
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:111:13-114:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:112:17-69
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:112:25-66
+category#android.accessibilityservice.SERVICE_SETTINGS
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:113:17-90
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:113:27-87
+activity#com.android.talkback.TalkBackShortcutPreferencesActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:118:9-129:20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:121:13-63
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:122:13-43
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:120:13-36
+	tools:ignore
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:125:13-44
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:124:13-52
+	android:taskAffinity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:123:13-73
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:119:13-64
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:126:13-128:29
+activity#com.android.talkback.TalkBackKeyboardShortcutPreferencesActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:132:9-143:20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:135:13-63
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:136:13-43
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:134:13-36
+	tools:ignore
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:139:13-44
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:138:13-52
+	android:taskAffinity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:137:13-73
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:133:13-72
+activity#com.android.talkback.TalkBackDumpAccessibilityEventActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:146:9-153:20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:149:13-63
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:150:13-43
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:148:13-37
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:152:13-52
+	android:taskAffinity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:151:13-73
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:147:13-67
+activity#com.android.talkback.tutorial.AccessibilityTutorialActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:156:9-165:20
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:161:13-65
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:162:13-48
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:159:13-37
+	android:configChanges
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:158:13-74
+	android:immersive
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:160:13-37
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:164:13-43
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:163:13-57
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:157:13-67
+activity#com.android.talkback.labeling.LabelImportActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:167:9-173:20
+	android:enabled
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:172:13-56
+	android:excludeFromRecents
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:168:13-46
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:170:13-48
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:171:13-36
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:169:13-47
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:167:19-63
+activity#com.android.talkback.labeling.LabelManagerSummaryActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:176:9-182:76
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:179:13-64
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:180:13-43
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:178:13-37
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:181:13-52
+	android:taskAffinity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:182:13-73
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:177:13-65
+activity#com.android.talkback.labeling.LabelManagerPackageActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:185:9-190:76
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:188:13-64
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:189:13-43
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:187:13-37
+	android:taskAffinity
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:190:13-73
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:186:13-65
+activity#com.android.talkback.GestureChangeNotificationActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:193:9-202:20
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:195:13-36
+	tools:ignore
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:198:13-44
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:197:13-43
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:196:13-47
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:194:13-62
+activity#com.android.talkback.NotificationActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:205:9-214:20
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:207:13-36
+	tools:ignore
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:210:13-44
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:209:13-43
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:208:13-47
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:206:13-49
+activity#com.android.talkback.ShortcutProxyActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:217:9-232:20
+	android:enabled
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:219:13-36
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:222:13-64
+	android:excludeFromRecents
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:220:13-46
+	android:launchMode
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:223:13-44
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:221:13-36
+	tools:ignore
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:226:13-44
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:225:13-43
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:224:13-59
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:218:13-50
+intent-filter#android.intent.action.SEARCH_LONG_PRESS+android.intent.category.DEFAULT
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:227:13-231:29
+action#android.intent.action.SEARCH_LONG_PRESS
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:228:17-82
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:228:25-79
+activity#com.android.talkback.WebActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:234:9-237:20
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:236:13-37
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:235:13-40
+provider#com.android.talkback.labeling.LabelProvider
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:240:9-246:46
+	android:readPermission
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:244:13-92
+	android:authorities
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:242:13-75
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:243:13-36
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:246:13-43
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:241:13-51
+	android:writePermission
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:245:13-93
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:248:9-256:20
+	android:authorities
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:250:13-74
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:252:13-47
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:251:13-37
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:249:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:253:13-255:54
+	android:resource
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:255:17-51
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:254:17-67
+service#com.android.switchaccess.SwitchAccessService
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:258:9-274:19
+	android:enabled
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:261:13-45
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:259:13-56
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:262:13-36
+	android:permission
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:264:13-79
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:263:13-43
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:260:13-72
+intent-filter#android.accessibilityservice.AccessibilityService+android.accessibilityservice.category.FEEDBACK_GENERIC
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:265:13-269:29
+category#android.accessibilityservice.category.FEEDBACK_GENERIC
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:268:17-99
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:268:27-96
+activity#com.android.switchaccess.SwitchAccessPreferenceActivity
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:276:9-283:20
+	android:enabled
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:282:13-45
+	android:label
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:279:13-68
+	android:exported
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:278:13-37
+	android:directBootAware
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:281:13-43
+	android:theme
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:280:13-52
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:277:13-83
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:285:9-287:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\dell\.android\build-cache\211ef3801e72c06c500f3bdd3fdc302eb4f469e7\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:287:13-66
+	android:name
+		ADDED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml:286:13-58
+uses-sdk
+INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\dell\.android\build-cache\2cb833955a33a7b2c042acb900a197122dde6bf4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\dell\.android\build-cache\bb0665e60d4e5aa6c6af78576dc55aa03801fa75\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\dell\.android\build-cache\dfaa9d943fc76ecb5864030f3ae15a4a3af054fe\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\dell\.android\build-cache\32528c52fc75b7ecde3b697b485fd92b09fa86aa\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\dell\.android\build-cache\21cbfc2dd79d1bb4523734355a8856ccdd0c43c4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\dell\.android\build-cache\ad88fb077430bbb166654460c3d537be467f681c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\dell\.android\build-cache\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\dell\.android\build-cache\16e69e290b22b3f85daa33d7dd230f1e184b9ab8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\dell\.android\build-cache\fca723cb3c152899ab70382be774f72b21989d02\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\dell\.android\build-cache\bc04ddb63576c24f5e692b151b95d5c0337cd256\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\dell\.android\build-cache\bf52fa4323631c9b2c31784e3da2199bb8afaf38\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\dell\.android\build-cache\53c38396979989693be2f23128af35cc017906a0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\dell\.android\build-cache\da5333951a7508571df3a2346d7b53a5cf8b7134\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\dell\.android\build-cache\41433d9c7cd94df88ef23d5d4da343a077aff1f9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\dell\.android\build-cache\108282e9d4482600f6719ea533cd30c2d4b12b7d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\dell\.android\build-cache\15ec7c2a38d29e0fc8b794b4bc7871f9d3ff63a6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\dell\.android\build-cache\f7bc6a519276f69cd969bb2db9265a6a301f37bf\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\dell\.android\build-cache\aebda8fea4085ed48138daafde53fdbc2d6f8996\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\dell\.android\build-cache\32ae5381505315ba1166d13ae47c74adeaa10afd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\dell\.android\build-cache\cc31145e7ebc35b9b29b5eb56cbfd720fe3683f9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\dell\.android\build-cache\2fffa96d29d68eb33e40f2f538a93332857aa2bc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\dell\.android\build-cache\211ef3801e72c06c500f3bdd3fdc302eb4f469e7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\dell\.android\build-cache\98160e61f2f4b103eae317c572c2f60cc864de68\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\dell\.android\build-cache\98160e61f2f4b103eae317c572c2f60cc864de68\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\Downloads\talkback-master\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\dell\.android\build-cache\3979cef63c7c30106a4b573b49136875494643c2\output\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\dell\.android\build-cache\2e4e12a35f7b935891afec0c55398773d824d8ed\output\AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\dell\.android\build-cache\12ee7ca5a3a6adaaf36d336a9fc911ab43cfd59c\output\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\dell\.android\build-cache\bf52fa4323631c9b2c31784e3da2199bb8afaf38\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\dell\.android\build-cache\bf52fa4323631c9b2c31784e3da2199bb8afaf38\output\AndroidManifest.xml:21:22-79
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\dell\.android\build-cache\b943d5717579c1bd300b5e1305d3f4a8f273a1bf\output\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\dell\.android\build-cache\c07a2e82dcdadfbd962efeb2ff48a622841da963\output\AndroidManifest.xml:24:8-31

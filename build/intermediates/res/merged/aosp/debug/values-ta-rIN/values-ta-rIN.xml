@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="html_input_to_desc_values">
+    <item msgid="4096172354068997146">"பொத்தான்"</item>
+    <item msgid="2699169428263688931">"செக் பாக்ஸ்"</item>
+    <item msgid="7550171965279727706">"வண்ணத் தேர்வி"</item>
+    <item msgid="2406148632948142554">"தேதி மற்றும் நேரக் கட்டுப்பாடு"</item>
+    <item msgid="6206734636643693831">"தேதி மற்றும் நேரக் கட்டுப்பாடு"</item>
+    <item msgid="6494793311723250360">"தேதி கட்டுப்பாடு"</item>
+    <item msgid="6233043014283782070">"மின்னஞ்சலுக்கான உரையைத் திருத்து"</item>
+    <item msgid="182198520168681864">"கோப்பு தேர்வு"</item>
+    <item msgid="7635844014202244925"/>
+    <item msgid="7139901113287304585">"பொத்தான்"</item>
+    <item msgid="7877770148678429766">"மாதக் கட்டுப்பாடு"</item>
+    <item msgid="7002577823944482722">"எண்முறை உரை திருத்தம் மட்டுமே"</item>
+    <item msgid="917273821530305195">"கடவுச்சொல் உரைப் பெட்டி"</item>
+    <item msgid="5154071363992838475">"ரேடியோ பட்டன்"</item>
+    <item msgid="2560372821541772181">"ஸ்லைடர்"</item>
+    <item msgid="779695939031888316">"மீட்டமை"</item>
+    <item msgid="1955065531595564834">"தேடலுக்கான உரையைத் திருத்து"</item>
+    <item msgid="3623131192112730435">"பொத்தான்"</item>
+    <item msgid="6312991181689088005">"ஃபோன் எண்ணிற்கான உரையைத் திருத்து"</item>
+    <item msgid="8762125587567231566">"உரையைத் திருத்து"</item>
+    <item msgid="1947579002513979409">"URLக்கான உரையைத் திருத்து"</item>
+    <item msgid="3903775116049114237">"ஆண்டின் வாரக் கட்டுப்பாடு"</item>
+  </string-array>
+    <string-array name="html_role_to_desc_values">
+    <item msgid="3658512898735203541">"விழிப்பூட்டல்"</item>
+    <item msgid="935137618042089194">"விழிப்பூட்டல் செய்தி"</item>
+    <item msgid="686369214205693600">"பொத்தான்"</item>
+    <item msgid="5449693577048552694">"செக் பாக்ஸ்"</item>
+    <item msgid="7272822698378169340">"காம்போ பாக்ஸ்"</item>
+    <item msgid="5713583829575581939">"செய்தி"</item>
+    <item msgid="5216929483884327567">"கட்ட வடிவ கலம்"</item>
+    <item msgid="19661835905260843">"இணைப்பு"</item>
+    <item msgid="8836528596849462517">"பதிவு"</item>
+    <item msgid="6363472636779109133">"மார்க்யூ"</item>
+    <item msgid="207979235591166657">"மெனு உருப்படி"</item>
+    <item msgid="5314221954121037157">"மெனு உருப்படி செக் பாக்ஸ்"</item>
+    <item msgid="8530188741088975507">"மெனு உருப்படி ரேடியோ பட்டன்"</item>
+    <item msgid="7133038652454746643">"விருப்பம்"</item>
+    <item msgid="8884929996375815553">"செயல்நிலைப் பட்டி"</item>
+    <item msgid="2491530352752186178">"ரேடியோ பட்டன்"</item>
+    <item msgid="5885543297378953099">"ரேடியோ பட்டன் குழு"</item>
+    <item msgid="3817058470626837478">"உருட்டல் பட்டி"</item>
+    <item msgid="2598539587247777337">"ஸ்லைடர்"</item>
+    <item msgid="7266241064748434859">"சுழல் பட்டன்"</item>
+    <item msgid="4150753681642535303">"நிலை"</item>
+    <item msgid="3573349580765929816">"தாவல்"</item>
+    <item msgid="9107453920877701301">"தாவல் பேனல்"</item>
+    <item msgid="5718988101358695130">"உரைப் பெட்டி"</item>
+    <item msgid="9046935926547104284">"டைமர்"</item>
+    <item msgid="8242601659670346415">"கருவிப்பட்டி"</item>
+    <item msgid="8035569092868245025">"கருவியின் உதவிக்குறிப்பு"</item>
+    <item msgid="4623430632959558435">"துணைப் பிரிவு உருப்படி"</item>
+  </string-array>
+    <string-array name="html_tag_to_desc_values">
+    <item msgid="1581643603826521323">"இணைப்பு"</item>
+    <item msgid="5847514471672094541">"முதல்நிலை தலைப்பு"</item>
+    <item msgid="7964504533413328902">"இரண்டாம்நிலை தலைப்பு"</item>
+    <item msgid="7775012721364572701">"மூன்றாம்நிலை தலைப்பு"</item>
+    <item msgid="1979200594411818064">"நான்காம்நிலை தலைப்பு"</item>
+    <item msgid="7881108930806590659">"ஐந்தாம்நிலை தலைப்பு"</item>
+    <item msgid="8181883417007695049">"ஆறாம்நிலை தலைப்பு"</item>
+    <item msgid="2343598882253497500">"பொத்தான்"</item>
+    <item msgid="5522305372945364608">"காம்போ பாக்ஸ்"</item>
+    <item msgid="2674550010931559202">"அட்டவணை"</item>
+    <item msgid="6844260645051963771">"உரைப் பகுதி"</item>
+  </string-array>
+    <string-array name="switch_access_color_entries">
+    <item msgid="7934595828699536711">"பச்சை"</item>
+    <item msgid="7616478199824616148">"ஆரஞ்சு"</item>
+    <item msgid="528738291475141372">"சிவப்பு"</item>
+    <item msgid="3613307072137891343">"நீலம்"</item>
+    <item msgid="1719741716015833575">"வெள்ளை"</item>
+  </string-array>
+    <string-array name="switch_access_scanning_methods_entries">
+    <item msgid="3706133143777972955">"வரிசை-நெடுவரிசை (விசைப்பலகையில் மட்டும்)"</item>
+    <item msgid="6882375457227534722">"வரிசை-நெடுவரிசை"</item>
+    <item msgid="4021832268378176260">"ஸ்கேனிங் விருப்பம்"</item>
+  </string-array>
+    <string-array name="switch_access_weight_entries">
+    <item msgid="5215195704613305820">"மெல்லிய திடக் கோடு"</item>
+    <item msgid="7698398358042168523">"நடுத்தர திடக் கோடு"</item>
+    <item msgid="4047443674448719927">"தடித்த திடக் கோடு"</item>
+  </string-array>
+    <plurals formatted="false" msgid="5524438721359954583" name="auto_scan_time_delay_summary_format">
+      <item quantity="other">%.2f வினாடிகள்</item>
+      <item quantity="one">1 வினாடி</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709295987864614176" name="label_import_succeeded">
+      <item quantity="other">%d லேபிள்கள் புதுப்பிக்கப்பட்டன</item>
+      <item quantity="one">1 லேபிள் புதுப்பிக்கப்பட்டது</item>
+    </plurals>
+    <plurals formatted="false" msgid="8070929030388121623" name="label_num_keys_assigned_format">
+      <item quantity="other">%d விசைகள் அமைக்கப்பட்டன</item>
+      <item quantity="one">%d விசை அமைக்கப்பட்டது</item>
+    </plurals>
+    <plurals formatted="false" msgid="9179529663500973282" name="template_containers">
+      <item quantity="other"><ns1:g id="TYPE_2">%1$s</ns1:g> ஆனது <ns1:g id="COUNT_3">%2$d</ns1:g> உருப்படிகளைக் காட்டுகிறது.</item>
+      <item quantity="one"><ns1:g id="TYPE_0">%1$s</ns1:g> ஆனது <ns1:g id="COUNT_1">%2$d</ns1:g> உருப்படியைக் காட்டுகிறது.</item>
+    </plurals>
+    <plurals formatted="false" msgid="4038822501642812499" name="template_dump_event_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT">%1$d</ns1:g> நிகழ்வுகள் தேர்ந்தெடுக்கப்பட்டன</item>
+      <item quantity="one">1 நிகழ்வு தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals formatted="false" msgid="5016154931003131594" name="template_list_column_count">
+      <item quantity="other"><ns1:g id="COLUMN_COUNT_1">%1$d</ns1:g> நெடுவரிசைகள்</item>
+      <item quantity="one"><ns1:g id="COLUMN_COUNT_0">%1$d</ns1:g> நெடுவரிசை</item>
+    </plurals>
+    <plurals formatted="false" msgid="3432009359831385828" name="template_list_row_count">
+      <item quantity="other"><ns1:g id="ROW_COUNT_1">%1$d</ns1:g> வரிசைகள்</item>
+      <item quantity="one"><ns1:g id="ROW_COUNT_0">%1$d</ns1:g> வரிசை</item>
+    </plurals>
+    <plurals formatted="false" msgid="3955737557576761990" name="template_list_total_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT_1">%1$d</ns1:g> உருப்படிகள்</item>
+      <item quantity="one"><ns1:g id="TOTAL_COUNT_0">%1$d</ns1:g> உருப்படி</item>
+    </plurals>
+    <plurals formatted="false" msgid="1628316286149773405" name="template_password_character_count">
+      <item quantity="other"><ns1:g id="CHARACTER_COUNT_1">%1$d</ns1:g> எழுத்துக்குறிகள்</item>
+      <item quantity="one"><ns1:g id="CHARACTER_COUNT_0">%1$d</ns1:g> எழுத்துக்குறி</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"முகப்பிற்கு வழிசெலுத்து"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"மேலே வழிசெலுத்து"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"முடிந்தது"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"எல்லாம் காட்டு"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"பயன்பாட்டைத் தேர்வுசெய்க"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"தேடு..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"வினவலை அழி"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"தேடல் வினவல்"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"தேடு"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"வினவலைச் சமர்ப்பி"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"குரல் தேடல்"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"இதனுடன் பகிர்"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s உடன் பகிர்"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"சுருக்கு"</string>
+    <string msgid="3283027285894267908" name="accessibility_tutorial_title">"அணுகல்தன்மை பயிற்சி"</string>
+    <string msgid="8073233516135659087" name="action_name_click">"தேர்ந்தெடு"</string>
+    <string msgid="4275752158295125939" name="action_name_dismiss">"நிராகரி"</string>
+    <string msgid="5708679123666477849" name="action_name_long_click">"நெடுநேரம் அழுத்து"</string>
+    <string msgid="4106603510441280028" name="action_name_next">"அடுத்து"</string>
+    <string msgid="5382750123072539005" name="action_name_previous">"முந்தையது"</string>
+    <string msgid="4257814255726312722" name="action_name_reverse_auto_scan">"தானியங்கு ஸ்கேன் வரிசையை பின்னோக்கி மாற்று"</string>
+    <string msgid="579045012327139100" name="action_name_scroll_backward">"பின்னோக்கி உருட்டு"</string>
+    <string msgid="6969788891937406270" name="action_name_scroll_forward">"முன்னோக்கி உருட்டு"</string>
+    <string msgid="697316167642517245" name="arc_android_window">"Android சாளரம்"</string>
+    <string msgid="6957148997380624671" name="arc_maximize_window_for_touch_hint">"தொடுதல் மற்றும் பேச்சு வடிவக் கருத்தைப் பயன்படுத்தி சிறந்த பலன்களைப் பெற, பயன்பாட்டுச் சாளரத்தைப் பெரிதாக்கவும்"</string>
+    <string msgid="3272314052097101117" name="arc_navigation_hint">"வழிசெலுத்த, தேடல் விசையையும் அம்புக்குறி விசைகளையும் அழுத்தவும்"</string>
+    <string msgid="293518233104520901" name="arc_open_manage_keyboard_shortcuts_hint">"குறுக்குவழிகளின் பட்டியலைப் பார்க்க, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்"</string>
+    <string msgid="9026011084239235722" name="arc_open_talkback_settings_hint">"TalkBack அமைப்புகளைத் திறக்க, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்"</string>
+    <string msgid="8528412412593489695" name="axis_character">"எழுத்துக்குறியின்படி செல்."</string>
+    <string msgid="816142869754118685" name="axis_default_web_view_behavior">"இயல்பான இணையக் காட்சிப்படி செல்."</string>
+    <string msgid="8037283796488966887" name="axis_document">"ஆவணத்தின்படி செல்."</string>
+    <string msgid="8829265824683632088" name="axis_heading">"தலைப்பின்படி செல்."</string>
+    <string msgid="4398740201672273541" name="axis_sentence">"சொற்றொடரின்படி செல்."</string>
+    <string msgid="3267377527761217139" name="axis_sibling">"துணை பக்கத்தின்படி செல்."</string>
+    <string msgid="8823389407337076750" name="axis_word">"வார்த்தையின்படி செல்."</string>
+    <string msgid="7776830309528651093" name="button_accept_changed_gesture_mappings">"சைகைகளை ஏற்கவும்"</string>
+    <string msgid="301383322727007726" name="button_check_all_events">"எல்லாம் தேர்வுசெய்"</string>
+    <string msgid="2128349101908653825" name="button_clear_all_events">"எல்லாம் அழி"</string>
+    <string msgid="5895884645531139464" name="button_customize_gesture_mappings">"சைகைகளைத் தனிப்பயனாக்கு"</string>
+    <string msgid="2754406023113433479" name="cannot_add_label">"இதற்கு லேபிளிட முடியாது."</string>
+    <string msgid="3556846822411648601" name="character_collapse_template">" <ns1:g id="NUMBER">%1$d</ns1:g> <ns1:g id="CHARACTER">%2$s</ns1:g>"</string>
+    <string msgid="1222984615395028719" name="column_heading_template">"நெடுவரிசையின் தலைப்பு"</string>
+    <string msgid="258393957626754806" name="column_index_template">"நெடுவரிசை <ns1:g id="COL">%1$d</ns1:g>"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"தற்போது கிடைக்காத, ஒன்று அல்லது அதற்கு மேற்பட்ட Google Play சேவைகள் <ns1:g id="APP_NAME">%1$s</ns1:g>க்குத் தேவை. உதவிக்கு, டெவெலப்பரைத் தொடர்புகொள்ளவும்."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Google Play சேவைகளை இயக்கு"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"Google Play சேவைகளை இயக்கினால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும்."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Google Play சேவைகளை இயக்கவும்"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Google Play சேவைகளைப் பெறுக"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"Google Play சேவைகள் இருந்தால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும். அவை தற்போது உங்கள் மொபைலில் இல்லை."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"Google Play சேவைகள் இருந்தால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும். அவை தற்போது உங்கள் டேப்லெட்டில் இல்லை."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Google Play சேவைகளைப் பெறவும்"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"இந்தச் சாதனத்தில் குறிப்பிடப்பட்ட கணக்கு இல்லை. வேறு கணக்கைத் தேர்வுசெய்யவும்."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"தவறான கணக்கு"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Google Play சேவைகளுடன் இணைக்க, தரவு இணைப்பு தேவை."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"நெட்வொர்க் பிழை"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Google Play சேவைகள் பிழை"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"வரையறுக்கப்பட்ட சுயவிவரத்திலிருந்து கணக்குகளை அணுகுவது ஆதரிக்கப்படாது."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"வரையறுக்கப்பட்ட சுயவிவரம்"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"குறிப்பிடப்பட்ட கணக்கில் உள்நுழைவதில் பிழை. வேறு கணக்கைத் தேர்வுசெய்யவும்."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"உள்நுழைவதில் தோல்வி"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>க்கு Google Play சேவைகளுடன் சிக்கல் உள்ளது. சிக்கல் தொடர்ந்தால், உதவிக்கு டெவெலப்பரைத் தொடர்புகொள்ளவும்."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"சாதனம் ஆதரிக்காத Google Play சேவைகளை <ns1:g id="APP_NAME">%1$s</ns1:g> சார்ந்துள்ளது. உதவிக்கு, தயாரிப்பாளரைத் தொடர்புகொள்ளவும்."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play சேவைகள்"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"புதுப்பி"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"Google Play சேவைகளை இயக்கினால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும்."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Google Play சேவைகளைப் புதுப்பிக்கவும்"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும்."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play சேவைகளைப் புதுப்பிக்கிறது"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"மொபைலில் திற"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"உள்நுழைக"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Google மூலம் உள்நுழைக"</string>
+    <string msgid="330592638837220675" name="context_menu_layout_description">"சூழல் மெனு"</string>
+    <string msgid="7595558180210850775" name="dialog_message_dim_screen">"திரையை நிச்சயமாக மங்கலாக்க விரும்புகிறீர்களா?"</string>
+    <string msgid="3526530041207600349" name="dialog_message_disable_exploration">"தொடுவதன் மூலம் அறிக அம்சத்தை முடக்க விரும்புகிறீர்களா?\n\nஉங்கள் சாதனம் இனிமேல் குறுக்குவழி சைகைகளைச் செயல்படுத்தாது அல்லது திரையைத் தொடும்போது அதைக் கூறாது."</string>
+    <string msgid="1939098607233562642" name="dialog_message_enable_tree_debug">"நோடு ட்ரீ பிழைத்திருத்தத்தை நிச்சயமாக இயக்க விரும்புகிறீர்களா?\n\nநோடு ட்ரீ பிழைத்திருத்தம் உங்கள் திரையின் உள்ளடக்கத்தை, உங்கள் சாதனத்தின் பதிவுகளில் சேர்க்கும், இதனைப் பிற பயன்பாடுகள் படிக்கக்கூடும்."</string>
+    <string msgid="5767155087369798907" name="dialog_message_suspend_talkback">"நிச்சயமாகவா? சாதனம் ஃபீட்பேக் வழங்காது மற்றும் தொடுவதன் மூலம் அறிக எனும் அம்சம் முடக்கப்படும். பூட்டுத் திரைக்குத் திரும்புவது அல்லது ஒலியளவு விசைக் குறுக்குவழி மூலமாக அறிவிப்புகளிலிருந்து TalkBackஐ மீண்டும் தொடங்கலாம்."</string>
+    <string msgid="603850602120147151" name="dialog_title_dim_screen">"திரையை மங்கலாக்கவா?"</string>
+    <string msgid="2662971136340460644" name="dialog_title_disable_exploration">"தொடுவதன் மூலம் அறிவதை முடக்கவா?"</string>
+    <string msgid="2107489862179537135" name="dialog_title_enable_tree_debug">"நோடு ட்ரீ பிழைத்திருத்தத்தை இயக்கவா?"</string>
+    <string msgid="5117432568615750164" name="dialog_title_suspend_talkback">"TalkBackஐ இடைநிறுத்தவா?"</string>
+    <string msgid="6117331350509062908" name="display_name_aria_landmark">"ARIA லேண்ட்மார்க்"</string>
+    <string msgid="6801468093111637502" name="display_name_button">"பொத்தான்"</string>
+    <string msgid="2060147158898197667" name="display_name_checkbox">"செக்பாக்ஸ்"</string>
+    <string msgid="3627879841881471141" name="display_name_combobox">"காம்போ பாக்ஸ்"</string>
+    <string msgid="7621147750572129887" name="display_name_control">"கட்டுப்பாடு"</string>
+    <string msgid="5014778180731737501" name="display_name_edit_field">"திருத்துதல் புலம்"</string>
+    <string msgid="1687969602866460765" name="display_name_focusable_item">"ஃபோகஸ் செய்யத்தக்க உருப்படி"</string>
+    <string msgid="5292831903337779423" name="display_name_graphic">"கிராஃபிக்"</string>
+    <string msgid="7554771761850653608" name="display_name_heading">"தலைப்பு"</string>
+    <string msgid="30730842343032834" name="display_name_heading_1">"தலைப்பு ஒன்று"</string>
+    <string msgid="754950733934619571" name="display_name_heading_2">"தலைப்பு இரண்டு"</string>
+    <string msgid="5499505893988231066" name="display_name_heading_3">"தலைப்பு மூன்று"</string>
+    <string msgid="8795813919278024796" name="display_name_heading_4">"தலைப்பு நான்கு"</string>
+    <string msgid="6033290790336260109" name="display_name_heading_5">"தலைப்பு ஐந்து"</string>
+    <string msgid="6401554046489668344" name="display_name_heading_6">"தலைப்பு ஆறு"</string>
+    <string msgid="1766513019820473329" name="display_name_link">"இணைப்பு"</string>
+    <string msgid="6043055138670390963" name="display_name_list">"பட்டியல்"</string>
+    <string msgid="5955953898740497356" name="display_name_list_item">"பட்டியல் உருப்படி"</string>
+    <string msgid="4568845228422422699" name="display_name_section">"தலைப்பு அல்லது லேண்ட்மார்க்"</string>
+    <string msgid="1369599790038567007" name="display_name_table">"அட்டவணை"</string>
+    <string msgid="3595733062526019550" name="end_of_text">"முடிவு"</string>
+    <string msgid="2634106379315171501" name="end_of_web">"அடுத்த <ns1:g id="ID_1">%1$s</ns1:g> இல்லை"</string>
+    <string msgid="8326879739948707767" name="global_action_back">"முந்தையது"</string>
+    <string msgid="2498984784930393183" name="global_action_home">"முகப்பு"</string>
+    <string msgid="7052190988699716765" name="global_action_notifications">"அறிவிப்புகள்"</string>
+    <string msgid="51725242460849609" name="global_action_overview">"மேலோட்டப் பார்வை"</string>
+    <string msgid="425687562421432080" name="global_action_quick_settings">"உடனடி அமைப்புகள்"</string>
+    <string msgid="2580664964591545065" name="global_context_menu_title">"முழுச் சூழல் மெனு"</string>
+    <string msgid="2036726841460203840" name="granularity_character">"எழுத்துக்குறிகள்"</string>
+    <string msgid="4948042687369948597" name="granularity_default">"இயல்பு"</string>
+    <string msgid="727359260064093782" name="granularity_line">"வரிகள்"</string>
+    <string msgid="2739238666516816581" name="granularity_page">"பக்கங்கள்"</string>
+    <string msgid="3760401274833105422" name="granularity_paragraph">"பத்திகள்"</string>
+    <string msgid="437761042603242585" name="granularity_pseudo_web_special_content">"சிறப்பு உள்ளடக்கம்"</string>
+    <string msgid="1885138772895126953" name="granularity_web_control">"கட்டுப்பாடுகள்"</string>
+    <string msgid="7817726975417542626" name="granularity_web_link">"இணைப்புகள்"</string>
+    <string msgid="4386991044245560102" name="granularity_web_list">"பட்டியல்கள்"</string>
+    <string msgid="8219174463230029732" name="granularity_web_section">"தலைப்புகளும் லேண்ட்மார்க்குகளும்"</string>
+    <string msgid="2653776823920279013" name="granularity_word">"சொற்கள்"</string>
+    <string msgid="3585514481777782183" name="heading_template">"தலைப்பு"</string>
+    <string msgid="2042130200569709650" name="hint_radial_menu">"உருப்படியைக் கண்டறிய திரையைத் தொட்டு, வட்டமாக நகர்த்தவும், செயல்படுத்த, விரலை எடுக்கவும்."</string>
+    <string msgid="6139951755594105602" name="hint_script_injection">"இணைய உள்ளடக்கத்தில், தொடுவதன் மூலம் அறிக அம்சம் செயல்படாது. இணைய உள்ளடக்கத்தை ஆராய அணுகல்தன்மை அமைப்புகளில், <ns1:g id="PREFERENCE_NAME">%1$s</ns1:g>ஐ இயக்கவும்."</string>
+    <string msgid="2050246931229863299" name="hint_summary_jog_dial">"திரை உள்ளடக்கத்திற்குச் செல்ல திரையைத் தொட்டு, வட்டமாகத் தேய்க்கவும், பிறகு தேர்ந்தெடுக்க விரலை எடுக்கவும்."</string>
+    <string msgid="6117098234531459917" name="imported_labels_reverted">"இறக்கிய லேபிள்கள் மாற்றியமைக்கப்பட்டன"</string>
+    <string msgid="71505978833721807" name="item_index_template">"உருப்படி <ns1:g id="ITEM">%1$d</ns1:g>"</string>
+    <string msgid="3635428232205897122" name="key_combo_preference_alt_plus">"ALT + "</string>
+    <string msgid="3798670998031739354" name="key_combo_preference_control_plus">"CTRL + "</string>
+    <string msgid="729970729293779243" name="key_combo_preference_instructions">"பட்டியலில் இதைச் சேர்க்க மற்றும் அதிலிருந்து அகற்ற, விசை சேர்க்கையை அழுத்தவும்"</string>
+    <string msgid="766369207787941384" name="key_combo_preference_reset_button">"விசை ஒதுக்கீட்டை அழி"</string>
+    <string msgid="2809984878781105825" name="key_combo_preference_shift_plus">"SHIFT + "</string>
+    <string msgid="2481495794999250718" name="keycombo_announce_shortcut_not_supported">"குறுக்குவழி ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="3473075449729957326" name="keycombo_assign_dialog_clear">"குறுக்குவழியை அழி"</string>
+    <string msgid="8675660213696360536" name="keycombo_assign_dialog_default_keymap_instruction">"புதிய குறுக்குவழியை அமைக்க, <ns1:g id="TRIGGER_MODIFIER_NAME">%1$s</ns1:g>, மாற்றி விசை ஆகிய இரண்டையும் சேர்த்து அழுத்தவும்."</string>
+    <string msgid="7298194792465449819" name="keycombo_assign_dialog_instruction">"புதிய குறுக்குவழியை அமைக்க விசைச் சேர்க்கையை அழுத்தவும். குறைந்தது ALT அல்லது Control விசை கண்டிப்பாக இதில் இருக்க வேண்டும்."</string>
+    <string msgid="2212047143066468004" name="keycombo_assign_dialog_message">"விசைப்பலகை குறுக்குவழி"</string>
+    <string msgid="7481082388500840525" name="keycombo_assign_dialog_navigation_reminder">"குறுக்குவழியை அழிக்க பேக்ஸ்பேஸினை அழுத்தவும், சேமிக்க எண்டரை அழுத்தவும் அல்லது ரத்துசெய்ய எஸ்கேப்பை அழுத்தவும்."</string>
+    <string msgid="2088979197242112118" name="keycombo_key_arrow_down">"கீழ் அம்புக்குறி"</string>
+    <string msgid="7617113973940474625" name="keycombo_key_arrow_left">"இடது அம்புக்குறி"</string>
+    <string msgid="3021807777617903460" name="keycombo_key_arrow_right">"வலது அம்புக்குறி"</string>
+    <string msgid="3428552869533106939" name="keycombo_key_arrow_up">"மேல் அம்புக்குறி"</string>
+    <string msgid="5899747265287524712" name="keycombo_key_modifier_alt">"Alt"</string>
+    <string msgid="7834452577952298995" name="keycombo_key_modifier_ctrl">"Ctrl"</string>
+    <string msgid="4552213738130479993" name="keycombo_key_modifier_meta">"தேடு"</string>
+    <string msgid="5635477035615538497" name="keycombo_key_modifier_shift">"Shift"</string>
+    <string msgid="1828508564583672416" name="keycombo_menu_alert_message_trigger_modifier">"TalkBack விசைவரைபடத்தை மீட்டமைத்து, மாற்றி விசையை <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g>க்கு மாற்றும்"</string>
+    <string msgid="2294464165508562696" name="keycombo_menu_alert_title_trigger_modifier">"விசைவரைபடத்தை TalkBack மீட்டமைக்கும்"</string>
+    <string msgid="6826451509012716500" name="keycombo_menu_announce_active_keymap">"<ns1:g id="KEYMAP_NAME">%1$s</ns1:g> இப்போது செயலில் உள்ளது."</string>
+    <string msgid="7217139940963945885" name="keycombo_menu_announce_new_trigger_modifier">"மாற்றி விசை <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g>க்கு மாற்றப்பட்டது."</string>
+    <string msgid="6125748767740120870" name="keycombo_menu_announce_reset_keymap">"விசைவரைபடம் மீட்டமைக்கப்பட்டது."</string>
+    <string msgid="7309875734492478067" name="keycombo_menu_category_global">"முழு செயல்பாடுகள்"</string>
+    <string msgid="1510641633727773395" name="keycombo_menu_category_granularity">"வழிசெலுத்தல் அமைப்புகள்"</string>
+    <string msgid="4152949225907039706" name="keycombo_menu_category_navigation">"வழிசெலுத்தல் செயல்கள்"</string>
+    <string msgid="440132295339458288" name="keycombo_menu_category_other">"பிற செயல்கள்"</string>
+    <string msgid="51409040763676563" name="keycombo_menu_category_select_keymap">"விசைவரைபடம்"</string>
+    <string msgid="197426246774034347" name="keycombo_menu_category_web">"இணைய வழிகாட்டல் செயல்கள்"</string>
+    <string msgid="1134261938982195470" name="keycombo_menu_choose_trigger_modifier">"மாற்றி விசையைத் தேர்ந்தெடு"</string>
+    <string msgid="4567585750566224959" name="keycombo_menu_global_back">"முந்தையது"</string>
+    <string msgid="7189369064773623371" name="keycombo_menu_global_home">"முகப்பு"</string>
+    <string msgid="7376426148339964566" name="keycombo_menu_global_notifications">"அறிவிப்புகள்"</string>
+    <string msgid="927586811460340459" name="keycombo_menu_global_recent">"சமீபத்திய பயன்பாடுகள்"</string>
+    <string msgid="6155357392695951243" name="keycombo_menu_global_suspend">"TalkBackஐ இடைநிறுத்து/மீண்டும் தொடங்கு"</string>
+    <string msgid="4124885036136489177" name="keycombo_menu_granularity_decrease">"முந்தைய வழிசெலுத்தல் அமைப்பு"</string>
+    <string msgid="4418197063118287013" name="keycombo_menu_granularity_increase">"அடுத்த வழிசெலுத்தல் அமைப்பு"</string>
+    <string msgid="8107187053010960249" name="keycombo_menu_navigate_down">"கீழுள்ள உருப்படிக்குச் செல்"</string>
+    <string msgid="3158152161988911032" name="keycombo_menu_navigate_first">"முதல் உருப்படிக்குச் செல்"</string>
+    <string msgid="1263547978659004801" name="keycombo_menu_navigate_last">"கடைசி உருப்படிக்குச் செல்"</string>
+    <string msgid="759996660496701149" name="keycombo_menu_navigate_next">"அடுத்த உருப்படிக்குச் செல்"</string>
+    <string msgid="2366740353671146191" name="keycombo_menu_navigate_next_character">"அடுத்த எழுத்திற்குச் செல்"</string>
+    <string msgid="25126714988891178" name="keycombo_menu_navigate_next_window">"அடுத்த சாளரத்திற்குச் செல்"</string>
+    <string msgid="1395811611039468067" name="keycombo_menu_navigate_next_word">"அடுத்த சொல்லுக்குச் செல்"</string>
+    <string msgid="6854364806063486016" name="keycombo_menu_navigate_previous">"முந்தைய உருப்படிக்குச் செல்"</string>
+    <string msgid="2721742949377224859" name="keycombo_menu_navigate_previous_character">"முந்தைய எழுத்திற்குச் செல்"</string>
+    <string msgid="4564537307456535973" name="keycombo_menu_navigate_previous_window">"முந்தைய சாளரத்திற்குச் செல்"</string>
+    <string msgid="4068599657564535841" name="keycombo_menu_navigate_previous_word">"முந்தைய சொல்லுக்குச் செல்"</string>
+    <string msgid="8246000047771671403" name="keycombo_menu_navigate_up">"மேலுள்ள உருப்படிக்குச் செல்"</string>
+    <string msgid="2225006890613375860" name="keycombo_menu_other_global_context_menu">"முழு சூழல் மெனுவைக் காட்டு"</string>
+    <string msgid="4021429520088110904" name="keycombo_menu_other_local_context_menu">"அகச் சூழல் மெனுவைக் காட்டு"</string>
+    <string msgid="1317406596143818756" name="keycombo_menu_other_open_manage_keyboard_shortcuts">"விசைப்பலகைக் குறுக்குவழிகளை நிர்வகி"</string>
+    <string msgid="7172351544340904928" name="keycombo_menu_other_open_talkback_settings">"TalkBack அமைப்புகளைத் திற"</string>
+    <string msgid="1511843443312220392" name="keycombo_menu_other_read_from_next_item">"அடுத்த உருப்படியிலிருந்து படி"</string>
+    <string msgid="5903852171117275622" name="keycombo_menu_other_read_from_top">"மேலிருந்து படி"</string>
+    <string msgid="5587057667593041194" name="keycombo_menu_other_toggle_search">"திரையில் உருப்படியைத் தேடு"</string>
+    <string msgid="243666968746657931" name="keycombo_menu_perform_click">"கிளிக் செய்"</string>
+    <string msgid="5580717252946630027" name="keycombo_menu_perform_long_click">"நீண்ட கிளிக் செய்"</string>
+    <string msgid="2023072719324737919" name="keycombo_menu_reset_keymap">"விசைவரைபடத்தை மீட்டமை"</string>
+    <string msgid="373592569630998413" name="keycombo_menu_select_keymap">"விசைவரைபடத்தைத் தேர்ந்தெடு"</string>
+    <string msgid="6234830691861291732" name="keycombo_menu_web_navigate_to_next_aria_landmark">"அடுத்த ARIA லேண்ட்மார்க்கிற்குச் செல்"</string>
+    <string msgid="5786404186459162862" name="keycombo_menu_web_navigate_to_next_button">"அடுத்த பொத்தானிற்குச் செல்"</string>
+    <string msgid="3722561185964557699" name="keycombo_menu_web_navigate_to_next_checkbox">"அடுத்த செக்பாக்ஸிற்குச் செல்"</string>
+    <string msgid="8664957205621246821" name="keycombo_menu_web_navigate_to_next_combobox">"அடுத்த காம்போ பாக்ஸிற்குச் செல்"</string>
+    <string msgid="5118493330693292266" name="keycombo_menu_web_navigate_to_next_control">"அடுத்த கட்டுப்பாட்டிற்குச் செல்"</string>
+    <string msgid="212436471355413352" name="keycombo_menu_web_navigate_to_next_edit_field">"அடுத்த திருத்துதல் புலத்திற்குச் செல்"</string>
+    <string msgid="6577338510655384932" name="keycombo_menu_web_navigate_to_next_focusable_item">"ஃபோகஸ் செய்யத்தக்க அடுத்த உருப்படிக்குச் செல்"</string>
+    <string msgid="3860950617153731037" name="keycombo_menu_web_navigate_to_next_graphic">"அடுத்த கிராஃபிக்கிற்குச் செல்"</string>
+    <string msgid="6529174070300116949" name="keycombo_menu_web_navigate_to_next_heading">"அடுத்த தலைப்பிற்குச் செல்"</string>
+    <string msgid="3244117772760471353" name="keycombo_menu_web_navigate_to_next_heading_1">"அடுத்த தலைப்பு 1க்குச் செல்"</string>
+    <string msgid="75822840123780036" name="keycombo_menu_web_navigate_to_next_heading_2">"அடுத்த தலைப்பு 2க்குச் செல்"</string>
+    <string msgid="6068489868699550150" name="keycombo_menu_web_navigate_to_next_heading_3">"அடுத்த தலைப்பு 3க்குச் செல்"</string>
+    <string msgid="3960229240959901354" name="keycombo_menu_web_navigate_to_next_heading_4">"அடுத்த தலைப்பு 4க்குச் செல்"</string>
+    <string msgid="9101669601111190142" name="keycombo_menu_web_navigate_to_next_heading_5">"அடுத்த தலைப்பு 5க்குச் செல்"</string>
+    <string msgid="6918176243153506542" name="keycombo_menu_web_navigate_to_next_heading_6">"அடுத்த தலைப்பு 6க்குச் செல்"</string>
+    <string msgid="3567614429970148323" name="keycombo_menu_web_navigate_to_next_link">"அடுத்த இணைப்பிற்குச் செல்"</string>
+    <string msgid="8731606795102810314" name="keycombo_menu_web_navigate_to_next_list">"அடுத்த பட்டியலுக்குச் செல்"</string>
+    <string msgid="5640113968924738728" name="keycombo_menu_web_navigate_to_next_list_item">"அடுத்த பட்டியல் உருப்படிக்குச் செல்"</string>
+    <string msgid="6540415308854724223" name="keycombo_menu_web_navigate_to_next_table">"அடுத்த அட்டவணைக்குச் செல்"</string>
+    <string msgid="1779439621789951193" name="keycombo_menu_web_navigate_to_previous_aria_landmark">"முந்தைய ARIA லேண்ட்மார்க்கிற்குச் செல்"</string>
+    <string msgid="7341520853947364002" name="keycombo_menu_web_navigate_to_previous_button">"முந்தைய பொத்தானுக்குச் செல்"</string>
+    <string msgid="6560080364424986498" name="keycombo_menu_web_navigate_to_previous_checkbox">"முந்தைய செக்பாக்ஸிற்குச் செல்"</string>
+    <string msgid="5252314449233286869" name="keycombo_menu_web_navigate_to_previous_combobox">"முந்தைய காம்போ பாக்ஸிற்குச் செல்"</string>
+    <string msgid="6218169838978520955" name="keycombo_menu_web_navigate_to_previous_control">"முந்தைய கட்டுப்பாட்டிற்குச் செல்"</string>
+    <string msgid="5495489017658262310" name="keycombo_menu_web_navigate_to_previous_edit_field">"முந்தைய திருத்துதல் புலத்திற்குச் செல்"</string>
+    <string msgid="4960141150651374820" name="keycombo_menu_web_navigate_to_previous_focusable_item">"ஃபோகஸ் செய்யத்தக்க முந்தைய உருப்படிக்குச் செல்"</string>
+    <string msgid="4496215226346619518" name="keycombo_menu_web_navigate_to_previous_graphic">"முந்தைய கிராஃபிக்கிற்குச் செல்"</string>
+    <string msgid="3501846285908107279" name="keycombo_menu_web_navigate_to_previous_heading">"முந்தைய தலைப்பிற்குச் செல்"</string>
+    <string msgid="3317845146689095006" name="keycombo_menu_web_navigate_to_previous_heading_1">"முந்தைய தலைப்பு 1க்குச் செல்"</string>
+    <string msgid="2130159635618042033" name="keycombo_menu_web_navigate_to_previous_heading_2">"முந்தைய தலைப்பு 2க்குச் செல்"</string>
+    <string msgid="3261881889523320310" name="keycombo_menu_web_navigate_to_previous_heading_3">"முந்தைய தலைப்பு 3க்குச் செல்"</string>
+    <string msgid="4665169714217637276" name="keycombo_menu_web_navigate_to_previous_heading_4">"முந்தைய தலைப்பு 4க்குச் செல்"</string>
+    <string msgid="1057554300668048210" name="keycombo_menu_web_navigate_to_previous_heading_5">"முந்தைய தலைப்பு 5க்குச் செல்"</string>
+    <string msgid="2400489461796001671" name="keycombo_menu_web_navigate_to_previous_heading_6">"முந்தைய தலைப்பு 6க்குச் செல்"</string>
+    <string msgid="1510672359574680127" name="keycombo_menu_web_navigate_to_previous_link">"முந்தைய இணைப்பிற்குச் செல்"</string>
+    <string msgid="8999329379609937777" name="keycombo_menu_web_navigate_to_previous_list">"முந்தைய பட்டியலுக்குச் செல்"</string>
+    <string msgid="3557085444094910366" name="keycombo_menu_web_navigate_to_previous_list_item">"முந்தைய பட்டியலின் உருப்படிக்குச் செல்"</string>
+    <string msgid="8234050317398672680" name="keycombo_menu_web_navigate_to_previous_table">"முந்தைய அட்டவணைக்குச் செல்"</string>
+    <string msgid="5817151372114230015" name="keycombo_unassigned">"ஒதுக்கப்படாதது"</string>
+    <string msgid="3288834802071890267" name="label_choose_app_to_export">"லேபிள்களை ஏற்ற, பயன்பாட்டைத் தேர்ந்தெடுக்கவும்:"</string>
+    <string msgid="4342585248215824717" name="label_dialog_edit_hint">"லேபிள் உரை"</string>
+    <string msgid="5879506218245648848" name="label_dialog_text">"இந்தப் படத்திற்காகப் பயன்படுத்த வேண்டிய உரையைப் புலத்தில் உள்ளிடவும்."</string>
+    <string msgid="1255044087558866043" name="label_dialog_title_add">"லேபிளைச் சேர்"</string>
+    <string msgid="7914376979667771585" name="label_dialog_title_edit">"லேபிளை மாற்று"</string>
+    <string msgid="1791163736307626930" name="label_dialog_title_remove">"லேபிளை அகற்று"</string>
+    <string msgid="7663052451851715440" name="label_export_empty">"ஏற்றுவதற்கு எதுவுமில்லை. நீங்கள் லேபிள்கள் எதையும் சேர்க்கவில்லை"</string>
+    <string msgid="4500274103149146929" name="label_export_failed">"லேபிளை ஏற்றுவதில் தோல்வி"</string>
+    <string msgid="1773817433300194935" name="label_import">"தனிப்பயன் லேபிள்களை இறக்கு"</string>
+    <string msgid="7975227530187709469" name="label_import_dialog_message">"முரண்பாடு ஏற்பட்டால், ஏற்கனவே உள்ள லேபிள்களை மாற்ற வேண்டுமா அல்லது தவிர்க்க வேண்டுமா என்பதைத் தேர்வுசெய்க."</string>
+    <string msgid="4387408051194229513" name="label_import_dialog_override">"மாற்று"</string>
+    <string msgid="2078597180132028657" name="label_import_dialog_skip">"தவிர்"</string>
+    <string msgid="5305411653917870790" name="label_import_dialog_title">"தனிப்பயன் லேபிள்களை TalkBack இல் இறக்கு"</string>
+    <string msgid="1321882372299892757" name="label_import_failed">"லேபிளை இறக்குவதில் தோல்வி"</string>
+    <string msgid="4478523067360108574" name="label_manager_no_packages_message">"தற்போது தனிப்பயன் லேபிள்கள் எதுவும் இல்லை. லேபிளிடப்படாத படத்திற்குச் சென்று, அகச் சூழல் மெனுவிலிருந்து லேபிளைச் சேர்ப்பதன் மூலம் புதிய தனிப்பயன் லேபிளை உருவாக்கலாம்."</string>
+    <string msgid="6984665343963494151" name="label_manager_package_title">"<ns1:g id="APPLICATIONLABEL">%1$s</ns1:g>க்கான லேபிள்களை நிர்வகி"</string>
+    <string msgid="6786694853113585661" name="label_manager_summary_title">"தனிப்பயன் லேபிள்களை நிர்வகி"</string>
+    <string msgid="2632240906498521602" name="label_manager_timestamp_text">"கடைசியாக மாற்றியது: <ns1:g id="TIMESTAMP">%1$s</ns1:g>"</string>
+    <string msgid="372916461303485723" name="label_remove_dialog_text">"\"<ns1:g id="LABEL">%1$s</ns1:g>\" லேபிளை நிச்சயமாக அகற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="8329270316487665017" name="label_remove_dialog_text_app_name">"<ns1:g id="APP_NAME">%2$s</ns1:g> பயன்பாட்டிற்குள்ளாக \"<ns1:g id="LABEL">%1$s</ns1:g>\" லேபிளை அகற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="6758073806811666684" name="label_talkback_context_menu">"TalkBack மொத்த சூழல் மெனு"</string>
+    <string msgid="3448225474115458693" name="links">"இணைப்புகள்"</string>
+    <string msgid="6672321005470828526" name="local_context_menu_title">"அகச் சூழல் மெனு"</string>
+    <string msgid="4795202818108740382" name="main_description">"TalkBack என்பது முக்கியமாகப் பார்வையற்றோர், பார்வைக் குறைபாடு உள்ளவர்களுக்காக வடிவமைக்கப்பட்ட திரைப் படிப்பான் ஆகும். இதன் மூலம் பேச்சுவடிவக் கருத்தைப் பயன்படுத்திச் சாதனத்துடன் ஊடாடலாம்."</string>
+    <string msgid="13771282771329188" name="message_in_reset_keymap_confirm_dialog">"இந்த விசைவரைபடத்திற்கான குறுக்குவழி விசைகளை அவற்றின் இயல்பு மதிப்புகளுக்கு மீட்டமைக்கவா? இந்தச் செயலை செயல்தவிர்க்க முடியாது."</string>
+    <string msgid="6721228114050709276" name="message_resume_keyguard">"அறிவிப்புகள் விவரத்திலிருந்து அல்லது பூட்டுத் திரைக்குத் திரும்புவதன் மூலம் TalkBackஐ மீண்டும் தொடங்கலாம்."</string>
+    <string msgid="6522293510722570646" name="message_resume_manual">"அறிவிப்புகள் விவரத்திலிருந்து TalkBackஐ மீண்டும் தொடங்கலாம்."</string>
+    <string msgid="9016720947126938212" name="message_resume_screen_on">"அறிவிப்புகள் விவரத்திலிருந்து அல்லது திரையை இயக்குவதன் மூலம் TalkBackஐ மீண்டும் தொடங்கலாம்."</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"அனுப்பு"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"சாதனங்களைத் தேடுகிறது..."</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"சாதனத்துடன் இணைக்கவும்"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"துண்டி"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"தகவல் எதுவுமில்லை"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"இடைநிறுத்து"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"இயக்கு"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"வழி அமைப்புகள்"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"அனுப்புவதை நிறுத்து"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"அமைப்பு"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"சாதனங்கள்"</string>
+    <string msgid="6379785627490220649" name="name_of_enter_key">"எண்டர்"</string>
+    <string msgid="5083960909593906754" name="name_of_space_bar">"இடைவெளி"</string>
+    <string msgid="6744983965001375397" name="name_of_tab_key">"டேப்"</string>
+    <string msgid="4602958479941673535" name="navigation_bar">"வழிசெலுத்தல் பட்டி"</string>
+    <string msgid="2792530694141012295" name="no_key_assigned">"விசை எதுவும் ஒதுக்கப்படவில்லை"</string>
+    <string msgid="7419188718124788690" name="notification_message_talkback_gestures_changed">"அணுகல்தன்மை சைகைகளில் செய்யப்பட்ட மாற்றங்களைப் பார்க்க, தட்டவும்"</string>
+    <string msgid="1542127125162503034" name="notification_message_talkback_suspended">"மீண்டும் தொடங்க தட்டவும்."</string>
+    <string msgid="7913123792593843784" name="notification_status_sync">"ஒத்திசைவு"</string>
+    <string msgid="8680063755043078528" name="notification_title_talkback_gestures_changed">"TalkBack சைகைகள் மாற்றப்பட்டன"</string>
+    <string msgid="4350835042954222637" name="notification_title_talkback_suspended">"TalkBack இடைநீக்கப்பட்டது"</string>
+    <string msgid="6810236215373132892" name="notification_tutorial_navigate_to_lession_1">"தானாகவே 1வது பாடத்திற்குச் செல்கிறது."</string>
+    <string msgid="8377204645672459594" name="notification_type_beginning_of_field">"புலத்தின் தொடக்கம்"</string>
+    <string msgid="7980557705539894781" name="notification_type_end_of_field">"புலத்தின் முடிவு"</string>
+    <string msgid="6585664098525214473" name="notification_type_missed_call">"தவறிய அழைப்பு"</string>
+    <string msgid="3540829343521564569" name="notification_type_selection_cleared">"தேர்ந்தெடுத்த உரை அழிக்கப்பட்டது"</string>
+    <string msgid="5851903648134458514" name="notification_type_selection_mode_off">"தேர்ந்தெடுத்தல் பயன்முறை முடக்கப்பட்டுள்ளது"</string>
+    <string msgid="9089325915356056509" name="notification_type_selection_mode_on">"தேர்ந்தெடுத்தல் பயன்முறை இயக்கப்பட்டுள்ளது"</string>
+    <string msgid="3593906461181368010" name="notification_type_status_chat">"அரட்டை"</string>
+    <string msgid="8762616334364573004" name="notification_type_status_error">"பிழை"</string>
+    <string msgid="4889548393564513820" name="notification_type_status_more">"மேலும்"</string>
+    <string msgid="2024742614005804613" name="notification_type_status_mute">"மூடு"</string>
+    <string msgid="6675459139116184337" name="notification_type_status_sdcard">"SD கார்டு"</string>
+    <string msgid="6882955062811560802" name="notification_type_status_sdcard_usb">"SD கார்டு USB"</string>
+    <string msgid="1071939833188591219" name="notification_type_status_started">"தொடங்கியது"</string>
+    <string msgid="6004666820256747725" name="notification_type_status_stopped">"நிறுத்தப்பட்டது"</string>
+    <string msgid="3708903607797168409" name="notification_type_status_sync_noanim">"ஒத்திசைவு"</string>
+    <string msgid="1611063561670902017" name="notification_type_status_voicemail">"குரலஞ்சல்"</string>
+    <string msgid="2034348456907055979" name="option_scan_switch_format">"ஸ்கேன் விருப்ப ஸ்விட்ச் %1$d"</string>
+    <string msgid="4460266289722058928" name="option_scanning_menu_button">"மெனு"</string>
+    <string msgid="2204457920803882766" name="orientation_landscape">"அகலமாக"</string>
+    <string msgid="7714435567541027105" name="orientation_portrait">"நீளமாக"</string>
+    <string msgid="9043246837899844909" name="override_keycombo">"விசைச் சேர்க்கை ஏற்கனவே பயன்படுத்தப்படுகிறது"</string>
+    <string msgid="3764483710022091999" name="override_keycombo_message_two_params">"\'<ns1:g id="ID_1">%1$s</ns1:g>\' செயலுக்கு இந்த விசைச் சேர்க்கைப் பயன்படுத்தப்பட்டது. அதை அழித்து இந்தக் குறுக்குவழியை \'<ns1:g id="ID_2">%2$s</ns1:g>\' செயலுக்கு ஒதுக்கவா?"</string>
+    <string msgid="8065967887484901473" name="permission_labeling_desc">"TalkBack ஆல் கூறப்பட்ட தனிப்பயன் லேபிள்களை அணுக, மாற்ற மற்றும் நீக்குவதற்கான அனுமதி."</string>
+    <string msgid="2956001661481169498" name="permission_labeling_label">"TalkBack தனிப்பயன் லேபிள்களை நிர்வகி"</string>
+    <string msgid="8320433482567759963" name="permission_talkback_desc">"சைகைகளை TalkBackக்கு அனுப்புவதற்கும், கூறப்பட்ட அறிவிப்பை மீண்டும் தொடங்குவதற்குமான அனுமதி."</string>
+    <string msgid="2235244838320678938" name="permission_talkback_label">"TalkBackஐக் கட்டுப்படுத்து"</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"தேடலை அழி"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"தேடுக"</string>
+    <string msgid="3690685827602313767" name="play_store_changes">"TalkBack இன் இந்தப் புதுப்பிப்பில் பல விஷயங்கள் மேம்படுத்தப்பட்டுள்ளன.\n\nவிசைப்பலகையில் எழுத்துகளை நீண்ட நேரம் அழுத்தும் போது அல்லது உரையில் எழுத்துவாரியாக நகரும் போது அவற்றின் ஒலி உச்சரிப்பைக் கூறும். இந்த விருப்பம் இயல்பாக இயக்கப்பட்டிருக்கும், அதனை TalkBack அமைப்புகளில் முடக்கிக்கொள்ளலாம்.\n\nலீனியர் நேவிகேஷன் மூலம் வழிசெலுத்தும் போது, கிடைக்கும் செயல்களுக்கான குறிப்புகளை, 1 வினாடி தாமத்திற்குப் பிறகு TalkBack கூறும்.\n\nஃபோகஸானது அடுத்த இடத்திற்குச் சென்றாலும், வழிசெலுத்தல் முறையானது (வரியில் எழுத்து வாரியாக, சொல் வாரியாக போன்றவை) அப்படியே இருக்கும். முன்பு ஒவ்வொரு முறை நகரும் போதும் அழிக்கப்பட்டது.\n\nபுதிய பயனர்களுக்காக இயல்பு அமைப்புகள் மாற்றப்பட்டுள்ளன:\n -ஒலியளவை அதிகரிக்கும் மற்றும் குறைக்கும் பொத்தான்களை நீண்ட நேரம் அழுத்துவதன் மூலம் TalkBackஐ மீண்டும் தொடங்கலாம், இடைநீக்கலாம்\n -சூழல் மெனுவை பட்டியல்களாகக் காட்டலாம்\n -மீடியா ஒலி சார்ந்த ஒலியளவானது (ஆடியோ செய்திகள்) 100 இலிருந்து 50 சதவீதமாகக் குறைக்கப்பட்டுள்ளது\n\nபுதிய உரையாடல் திரையில் காட்டப்படும் போது, உரையாடலின் தலைப்பு மட்டும் படிக்கப்படும், இதற்கு முன் முழு செய்தியும் படிக்கப்பட்டது.\n\nமென்பொருளின் விசைப்பலகை காட்டப்பட்டால் மட்டுமே, மாற்றம் செய்துகொண்டிருக்கும் உள்ளீட்டு புலங்கள் கூறப்படும்.\n\nTalkBack இயக்கத்தில் உள்ளது, இடைநீக்கப்பட்டது, மீண்டும் தொடங்கப்பட்டது என்னும் நிலைகள் கூறப்படும்\n\nபல பிழைகளைச் சரிசெய்துள்ளோம்"</string>
+    <string msgid="8323015765774812284" name="reset_button_in_reset_keymap_confirm_dialog">"மீட்டமை"</string>
+    <string msgid="5508730389432571776" name="revert_imported_labels">"இறக்கிய லேபிள்களை மாற்றியமை"</string>
+    <string msgid="7106495985061954643" name="row_heading_template">"வரிசையின் தலைப்பு"</string>
+    <string msgid="4107789959609911947" name="row_index_template">"வரிசை <ns1:g id="ROW">%1$d</ns1:g>"</string>
+    <string msgid="5398278773451196019" name="save">"சேமி"</string>
+    <string msgid="378010604065368658" name="screen_brightness_restored">"திரையின் பிரகாசம் மீட்டமைக்கப்பட்டது"</string>
+    <string msgid="8072279323762069231" name="screen_dimmed">"திரை மங்கலாகி விட்டது"</string>
+    <string msgid="176693707001658416" name="screen_dimming_exit_instruction_line1">"TalkBack அணுகல்தன்மை சேவை, திரையை மங்கலாக்கிவிட்டது."</string>
+    <string msgid="2111548310775079127" name="screen_dimming_exit_instruction_line2">"இதைச் செயல்தவிர்க்க, ஒலியளவு அதிகரி மற்றும் ஒலியளவு குறை விசைகளை ஒன்றாக மூன்று முறை உடனுக்குடன் அழுத்தவும்."</string>
+    <string msgid="7006494712728198438" name="screen_dimming_exit_instruction_line3">"TalkBack அமைப்புகளில் திரையை மங்கலாக்குவதைக் கட்டுப்படுத்தலாம்."</string>
+    <string msgid="5109861709058665917" name="scrollable_backward">"பின்னோக்கி உருட்டு"</string>
+    <string msgid="6312908487874132401" name="scrollable_forward">"முன்னோக்கி உருட்டு"</string>
+    <string msgid="7273037326593054813" name="search_dialog_label">"தேடுக: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>"</string>
+    <string msgid="4938867934958343710" name="search_mode_cancel">"தேடல் ரத்துசெய்யப்பட்டது."</string>
+    <string msgid="7166574479757238944" name="search_mode_finish">"தேடல் முடிந்தது."</string>
+    <string msgid="3919282680896571220" name="search_mode_hint_no_query">"வினவல் எதுவும் உள்ளிடப்படவில்லை."</string>
+    <string msgid="882227441829755961" name="search_mode_hint_no_selection">"எதுவும் தேர்ந்தெடுக்கப்படவில்லை."</string>
+    <string msgid="5896493032072187997" name="search_mode_hint_query">"தற்போதைய வினவல்: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>."</string>
+    <string msgid="8541673936818652399" name="search_mode_hint_selection">"தற்போதைய தேர்வு: <ns1:g id="SELECTED_NODE">%1$s</ns1:g>."</string>
+    <string msgid="4597528088567439979" name="search_mode_hint_start">"தேடல் முறை."</string>
+    <string msgid="910823044260738937" name="search_mode_open">"தேடல் முறை திறக்கப்பட்டது."</string>
+    <string msgid="2558372839282319745" name="shortcut_back">"முந்தையது பட்டன்"</string>
+    <string msgid="9018001118250050381" name="shortcut_copy_last_utterance_to_clipboard">"கடைசியாகக் கூறியதைக் கிளிப்போர்டுக்கு நகலெடு"</string>
+    <string msgid="8041762180167320322" name="shortcut_disable_dimming">"திரையைப் பிரகாசமாக்கு"</string>
+    <string msgid="751310793206738883" name="shortcut_enable_dimming">"திரையை மங்கலாக்கு"</string>
+    <string msgid="4549343120881649603" name="shortcut_first_in_screen">"திரையில் உள்ள முதல் உருப்படியில் கவனம் செலுத்து"</string>
+    <string msgid="5711865496104188848" name="shortcut_hear_lesson">"மெனுவை விவரி"</string>
+    <string msgid="6670249804418900175" name="shortcut_home">"முகப்பு பட்டன்"</string>
+    <string msgid="1584183195221110323" name="shortcut_last_in_screen">"திரையில் உள்ள கடைசி உருப்படியில் கவனம் செலுத்து"</string>
+    <string msgid="8164203174881196072" name="shortcut_local_breakout">"அகச் சூழல் மெனுவைத் திற"</string>
+    <string msgid="6887743145853506373" name="shortcut_next">"அடுத்தது"</string>
+    <string msgid="5058063575500265017" name="shortcut_next_granularity">"அடுத்த வழிசெலுத்தல் அமைப்பு"</string>
+    <string msgid="5291839248233515759" name="shortcut_notifications">"அறிவிப்புகளைத் திற"</string>
+    <string msgid="3649651004283936027" name="shortcut_overview">"மேலோட்டப் பார்வை பட்டன்"</string>
+    <string msgid="1412613174540942399" name="shortcut_pause_feedback">"அறிவிப்பை இடைநிறுத்து"</string>
+    <string msgid="3679790113454394245" name="shortcut_previous">"முந்தையது"</string>
+    <string msgid="5483850878839529117" name="shortcut_previous_granularity">"முந்தைய வழிசெலுத்தல் அமைப்பு"</string>
+    <string msgid="7570974794642091616" name="shortcut_print_node_tree">"நோடு ட்ரீயை அச்சிடு"</string>
+    <string msgid="5769337869539736463" name="shortcut_read_from_current">"அடுத்த உருப்படியிலிருந்து படி"</string>
+    <string msgid="6031418895933550221" name="shortcut_read_from_top">"மேலிருந்து படி"</string>
+    <string msgid="9059705754075010951" name="shortcut_repeat_last_utterance">"கடைசியாகக் கூறியதை மீண்டும் கூறு"</string>
+    <string msgid="1025337926618449476" name="shortcut_scroll_back">"பின் செல்"</string>
+    <string msgid="7299589176359902775" name="shortcut_scroll_forward">"முன் செல்"</string>
+    <string msgid="1996746992705940253" name="shortcut_show_custom_actions">"தனிப்பயன் செயல்களைக் காட்டு"</string>
+    <string msgid="642984322649148879" name="shortcut_spell_last_utterance">"கடைசியாகக் கூறியதை உச்சரி"</string>
+    <string msgid="2673085935736432213" name="shortcut_talkback_breakout">"மொத்த சூழல் மெனுவைத் திற"</string>
+    <string msgid="1803159459924262469" name="shortcut_unassigned">"ஒதுக்கப்படாதது"</string>
+    <string msgid="3193206799395252518" name="show_suspend_warning_label">"இந்த எச்சரிக்கையை எப்போதும் காட்டு"</string>
+    <string msgid="9028725565467565133" name="start_of_web">"முந்தைய <ns1:g id="ID_1">%1$s</ns1:g> இல்லை"</string>
+    <string msgid="6000275621941971563" name="status_bar">"நிலைப் பட்டி"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1601902797531350013" name="summaryOff_pref_a11y_hints">"அணுகல்தன்மை ஃபோகஸை நகர்த்தும் போது, பயன்பாட்டுக் குறிப்புகள் கூறப்படாது."</string>
+    <string msgid="5187278527518557715" name="summaryOff_pref_intonation">"பேசும்போது குரல் அழுத்தத்தை மாற்ற வேண்டாம்"</string>
+    <string msgid="2801720386630515717" name="summaryOff_pref_phonetic_letters">"ஒலிப்புமுறை எழுத்துகள் கூறப்படாது."</string>
+    <string msgid="2976964867820234940" name="summaryOff_pref_proximity">"அருகிலிருக்கும் பொருள் உணர்வி, பேசுதலைக் கட்டுப்படுத்தாது"</string>
+    <string msgid="1820564330334595916" name="summaryOff_pref_speak_screenoff">"திரை முடக்கப்பட்டிருக்கும்போது எதுவும் பேசாது"</string>
+    <string msgid="7312945354572119026" name="summaryOn_pref_a11y_hints">"வழிசெலுத்தலின் போது, குறிப்பிட்ட தாமதத்திற்குப் பின் பயன்பாட்டுக் குறிப்புகள் கூறப்படும்."</string>
+    <string msgid="2753815930477168225" name="summaryOn_pref_intonation">"விசைப்பலகை அறிவிப்பை மெல்லிய குரல் அழுத்தத்தில் கூறும்"</string>
+    <string msgid="6864480534029061476" name="summaryOn_pref_phonetic_letters">"விசைப்பலகையில் நீண்டநேரமாக அழுத்தும் போது மற்றும் எழுத்து வாரியாக அணுகல்தன்மை ஃபோகஸை நகர்த்தும் போது, ஒலிப்புமுறை எழுத்துகள் கூறப்படும்."</string>
+    <string msgid="8552562564045883839" name="summaryOn_pref_proximity">"அருகிலிருக்கும் பொருள் உணர்வி பேசுதலை முடக்குகிறது"</string>
+    <string msgid="3200696691374942097" name="summaryOn_pref_speak_screenoff">"திரை முடக்கப்பட்டிருக்கும்போது அறிவிப்புகள் கூறப்படுகின்றன"</string>
+    <string msgid="3575108337945375864" name="summary_pref_play_store">"நடப்பு TalkBack பதிப்பு: <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1868206223500105704" name="summary_pref_single_tap">"(சோதனைரீதியிலானது) செயல்படுத்த, தற்போது தேர்வுசெய்த உருப்படியைத் தட்டவும்"</string>
+    <string msgid="4049484318410744029" name="summary_pref_use_audio_focus">"பேசும்போது வேறு சத்தங்களைக் குறை"</string>
+    <string msgid="3996491708050765411" name="summary_pref_web_scripts">"இணைய உள்ளடக்கத்திற்கான அணுகல்தன்மை ஸ்கிரிப்ட்களை இறக்கு"</string>
+    <string msgid="8907204357556153170" name="switch_access_auto_start_scan_summary">"சுவிட்சை அழுத்தாமல் ஸ்கேன் செய்யத் தொடங்கு"</string>
+    <string msgid="1112172023292555792" name="switch_access_auto_start_scan_title">"தானாக ஸ்கேன் செய்யத் தொடங்கு"</string>
+    <string msgid="2470480705014577440" name="switch_access_dup_bounds_format">"%1$s (%2$d)"</string>
+    <string msgid="777214990214649732" name="switch_access_global_menu_disable_autoselect">"தானியங்கு தேர்வை முடக்கு"</string>
+    <string msgid="1781611399874689922" name="switch_access_global_menu_enable_autoselect">"தானியங்கு தேர்வை இயக்கு"</string>
+    <string msgid="1084530527433232522" name="switch_access_move_next_character">"அடுத்த எழுத்துக்குறி"</string>
+    <string msgid="1957454942120077989" name="switch_access_move_next_line">"அடுத்த வரி"</string>
+    <string msgid="5509521398337232740" name="switch_access_move_next_page">"அடுத்த பக்கம்"</string>
+    <string msgid="2401188575204362710" name="switch_access_move_next_paragraph">"அடுத்த பத்தி"</string>
+    <string msgid="4364935355445273844" name="switch_access_move_next_word">"அடுத்த சொல்"</string>
+    <string msgid="8927445469710181053" name="switch_access_move_prev_character">"முந்தைய எழுத்துக்குறி"</string>
+    <string msgid="4933911200239574311" name="switch_access_move_prev_line">"முந்தைய வரி"</string>
+    <string msgid="2162166283498843093" name="switch_access_move_prev_page">"முந்தைய பக்கம்"</string>
+    <string msgid="6628794063582527750" name="switch_access_move_prev_paragraph">"முந்தைய பத்தி"</string>
+    <string msgid="8425765588178702402" name="switch_access_move_prev_word">"முந்தைய சொல்"</string>
+    <string msgid="8339289604407443597" name="switch_access_preferences_title">"அணுகல் மாற்ற விருப்பத்தேர்வுகள்"</string>
+    <string msgid="1958519878116811543" name="switch_access_service_description">"சுவிட்ச் அணுகல் மூலம் ஒன்று அல்லது அதற்கும் அதிகமான சுவிட்ச்களைப் பயன்படுத்தி ஸ்கேன் செய்யலாம், உருப்படிகளைத் தேர்ந்தெடுக்கலாம்."</string>
+    <string msgid="6043415138576713888" name="switch_service_name">"அணுகல் மாற்றுதல்"</string>
+    <string msgid="7456083235616834438" name="symbol_almost_equals">"கிட்டத்தட்ட சமம் குறி"</string>
+    <string msgid="2896965192299496498" name="symbol_ampersand">"உம்மைக்குறி"</string>
+    <string msgid="7380903071611293121" name="symbol_angle_bracket_left">"இடது அம்புமுனை அடைப்புக்குறி"</string>
+    <string msgid="1868235467151646558" name="symbol_angle_bracket_right">"வலது அம்புமுனை அடைப்புக்குறி"</string>
+    <string msgid="7208629120802819915" name="symbol_apostrophe">"தனி மேற்கோள் குறி"</string>
+    <string msgid="3850753675865899520" name="symbol_approximately_equals">"ஏறக்குறைய சமம்"</string>
+    <string msgid="6817126584493630223" name="symbol_asterisk">"உடுக்குறி"</string>
+    <string msgid="2065827119717043200" name="symbol_at_sign">"வீதக்குறி"</string>
+    <string msgid="1611754081972480510" name="symbol_backslash">"பின்கோடு"</string>
+    <string msgid="5289487097432366247" name="symbol_beamed_sixteenth_note">"பீம்டு பதினாறாவது நோட்ஸ்"</string>
+    <string msgid="4016846628518042983" name="symbol_black_circle">"கருப்பு வட்டம்"</string>
+    <string msgid="2472170057113549474" name="symbol_black_heart">"கருப்பு இதயம்"</string>
+    <string msgid="3400946876721230212" name="symbol_black_square">"கருப்பு சதுரம்"</string>
+    <string msgid="6183317822489362024" name="symbol_black_star">"கருப்பு நட்சத்திரம்"</string>
+    <string msgid="6813132652561276644" name="symbol_broken_bar">"உடைந்த குத்துக் கோடு"</string>
+    <string msgid="8476099303225493047" name="symbol_bullet">"புள்ளி"</string>
+    <string msgid="7971468907049474418" name="symbol_bullseye">"புல்ஸ் ஐ"</string>
+    <string msgid="3928223571254608359" name="symbol_caret">"கூரைக்குறி"</string>
+    <string msgid="1072933014815535633" name="symbol_celsius_degree">"செல்சியஸ் டிகிரி"</string>
+    <string msgid="2397683564958310433" name="symbol_cent">"சென்ட்"</string>
+    <string msgid="3982983201762226254" name="symbol_circle_left_half_black">"இடது பக்கம் பாதியளவு கருப்பு நிறம் கொண்ட வட்டம்"</string>
+    <string msgid="2702128700103408427" name="symbol_circle_right_half_black">"வலது பக்கம் பாதியளவு கருப்பு நிறம் கொண்ட வட்டம்"</string>
+    <string msgid="4099865219187606667" name="symbol_colon">"முக்காற்புள்ளி"</string>
+    <string msgid="5645826628625828518" name="symbol_comma">"காற்புள்ளி"</string>
+    <string msgid="4560734240781916706" name="symbol_copyright">"பதிப்புரிமைக்குறி"</string>
+    <string msgid="2875419571455950965" name="symbol_curly_bracket_left">"இடது நெளி அடைப்புக்குறி"</string>
+    <string msgid="7223443061586552971" name="symbol_curly_bracket_right">"வலது நெளி அடைப்புக் குறி"</string>
+    <string msgid="3851601116109370799" name="symbol_currency_sign">"ரூபாய் குறி"</string>
+    <string msgid="2370756516179429371" name="symbol_degree">"பாகைக்குறி"</string>
+    <string msgid="8469030548234745900" name="symbol_division">"வகுத்தல் குறி"</string>
+    <string msgid="7172720889757863645" name="symbol_dollar_sign">"டாலர் குறி"</string>
+    <string msgid="1093826934627615258" name="symbol_downwards_arrow">"கீழ்நோக்கிய அம்பு"</string>
+    <string msgid="7550656761730728669" name="symbol_eighth_note">"எட்டாவது நோட்"</string>
+    <string msgid="6107023479924320264" name="symbol_ellipsis">"முப்புள்ளி"</string>
+    <string msgid="9095293634011901230" name="symbol_em_dash">"இணைப்புக்கோடு"</string>
+    <string msgid="7221481427651082891" name="symbol_en_dash">"இணைப்புச் சிறுகோடு"</string>
+    <string msgid="5554709359828733331" name="symbol_equal">"சமக்குறி"</string>
+    <string msgid="7368999812147737584" name="symbol_euro">"யூரோ"</string>
+    <string msgid="988583649131855220" name="symbol_exclamation_mark">"ஆச்சரியக்குறி"</string>
+    <string msgid="7868161106382873456" name="symbol_fahrenheit_degree">"ஃபாரன்ஹீட் டிகிரி"</string>
+    <string msgid="2832652212740214355" name="symbol_female">"பெண் சின்னம்"</string>
+    <string msgid="2871187029685072964" name="symbol_grave_accent">"கூரழுத்தக்குறி"</string>
+    <string msgid="6395913704731547145" name="symbol_hyphen_minus">"சிறுகோடு"</string>
+    <string msgid="6535139335710090448" name="symbol_integral">"தொகையீடு"</string>
+    <string msgid="4461462147632976820" name="symbol_left_black_lenticular_bracket">"கருப்புநிறத்தில் வளைந்த இடது அடைப்புக்குறி"</string>
+    <string msgid="2662006752461479838" name="symbol_left_corner_bracket">"இடது விளிம்பு அடைப்புக்குறி"</string>
+    <string msgid="2516207072081863313" name="symbol_leftwards_arrow">"இடதுபுற அம்புக்குறி"</string>
+    <string msgid="4485675468642882911" name="symbol_liter">"லிட்டர்"</string>
+    <string msgid="1311537029059161496" name="symbol_low_double_quote">"கீழ் இரட்டை மேற்கோள் குறி"</string>
+    <string msgid="614668218440322904" name="symbol_male">"ஆண் சின்னம்"</string>
+    <string msgid="3513065482309329740" name="symbol_micro_sign">"மைக்ரோ குறி"</string>
+    <string msgid="4500464364344640871" name="symbol_multiplication">"பெருக்கல் குறி"</string>
+    <string msgid="6848635267438885623" name="symbol_new_line">"புதிய வரி குறி"</string>
+    <string msgid="5319485097346278422" name="symbol_not_equals">"சமமில்லைக்குறி"</string>
+    <string msgid="6673590940229304440" name="symbol_not_sign">"குறி இல்லை"</string>
+    <string msgid="5514376704992468938" name="symbol_paragraph_mark">"பத்திக்குறி"</string>
+    <string msgid="6800146954886245634" name="symbol_parenthesis_left">"இடது அடைப்புக்குறி"</string>
+    <string msgid="7215651695123277015" name="symbol_parenthesis_right">"வலது அடைப்புக்குறி"</string>
+    <string msgid="5459242644598387133" name="symbol_percent">"சதவீதக்குறி"</string>
+    <string msgid="5437120137086222612" name="symbol_period">"முற்றுப்புள்ளி"</string>
+    <string msgid="9110332441949361829" name="symbol_pi">"பை"</string>
+    <string msgid="9058945923657357434" name="symbol_plus_minus_sign">"கூட்டல் கழித்தல் குறி"</string>
+    <string msgid="93826676999305096" name="symbol_pound">"பவுண்ட் குறி"</string>
+    <string msgid="728725055605726481" name="symbol_pound_sterling">"பவுண்ட் ஸ்டெர்லிங்"</string>
+    <string msgid="5036555895753560541" name="symbol_quarter_note">"குவாட்டர் நோட்"</string>
+    <string msgid="8540567415937384964" name="symbol_question_mark">"கேள்விக்குறி"</string>
+    <string msgid="1191348665202247948" name="symbol_quotation_mark">"மேற்கோள் குறி"</string>
+    <string msgid="905951483425189419" name="symbol_reference">"குறிப்புச் சின்னம்"</string>
+    <string msgid="3258562921626703647" name="symbol_registered_trademark">"பதிவுசெய்யப்பட்ட வர்த்தகமுத்திரை குறி"</string>
+    <string msgid="3919101748915826659" name="symbol_right_black_lenticular_bracket">"கருப்புநிறத்தில் வளைந்த வலது அடைப்புக்குறி"</string>
+    <string msgid="4305940879297701054" name="symbol_right_corner_bracket">"வலது விளிம்பு அடைப்புக்குறி"</string>
+    <string msgid="3621071010761086207" name="symbol_rightwards_arrow">"வலப்புறம் நோக்கிய அம்பு"</string>
+    <string msgid="5442584145297714761" name="symbol_rupee">"ரூபாய்"</string>
+    <string msgid="1425993244831126813" name="symbol_section_sign">"பிரிவுக் குறி"</string>
+    <string msgid="5125185295573713214" name="symbol_semicolon">"அரைப்புள்ளி"</string>
+    <string msgid="7183595255121136380" name="symbol_slash">"சாய்க்கோடு"</string>
+    <string msgid="5566592322045991166" name="symbol_smiley">"ஸ்மைலி முகம்"</string>
+    <string msgid="803832672390677661" name="symbol_solar">"சோலார் சின்னம்"</string>
+    <string msgid="5752206151798562920" name="symbol_space">"இடைவெளி"</string>
+    <string msgid="8272586261793885172" name="symbol_square_bracket_left">"இடதுபுற சதுர அடைப்புக்குறி"</string>
+    <string msgid="5927399844117072754" name="symbol_square_bracket_right">"வலதுபுற சதுர அடைப்புக்குறி"</string>
+    <string msgid="683692620277245490" name="symbol_square_root">"வர்க்க மூலக்குறி"</string>
+    <string msgid="8207841648391314530" name="symbol_tilde">"அலைகுறி"</string>
+    <string msgid="3263529639090333558" name="symbol_trademark">"வர்த்தகமுத்திரை குறி"</string>
+    <string msgid="7192169250700774805" name="symbol_underscore">"அடிக்கோடு"</string>
+    <string msgid="6338361764081105639" name="symbol_upwards_arrow">"மேல்நோக்கிய அம்புக்குறி"</string>
+    <string msgid="1121156640601168272" name="symbol_vertical_bar">"குத்துக் கோடு"</string>
+    <string msgid="246091813103192112" name="symbol_white_circle">"வெள்ளை வட்டம்"</string>
+    <string msgid="9023266146462694521" name="symbol_white_club_suit">"வெள்ளை கிளப் சூட்"</string>
+    <string msgid="148190588729388201" name="symbol_white_diamond">"வெள்ளை வைரம்"</string>
+    <string msgid="2759895601608939558" name="symbol_white_down_pointing_triangle">"கீழ் நோக்கிய வெள்ளை முக்கோணம்"</string>
+    <string msgid="3902539821929296760" name="symbol_white_heart">"வெள்ளை இதயம்"</string>
+    <string msgid="5774703989927211853" name="symbol_white_left_pointing_index">"இடது பக்கம் காட்டும் வெள்ளை நிற ஆள்காட்டி விரல்"</string>
+    <string msgid="4714391974332267014" name="symbol_white_left_pointing_triangle">"இடது பக்கம் நோக்கிய வெள்ளை முக்கோணம்"</string>
+    <string msgid="6971705818446128861" name="symbol_white_right_pointing_index">"வலது பக்கம் காட்டும் வெள்ளை நிற ஆள்காட்டி விரல்"</string>
+    <string msgid="1147044895009619696" name="symbol_white_right_pointing_triangle">"வலது பக்கம் நோக்கிய வெள்ளை முக்கோணம்"</string>
+    <string msgid="364770901730057047" name="symbol_white_spade_suit">"வெள்ளை ஸ்பேடு சூட்"</string>
+    <string msgid="6607687155279147668" name="symbol_white_square">"வெள்ளை சதுரம்"</string>
+    <string msgid="6150436720760853960" name="symbol_white_star">"வெள்ளை நட்சத்திரம்"</string>
+    <string msgid="1445685217848949209" name="symbol_white_up_pointing_triangle">"மேல்நோக்கிய வெள்ளை முக்கோணம்"</string>
+    <string msgid="6959844046981982031" name="symbol_won">"வோன் சின்னம்"</string>
+    <string msgid="5956873078564706159" name="symbol_yen">"யென்"</string>
+    <string msgid="6065419331469295927" name="talkback_built_in_gesture_change_details">"TalkBack இன் இந்தப் பதிப்பில், இயல்புநிலை அணுகல்தன்மை சைகைகளுக்கான மாற்றங்கள் அடங்கியுள்ளன.\n\nமுதலில் மேலே சென்று பின்னர் கீழிறங்கும் சைகையானது, திரையில் முதல் உருப்படிக்கு நீங்கள் நகர்வதை அனுமதிக்கும் மற்றும் முதலில் கீழே இறங்கி பின்னர் மேல் செல்லும் சைகையானது கடைசி உருப்படிக்கு நகரும்.\n\nஉருப்படியைத் தேர்வுசெய்து, அகச் சூழல் மெனுவிலிருந்து படிக்கும்தன்மையைத் தேர்ந்தெடுப்பதன் மூலம் படித்தலின் படிக்கும்தன்மையை இப்போது மாற்றலாம்.\n\nTalkBack அமைப்புகளில் இந்தச் சைகைகளால் செயற்படுத்தப்படும் செயல்களை நீங்கள் மாற்றலாம்."</string>
+    <string msgid="7727588774719330051" name="talkback_built_in_gesture_change_details_45">"இந்த TalkBack பதிப்பில், இயல்பு அணுகல்தன்மைச் சைகைகளில் செய்யப்பட்ட மாற்றங்கள் சேர்க்கப்பட்டுள்ளன.\n\nஇப்போது மேலே ஸ்வைப் செய்தால் முந்தைய வழிகாட்டல் அமைப்பிற்கும் கீழே ஸ்வைப் செய்தால் அடுத்த வழிகாட்டல் அமைப்பிற்கும் செல்லும்."</string>
+    <string msgid="2536155587482587238" name="talkback_disabled">"TalkBack முடக்கப்பட்டது."</string>
+    <string msgid="1242896734553682887" name="talkback_gesture_change_details">"TalkBack இன் இந்தப் பதிப்பில், இயல்புநிலை அணுகல்தன்மை சைகைகளுக்கான மாற்றங்கள் அடங்கியுள்ளன. TalkBack அமைப்புகளிலேயே, இந்த சைகைகளுடன் தொடர்புடைய செயல்களைத் தனிப்பயனாக்கலாம். தொடுவதன் மூலம் அறிக அம்சம் இயக்கப்பட்டிருக்கும்போது, நீங்கள் குறிப்பிட்ட செயல்களைச் செய்ய பின்வரும் சைகைகளைப் பயன்படுத்தலாம்.\n\n<ns1:g id="MAPPINGS">%1$s</ns1:g>"</string>
+    <string msgid="315529674405160699" name="talkback_on">"TalkBack இயக்கத்தில்"</string>
+    <string msgid="1318051290124952165" name="talkback_preferences_subtitle">"பதிப்பு <ns1:g id="VERSION_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4249486159144445549" name="talkback_preferences_title">"TalkBack அமைப்புகள்"</string>
+    <string msgid="3229591037647690759" name="talkback_resumed">"TalkBack மீண்டும் தொடங்கப்பட்டது"</string>
+    <string msgid="5081383053733275450" name="talkback_service_description">"TalkBack இயக்கப்பட்டிருக்கும் போது பார்வையற்ற, பார்வைக் குறைபாடு உள்ள பயனர்களுக்கு உதவுவதற்காகப் பேச்சுவடிவக் கருத்தைச் சாதனம் வழங்கும். எடுத்துக்காட்டாக, நீங்கள் தொடுவதை, தேர்ந்தெடுப்பதை, செயல்படுத்துவதை அது விவரிக்கும்.\n\nதவறுதலாக TalkBack இயக்கப்பட்டிருந்தால், ஸ்விட்ச்சைச் சுற்றிலும் பச்சை அவுட்லைன் வரும் வரை அதைத் தட்டி முடக்கவும், பிறகு அதை இருமுறை தட்டவும். இறுதி உறுதிப்படுத்தல் உரையாடலிலும் இவ்வாறே மீண்டும் செய்யவும்."</string>
+    <string msgid="183421830476125877" name="talkback_suspended">"TalkBack இடைநீக்கப்பட்டது"</string>
+    <string msgid="7563462166661082029" name="tap_sensitivity_high">"உயர்தரம்"</string>
+    <string msgid="6514475998218787336" name="tap_sensitivity_low">"குறைந்த தரம்"</string>
+    <string msgid="1137618443590383650" name="tap_sensitivity_lowest">"மிகக்குறைந்த தரம்"</string>
+    <string msgid="5512827926666078515" name="tap_sensitivity_medium">"நடுத்தரம்"</string>
+    <string msgid="5493715708649314332" name="template_alert_dialog_template">"விழிப்பூட்டல் <ns1:g id="MESSAGE">%1$s</ns1:g>"</string>
+    <string msgid="8500638272120951960" name="template_announce_selected_text">"தேர்ந்தெடுத்த உரை: <ns1:g id="SELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="4920626008395727629" name="template_capital_letter">"பேரெழுத்து <ns1:g id="UPPERCASE_CHARACTER">%1$s</ns1:g>"</string>
+    <string msgid="2038200557537960378" name="template_charging">"சார்ஜிங் <ns1:g id="CHANGING_STATUS">%1$s</ns1:g> பேட்டரி அளவு <ns1:g id="BATTERY_LEVEL">%2$s</ns1:g> சதவீதம்."</string>
+    <string msgid="2167296836815021551" name="template_collection_end">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g>ஐ விட்டு வெளியேறிவிட்டீர்கள்"</string>
+    <string msgid="8386016656549198972" name="template_collection_level">"நிலை <ns1:g id="LEVEL">%1$s</ns1:g>"</string>
+    <string msgid="4362535543397747567" name="template_collection_start">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g> இல் உள்ளீர்கள்"</string>
+    <string msgid="3963364867159704159" name="template_current_tts_engine">"<ns1:g id="ENGINE_NAME">%1$s</ns1:g>ஐப் பயன்படுத்துகிறது"</string>
+    <string msgid="6271864053572367186" name="template_custom_hint_for_actions">"<ns1:g id="HINT">%2$s</ns1:g>க்கு, <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="3049485226126876806" name="template_custom_hint_for_actions_keyboard">"<ns1:g id="HINT">%2$s</ns1:g>க்கு, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்."</string>
+    <string msgid="1384724119268711688" name="template_custom_hint_for_long_clickable_actions">"<ns1:g id="HINT">%2$s</ns1:g>க்கு, <ns1:g id="ACTION">%1$s</ns1:g> பிடிக்கவும்."</string>
+    <string msgid="384588741799097665" name="template_drawer_opened">"<ns1:g id="TITLE">%1$s</ns1:g> மெனு"</string>
+    <string msgid="504233139047201761" name="template_hint_checkable">"மாற்ற, <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="3968541225490733596" name="template_hint_checkable_keyboard">"நிலைமாற்ற, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்."</string>
+    <string msgid="3443819371543556149" name="template_hint_clickable">"செயல்படுத்த, <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="5861489320881379198" name="template_hint_clickable_keyboard">"செயல்படுத்த, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்."</string>
+    <string msgid="543401796694872575" name="template_hint_custom_actions">"தனிப்பயன் செயல்கள்:"</string>
+    <string msgid="2298057410435081106" name="template_hint_edit_text">"உரையை உள்ளிட, <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="7634371425618645820" name="template_hint_edit_text_keyboard">"உரையை உள்ளிட, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்."</string>
+    <string msgid="4546854599035099034" name="template_hint_long_clickable">"சிறிதுநேரம் அழுத்திப் பிடிக்க, <ns1:g id="ACTION">%1$s</ns1:g> பிடிக்கவும்."</string>
+    <string msgid="1256266252223424130" name="template_hint_long_clickable_keyboard">"அழுத்திப் பிடிக்க, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்."</string>
+    <string msgid="5090637252098427661" name="template_hint_pager">"பக்கங்களை மாற்ற, இரண்டு விரல்களால் ஸ்வைப் செய்யவும்."</string>
+    <string msgid="3607132801071926505" name="template_hint_pager_single_page">"கூடுதல் பக்கங்கள் இல்லை."</string>
+    <string msgid="8074023820596008628" name="template_hint_seek_control_tv">"மாற்றுவதற்கு, <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="7251008361827086735" name="template_hint_spinner">"மாற்ற, <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="7561069958801230664" name="template_hint_spinner_keyboard">"மாற்ற, <ns1:g id="KEYCOMBO">%1$s</ns1:g>ஐ அழுத்தவும்."</string>
+    <string msgid="6575017531554968477" name="template_labeled_item">"<ns1:g id="LABEL">%2$s</ns1:g>க்கான <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="1962442828386303832" name="template_long_clicked">"நெடுநேரம் அழுத்தப்பட்ட <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="2592357933256217001" name="template_menu">"<ns1:g id="TITLE">%1$s</ns1:g> மெனு"</string>
+    <string msgid="5665980541549462608" name="template_no_text_selected">"உரை தேர்ந்தெடுக்கப்படவில்லை"</string>
+    <string msgid="962942796289068525" name="template_password_selected">"<ns1:g id="FROM_INDEX">%1$d</ns1:g> இலிருந்து <ns1:g id="TO_INDEX">%2$d</ns1:g> வரையிலான எழுத்துக்குறிகள்"</string>
+    <string msgid="937695852582849077" name="template_password_traversed">"எழுத்துக்குறி <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="6118803183030408820" name="template_percent">"<ns1:g id="PERCENTAGE">%1$s</ns1:g> சதவீதம்."</string>
+    <string msgid="6384850410145990959" name="template_replaced_characters">"<ns1:g id="OLD_TEXT_LENGTH">%1$s</ns1:g> எழுத்துகள் <ns1:g id="NEW_TEXT_LENGTH">%2$s</ns1:g> எழுத்துகளால் மாற்றப்பட்டன"</string>
+    <string msgid="4696666433263950881" name="template_scroll_from_count">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g> இல் <ns1:g id="FROM_INDEX">%1$d</ns1:g> உருப்படியைக் காட்டுகிறது."</string>
+    <string msgid="2060702043504844709" name="template_scroll_from_to_count">"<ns1:g id="TOTAL_COUNT">%3$d</ns1:g> இல் <ns1:g id="FROM_INDEX">%1$d</ns1:g> முதல் <ns1:g id="TO_INDEX">%2$d</ns1:g> வரையிலான உருப்படிகளைக் காட்டுகிறது."</string>
+    <string msgid="1256791763596391124" name="template_split_screen_mode_landscape_ltr">"இடப்புறத்தில் <ns1:g id="ID_1">%1$s</ns1:g>, வலப்புறத்தில் <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="7868698948612319665" name="template_split_screen_mode_landscape_rtl">"வலப்புறத்தில் <ns1:g id="ID_1">%1$s</ns1:g>, இடப்புறத்தில் <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="7565682598301271955" name="template_split_screen_mode_portrait">"மேலே <ns1:g id="ID_1">%1$s</ns1:g>, கீழே <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="1816951995792085063" name="template_stream_volume">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> ஒலியளவு <ns1:g id="PERCENT">%2$d</ns1:g> சதவீதம் உள்ளது."</string>
+    <string msgid="4964670773272907835" name="template_stream_volume_set">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> ஒலியளவு <ns1:g id="PERCENT">%2$d</ns1:g> சதவீதத்திற்கு அமைக்கப்பட்டது."</string>
+    <string msgid="1059175355898959427" name="template_text_copied">"<ns1:g id="TEXT">%1$s</ns1:g> நகலெடுக்கப்பட்டது"</string>
+    <string msgid="7952067813030057908" name="template_text_cut">"<ns1:g id="TEXT">%1$s</ns1:g> வெட்டப்பட்டது"</string>
+    <string msgid="153775825635730287" name="template_text_error">"தவறான உள்ளீடு <ns1:g id="ERROR_MSG">%1$s</ns1:g>"</string>
+    <string msgid="8439319384947093963" name="template_text_pasted">"<ns1:g id="TEXT">%1$s</ns1:g> ஒட்டப்பட்டது"</string>
+    <string msgid="2069327286898545053" name="template_text_removed">"<ns1:g id="TEXT">%1$s</ns1:g> நீக்கப்பட்டது"</string>
+    <string msgid="837970148139617839" name="template_text_replaced">"<ns1:g id="NEW_TEXT">%1$s</ns1:g>, <ns1:g id="OLD_TEXT">%2$s</ns1:g>ஐ மாற்றியது"</string>
+    <string msgid="7969528330209940634" name="template_text_selected">"<ns1:g id="SELECTED_TEXT">%1$s</ns1:g> தேர்ந்தெடுக்கப்பட்டது"</string>
+    <string msgid="8491489660236837367" name="template_text_unselected">"<ns1:g id="UNSELECTED_TEXT">%1$s</ns1:g> தேர்வுநீக்கப்பட்டது"</string>
+    <string msgid="4410160163389481887" name="template_tv_remote_mode_ended">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> நிறுத்தப்பட்டது"</string>
+    <string msgid="5968574403263650425" name="template_tv_remote_mode_started">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> தொடங்கியது"</string>
+    <string msgid="4811442521690748167" name="template_viewpager_index_count">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g> இல் பக்கம் <ns1:g id="PAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="5093912546331180510" name="template_viewpager_index_count_short">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g> இல் <ns1:g id="PAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="2517638358851774040" name="title_activity_dump_a11y_event">"பதிவு செய்ய வேண்டிய நிகழ்வுகளைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="7908169922901920318" name="title_custom_action">"தனிப்பயன் செயல்கள்"</string>
+    <string msgid="4738051430500766039" name="title_dim_screen_when_talkback_enabled">"TalkBack இயக்கப்படும் போது திரையை மங்கலாக்கு"</string>
+    <string msgid="55211944889868460" name="title_edittext_breakout_end_selection_mode">"தேர்ந்தெடுத்தல் பயன்முறையை முடி"</string>
+    <string msgid="4021304144865258223" name="title_edittext_breakout_move_to_beginning">"துவக்கத்திற்கு இடஞ்சுட்டியை நகர்த்து"</string>
+    <string msgid="3197737555808584828" name="title_edittext_breakout_move_to_end">"முடிவிற்கு இடஞ்சுட்டியை நகர்த்து"</string>
+    <string msgid="4183196270306568761" name="title_edittext_breakout_start_selection_mode">"தேர்ந்தெடுத்தல் பயன்முறையைத் தொடங்கு"</string>
+    <string msgid="2102286116390895883" name="title_edittext_controls">"இடஞ்சுட்டி கட்டுப்பாடு"</string>
+    <string msgid="399801096771904747" name="title_granularity">"வழிசெலுத்தல் அமைப்புகள்"</string>
+    <string msgid="5005702316138877183" name="title_labeling_controls">"லேபிள்கள்"</string>
+    <string msgid="5016265453627241456" name="title_local_breakout_no_items">"மெனு உருப்படிகள் இல்லை."</string>
+    <string msgid="3770770318417664565" name="title_pref_a11y_hints">"பயன்பாட்டுக் குறிப்புகளைக் கூறு"</string>
+    <string msgid="7396126388313295285" name="title_pref_auto_scan_time_delay">"தானியங்கு ஸ்கேனிற்கான நேரம்"</string>
+    <string msgid="306503376875826605" name="title_pref_auto_scroll">"பட்டியல்களைத் தானாக உருட்டு"</string>
+    <string msgid="2804297157354831139" name="title_pref_category_auto_scan">"தானியங்கு ஸ்கேன்"</string>
+    <string msgid="4277057711356252674" name="title_pref_category_built_in_gestures">"உள்ளமைக்கப்பட்ட சைகைகள்"</string>
+    <string msgid="3576441094143356231" name="title_pref_category_developer_settings">"டெவெலப்பர் அமைப்புகள்"</string>
+    <string msgid="3417629010416895022" name="title_pref_category_feedback_settings">"பிற அறிவிப்பு"</string>
+    <string msgid="463227090301036752" name="title_pref_category_key_mappings">"செயல்களுக்கு, விசைகளை ஒதுக்கவும்"</string>
+    <string msgid="6578504997140953627" name="title_pref_category_manage_gestures">"சைகைகளை நிர்வகி"</string>
+    <string msgid="611512059219131263" name="title_pref_category_miscellaneous_settings">"இதர அமைப்பு"</string>
+    <string msgid="3352934615940599431" name="title_pref_category_scan_key_mappings">"ஸ்கேன் செய்வதற்காக, விசைகளை ஒதுக்கவும்"</string>
+    <string msgid="8846405149013321460" name="title_pref_category_side_tap_shortcuts">"(சோதனை) சாதனத்தின் பக்கத்தில் தட்டவும்"</string>
+    <string msgid="802401622203667328" name="title_pref_category_touch_exploration">"தொட்டு கண்டறிதல்"</string>
+    <string msgid="4974406968544300731" name="title_pref_category_touch_shortcuts">"குறுக்குவழி சைகைகள்"</string>
+    <string msgid="463133232649258739" name="title_pref_category_when_to_speak">"பேச்சு"</string>
+    <string msgid="7170662881035255012" name="title_pref_dim_volume_three_clicks">"மங்கலான திரை குறுக்குவழி"</string>
+    <string msgid="3999046718706391324" name="title_pref_dump_a11y_event">"வடிப்பான் அணுகல் உள்ள நிகழ்வைப் பதிவுசெய்தல்"</string>
+    <string msgid="1836003265647871107" name="title_pref_explore_by_touch">"தொடுவதன் மூலம் அறிக"</string>
+    <string msgid="8576056446194448505" name="title_pref_export_custom_labels">"தனிப்பயன் லேபிள்களை ஏற்று"</string>
+    <string msgid="2022820131100451763" name="title_pref_help">"உதவி"</string>
+    <string msgid="5718610056539542854" name="title_pref_help_and_feedback">"உதவி &amp; கருத்து"</string>
+    <string msgid="7578057484183597929" name="title_pref_help_feedback">"உதவி &amp; கருத்து"</string>
+    <string msgid="6745845465683574401" name="title_pref_highlight_0">"ஹைலைட் செய்யும் நடையை ஸ்கேன் செய்"</string>
+    <string msgid="2495577882313852825" name="title_pref_highlight_0_color">"ஹைலைட் செய்யும் வண்ணம்"</string>
+    <string msgid="7296464279890648714" name="title_pref_highlight_0_weight">"ஹைலைட் செய்யும் கோட்டின் நடை"</string>
+    <string msgid="7375380428425494034" name="title_pref_intonation">"குரல் அழுத்த மாற்றங்களைப் பயன்படுத்தவும்"</string>
+    <string msgid="8300291129646957414" name="title_pref_keyboard_echo">"விசைப்பலகை எதிரொலி"</string>
+    <string msgid="267415170405921603" name="title_pref_log_level">"வெளியீட்டு நிலையைப் பதிவுசெய்"</string>
+    <string msgid="1365850439559496078" name="title_pref_manage_keyboard_shortcuts">"விசைப்பலகை குறுக்குவழிகளை நிர்வகி"</string>
+    <string msgid="8796338627297226539" name="title_pref_manage_labels">"தனிப்பயன் லேபிள்களை நிர்வகி"</string>
+    <string msgid="4315025096187253577" name="title_pref_phonetic_letters">"ஒலிப்புமுறை எழுத்துகளைக் கூறு"</string>
+    <string msgid="5158596411034985043" name="title_pref_play_store">"Play Store இல் TalkBackஐத் திற"</string>
+    <string msgid="3250995506517482375" name="title_pref_primary_scan_style">"முதன்மை ஸ்கேன் நடை"</string>
+    <string msgid="4533552749993575929" name="title_pref_proximity">"அருகிலிருக்கும் பொருள் உணர்வியைப் பயன்படுத்து"</string>
+    <string msgid="4098949311311089235" name="title_pref_resume_talkback">"இடைநீக்கத்தில் இருந்து மீண்டும் தொடங்கு"</string>
+    <string msgid="2351427385843210311" name="title_pref_scanning_methods">"ஸ்கேனிங் முறை"</string>
+    <string msgid="1335607796304866893" name="title_pref_shake_to_read_threshold">"தொடர்ச்சியாகப் படிப்பதைத் தொடங்க குலுக்கவும்"</string>
+    <string msgid="4454853121476703529" name="title_pref_shortcut_double_tap">"இருபுறமும் தட்டவும்"</string>
+    <string msgid="7510938211617979299" name="title_pref_shortcut_down">"கீழே ஸ்வைப் செய்"</string>
+    <string msgid="6249716604721789627" name="title_pref_shortcut_down_and_left">"கீழே பிறகு இடப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="7683422992972248031" name="title_pref_shortcut_down_and_right">"கீழே பிறகு வலப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="862181907993343425" name="title_pref_shortcut_down_and_up">"கீழேயும் பின்னர் மேலேயும் ஸ்வைப் செய்"</string>
+    <string msgid="1294673470106169765" name="title_pref_shortcut_left">"இடப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="2899217574677150730" name="title_pref_shortcut_left_and_down">"இடதுபுறமாக பிறகு கீழாக ஸ்வைப் செய்க"</string>
+    <string msgid="320138621029568357" name="title_pref_shortcut_left_and_right">"இடப்புறம் பின்னர் வலப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="369887751217245542" name="title_pref_shortcut_left_and_up">"மேலே பிறகு இடப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="2563651710870983074" name="title_pref_shortcut_right">"வலப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="4893018634563250104" name="title_pref_shortcut_right_and_down">"வலதுபுறமாக பிறகு கீழாக ஸ்வைப் செய்க"</string>
+    <string msgid="1184543975336584677" name="title_pref_shortcut_right_and_left">"வலப்புறம் பின்னர் இடப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="6848971895903777166" name="title_pref_shortcut_right_and_up">"வலதுபுறமாக பிறகு மேலாக ஸ்வைப் செய்க"</string>
+    <string msgid="7220195169492947031" name="title_pref_shortcut_single_tap">"ஒருபுறம் தட்டவும்"</string>
+    <string msgid="464026441232788284" name="title_pref_shortcut_up">"மேலே ஸ்வைப் செய்"</string>
+    <string msgid="7970635117146596582" name="title_pref_shortcut_up_and_down">"மேலே பின்னர் கீழே ஸ்வைப் செய்"</string>
+    <string msgid="6548364994546979158" name="title_pref_shortcut_up_and_left">"மேலே பிறகு இடப்புறம் ஸ்வைப் செய்"</string>
+    <string msgid="8856595421274730440" name="title_pref_shortcut_up_and_right">"மேலாக பிறகு வலதுபுறமாக ஸ்வைப் செய்க"</string>
+    <string msgid="8048703987011256280" name="title_pref_show_context_menu_as_list">"சூழல் மெனுவை பட்டியலாகக் காட்டு"</string>
+    <string msgid="4420464510142864819" name="title_pref_show_privacy_policy">"தனியுரிமைக் கொள்கை"</string>
+    <string msgid="6167834013879233992" name="title_pref_show_tos">"சேவை விதிமுறைகள்"</string>
+    <string msgid="5333869781230265376" name="title_pref_single_tap">"ஒரே தட்டலில் செயல்படுத்தல்"</string>
+    <string msgid="3131811048184077738" name="title_pref_soundback">"ஒலி அறிவிப்பு"</string>
+    <string msgid="8633886470832131926" name="title_pref_soundback_volume">"ஒலியளவு"</string>
+    <string msgid="7056106236376536133" name="title_pref_speak_screenoff">"திரை முடக்கத்தில் இருக்கும்போது பேசு"</string>
+    <string msgid="17846978416951489" name="title_pref_speech_volume">"பேச்சு ஒலியளவு"</string>
+    <string msgid="3737945934603267137" name="title_pref_tap_sensitivity">"தட்டுதலைக் கண்டறியும் உணர்திறன்"</string>
+    <string msgid="1525763448981997023" name="title_pref_tree_debug">"நோடு ட்ரீ பிழைத்திருத்தத்தை இயக்கு"</string>
+    <string msgid="4448445593132620627" name="title_pref_tts_overlay">"பேச்சு வெளியீட்டைக் காட்டு"</string>
+    <string msgid="2810986068277138359" name="title_pref_tutorial">"TalkBack பயிற்சியைத் தொடங்கு"</string>
+    <string msgid="2306010395434853106" name="title_pref_two_part_vertical_gestures">"இரு பகுதி செங்குத்து சைகைகள்"</string>
+    <string msgid="4867534784887155899" name="title_pref_two_volume_button_long_click">"TalkBackஐ இடைநிறுத்துவதற்கான/மீண்டும் துவங்குவதற்கான குறுக்குவழி"</string>
+    <string msgid="3150034317307025609" name="title_pref_use_audio_focus">"பேச்சு ஆடியோவை மையப்படுத்து"</string>
+    <string msgid="4156396276749836864" name="title_pref_vibration">"அதிர்வு அறிவிப்பு"</string>
+    <string msgid="3016793641076890473" name="title_pref_web_scripts">"இணைய அணுகல்தன்மையை அதிகப்படுத்து"</string>
+    <string msgid="8335248824829650066" name="title_seek_bar_controls">"நகர்தல் கட்டுப்பாடு"</string>
+    <string msgid="4197424047192764616" name="title_seek_bar_edit">"நகர்தல் கட்டுப்பாட்டு நிலையைத் திருத்து"</string>
+    <string msgid="3596164166456847306" name="title_suggestions_breakout_anchor">"திருத்துதல் புலத்திற்குச் செல்"</string>
+    <string msgid="8722323161157337123" name="title_suggestions_breakout_suggestions">"பரிந்துரைகளுக்குச் செல்"</string>
+    <string msgid="5486233362252604824" name="title_suggestions_controls">"பரிந்துரைகளைத் தன்னிரப்பு"</string>
+    <string msgid="3037924006370977165" name="title_summary">"விரைவாகச் செல்"</string>
+    <string msgid="6936782185806198910" name="title_viewpager_breakout_next_page">"அடுத்த பக்கம்"</string>
+    <string msgid="1352284456691236167" name="title_viewpager_breakout_prev_page">"முந்தைய பக்கம்"</string>
+    <string msgid="3775818290312516095" name="title_viewpager_controls">"பக்க வழிசெலுத்தல்"</string>
+    <string msgid="7663977538463352430" name="title_web_breakout_next_control">"அடுத்த கட்டுப்பாடு"</string>
+    <string msgid="801337905459445939" name="title_web_breakout_next_list">"அடுத்த பட்டியல்"</string>
+    <string msgid="7355139595269361571" name="title_web_breakout_next_section">"அடுத்த தேர்வு"</string>
+    <string msgid="2637721101068457234" name="title_web_breakout_prev_control">"முந்தைய கட்டுப்பாடு"</string>
+    <string msgid="744039532529277819" name="title_web_breakout_prev_list">"முந்தைய பட்டியல்"</string>
+    <string msgid="1738336598629616234" name="title_web_breakout_prev_section">"முந்தைய தேர்வு"</string>
+    <string msgid="6873568861550304420" name="toast_msg_key_already_assigned">"\'<ns1:g id="KEY_NAME">%1$s</ns1:g>\' விசையானது \'<ns1:g id="ACTION_NAME">%2$s</ns1:g>\'க்கு ஏற்கனவே அமைக்கப்பட்டது"</string>
+    <string msgid="6233811187483633874" name="tts_preferences_title">"உரை வடிவத்திலிருந்து பேச்சுக்கான அமைப்புகள்"</string>
+    <string msgid="6480388345726953149" name="turn_off_talkback">"TalkBackஐ முடக்கு"</string>
+    <string msgid="5426041850804920228" name="tutorial_alert_dialog_exit">"வெளியேறு"</string>
+    <string msgid="153385821637979511" name="tutorial_disabled_item_clicked">"பயிற்சிப் பயன்முறையில் %1$s செயல்படுத்தப்பட்டது. வெளியேற, ரத்துசெய் பொத்தானைச் செயல்படுத்தவும்."</string>
+    <string msgid="9109552709434930176" name="tutorial_exercise_completed_auto">"இந்தப் பாடம் முடிந்தது. இன்னும் சில நிமிடங்களில் அடுத்த பாடம் தொடங்கும்"</string>
+    <string msgid="5711951853376611538" name="tutorial_home">"பயிற்சி முகப்பு"</string>
+    <string msgid="2912330081549004678" name="tutorial_lesson_1_page1_description">"இயக்கப்பட்டதும், தொடுவதன் மூலம் அறிக அம்சமானது நீங்கள் விரல்களால் தொடும் எல்லாவற்றையும் சத்தமாகப் படிக்கும். திரையின் மையத்தில் உள்ள உருப்படிகளின் மேல் விரலை நகர்த்தவும். ஐந்து உருப்படிகளில் விரலை வைத்து, அதற்கான ஆடியோ குரலைக் கேட்ட பின், பாடம் தொடரும்."</string>
+    <string msgid="8696897836045271462" name="tutorial_lesson_1_page1_subtitle">"பகுதி 1: தொடுவதன் மூலம் அறிக"</string>
+    <string msgid="4328249029315743419" name="tutorial_lesson_1_page2_complete_message">"7 ஆவது செயல்படுத்தப்பட்டது. தொடர, அடுத்து பொத்தானைக் கண்டறிந்து செயல்படுத்தவும்"</string>
+    <string msgid="3437424287122738630" name="tutorial_lesson_1_page2_description">"கடைசியாகக் கேட்டதைச் செயல்படுத்த, எந்த இடத்திலும் இருமுறை தட்டவும். 7 ஆவதைக் கண்டறிந்து, அதை இப்போதே செயல்படுத்தலாம், அதற்குப் பிறகு தொடர, அடுத்து என்பதைச் செயல்படுத்தவும்."</string>
+    <string msgid="395358029332125189" name="tutorial_lesson_1_page2_subtitle">"பகுதி 2: செயல்படுத்த, இருமுறை தட்டுதல்"</string>
+    <string msgid="6782138079048102236" name="tutorial_lesson_1_page3_description">"TalkBack பாடங்கள் ஒரேமாதிரியாக வரிசைப்படுத்தப்பட்டுள்ளன. மேல் பகுதியில் எந்த நேரத்திலும் உலாவ, படிக்க வசதியாகப் பாடம் உள்ளது. இதன் மேல் இடது மூலையில் பயிற்சி முகப்புப் பொத்தானும் உள்ளது. நடுப்பகுதியில் பயற்சிக்கான பகுதி உள்ளது. கீழ்ப் பகுதியில் செயல்நிலைக் குறிப்பானும் பாட வழிகாட்டல் பொத்தான்களும் உள்ளன. தொடர, இப்போதே அடுத்து என்பதைச் செயல்படுத்தவும்."</string>
+    <string msgid="5644143038265902856" name="tutorial_lesson_1_page3_subtitle">"பகுதி 3: வழிசெலுத்தல் பாடங்கள்"</string>
+    <string msgid="8864367516443934956" name="tutorial_lesson_1_page4_description">"விரலினால் திரையை ஸ்வைப் செய்வதன் மூலமாகவும் உலாவலாம். பொதுவாக இடது புறம் ஸ்வைப் செய்தால் மேலேயும் இடது புறமும் செல்லலாம், வலது புறம் ஸ்வைப் செய்தால் கீழேயும் வலது புறமும் செல்லலாம். இப்போதே முயலவும்."</string>
+    <string msgid="8686179604479736061" name="tutorial_lesson_1_page4_subtitle">"பகுதி 4: உலாவுவதற்கு ஸ்வைப் செய்க"</string>
+    <string msgid="6465486659264068934" name="tutorial_lesson_1_practice_description">"விரலின் கீழ் உள்ளதைக் கேட்க, திரை முழுவதும் விரலை நகர்த்தவும். கேட்டதைச் செயல்படுத்த, எந்த இடத்திலும் இருமுறை தட்டவும். உலாவ, இடது அல்லது வலதுபக்கம் ஸ்வைப் செய்யவும்."</string>
+    <string msgid="8409951305889305897" name="tutorial_lesson_1_practice_title">"பகுதி 5: பயிற்சி செய்தல்"</string>
+    <string msgid="711726460367061721" name="tutorial_lesson_1_short_description">"உலாவ, தொடவும். உலாவ, ஸ்வைப் செய்யவும், செயல்படுத்த, இருமுறை தட்டவும்"</string>
+    <string msgid="5236404350916286434" name="tutorial_lesson_1_title">"பாடம் 1: அடிப்படை வழிசெலுத்தல்"</string>
+    <string msgid="580551557422353615" name="tutorial_lesson_2_page1_description">"செங்குத்துப் பட்டியலில் ஸ்க்ரோல் செய்து, பட்டியல் உருப்படியைக் கண்டறியலாம், இரு விரல்களைப் பயன்படுத்தி மேலே அல்லது கீழே நகர்த்தலாம். கிடைமட்டப் பட்டியலில் ஸ்க்ரோல் செய்து, பட்டியல் உருப்படியைக் கண்டறியலாம், இரு விரல்களைப் பயன்படுத்தி இடதுபுறம் அல்லது வலதுபுறம் நகர்த்தலாம்."</string>
+    <string msgid="3831360802282402385" name="tutorial_lesson_2_page1_subtitle">"பகுதி 1: இரு விரல்களால் ஸ்க்ரோல் செய்தல்"</string>
+    <string msgid="6803623252361709120" name="tutorial_lesson_2_page2_description">"குறுக்குவழியைப் பயன்படுத்தி, பட்டியலில் முன்னே அல்லது பின்னே உடனடியாகச் செல்லலாம். முன் செல்ல, ஒரே நகர்வில் விரலை வலது புறம் நகர்த்தி, பின் இடது புறம் நகர்த்தவும். பின் செல்ல, விரலை இடது புறம் நகர்த்தி, பின் வலது புறம் நகர்த்தவும். இங்கே முயன்று பார்க்கவும்."</string>
+    <string msgid="4984192682960806856" name="tutorial_lesson_2_page2_subtitle">"பகுதி 2: ஸ்க்ரோல் செய்வதற்கான குறுக்குவழிகள்"</string>
+    <string msgid="408119978126134776" name="tutorial_lesson_2_practice_description">"இரண்டு விரல்களை மேலே அல்லது கீழே நகர்த்துவதன் மூலம், ஸ்க்ரோல் செய்யலாம். முன் செல்ல, விரலை வலது புறம் நகர்த்தி, பின் இடது புறம் நகர்த்தவும். பின் செல்ல, விரலை இடது புறம் நகர்த்தி, பின் வலது புறம் நகர்த்தவும்."</string>
+    <string msgid="2743676222265424015" name="tutorial_lesson_2_practice_title">"பகுதி 3: பயிற்சி செய்தல்"</string>
+    <string msgid="1266674748996686981" name="tutorial_lesson_2_short_description">"இரண்டு விரலைப் பயன்படுத்தி ஸ்க்ரோல் செய்வதன் மூலம், முன்னும் பின்னும் செல்லலாம்"</string>
+    <string msgid="8944439067496916569" name="tutorial_lesson_2_title">"பாடம் 2: ஸ்க்ரோல் செய்தல்"</string>
+    <string msgid="2871203321195090324" name="tutorial_lesson_3_down_right">"கீழே நகர்த்தி வலது புறம் நகர்த்தவும்."</string>
+    <string msgid="7029517714331489043" name="tutorial_lesson_3_message">"மெனு விருப்பங்கள் திரையின் நடுவில் செங்குத்தாகப் பட்டியலிடப்பட்டுள்ளன. உலாவ முயலவும். முடிந்ததும், ரத்துசெய் என்பதைச் செயல்படுத்தவும்."</string>
+    <string msgid="6970763850543511675" name="tutorial_lesson_3_page1_description">"TalkBack இல் இரண்டு வெவ்வேறு மெனுக்கள் உள்ளன. முதல் மெனு - குளோபல் TalkBack (எப்போதும் ஒரே கட்டளைகள் இருக்கும்). ஒரே நகர்வில், விரலைக் கீழே நகர்த்தி, பின் வலது புறம் நகர்த்தி, அதிலிருந்து விரலை எடுப்பதன் மூலம் அதை இயக்கலாம். இப்போதே பயிற்சிப் பதிப்பை இயக்கவும்."</string>
+    <string msgid="769564591288469622" name="tutorial_lesson_3_page1_subtitle">"பகுதி 1: குளோபல் TalkBack மெனு"</string>
+    <string msgid="236959207452065871" name="tutorial_lesson_3_page2_description">"இரண்டாவது மெனு - லோக்கல் TalkBack மெனு. நீங்கள் கடைசியாகக் கேட்டதைப் பொறுத்து இந்த மெனுவில் உள்ள உருப்படிகள் வேறுபடும். ஒரே நகர்வில் விரலை மேலே நகர்த்தி, பின் வலது புறம் நகர்த்தி, அதிலிருந்து விரலை எடுப்பதன் மூலம் இந்த மெனுவை இயக்கலாம். இப்போதே பயிற்சி மெனுவை இயக்கவும்."</string>
+    <string msgid="3248006863733497778" name="tutorial_lesson_3_page2_subtitle">"பகுதி 2: லோக்கல் TalkBack மெனு"</string>
+    <string msgid="4687022774852406126" name="tutorial_lesson_3_practice_content_description">"குளோபல் TalkBack மெனு: கீழே நகர்த்தி வலது புறம் நகர்த்தவும். லோக்கல் TalkBack மெனு: மேலே நகர்த்தி வலது புறம் நகர்த்தவும்"</string>
+    <string msgid="9053899021556392823" name="tutorial_lesson_3_practice_description">"குளோபல் TalkBack மெனுவை இயக்க, விரலைக் கீழே நகர்த்தி, பின் வலது புறம் நகர்த்தவும். லோக்கல் TalkBack மெனுவை இயக்க, விரலை மேலே நகர்த்தி, பின் வலது புறம் நகர்த்தவும்."</string>
+    <string msgid="7992894865660442281" name="tutorial_lesson_3_practice_title">"பகுதி 3: பயிற்சி செய்தல்"</string>
+    <string msgid="4897481164693437589" name="tutorial_lesson_3_short_description">"குளோபல் TalkBack மெனு, லோக்கல் TalkBack மெனு"</string>
+    <string msgid="1534037844912254504" name="tutorial_lesson_3_title">"பாடம் 3: TalkBack மெனுக்கள்"</string>
+    <string msgid="1257290751747215466" name="tutorial_lesson_3_up_right">"மேலே நகர்த்தி வலது புறம் நகர்த்தவும்"</string>
+    <string msgid="825751290656500339" name="tutorial_lesson_4_page1_description">"உரையானது பத்தியாக, வரியாக, சொல்லாக, எழுத்தாக வாசிக்க வேண்டுமா என்பதைக் கட்டுப்படுத்த TalkBack அனுமதிக்கும். ஒவ்வொரு எழுத்தாக வாசிப்பதன் மூலம், உச்சரிப்பை அறிந்துகொள்ள உதவலாம். கீழேயுள்ள உரையைத் தட்டி, எழுத்துகளுக்கான உரை வழிகாட்டல் வீதத்தை அமைக்கவும், அதற்குப் பிறகு, மேலும் கீழும் ஸ்வைப் செய்யவும்."</string>
+    <string msgid="4100459258679365726" name="tutorial_lesson_4_page1_message">"இங்கே செங்குத்தாகப் பட்டியலிடப்பட்டுள்ள வாசித்தல் வீத விருப்பங்களை உலாவவும். எழுத்தாக வாசி எனும் விருப்பத்தைக் கண்டறிந்து இயக்கவும்."</string>
+    <string msgid="6722398610043882883" name="tutorial_lesson_4_page1_subtitle">"பகுதி 1: வழிசெலுத்தல் அமைப்புகளைத் தேர்வுசெய்தல்"</string>
+    <string msgid="665951393520581926" name="tutorial_lesson_4_page2_description">"இப்போது எழுத்தாக வாசி என்பதில் இருக்கிறீர்கள். மாதிரி உரையைத் தேர்ந்தெடுத்து, எழுத்தாக வாசிக்க, வலதுபுறம் ஸ்வைப் செய்யவும்."</string>
+    <string msgid="1749198627288834931" name="tutorial_lesson_4_page2_subtitle">"பகுதி 2: உரையில் நகர்தல்"</string>
+    <string msgid="2135338093046263335" name="tutorial_lesson_4_practice_description">"மேலும் கீழும் ஸ்வைப் செய்து, உரை வழிகாட்டல் வீதத்தை மாற்றலாம். வலதுபுறம் ஸ்வைப் செய்து, மாதிரி உரையில் அடுத்த எழுத்தைக் கேட்கலாம்."</string>
+    <string msgid="4917843401985911727" name="tutorial_lesson_4_practice_title">"பகுதி 3: பயிற்சி செய்தல்"</string>
+    <string msgid="8795532729146357613" name="tutorial_lesson_4_sample_text">"TalkBack பயிற்சிக்கான சில மாதிரி உரை இதோ. தலைவன் ஒருவன் தலைவியைத் தன் வீட்டிற்கு அழைத்துப் போகிறான். அந்நேரத்தில், தலைவியின் தோழி தலைவனைப் பார்த்து, \'இவளை நன்றாகப் பாதுகாக்க வேண்டும்\' என வற்புறுத்துகிறாள்.\n\n\'பெற்று அருமையாக வளர்ந்த தாய் தந்தையரை விட்டு இவள் உன்னோடு வருகிறாள். நீ நல்லது செய்தாலும், கெட்டது செய்தாலும், உன்பால் வைத்த அன்பால் உன்னையே நம்பும் இவளைக் கைவிடாதே. இவளுக்குத் துயரம் நேரிட்டால் அதனை உன்னையன்றிப் போக்குவார் வேறு எவரும் இல்லை. ஆதலால், உன் வீட்டில் இவளை நன்றாகக் கவனித்துக் கொள்ள வேண்டும்\'."</string>
+    <string msgid="7418527496120482465" name="tutorial_lesson_4_short_description">"உரையில் நகர்ந்து செல்லும் அமைப்புகளைத் தேர்வுசெய்தல்"</string>
+    <string msgid="4147432329454145413" name="tutorial_lesson_4_title">"பாடம் 4: உரையில் நகர்தல்"</string>
+    <string msgid="5518047261885161170" name="tutorial_lesson_5_hint">"உரையைத் திருத்துக"</string>
+    <string msgid="2284207114288159699" name="tutorial_lesson_5_page1_description">"TalkBack மூலம் உரையை உள்ளிட, தேர்ந்தெடுக்க, மாற்ற, திருத்துதல் பெட்டியைப் பயன்படுத்தலாம். திருத்துதல் பெட்டியைச் செயல்படுத்த, அதை இருமுறை தட்டவும். திருத்துதல் பெட்டியைச் செயல்படுத்திய பிறகு, திரையின் கீழே விசைப்பலகை காட்டப்படும். விசைப்பலகையை நிராகரிக்க விரும்பினால், முந்தையது பொத்தானைத் தட்டவும். இப்போதே திருத்துதல் பெட்டியைச் செயல்படுத்த முயலவும். முடிந்ததும், இப்போது விசைப்பலகையின் மேலே உள்ள அடுத்து என்பதைச் செயல்படுத்தவும்."</string>
+    <string msgid="1509462164197325310" name="tutorial_lesson_5_page1_subtitle">"பகுதி 1: திருத்துதல் பெட்டியைச் செயல்படுத்துதல்"</string>
+    <string msgid="8728726969848635963" name="tutorial_lesson_5_page2_description">"உள்ளிட, திருத்துதல் பெட்டியைச் செயல்படுத்தி, திரையில் காட்டப்படும் விசைப்பலகையில் விரலை நகர்த்தலாம். தேவையான எழுத்தை வாசிக்கும் போது, விரலை எடுத்து, அதைச் செயல்படுத்தவும். கீழே உள்ள திருத்துதல் பெட்டியில் செயல்படுத்தி உள்ளிடுவதை முயன்றுப் பார்க்கவும்."</string>
+    <string msgid="8696015537398598026" name="tutorial_lesson_5_page2_subtitle">"பகுதி 2: திருத்துதல் பெட்டியில் உள்ளிடுதல்"</string>
+    <string msgid="325778749713576462" name="tutorial_lesson_5_page3_description">"சாதனத்தின் ஒலியளவுப் பொத்தான்களைப் பயன்படுத்தி அல்லது அக TalkBack மெனுவின் மூலம் கர்சரை நகர்த்தலாம். மெனுவில் கர்சர் கட்டுப்பாட்டு விருப்பத்தின் மூலம், உரையைத் தேர்ந்தெடுக்கலாம், வெட்டலாம், நகலெடுக்கலாம் அல்லது ஒட்டலாம். கீழே திருத்துதல் பெட்டியைச் செயல்படுத்தலாம், மாதிரி உரையைச் சுற்றிலும் கர்சரை நகர்த்தலாம்."</string>
+    <string msgid="7553394100000534557" name="tutorial_lesson_5_page3_sample_text">"சூர்யாவின் மின்னஞ்சல் முகவரி: surya@ozmail.com"</string>
+    <string msgid="6803668615502110439" name="tutorial_lesson_5_page3_subtitle">"பகுதி 3: கர்சரைப் பயன்படுத்துதல்"</string>
+    <string msgid="4966124103376747840" name="tutorial_lesson_5_practice_description">"திருத்துதல் பெட்டியைச் செயல்படுத்த, இருமுறை தட்டவும். உள்ளிட, எழுத்தின் மீது விரலை நகர்த்தி, விரலை எடுக்கவும். ஒலியளவுப் பொத்தான்கள், அக TalkBack மெனுவின் மூலம் கர்சரை நகர்த்தவும். அக TalkBack மெனுவில் கர்சர் கட்டுப்பாட்டு விருப்பத்தைப் பயன்படுத்தி உரையைத் தேர்ந்தெடுத்து செயல்படுத்தவும்."</string>
+    <string msgid="4502932434891583878" name="tutorial_lesson_5_practice_title">"பகுதி 4: பயிற்சி செய்தல்"</string>
+    <string msgid="5739314401061989157" name="tutorial_lesson_5_short_description">"திருத்துதல் பெட்டியைச் செயல்படுத்தலாம், உள்ளிடலாம், கர்சரை நகர்த்தலாம், உரையைத் தேர்ந்தெடுத்து செயல்படுத்தலாம்"</string>
+    <string msgid="6951330400155565474" name="tutorial_lesson_5_title">"பாடம் 5: உரையைத் திருத்துதல்"</string>
+    <string msgid="5584403341719984367" name="tutorial_lesson_number">"பாடம் %1$d"</string>
+    <string msgid="2301417040370437180" name="tutorial_next">"அடுத்து"</string>
+    <string msgid="1856740039454216256" name="tutorial_next_lesson">"அடுத்த பாடம்"</string>
+    <string msgid="5664505784839483070" name="tutorial_no_touch_explore_message">"இந்தப் பயிற்சிக்கு, தொடுவதன் மூலம் அறிக எனும் அம்சத்தை இயக்க வேண்டும். பயிற்சியைத் தொடங்கும் முன், தொடுவதன் மூலம் அறிக அம்சத்தை இயக்கவும்."</string>
+    <string msgid="1958343592980548652" name="tutorial_no_touch_explore_title">"தொடுவதன் மூலம் அறிக எனும் அம்சத்தை இயக்க வேண்டும்"</string>
+    <string msgid="2663970515299904800" name="tutorial_page_number">"பகுதி %1$d"</string>
+    <string msgid="7024184577193466936" name="tutorial_page_number_of">"பகுதி %1$d / %2$d"</string>
+    <string msgid="8329925887106371812" name="tutorial_practice">"பயிற்சி செய்"</string>
+    <string msgid="2176846563813803041" name="tutorial_practice_area">"பயிற்சிப் பகுதி"</string>
+    <string msgid="7310221766775514110" name="tutorial_practice_content">"பயிற்சிப் பாடம் <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="3270312755677041276" name="tutorial_previous">"முந்தையது"</string>
+    <string msgid="2975374258662807931" name="tutorial_previous_lesson">"முந்தைய பாடம்"</string>
+    <string msgid="4109204744674617699" name="tutorial_service_inactive_message">"இந்தப் பயிற்சிக்கு, TalkBackஐ இயக்க வேண்டும். பயிற்சியைத் தொடங்கும் முன், TalkBackஐ இயக்கவும்."</string>
+    <string msgid="14143423693392009" name="tutorial_service_inactive_title">"TalkBack முடக்கப்பட்டுள்ளது"</string>
+    <string msgid="126663814939225670" name="tutorial_service_suspended_message">"அறிவிப்பு இடைநிறுத்தப்பட்டிருக்கும் போது TalkBack பயிற்சி கிடைக்காது. TalkBack அறிவிப்பை மீண்டும் தொடங்கி, தொடர்வதற்கு பயிற்சியை மறுதொடக்கம் செய்யவும்."</string>
+    <string msgid="7825932862221387070" name="tutorial_service_suspended_title">"TalkBack இடைநீக்கப்பட்டது"</string>
+    <string msgid="8656234062338441589" name="tutorial_start_lesson">"அறிக"</string>
+    <string msgid="6993792008827898101" name="tutorial_start_lesson_content">"<ns1:g id="INDEX">%1$d</ns1:g> பாடத்தைத் தொடங்கும்"</string>
+    <string msgid="491797656581740453" name="tutorial_template_item">"உருப்படி <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="1602036284900841687" name="tutorial_title">"TalkBack பயிற்சி"</string>
+    <string msgid="3902654026290995891" name="tutorial_up_button_description">"பயிற்சிக்கான முகப்புப் பொத்தான்"</string>
+    <string msgid="7017590766394623328" name="untitled_window">"பெயரிடப்படாதது"</string>
+    <string msgid="2459787142940409576" name="value_button">"பொத்தான்"</string>
+    <string msgid="3838601485428893942" name="value_caps_lock_off">"Caps Lock முடக்கப்பட்டது."</string>
+    <string msgid="7573294600745888208" name="value_caps_lock_on">"Caps Lock இயக்கப்பட்டது."</string>
+    <string msgid="668616875637472508" name="value_checkbox">"செக்பாக்ஸ்"</string>
+    <string msgid="3006751014125833966" name="value_checked">"தேர்ந்தெடுக்கப்பட்டது"</string>
+    <string msgid="5183845393779526573" name="value_classic_keymap">"கிளாசிக் விசைவரைபடம்"</string>
+    <string msgid="3341356513608380759" name="value_collapsed">"சுருக்கப்பட்டது"</string>
+    <string msgid="2991108554131770843" name="value_default_keymap">"இயல்பு விசைவரைபடம்"</string>
+    <string msgid="5503481137448624626" name="value_device_unlocked">"சாதனம் திறக்கப்பட்டது."</string>
+    <string formatted="false" msgid="3589346610879193419" name="value_dim_volume_three_clicks">"திரையை மங்கலாக்குவதை இயக்க அல்லது முடக்க, இரு ஒலியளவுப் பொத்தான்களையும் விரைவாக மூன்றுமுறை அழுத்தவும்"</string>
+    <string msgid="8072362433982733982" name="value_direction_down">"கீழே"</string>
+    <string msgid="8554316039693996323" name="value_direction_down_and_left">"முதலில் கீழாகப் பிறகு இடதுபுறமாக"</string>
+    <string msgid="7001881662779097616" name="value_direction_down_and_right">"முதலில் கீழாகப் பிறகு வலதுபுறமாக"</string>
+    <string msgid="8751291630548709587" name="value_direction_down_and_up">"முதலில் கீழே பிறகு மேலே"</string>
+    <string msgid="676932617445677488" name="value_direction_left">"இடது"</string>
+    <string msgid="7803183066938070433" name="value_direction_left_and_down">"முதலில் இடதுபுறமாக பிறகு கீழாக"</string>
+    <string msgid="5700946272615649006" name="value_direction_left_and_right">"முதலில் இடதுபுறமாக பிறகு வலதுபுறமாக"</string>
+    <string msgid="1953824696291100833" name="value_direction_left_and_up">"முதலில் இடதுபுறமாக பிறகு மேலாக"</string>
+    <string msgid="3555261520059818184" name="value_direction_right">"வலது"</string>
+    <string msgid="3939890273004054796" name="value_direction_right_and_down">"முதலில் வலதுபுறமாக பிறகு கீழாக"</string>
+    <string msgid="8982138891493120929" name="value_direction_right_and_left">"முதலில் வலதுபுறமாக பிறகு இடதுபுறமாக"</string>
+    <string msgid="9165127187203257982" name="value_direction_right_and_up">"முதலில் வலதுபுறமாக பிறகு மேலாக"</string>
+    <string msgid="1646290331150992975" name="value_direction_up">"மேலே"</string>
+    <string msgid="3964398023350956969" name="value_direction_up_and_down">"முதலில் மேலே பிறகு கீழே"</string>
+    <string msgid="2880257670663743521" name="value_direction_up_and_left">"முதலில் மேலாக பிறகு இடதுபுறமாக"</string>
+    <string msgid="1769623264993139598" name="value_direction_up_and_right">"முதலில் மேலாக பிறகு வலதுபுறமாக"</string>
+    <string msgid="5160977094078900656" name="value_disabled">"முடக்கப்பட்டது"</string>
+    <string msgid="6104708724544509699" name="value_double_tap">"இருமுறை தட்டுதல்"</string>
+    <string msgid="3400838694172416741" name="value_edit_box">"திருத்துதல் பெட்டி"</string>
+    <string msgid="761496650256809196" name="value_edit_box_editing">"திருத்துகிறீர்கள்"</string>
+    <string msgid="3777451536288368857" name="value_expanded">"விரிக்கப்பட்டது"</string>
+    <string msgid="7426444022147570511" name="value_googletv_screen_saver">"ஸ்கிரீன் சேவர்"</string>
+    <string msgid="1382219539169157957" name="value_gridview">"கட்டம்"</string>
+    <string msgid="6443720093459914584" name="value_hint_tv_remote_mode_seek_control">"மதிப்பை மாற்றுவதற்கு, அம்புக்குறி பொத்தான்களை அழுத்தவும் அல்லது முடிப்பதற்கு, \"தேர்ந்தெடு\" என்பதை அழுத்தவும்."</string>
+    <string msgid="5114229220871881124" name="value_image">"படம்"</string>
+    <string msgid="6889426165608387394" name="value_keyboard_echo_always">"உள்ளிட்ட விசைகளை எப்போதும் கூறு"</string>
+    <string msgid="7181327459690946870" name="value_keyboard_echo_never">"உள்ளிட்ட விசைகளை எப்போதும் கூறாதே"</string>
+    <string msgid="1595001302535254665" name="value_keyboard_echo_softkeys">"திரை விசைப்பலகைக்காக மட்டுமே"</string>
+    <string msgid="7625152822709234439" name="value_listview">"பட்டியல்"</string>
+    <string formatted="false" msgid="541929774635348126" name="value_long_volume_pressed_suspend_talkback">"ஒலியளவு குறைக்க அதிகரிக்க ஒலி பட்டனை நீண்டநேரம் அழுத்து"</string>
+    <string msgid="37422559536361725" name="value_not_checked">"தேர்வுசெய்யப்படவில்லை"</string>
+    <string msgid="5404406119689977269" name="value_notification_shade_opened">"விவரம் திறக்கப்பட்டது"</string>
+    <string msgid="1037451128304445281" name="value_num_lock_off">"Num Lock முடக்கப்பட்டது."</string>
+    <string msgid="5129177598867360081" name="value_num_lock_on">"Num Lock இயக்கப்பட்டது."</string>
+    <string msgid="6700497510945744608" name="value_off">"முடக்கத்தில்"</string>
+    <string msgid="39454338086317219" name="value_on">"இயக்கத்தில்"</string>
+    <string msgid="4936310094261315665" name="value_options_menu_open">"விருப்பங்கள்."</string>
+    <string msgid="7708574424402835461" name="value_pager">"பல பக்கக் காட்சி"</string>
+    <string msgid="7671668766555622125" name="value_pager_page">"பக்கம்"</string>
+    <string msgid="7285572231215250557" name="value_password">"கடவுச்சொல்"</string>
+    <string msgid="4270348255373188872" name="value_press_select">"\"தேர்ந்தெடு\" என்பதை அழுத்தவும்"</string>
+    <string msgid="254185377743644004" name="value_radio_button">"ரேடியோ பொத்தான்"</string>
+    <string msgid="2780570849205482994" name="value_resume_keyguard">"பூட்டுத்திரை காட்டப்படும்போது"</string>
+    <string msgid="615523100721295547" name="value_resume_manual">"அறிவிப்புகளில் இருந்து மட்டுமே"</string>
+    <string msgid="2104101584116309597" name="value_resume_screen_on">"திரை இயக்கப்படும்போது"</string>
+    <string msgid="3881352685288650823" name="value_ringer_silent">"ரிங்கர் நிசப்தம்."</string>
+    <string msgid="2453075127843329125" name="value_ringer_vibrate">"ரிங்கர் அதிர்வு."</string>
+    <string msgid="4442166505764238236" name="value_screen_off">"திரை முடக்கப்பட்டுள்ளது."</string>
+    <string msgid="4051568127659724519" name="value_screen_on">"திரை இயக்கப்பட்டுள்ளது."</string>
+    <string msgid="4083567784058485871" name="value_scroll_lock_off">"Scroll Lock முடக்கப்பட்டது."</string>
+    <string msgid="2645082633954205788" name="value_scroll_lock_on">"Scroll Lock இயக்கப்பட்டது."</string>
+    <string msgid="4084950138979192413" name="value_seek_bar">"நகர்தல் கட்டுப்பாடு"</string>
+    <string msgid="4688216864497436971" name="value_seek_bar_dialog_instructions">"0 இலிருந்து 100க்குள் ஒரு எண்ணை உள்ளிடவும்."</string>
+    <string msgid="1999088520209822207" name="value_seek_bar_dialog_percent">"%"</string>
+    <string msgid="1307429702194660766" name="value_selected">"தேர்ந்தெடுக்கப்பட்டது"</string>
+    <string msgid="33115748930768552" name="value_shake_to_read_disabled">"முடக்கப்பட்டது"</string>
+    <string msgid="7661843662865960874" name="value_shake_to_read_threshold_hard">"அதிகமாக"</string>
+    <string msgid="6122029921067500618" name="value_shake_to_read_threshold_light">"குறைவாக"</string>
+    <string msgid="8892692566516131981" name="value_shake_to_read_threshold_medium">"நடுத்தரம்"</string>
+    <string msgid="3423392173494851854" name="value_shake_to_read_threshold_very_hard">"மிக அதிகமாக"</string>
+    <string msgid="2767872234193772050" name="value_shake_to_read_threshold_very_light">"மிகக் குறைவாக"</string>
+    <string msgid="5044168772549910285" name="value_single_tap">"தட்டு"</string>
+    <string msgid="1275285354723670810" name="value_sliding_drawer_opened">"சறுக்கும் டிராயர் திறக்கப்பட்டது"</string>
+    <string msgid="9204474944714379541" name="value_spinner">"கீழ் தோன்றுதல் பட்டி"</string>
+    <string msgid="7440086841584851897" name="value_stream_alarm">"அலாரம்"</string>
+    <string msgid="433463500088767280" name="value_stream_dtmf">"டச் டோன் அழைப்பு"</string>
+    <string msgid="4636086067147877021" name="value_stream_master">"முதன்மை"</string>
+    <string msgid="3472112192147204509" name="value_stream_music">"இசை"</string>
+    <string msgid="7166743133549871424" name="value_stream_notification">"அறிவிப்பு"</string>
+    <string msgid="5981333765536911375" name="value_stream_ring">"ரிங் டோன்"</string>
+    <string msgid="2589285265752092053" name="value_stream_system">"சாதன ஒலி"</string>
+    <string msgid="3808346037153621863" name="value_stream_voice_call">"ஃபோன் அழைப்பு"</string>
+    <string msgid="6946709666466895221" name="value_switch">"ஸ்விட்ச்"</string>
+    <string msgid="6935453013254857519" name="value_tabwidget">"தாவல் பட்டி"</string>
+    <string msgid="6558192295636412162" name="value_text_cleared">"உரை அழிக்கப்பட்டது"</string>
+    <string msgid="4129865255646994586" name="value_text_max_length">"அதிகபட்ச நீளத்தை அடைந்தது"</string>
+    <string msgid="9064311081864073839" name="value_text_removed">"நீக்கப்பட்டது"</string>
+    <string msgid="2003438824962970029" name="value_tv_remote_mode_seek_control">"நகர்தல் கட்டுப்பாட்டுப் பயன்முறை"</string>
+    <string msgid="6226815555228981094" name="value_unlabelled">"லேபிளிடப்படாதது"</string>
+    <string formatted="false" msgid="1925212291067338164" name="value_volume_100_percent">"மீடியா ஒலியளவுடன் பொருத்து"</string>
+    <string formatted="false" msgid="7765340636472447035" name="value_volume_25_percent">"மீடியா ஒலியளவில் 25%"</string>
+    <string formatted="false" msgid="571313670701581653" name="value_volume_50_percent">"மீடியா ஒலியளவில் 50%"</string>
+    <string formatted="false" msgid="4112643575612833142" name="value_volume_75_percent">"மீடியா ஒலியளவில் 75%"</string>
+</resources>

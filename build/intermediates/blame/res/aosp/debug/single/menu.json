@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\menu\\global_context_menu.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\menu\\global_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\menu\\local_context_menu.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\menu\\local_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\menu\\dump_a11y_event_menu.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\menu\\dump_a11y_event_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\menu\\web_local_context_menu.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\menu\\web_local_context_menu.xml"
+    }
+]

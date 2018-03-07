@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"Naozaj chcete aplikáciu TalkBack pozastaviť?\n\nKeď bude aplikácia TalkBack pozastavená, vaše zariadenie nebude poskytovať spätnú väzbu a funkcia Preskúmanie dotykom bude deaktivovaná."</string>
+</resources>

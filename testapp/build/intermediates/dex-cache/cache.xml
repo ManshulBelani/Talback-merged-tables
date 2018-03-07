@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_27a5838256c94da373239ea8e234a2bde48a727c.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_fe7480820c20c289a17422f6ee907fbcc1697ea1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_1fc2c9607ba789bb70f10580c699d27ca3bdf191.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\preference-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="495666f06bb939a73f6cd6452c704eeda809283d">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-24.0.0_c0da1e48e99d4cd4368359354cbd54a8dc08b219.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_8efd9aa3e15eb00a4b6b5ceb500c3c0474106788.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_0735dfdfb51b995d18304c308830e049b8745811.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_864a175f124e7be522a92502c8a3da968ce01e2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\preference-v14\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="963b911411d03e6cb87325cdc82c7c905ef0815f">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v14-24.0.0_2612f1a83131f1d6eeb7c2fceed46a8ace3d56e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_17028fa7a51eb0c575930530a6486e40b49ddc73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Nikhil Pratap\Desktop\Talkback\talkback-master\testapp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_af0c74ee5f12ba097955900d18eee880bd96f23d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="html_input_to_desc_values">
+    <item msgid="4096172354068997146">"बटण"</item>
+    <item msgid="2699169428263688931">"चेक बॉक्स"</item>
+    <item msgid="7550171965279727706">"रंग निवडक"</item>
+    <item msgid="2406148632948142554">"तारीख वेळ नियंत्रण"</item>
+    <item msgid="6206734636643693831">"तारीख वेळ नियंत्रण"</item>
+    <item msgid="6494793311723250360">"तारीख नियंत्रण"</item>
+    <item msgid="6233043014283782070">"ईमेलसाठी मजकूर संपादित करा"</item>
+    <item msgid="182198520168681864">"फाईल निवड"</item>
+    <item msgid="7635844014202244925"/>
+    <item msgid="7139901113287304585">"बटण"</item>
+    <item msgid="7877770148678429766">"महिना नियंत्रण"</item>
+    <item msgid="7002577823944482722">"फक्त संख्यात्मक मजकूर संपादित करा"</item>
+    <item msgid="917273821530305195">"मजकूर संपादन संकेतशब्द"</item>
+    <item msgid="5154071363992838475">"रेडिओ बटण"</item>
+    <item msgid="2560372821541772181">"स्लाईडर"</item>
+    <item msgid="779695939031888316">"रीसेट करा"</item>
+    <item msgid="1955065531595564834">"शोधासाठी मजकूर संपादित करा"</item>
+    <item msgid="3623131192112730435">"बटण"</item>
+    <item msgid="6312991181689088005">"टेलिफोन नंबरसाठी मजकूर संपादित करा"</item>
+    <item msgid="8762125587567231566">"मजकूर संपादित करा"</item>
+    <item msgid="1947579002513979409">"URL साठी मजकूर संपादित करा"</item>
+    <item msgid="3903775116049114237">"वर्ष नियंत्रणाचा आठवडा"</item>
+  </string-array>
+    <string-array name="html_role_to_desc_values">
+    <item msgid="3658512898735203541">"सूचना"</item>
+    <item msgid="935137618042089194">"सूचना संवाद"</item>
+    <item msgid="686369214205693600">"बटण"</item>
+    <item msgid="5449693577048552694">"चेक बॉक्स"</item>
+    <item msgid="7272822698378169340">"काँबो बॉक्स"</item>
+    <item msgid="5713583829575581939">"संवाद"</item>
+    <item msgid="5216929483884327567">"ग्रिड सेल"</item>
+    <item msgid="19661835905260843">"दुवा जोडा"</item>
+    <item msgid="8836528596849462517">"लॉग"</item>
+    <item msgid="6363472636779109133">"मार्की"</item>
+    <item msgid="207979235591166657">"मेनू आयटम"</item>
+    <item msgid="5314221954121037157">"मेनू आयटम चेक बॉक्स"</item>
+    <item msgid="8530188741088975507">"मेनू आयटम रेडिओ बटण"</item>
+    <item msgid="7133038652454746643">"पर्याय"</item>
+    <item msgid="8884929996375815553">"प्रगती बार"</item>
+    <item msgid="2491530352752186178">"रेडिओ बटण"</item>
+    <item msgid="5885543297378953099">"रेडिओ बटण गट"</item>
+    <item msgid="3817058470626837478">"स्क्रोल बार"</item>
+    <item msgid="2598539587247777337">"स्लाईडर"</item>
+    <item msgid="7266241064748434859">"परिवलन बटण"</item>
+    <item msgid="4150753681642535303">"स्थिती"</item>
+    <item msgid="3573349580765929816">"टॅब"</item>
+    <item msgid="9107453920877701301">"टॅब पॅनेल"</item>
+    <item msgid="5718988101358695130">"मजकूर बॉक्स"</item>
+    <item msgid="9046935926547104284">"टायमर"</item>
+    <item msgid="8242601659670346415">"टूल बार"</item>
+    <item msgid="8035569092868245025">"साधन टीप"</item>
+    <item msgid="4623430632959558435">"ट्री आयटम"</item>
+  </string-array>
+    <string-array name="html_tag_to_desc_values">
+    <item msgid="1581643603826521323">"दुवा जोडा"</item>
+    <item msgid="5847514471672094541">"पहिले शीर्षक"</item>
+    <item msgid="7964504533413328902">"दुसरे शीर्षक"</item>
+    <item msgid="7775012721364572701">"तिसरे शीर्षक"</item>
+    <item msgid="1979200594411818064">"चौथे शीर्षक"</item>
+    <item msgid="7881108930806590659">"पाचवे शीर्षक"</item>
+    <item msgid="8181883417007695049">"सहावे शीर्षक"</item>
+    <item msgid="2343598882253497500">"बटण"</item>
+    <item msgid="5522305372945364608">"काँबो बॉक्स"</item>
+    <item msgid="2674550010931559202">"सारणी"</item>
+    <item msgid="6844260645051963771">"मजकूर क्षेत्र"</item>
+  </string-array>
+    <string-array name="switch_access_color_entries">
+    <item msgid="7934595828699536711">"हिरवा"</item>
+    <item msgid="7616478199824616148">"नारिंगी"</item>
+    <item msgid="528738291475141372">"लाल"</item>
+    <item msgid="3613307072137891343">"निळा"</item>
+    <item msgid="1719741716015833575">"पांढरा"</item>
+  </string-array>
+    <string-array name="switch_access_scanning_methods_entries">
+    <item msgid="3706133143777972955">"पंक्ती-स्तंभ (केवळ कीबोर्ड)"</item>
+    <item msgid="6882375457227534722">"पंक्ती-स्तंभ"</item>
+    <item msgid="4021832268378176260">"पर्याय स्कॅनिंग"</item>
+  </string-array>
+    <string-array name="switch_access_weight_entries">
+    <item msgid="5215195704613305820">"बारीक भरीव ओळ"</item>
+    <item msgid="7698398358042168523">"मध्‍यम भरीव ओळ"</item>
+    <item msgid="4047443674448719927">"जाड भरीव ओळ"</item>
+  </string-array>
+    <plurals formatted="false" msgid="5524438721359954583" name="auto_scan_time_delay_summary_format">
+      <item quantity="one">%.2f सेकंद</item>
+      <item quantity="other">%.2f सेकंद</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709295987864614176" name="label_import_succeeded">
+      <item quantity="one">%d लेबल अद्यतनित केले</item>
+      <item quantity="other">%d लेबले अद्यतनित केली</item>
+    </plurals>
+    <plurals formatted="false" msgid="8070929030388121623" name="label_num_keys_assigned_format">
+      <item quantity="one">%d की नियुक्त केली</item>
+      <item quantity="other">%d की नियुक्त केल्या</item>
+    </plurals>
+    <plurals formatted="false" msgid="9179529663500973282" name="template_containers">
+      <item quantity="one"><ns1:g id="TYPE_2">%1$s</ns1:g> <ns1:g id="COUNT_3">%2$d</ns1:g> आयटम दर्शवित आहे.</item>
+      <item quantity="other"><ns1:g id="TYPE_2">%1$s</ns1:g> <ns1:g id="COUNT_3">%2$d</ns1:g> आयटम दर्शवित आहे.</item>
+    </plurals>
+    <plurals formatted="false" msgid="4038822501642812499" name="template_dump_event_count">
+      <item quantity="one"><ns1:g id="TOTAL_COUNT">%1$d</ns1:g> इव्हेंट निवडला</item>
+      <item quantity="other"><ns1:g id="TOTAL_COUNT">%1$d</ns1:g> इव्हेंट निवडले</item>
+    </plurals>
+    <plurals formatted="false" msgid="5016154931003131594" name="template_list_column_count">
+      <item quantity="one"><ns1:g id="COLUMN_COUNT_1">%1$d</ns1:g> स्तंभ</item>
+      <item quantity="other"><ns1:g id="COLUMN_COUNT_1">%1$d</ns1:g> स्तंभ</item>
+    </plurals>
+    <plurals formatted="false" msgid="3432009359831385828" name="template_list_row_count">
+      <item quantity="one"><ns1:g id="ROW_COUNT_1">%1$d</ns1:g> पंक्ती</item>
+      <item quantity="other"><ns1:g id="ROW_COUNT_1">%1$d</ns1:g> पंक्ती</item>
+    </plurals>
+    <plurals formatted="false" msgid="3955737557576761990" name="template_list_total_count">
+      <item quantity="one"><ns1:g id="TOTAL_COUNT_1">%1$d</ns1:g> आयटम</item>
+      <item quantity="other"><ns1:g id="TOTAL_COUNT_1">%1$d</ns1:g> आयटम</item>
+    </plurals>
+    <plurals formatted="false" msgid="1628316286149773405" name="template_password_character_count">
+      <item quantity="one"><ns1:g id="CHARACTER_COUNT_1">%1$d</ns1:g> वर्ण</item>
+      <item quantity="other"><ns1:g id="CHARACTER_COUNT_1">%1$d</ns1:g> वर्ण</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुख्‍यपृष्‍ठ नेव्‍हिगेट करा"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"वर नेव्‍हिगेट करा"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक पर्याय"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण झाले"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सर्व पहा"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"एक अ‍ॅप निवडा"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"शोधा…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी स्‍पष्‍ट करा"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"शोध क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"शोध"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करा"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"व्हॉइस शोध"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"यांच्यासह सामायिक करा"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s सह सामायिक करा"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करा"</string>
+    <string msgid="3283027285894267908" name="accessibility_tutorial_title">"प्रवेशयोग्यता ट्यूटोरियल"</string>
+    <string msgid="8073233516135659087" name="action_name_click">"निवडा"</string>
+    <string msgid="4275752158295125939" name="action_name_dismiss">"डिसमिस करा"</string>
+    <string msgid="5708679123666477849" name="action_name_long_click">"दीर्घकाळ दाबा"</string>
+    <string msgid="4106603510441280028" name="action_name_next">"पुढील"</string>
+    <string msgid="5382750123072539005" name="action_name_previous">"मागील"</string>
+    <string msgid="4257814255726312722" name="action_name_reverse_auto_scan">"स्वयं स्कॅन उलट करा"</string>
+    <string msgid="579045012327139100" name="action_name_scroll_backward">"मागे स्क्रोल करा"</string>
+    <string msgid="6969788891937406270" name="action_name_scroll_forward">"पुढे स्क्रोल करा"</string>
+    <string msgid="697316167642517245" name="arc_android_window">"Android विंडो"</string>
+    <string msgid="6957148997380624671" name="arc_maximize_window_for_touch_hint">"स्पर्श आणि बोललेल्या अभिप्रायासह उत्कृष्ट परिणामांसाठी अॅप विंडो मोठी करा"</string>
+    <string msgid="3272314052097101117" name="arc_navigation_hint">"नॅव्हिगेट करण्यासाठी बाणांसह शोध की दाबा"</string>
+    <string msgid="293518233104520901" name="arc_open_manage_keyboard_shortcuts_hint">"शॉर्टकटची सूची पाहण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा"</string>
+    <string msgid="9026011084239235722" name="arc_open_talkback_settings_hint">"TalkBack सेटिंग्ज उघडण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा"</string>
+    <string msgid="8528412412593489695" name="axis_character">"वर्णानुसार नेव्हिगेट करा."</string>
+    <string msgid="816142869754118685" name="axis_default_web_view_behavior">"डीफॉल्ट वेब दृश्य वर्तनानुसार नेव्हीगेट करा."</string>
+    <string msgid="8037283796488966887" name="axis_document">"दस्तऐवजानुसार नेव्हिगेट करा."</string>
+    <string msgid="8829265824683632088" name="axis_heading">"शीर्षकानुसार नेव्हिगेट करा."</string>
+    <string msgid="4398740201672273541" name="axis_sentence">"वाक्यानुसार नेव्हिगेट करा."</string>
+    <string msgid="3267377527761217139" name="axis_sibling">"भावंडांनुसार नेव्हिगेट करा."</string>
+    <string msgid="8823389407337076750" name="axis_word">"शब्दानुसार नेव्हिगेट करा."</string>
+    <string msgid="7776830309528651093" name="button_accept_changed_gesture_mappings">"जेश्चर स्वीकारा"</string>
+    <string msgid="301383322727007726" name="button_check_all_events">"सर्व निवडा"</string>
+    <string msgid="2128349101908653825" name="button_clear_all_events">"सर्व साफ करा"</string>
+    <string msgid="5895884645531139464" name="button_customize_gesture_mappings">"जेश्चर सानुकूल करा"</string>
+    <string msgid="2754406023113433479" name="cannot_add_label">"हा आयटम लेबल केला जाऊ शकत नाही."</string>
+    <string msgid="3556846822411648601" name="character_collapse_template">" <ns1:g id="NUMBER">%1$d</ns1:g> <ns1:g id="CHARACTER">%2$s</ns1:g>"</string>
+    <string msgid="1222984615395028719" name="column_heading_template">"स्तंभ शीर्षक"</string>
+    <string msgid="258393957626754806" name="column_index_template">"स्तंभ <ns1:g id="COL">%1$d</ns1:g>"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ला सध्‍या उपलब्‍ध नसलेल्‍या एक किंवा अधिक Google Play सेवांची आवश्‍यकता आहे. कृपया सहाय्यासाठी विकासकाशी संपर्क साधा."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Google Play सेवा सक्षम करा"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"आपण Google Play सेवा सक्षम केल्याशिवाय <ns1:g id="APP_NAME">%1$s</ns1:g> हा अॅप कार्य करणार नाही."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Google Play सेवा सक्षम करा"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Google Play सेवा मिळवा"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"आपल्‍या फोनवर गहाळ असलेल्‍या, Google Play सेवांशिवाय <ns1:g id="APP_NAME">%1$s</ns1:g> चालणार नाही."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"आपल्‍या टॅब्लेटवर गहाळ असलेल्‍या Google Play सेवांशिवाय <ns1:g id="APP_NAME">%1$s</ns1:g> चालणार नाही."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Google Play सेवा मिळवा"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"निर्दिष्ट केलेले खाते या डिव्हाइसवर अस्तित्वात नाही. कृपया एक भिन्न खाते निवडा."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"अवैध खाते"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Google Play सेवांशी कनेक्ट होण्यासाठी डेटा कनेक्शन आवश्यक आहे."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"नेटवर्क त्रुटी"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Google Play सेवा त्रुटी"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"प्रतिबंधित प्रोफाईलवरून खात्यांमध्ये प्रवेश करणे समर्थित नाही."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"प्रतिबंधित प्रोफाईल"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"निर्दिष्ट खात्यात साइन इन करताना त्रुटी. कृपया एक भिन्न खाते निवडा."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"साइन इन अयशस्वी"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ला Google Play सेवांसह समस्या येत आहे. समस्या कायम राहिल्यास, कृपया सहाय्यासाठी विकासकाशी संपर्क साधा."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play सेवांवर अवलंबून असतो, ज्या आपल्‍या डिव्‍हाइसवर समर्थित नाही. सहाय्यासाठी निर्मात्याशी संपर्क साधा."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play सेवा"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"अद्यतनित करा"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"आपण Google Play सेवा अद्यतनित करेपर्यंत <ns1:g id="APP_NAME">%1$s</ns1:g> चालणार नाही."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Google Play सेवा अद्यतनित करा"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"सध्‍या अद्यतनित होत असलेल्‍या, Google Play सेवांशिवाय <ns1:g id="APP_NAME">%1$s</ns1:g> चालणार नाही."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play सेवा अद्यतनित होत आहेत"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Google Play सेवांच्या नवीन आवृत्तीची आवश्यकता आहे. हे स्वत:ला लवकरच अद्यतनित करेल."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"फोनवर उघडा"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"साइन इन करा"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Google सह साइन इन करा"</string>
+    <string msgid="330592638837220675" name="context_menu_layout_description">"संदर्भ मेनू"</string>
+    <string msgid="7595558180210850775" name="dialog_message_dim_screen">"आपण स्क्रीन मंद करू इच्छिता याची आपल्याला खात्री आहे?"</string>
+    <string msgid="3526530041207600349" name="dialog_message_disable_exploration">"आपल्याला खात्री आहे की आपण स्पर्श करून एक्सप्लोर करा बंद करू इच्छिता?\n\nआपण स्क्रीनला स्पर्श कराल तेव्हा आपले डिव्हाइस यापुढे शॉर्टकट जेश्चरना किंवा बोललेल्या आयटमला प्रतिसाद देणार नाही."</string>
+    <string msgid="1939098607233562642" name="dialog_message_enable_tree_debug">"आपल्याला खात्री आहे की आपण नोड ट्री डीबग करणे चालू करू इच्छित आहात?\n\nनोड ट्री डीबग करणे आपल्या डिव्हाइसच्या लॉगवर आपल्या स्क्रीनची सामग्री प्रदर्शित करते, जी अन्य अनुप्रयोगांद्वारे वाचली जाऊ शकते."</string>
+    <string msgid="5767155087369798907" name="dialog_message_suspend_talkback">"आपल्‍याला खात्री आहे? आपले डिव्‍हाइस अभिप्राय प्रदान करणार नाही आणि स्‍पर्श करून एक्‍सप्‍लोर करा अक्षम केले जाईल. लॉकस्क्रीनवर परत येऊन किंवा व्हॉल्यूम की शॉर्टकटद्वारे आपण सूचनांमधून TalkBack पुनः सुरु करू शकता."</string>
+    <string msgid="603850602120147151" name="dialog_title_dim_screen">"स्क्रीन मंद करायची?"</string>
+    <string msgid="2662971136340460644" name="dialog_title_disable_exploration">"स्पर्श करून एक्सप्लोर करा अक्षम करायचे?"</string>
+    <string msgid="2107489862179537135" name="dialog_title_enable_tree_debug">"नोड ट्री डीबग करणे सक्षम करायचे?"</string>
+    <string msgid="5117432568615750164" name="dialog_title_suspend_talkback">"TalkBack निलंबित करायचे?"</string>
+    <string msgid="6117331350509062908" name="display_name_aria_landmark">"क्षेत्राची महत्त्वाची खूण"</string>
+    <string msgid="6801468093111637502" name="display_name_button">"बटण"</string>
+    <string msgid="2060147158898197667" name="display_name_checkbox">"चेकबॉक्स"</string>
+    <string msgid="3627879841881471141" name="display_name_combobox">"काँबोबॉक्स"</string>
+    <string msgid="7621147750572129887" name="display_name_control">"नियंत्रण"</string>
+    <string msgid="5014778180731737501" name="display_name_edit_field">"edit_field"</string>
+    <string msgid="1687969602866460765" name="display_name_focusable_item">"फोकस करण्यायोग्य आयटम"</string>
+    <string msgid="5292831903337779423" name="display_name_graphic">"ग्राफिक"</string>
+    <string msgid="7554771761850653608" name="display_name_heading">"शीर्षक"</string>
+    <string msgid="30730842343032834" name="display_name_heading_1">"शीर्षक 1"</string>
+    <string msgid="754950733934619571" name="display_name_heading_2">"शीर्षक 2"</string>
+    <string msgid="5499505893988231066" name="display_name_heading_3">"शीर्षक 3"</string>
+    <string msgid="8795813919278024796" name="display_name_heading_4">"शीर्षक 4"</string>
+    <string msgid="6033290790336260109" name="display_name_heading_5">"शीर्षक 5"</string>
+    <string msgid="6401554046489668344" name="display_name_heading_6">"शीर्षक 6"</string>
+    <string msgid="1766513019820473329" name="display_name_link">"दुवा"</string>
+    <string msgid="6043055138670390963" name="display_name_list">"सूची"</string>
+    <string msgid="5955953898740497356" name="display_name_list_item">"सूची आयटम"</string>
+    <string msgid="4568845228422422699" name="display_name_section">"शीर्षक किंवा महत्त्वाची खूण"</string>
+    <string msgid="1369599790038567007" name="display_name_table">"सारणी"</string>
+    <string msgid="3595733062526019550" name="end_of_text">"समाप्त"</string>
+    <string msgid="2634106379315171501" name="end_of_web">"<ns1:g id="ID_1">%1$s</ns1:g> पुढे आणखी नाही"</string>
+    <string msgid="8326879739948707767" name="global_action_back">"परत"</string>
+    <string msgid="2498984784930393183" name="global_action_home">"मुख्यपृष्ठ"</string>
+    <string msgid="7052190988699716765" name="global_action_notifications">"सूचना"</string>
+    <string msgid="51725242460849609" name="global_action_overview">"विहंगावलोकन"</string>
+    <string msgid="425687562421432080" name="global_action_quick_settings">"द्रुत सेटिंग्ज"</string>
+    <string msgid="2580664964591545065" name="global_context_menu_title">"जागतिक संदर्भ मेनू"</string>
+    <string msgid="2036726841460203840" name="granularity_character">"वर्ण"</string>
+    <string msgid="4948042687369948597" name="granularity_default">"डीफॉल्ट"</string>
+    <string msgid="727359260064093782" name="granularity_line">"रेखा"</string>
+    <string msgid="2739238666516816581" name="granularity_page">"पृष्ठे"</string>
+    <string msgid="3760401274833105422" name="granularity_paragraph">"परिच्छेद"</string>
+    <string msgid="437761042603242585" name="granularity_pseudo_web_special_content">"विशिष्ट सामग्री"</string>
+    <string msgid="1885138772895126953" name="granularity_web_control">"नियंत्रणे"</string>
+    <string msgid="7817726975417542626" name="granularity_web_link">"दुवे"</string>
+    <string msgid="4386991044245560102" name="granularity_web_list">"सूची"</string>
+    <string msgid="8219174463230029732" name="granularity_web_section">"शीर्षके आणि लँडमार्क"</string>
+    <string msgid="2653776823920279013" name="granularity_word">"शब्द"</string>
+    <string msgid="3585514481777782183" name="heading_template">"शीर्षक"</string>
+    <string msgid="2042130200569709650" name="hint_radial_menu">"आयटम शोधण्यासाठी स्क्रीनला स्पर्श करा आणि मंडळात एक्सप्लोर करा, नंतर सक्रिय करण्यासाठी उचला."</string>
+    <string msgid="6139951755594105602" name="hint_script_injection">"स्पर्श करून एक्सप्लोर करणे वेब सामग्रीत उपलब्ध नाही. वेब सामग्री एक्सप्लोर करण्यासाठी प्रवेशयोग्यता सेटिंग्जमध्ये <ns1:g id="PREFERENCE_NAME">%1$s</ns1:g> चालू करा."</string>
+    <string msgid="2050246931229863299" name="hint_summary_jog_dial">"ऑन-स्क्रीन सामग्री नेव्हिगेट करण्यासाठी स्क्रीनला स्पर्श करा आणि मंडळात एक्सप्लोर करा, नंतर फोकस करण्यासाठी उचला."</string>
+    <string msgid="6117098234531459917" name="imported_labels_reverted">"आयात केलेली लेबले परत केली"</string>
+    <string msgid="71505978833721807" name="item_index_template">"<ns1:g id="ITEM">%1$d</ns1:g> आयटम"</string>
+    <string msgid="3635428232205897122" name="key_combo_preference_alt_plus">"ALT + "</string>
+    <string msgid="3798670998031739354" name="key_combo_preference_control_plus">"CTRL + "</string>
+    <string msgid="729970729293779243" name="key_combo_preference_instructions">"सूचीमध्‍ये ते जोडण्‍यासाठी किंवा काढण्‍यासाठी एक की संयोग दाबा"</string>
+    <string msgid="766369207787941384" name="key_combo_preference_reset_button">"की अभिहस्तांकन साफ करा"</string>
+    <string msgid="2809984878781105825" name="key_combo_preference_shift_plus">"SHIFT + "</string>
+    <string msgid="2481495794999250718" name="keycombo_announce_shortcut_not_supported">"शॉर्टकट समर्थित नाही"</string>
+    <string msgid="3473075449729957326" name="keycombo_assign_dialog_clear">"शॉर्टकट साफ करा"</string>
+    <string msgid="8675660213696360536" name="keycombo_assign_dialog_default_keymap_instruction">"नवीन शॉर्टकट सेट करण्‍यासाठी <ns1:g id="TRIGGER_MODIFIER_NAME">%1$s</ns1:g> सुधारणा की सह की संयोग सेट करा."</string>
+    <string msgid="7298194792465449819" name="keycombo_assign_dialog_instruction">"नवीन शॉर्टकट सेट करण्‍यासाठी की संयोग दाबा. त्यात कमीतकमी ALT किंवा Control की असणे आवश्‍यक आहे."</string>
+    <string msgid="2212047143066468004" name="keycombo_assign_dialog_message">"कीबोर्ड शॉर्टकट हा आहे"</string>
+    <string msgid="7481082388500840525" name="keycombo_assign_dialog_navigation_reminder">"शॉर्टकट साफ करण्यासाठी Backspace दाबा, जतन करण्यासाठी Enter दाबा किंवा रद्द करण्यासाठी Escape दाबा."</string>
+    <string msgid="2088979197242112118" name="keycombo_key_arrow_down">"खाली बाण"</string>
+    <string msgid="7617113973940474625" name="keycombo_key_arrow_left">"डावा बाण"</string>
+    <string msgid="3021807777617903460" name="keycombo_key_arrow_right">"उजवा बाण"</string>
+    <string msgid="3428552869533106939" name="keycombo_key_arrow_up">"वर बाण"</string>
+    <string msgid="5899747265287524712" name="keycombo_key_modifier_alt">"Alt"</string>
+    <string msgid="7834452577952298995" name="keycombo_key_modifier_ctrl">"Ctrl"</string>
+    <string msgid="4552213738130479993" name="keycombo_key_modifier_meta">"शोध"</string>
+    <string msgid="5635477035615538497" name="keycombo_key_modifier_shift">"Shift"</string>
+    <string msgid="1828508564583672416" name="keycombo_menu_alert_message_trigger_modifier">"TalkBack की नकाशा रीसेट करेल आणि सुधारणा की <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g> वर बदलेल"</string>
+    <string msgid="2294464165508562696" name="keycombo_menu_alert_title_trigger_modifier">"TalkBack की नकाशा रीसेट करेल"</string>
+    <string msgid="6826451509012716500" name="keycombo_menu_announce_active_keymap">"<ns1:g id="KEYMAP_NAME">%1$s</ns1:g> आता सक्रिय आहे."</string>
+    <string msgid="7217139940963945885" name="keycombo_menu_announce_new_trigger_modifier">"सुधारणा की <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g> वर बदलली गेली आहे."</string>
+    <string msgid="6125748767740120870" name="keycombo_menu_announce_reset_keymap">"की नकाशा रीसेट केला गेला आहे."</string>
+    <string msgid="7309875734492478067" name="keycombo_menu_category_global">"जागतिक क्रिया"</string>
+    <string msgid="1510641633727773395" name="keycombo_menu_category_granularity">"नेव्हिगेशन सेटिंग्ज"</string>
+    <string msgid="4152949225907039706" name="keycombo_menu_category_navigation">"नेव्हिगेशन क्रिया"</string>
+    <string msgid="440132295339458288" name="keycombo_menu_category_other">"इतर क्रिया"</string>
+    <string msgid="51409040763676563" name="keycombo_menu_category_select_keymap">"की नकाशा"</string>
+    <string msgid="197426246774034347" name="keycombo_menu_category_web">"वेब नेव्हिगेशन क्रिया"</string>
+    <string msgid="1134261938982195470" name="keycombo_menu_choose_trigger_modifier">"सुधारणा की निवडा"</string>
+    <string msgid="4567585750566224959" name="keycombo_menu_global_back">"परत"</string>
+    <string msgid="7189369064773623371" name="keycombo_menu_global_home">"निवास"</string>
+    <string msgid="7376426148339964566" name="keycombo_menu_global_notifications">"सूचना"</string>
+    <string msgid="927586811460340459" name="keycombo_menu_global_recent">"अलीकडील अ‍ॅप्स"</string>
+    <string msgid="6155357392695951243" name="keycombo_menu_global_suspend">"TalkBack ला विराम द्या/ पुन्हा सुरु करा"</string>
+    <string msgid="4124885036136489177" name="keycombo_menu_granularity_decrease">"मागील नेव्हिगेशन सेटिंग"</string>
+    <string msgid="4418197063118287013" name="keycombo_menu_granularity_increase">"पुढील नेव्हिगेशन सेटिंग"</string>
+    <string msgid="8107187053010960249" name="keycombo_menu_navigate_down">"खालील आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="3158152161988911032" name="keycombo_menu_navigate_first">"प्रथम आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="1263547978659004801" name="keycombo_menu_navigate_last">"अखेरच्या आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="759996660496701149" name="keycombo_menu_navigate_next">"पुढील आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="2366740353671146191" name="keycombo_menu_navigate_next_character">"पुढील वर्णावर नेव्हिगेट करा"</string>
+    <string msgid="25126714988891178" name="keycombo_menu_navigate_next_window">"पुढील विंडोवर नेव्हिगेट करा"</string>
+    <string msgid="1395811611039468067" name="keycombo_menu_navigate_next_word">"पुढील शब्दावर नेव्हिगेट करा"</string>
+    <string msgid="6854364806063486016" name="keycombo_menu_navigate_previous">"मागील आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="2721742949377224859" name="keycombo_menu_navigate_previous_character">"मागील वर्णावर नेव्हिगेट करा"</string>
+    <string msgid="4564537307456535973" name="keycombo_menu_navigate_previous_window">"मागील विंडोवर नेव्हिगेट करा"</string>
+    <string msgid="4068599657564535841" name="keycombo_menu_navigate_previous_word">"मागील शब्दावर नेव्हिगेट करा"</string>
+    <string msgid="8246000047771671403" name="keycombo_menu_navigate_up">"वरील आयटमवर नॅव्हिगेट करा"</string>
+    <string msgid="2225006890613375860" name="keycombo_menu_other_global_context_menu">"जागतिक संदर्भ मेनू दर्शवा"</string>
+    <string msgid="4021429520088110904" name="keycombo_menu_other_local_context_menu">"स्थानिक संदर्भ मेनू दर्शवा"</string>
+    <string msgid="1317406596143818756" name="keycombo_menu_other_open_manage_keyboard_shortcuts">"कीबोर्ड शॉर्टकट व्यवस्‍थापित करा"</string>
+    <string msgid="7172351544340904928" name="keycombo_menu_other_open_talkback_settings">"TalkBack सेटिंग्ज उघडा"</string>
+    <string msgid="1511843443312220392" name="keycombo_menu_other_read_from_next_item">"पुढील आयटमपासून वाचा"</string>
+    <string msgid="5903852171117275622" name="keycombo_menu_other_read_from_top">"शीर्षस्थानापासून वाचा"</string>
+    <string msgid="5587057667593041194" name="keycombo_menu_other_toggle_search">"एखाद्या आयटमसाठी स्क्रीन शोधा"</string>
+    <string msgid="243666968746657931" name="keycombo_menu_perform_click">"क्लिक करा"</string>
+    <string msgid="5580717252946630027" name="keycombo_menu_perform_long_click">"दीर्घ काळ क्लिक करा"</string>
+    <string msgid="2023072719324737919" name="keycombo_menu_reset_keymap">"की नकाशा रीसेट करा"</string>
+    <string msgid="373592569630998413" name="keycombo_menu_select_keymap">"की नकाशा निवडा"</string>
+    <string msgid="6234830691861291732" name="keycombo_menu_web_navigate_to_next_aria_landmark">"पुढील क्षेत्राच्या खूणेवर नेव्हिगेट करा"</string>
+    <string msgid="5786404186459162862" name="keycombo_menu_web_navigate_to_next_button">"पुढील बटणावर नेव्हिगेट करा"</string>
+    <string msgid="3722561185964557699" name="keycombo_menu_web_navigate_to_next_checkbox">"पुढील चेकबॉक्सवर नेव्हिगेट करा"</string>
+    <string msgid="8664957205621246821" name="keycombo_menu_web_navigate_to_next_combobox">"पुढील कॉम्बो बॉक्सवर नेव्हिगेट करा"</string>
+    <string msgid="5118493330693292266" name="keycombo_menu_web_navigate_to_next_control">"पुढील नियंत्रणावर नेव्हिगेट करा"</string>
+    <string msgid="212436471355413352" name="keycombo_menu_web_navigate_to_next_edit_field">"पुढील संपादन फील्डवर नेव्हिगेट करा"</string>
+    <string msgid="6577338510655384932" name="keycombo_menu_web_navigate_to_next_focusable_item">"पुढील फोकस करण्यायोग्य आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="3860950617153731037" name="keycombo_menu_web_navigate_to_next_graphic">"पुढील ग्राफिकवर नेव्हिगेट करा"</string>
+    <string msgid="6529174070300116949" name="keycombo_menu_web_navigate_to_next_heading">"पुढील शीर्षकावर नेव्हिगेट करा"</string>
+    <string msgid="3244117772760471353" name="keycombo_menu_web_navigate_to_next_heading_1">"पुढील शीर्षक 1 वर नेव्हिगेट करा"</string>
+    <string msgid="75822840123780036" name="keycombo_menu_web_navigate_to_next_heading_2">"पुढील शीर्षक 2 वर नेव्हिगेट करा"</string>
+    <string msgid="6068489868699550150" name="keycombo_menu_web_navigate_to_next_heading_3">"पुढील शीर्षक 3 वर नेव्हिगेट करा"</string>
+    <string msgid="3960229240959901354" name="keycombo_menu_web_navigate_to_next_heading_4">"पुढील शीर्षक 4 वर नेव्हिगेट करा"</string>
+    <string msgid="9101669601111190142" name="keycombo_menu_web_navigate_to_next_heading_5">"पुढील शीर्षक 5 वर नेव्हिगेट करा"</string>
+    <string msgid="6918176243153506542" name="keycombo_menu_web_navigate_to_next_heading_6">"पुढील शीर्षक 6 वर नेव्हिगेट करा"</string>
+    <string msgid="3567614429970148323" name="keycombo_menu_web_navigate_to_next_link">"पुढील दुव्यावर नेव्हिगेट करा"</string>
+    <string msgid="8731606795102810314" name="keycombo_menu_web_navigate_to_next_list">"पुढील सूचीवर नेव्हिगेट करा"</string>
+    <string msgid="5640113968924738728" name="keycombo_menu_web_navigate_to_next_list_item">"पुढील सूची आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="6540415308854724223" name="keycombo_menu_web_navigate_to_next_table">"पुढील सारणीवर नेव्हिगेट करा"</string>
+    <string msgid="1779439621789951193" name="keycombo_menu_web_navigate_to_previous_aria_landmark">"मागील क्षेत्राच्या खूणेवर नेव्हिगेट करा"</string>
+    <string msgid="7341520853947364002" name="keycombo_menu_web_navigate_to_previous_button">"मागील बटणावर नेव्हिगेट करा"</string>
+    <string msgid="6560080364424986498" name="keycombo_menu_web_navigate_to_previous_checkbox">"मागील चेकबॉक्सवर नेव्हिगेट करा"</string>
+    <string msgid="5252314449233286869" name="keycombo_menu_web_navigate_to_previous_combobox">"मागील कॉम्बो बॉक्सवर नेव्हिगेट करा"</string>
+    <string msgid="6218169838978520955" name="keycombo_menu_web_navigate_to_previous_control">"मागील नियंत्रणावर नेव्हिगेट करा"</string>
+    <string msgid="5495489017658262310" name="keycombo_menu_web_navigate_to_previous_edit_field">"मागील संपादन फील्डवर नेव्हिगेट करा"</string>
+    <string msgid="4960141150651374820" name="keycombo_menu_web_navigate_to_previous_focusable_item">"मागील फोकस करण्यायोग्य आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="4496215226346619518" name="keycombo_menu_web_navigate_to_previous_graphic">"मागील ग्राफिकवर नेव्हिगेट करा"</string>
+    <string msgid="3501846285908107279" name="keycombo_menu_web_navigate_to_previous_heading">"मागील शीर्षकावर नेव्हिगेट करा"</string>
+    <string msgid="3317845146689095006" name="keycombo_menu_web_navigate_to_previous_heading_1">"मागील शीर्षक 1 वर नेव्हिगेट करा"</string>
+    <string msgid="2130159635618042033" name="keycombo_menu_web_navigate_to_previous_heading_2">"मागील शीर्षक 2 वर नेव्हिगेट करा"</string>
+    <string msgid="3261881889523320310" name="keycombo_menu_web_navigate_to_previous_heading_3">"मागील शीर्षक 3 वर नेव्हिगेट करा"</string>
+    <string msgid="4665169714217637276" name="keycombo_menu_web_navigate_to_previous_heading_4">"मागील शीर्षक 4 वर नेव्हिगेट करा"</string>
+    <string msgid="1057554300668048210" name="keycombo_menu_web_navigate_to_previous_heading_5">"मागील शीर्षक 5 वर नेव्हिगेट करा"</string>
+    <string msgid="2400489461796001671" name="keycombo_menu_web_navigate_to_previous_heading_6">"मागील शीर्षक 6 वर नेव्हिगेट करा"</string>
+    <string msgid="1510672359574680127" name="keycombo_menu_web_navigate_to_previous_link">"मागील दुव्यावर नेव्हिगेट करा"</string>
+    <string msgid="8999329379609937777" name="keycombo_menu_web_navigate_to_previous_list">"मागील सूचीवर नेव्हिगेट करा"</string>
+    <string msgid="3557085444094910366" name="keycombo_menu_web_navigate_to_previous_list_item">"मागील सूची आयटमवर नेव्हिगेट करा"</string>
+    <string msgid="8234050317398672680" name="keycombo_menu_web_navigate_to_previous_table">"मागील सारणीवर नेव्हिगेट करा"</string>
+    <string msgid="5817151372114230015" name="keycombo_unassigned">"नियुक्त न केलेले"</string>
+    <string msgid="3288834802071890267" name="label_choose_app_to_export">"लेबले निर्यात करण्‍यासाठी अनुप्रयोग निवडा:"</string>
+    <string msgid="4342585248215824717" name="label_dialog_edit_hint">"लेबल मजकूर"</string>
+    <string msgid="5879506218245648848" name="label_dialog_text">"खालील फील्डमध्ये या प्रतिमेकरिता वापरण्यासाठी मजकूर प्रविष्ट करा."</string>
+    <string msgid="1255044087558866043" name="label_dialog_title_add">"लेबल जोडा"</string>
+    <string msgid="7914376979667771585" name="label_dialog_title_edit">"लेबल संपादित करा"</string>
+    <string msgid="1791163736307626930" name="label_dialog_title_remove">"लेबल काढा"</string>
+    <string msgid="7663052451851715440" name="label_export_empty">"निर्यात करण्यासाठी काहीही नाही. आपण कोणतीही लेबले जोडलेली नाहीत"</string>
+    <string msgid="4500274103149146929" name="label_export_failed">"लेबल निर्यात अयशस्वी"</string>
+    <string msgid="1773817433300194935" name="label_import">"सानुकूल लेबले आयात करा"</string>
+    <string msgid="7975227530187709469" name="label_import_dialog_message">"विवादित स्थितीत आपण विद्यमान लेबले अधिशून्य करू किंवा वगळू इच्छिता ते निवडा."</string>
+    <string msgid="4387408051194229513" name="label_import_dialog_override">"आच्छादित करा"</string>
+    <string msgid="2078597180132028657" name="label_import_dialog_skip">"वगळा"</string>
+    <string msgid="5305411653917870790" name="label_import_dialog_title">"सानुकूल लेबले TalkBack मध्ये आयात करा"</string>
+    <string msgid="1321882372299892757" name="label_import_failed">"लेबल आयात अयशस्वी"</string>
+    <string msgid="4478523067360108574" name="label_manager_no_packages_message">"सध्या कोणतीही सानुकूल लेबले नाहीत. आपण लेबल न केलेली प्रतिमा नेव्हिगेटकरून आणि नंतर स्थानिक संदर्भ मेनूवरून एक लेबल जोडून एखादे तयार करू शकता."</string>
+    <string msgid="6984665343963494151" name="label_manager_package_title">"<ns1:g id="APPLICATIONLABEL">%1$s</ns1:g> साठी लेबले व्यवस्थापित करा"</string>
+    <string msgid="6786694853113585661" name="label_manager_summary_title">"सानुकूल लेबले व्यवस्थापित करा"</string>
+    <string msgid="2632240906498521602" name="label_manager_timestamp_text">"अंतिम सुधारित <ns1:g id="TIMESTAMP">%1$s</ns1:g>"</string>
+    <string msgid="372916461303485723" name="label_remove_dialog_text">"आपल्याला खात्री आहे की आपण \"<ns1:g id="LABEL">%1$s</ns1:g>\" लेबल काढू इच्छिता?"</string>
+    <string msgid="8329270316487665017" name="label_remove_dialog_text_app_name">"आपल्‍याला खात्री आहे की आपण <ns1:g id="APP_NAME">%2$s</ns1:g> मध्‍ये \"<ns1:g id="LABEL">%1$s</ns1:g>\" लेबल काढू इच्‍छिता ?"</string>
+    <string msgid="6758073806811666684" name="label_talkback_context_menu">"TalkBack समग्र संदर्भ मेनू"</string>
+    <string msgid="3448225474115458693" name="links">"दुवे"</string>
+    <string msgid="6672321005470828526" name="local_context_menu_title">"स्थानिक संदर्भ मेनू"</string>
+    <string msgid="4795202818108740382" name="main_description">"TalkBack हे दृष्टीहीन आणि कमी दृष्टी असलेल्या लोकांसाठी स्क्रीन रीडर आहे. हे बोललेला अभिप्राय वापरून डिव्हाइससह परस्परसंवादाची अनुमती देते."</string>
+    <string msgid="13771282771329188" name="message_in_reset_keymap_confirm_dialog">"आपल्याला खात्री आहे की या की नकाशासाठी आपण आपल्या शॉर्टकट की त्यांच्या डीफॉल्ट मूल्यांवर रीसेट करू इच्छिता? कृपया लक्षात ठेवा की, ही क्रिया पूर्ववत होऊ शकत नाही."</string>
+    <string msgid="6721228114050709276" name="message_resume_keyguard">"आपण सूचना शेडमधून किंवा लॉक स्क्रीनवर परत जाऊन TalkBack पुन्हा सुरु करू शकता."</string>
+    <string msgid="6522293510722570646" name="message_resume_manual">"आपण सूचना शेडमधून TalkBack पुन्हा सुरु करू शकता."</string>
+    <string msgid="9016720947126938212" name="message_resume_screen_on">"आपण सूचना शेडमधून किंवा स्क्रीन चालू करून TalkBack पुन्हा सुरु करू शकता."</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"कास्‍ट करा"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"डिव्‍हाइसेस शोधत आहे…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"डिव्हाइसला कनेक्ट करा"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"‍डिस्कनेक्ट करा"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"कोणतीही माहिती उपलब्ध नाही"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"विराम द्या"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"प्ले करा"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"मार्ग सेटिंग्ज"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"कास्ट करणे थांबवा"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"सिस्टम"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"डिव्हाइसेस"</string>
+    <string msgid="6379785627490220649" name="name_of_enter_key">"प्रविष्ट करा"</string>
+    <string msgid="5083960909593906754" name="name_of_space_bar">"स्थान"</string>
+    <string msgid="6744983965001375397" name="name_of_tab_key">"टॅब"</string>
+    <string msgid="4602958479941673535" name="navigation_bar">"नॅव्हिगेशन बार"</string>
+    <string msgid="2792530694141012295" name="no_key_assigned">"कोणतीही की नियुक्त केली नाही"</string>
+    <string msgid="7419188718124788690" name="notification_message_talkback_gestures_changed">"प्रवेशयोग्यता जेश्चरमधील बदलांचे पुनरावलोकन करण्यासाठी टॅप करा"</string>
+    <string msgid="1542127125162503034" name="notification_message_talkback_suspended">"पुन्हा सुरु करण्यासाठी टॅप करा."</string>
+    <string msgid="7913123792593843784" name="notification_status_sync">"संकालित करा"</string>
+    <string msgid="8680063755043078528" name="notification_title_talkback_gestures_changed">"TalkBack जेश्चर बदलली"</string>
+    <string msgid="4350835042954222637" name="notification_title_talkback_suspended">"TalkBack निलंबित केले"</string>
+    <string msgid="6810236215373132892" name="notification_tutorial_navigate_to_lession_1">"स्वयंचलितपणे 1 धड्यावर जाते."</string>
+    <string msgid="8377204645672459594" name="notification_type_beginning_of_field">"फील्डची सुरुवात"</string>
+    <string msgid="7980557705539894781" name="notification_type_end_of_field">"फील्डची समाप्ती"</string>
+    <string msgid="6585664098525214473" name="notification_type_missed_call">"सुटलेला कॉल"</string>
+    <string msgid="3540829343521564569" name="notification_type_selection_cleared">"निवड साफ केली"</string>
+    <string msgid="5851903648134458514" name="notification_type_selection_mode_off">"निवड मोड बंद"</string>
+    <string msgid="9089325915356056509" name="notification_type_selection_mode_on">"निवड मोड चालू"</string>
+    <string msgid="3593906461181368010" name="notification_type_status_chat">"चॅट करा"</string>
+    <string msgid="8762616334364573004" name="notification_type_status_error">"त्रुटी"</string>
+    <string msgid="4889548393564513820" name="notification_type_status_more">"अधिक"</string>
+    <string msgid="2024742614005804613" name="notification_type_status_mute">"नि:शब्द करा"</string>
+    <string msgid="6675459139116184337" name="notification_type_status_sdcard">"SD कार्ड"</string>
+    <string msgid="6882955062811560802" name="notification_type_status_sdcard_usb">"SD कार्ड USB"</string>
+    <string msgid="1071939833188591219" name="notification_type_status_started">"प्रारंभ झाला"</string>
+    <string msgid="6004666820256747725" name="notification_type_status_stopped">"थांबले"</string>
+    <string msgid="3708903607797168409" name="notification_type_status_sync_noanim">"संकालित करा"</string>
+    <string msgid="1611063561670902017" name="notification_type_status_voicemail">"व्हॉइसमेल"</string>
+    <string msgid="2034348456907055979" name="option_scan_switch_format">"पर्याय स्कॅन स्विच %1$d"</string>
+    <string msgid="4460266289722058928" name="option_scanning_menu_button">"मेनू"</string>
+    <string msgid="2204457920803882766" name="orientation_landscape">"भूदृश्य"</string>
+    <string msgid="7714435567541027105" name="orientation_portrait">"पोर्ट्रेट"</string>
+    <string msgid="9043246837899844909" name="override_keycombo">"की आधीपासून वापरात आहे"</string>
+    <string msgid="3764483710022091999" name="override_keycombo_message_two_params">"हा की संयोग \'<ns1:g id="ID_1">%1$s</ns1:g>\' साठी वापरला जातो. आपण तो साफ करू आणि हा शॉर्टकट \'<ns1:g id="ID_2">%2$s</ns1:g>\' ला नियुक्त करू इच्छिता?"</string>
+    <string msgid="8065967887484901473" name="permission_labeling_desc">"TalkBack द्वारे बोललेल्या सानुकूल लेबलवर प्रवेश करण्यासाठी, सुधारित करण्यासाठी आणि ती हटविण्यासाठी परवानगी."</string>
+    <string msgid="2956001661481169498" name="permission_labeling_label">"TalkBack सानुकूल लेबले व्यवस्थापित करा"</string>
+    <string msgid="8320433482567759963" name="permission_talkback_desc">"TalkBack वर जेश्चर पाठविण्यासाठी आणि बोललेला अभिप्राय पुन्हा सुरु करण्यासाठी परवानगी."</string>
+    <string msgid="2235244838320678938" name="permission_talkback_label">"TalkBack नियंत्रित करा"</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"शोध साफ करा"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"शोध"</string>
+    <string msgid="3690685827602313767" name="play_store_changes">"TalkBack च्या या अद्यतनाने अनेक सुधारणांना संकलित केले आहे.\n\nजेव्हा अक्षरे किबोर्डवर दीर्घकाळ दाबून ठेवले जातात किंवा वर्णानुसार मजकुराद्वारे नेव्हिगेट केले जातात तेव्हा त्यांचे ध्वन्यात्मक लिप्यंतरण बोलणे. हा पर्याय डीफॉल्टनुसार सक्षम केलेला आहे, परंतु  TalkBack सेटिंग्जद्वारे अक्षम केला जाऊ शकतो.\n\nTalkBack रेषीय नेव्हिगेशन दरम्यान उपलब्ध क्रियांसाठी 1 सेकंदाच्या विलंबाने सूचना देतो.\n\nनेव्हिगेशन पद्धत (वर्णानुसार/शब्दानुसार/ओळीनुसार इत्यादि) फोकस इतर नोडवर हलविल्यानंतर देखील तशीच राहते. पूर्वी प्रत्येक फोकस हलविल्यानंतर ती साफ केली जात होती.\n\nनवीन वापरकर्त्यांसाठी डीफॉल्ट सेटिंग्ज बदलली:\n ध्वनी वाढवा आणि कमी करा बटणे दाबून TalkBack पुन: सुरू/निलंबित करा सक्षम केलेले आहे.\n -संदर्भ मेनू सूची म्हणून दर्शवा\n -ध्वनी (इअरकॉन) आवाज मीडिया आवाजाच्या तुलनेत 100 पासून 50 टक्क्यांपर्यंत कमी केले आहे\n\nनवीन संवाद स्क्रीनवर दर्शविल्यानंतर केवळ संवाद शीर्षकाचे उच्चारण केले जाते. पूर्वी, पूर्ण संवादाचे वाचन केले जात असे.\n\nकेवळ सॉफ्टवेअर किबोर्ड दर्शविल्या वर इनपुट फील्ड सध्या संपादन म्हणून घोषित केले गेले आहे.\n\nTalkBack चालू केले निलंबित केले पुन: सुरू केले स्थिती घोषित केली आहे\n\nआम्ही बरीच दोष निराकरणे देखील केली आहेत"</string>
+    <string msgid="8323015765774812284" name="reset_button_in_reset_keymap_confirm_dialog">"रीसेट करा"</string>
+    <string msgid="5508730389432571776" name="revert_imported_labels">"आयात केलेली लेबले परत करा"</string>
+    <string msgid="7106495985061954643" name="row_heading_template">"पंक्ती शीर्षक"</string>
+    <string msgid="4107789959609911947" name="row_index_template">"पंक्ती <ns1:g id="ROW">%1$d</ns1:g>"</string>
+    <string msgid="5398278773451196019" name="save">"जतन करा"</string>
+    <string msgid="378010604065368658" name="screen_brightness_restored">"स्क्रीन चकाकी पुनर्संचयित केली"</string>
+    <string msgid="8072279323762069231" name="screen_dimmed">"स्क्रीन मंद केली"</string>
+    <string msgid="176693707001658416" name="screen_dimming_exit_instruction_line1">"TalkBack प्रवेशयोग्यता सेवेने स्क्रीन मंद केली आहे."</string>
+    <string msgid="2111548310775079127" name="screen_dimming_exit_instruction_line2">"आवाज वाढवा आणि आवाज कमी की एकत्र तीन वेळा द्रुतपणे दाबून पूर्ववत करा."</string>
+    <string msgid="7006494712728198438" name="screen_dimming_exit_instruction_line3">"TalkBack सेटिंग्ज मधून स्क्रीन मंद नियंत्रित केले जाऊ शकते."</string>
+    <string msgid="5109861709058665917" name="scrollable_backward">"मागे स्क्रोल करा"</string>
+    <string msgid="6312908487874132401" name="scrollable_forward">"पुढे स्क्रोल करा"</string>
+    <string msgid="7273037326593054813" name="search_dialog_label">"शोधा: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>"</string>
+    <string msgid="4938867934958343710" name="search_mode_cancel">"शोध रद्द केला."</string>
+    <string msgid="7166574479757238944" name="search_mode_finish">"शोध संपला."</string>
+    <string msgid="3919282680896571220" name="search_mode_hint_no_query">"कोणतीही क्वेरी प्रविष्ट केली गेलेली नाही."</string>
+    <string msgid="882227441829755961" name="search_mode_hint_no_selection">"कोणताही निवडलेला आयटम नाही."</string>
+    <string msgid="5896493032072187997" name="search_mode_hint_query">"वर्तमान क्वेरी: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>."</string>
+    <string msgid="8541673936818652399" name="search_mode_hint_selection">"वर्तमान निवड: <ns1:g id="SELECTED_NODE">%1$s</ns1:g>."</string>
+    <string msgid="4597528088567439979" name="search_mode_hint_start">"शोध मोड."</string>
+    <string msgid="910823044260738937" name="search_mode_open">"शोध मोड उघडला."</string>
+    <string msgid="2558372839282319745" name="shortcut_back">"परत बटण"</string>
+    <string msgid="9018001118250050381" name="shortcut_copy_last_utterance_to_clipboard">"क्लिपबोर्डवर अंतिम उच्चारण कॉपी करा"</string>
+    <string msgid="8041762180167320322" name="shortcut_disable_dimming">"स्क्रीन मंद करणे रद्द करा"</string>
+    <string msgid="751310793206738883" name="shortcut_enable_dimming">"मंद स्क्रीन"</string>
+    <string msgid="4549343120881649603" name="shortcut_first_in_screen">"स्क्रीनवरील प्रथम आयटमवर फोकस करा"</string>
+    <string msgid="5711865496104188848" name="shortcut_hear_lesson">"मेनूचे वर्णन करा"</string>
+    <string msgid="6670249804418900175" name="shortcut_home">"मुख्यपृष्ठ बटण"</string>
+    <string msgid="1584183195221110323" name="shortcut_last_in_screen">"स्क्रीनवरील अखेरच्या आयटमवर फोकस करा"</string>
+    <string msgid="8164203174881196072" name="shortcut_local_breakout">"स्थानिक संदर्भ मेनू उघडा"</string>
+    <string msgid="6887743145853506373" name="shortcut_next">"पुढील आयटम"</string>
+    <string msgid="5058063575500265017" name="shortcut_next_granularity">"पुढील नेव्हिगेशन सेटिंग"</string>
+    <string msgid="5291839248233515759" name="shortcut_notifications">"सूचना उघडा"</string>
+    <string msgid="3649651004283936027" name="shortcut_overview">"विहंगावलोकन बटण"</string>
+    <string msgid="1412613174540942399" name="shortcut_pause_feedback">"अभिप्रायास विराम द्या"</string>
+    <string msgid="3679790113454394245" name="shortcut_previous">"मागील आयटम"</string>
+    <string msgid="5483850878839529117" name="shortcut_previous_granularity">"मागील नेव्हिगेशन सेटिंग"</string>
+    <string msgid="7570974794642091616" name="shortcut_print_node_tree">"नोड ट्री मुद्रीत करा"</string>
+    <string msgid="5769337869539736463" name="shortcut_read_from_current">"पुढील आयटमपासून वाचा"</string>
+    <string msgid="6031418895933550221" name="shortcut_read_from_top">"शीर्षस्थानापासून वाचा"</string>
+    <string msgid="9059705754075010951" name="shortcut_repeat_last_utterance">"अंतिम उच्चारणाची पुनरावृत्ती करा"</string>
+    <string msgid="1025337926618449476" name="shortcut_scroll_back">"मागे स्क्रोल करा"</string>
+    <string msgid="7299589176359902775" name="shortcut_scroll_forward">"पुढे स्क्रोल करा"</string>
+    <string msgid="1996746992705940253" name="shortcut_show_custom_actions">"सानुकूल क्रिया दर्शवा"</string>
+    <string msgid="642984322649148879" name="shortcut_spell_last_utterance">"अंतिम उच्चारणाचे शब्दलेखन करा"</string>
+    <string msgid="2673085935736432213" name="shortcut_talkback_breakout">"समग्र संदर्भ मेनू उघडा"</string>
+    <string msgid="1803159459924262469" name="shortcut_unassigned">"नियुक्त न केलेले"</string>
+    <string msgid="3193206799395252518" name="show_suspend_warning_label">"ही चेतावणी नेहमी दर्शवा"</string>
+    <string msgid="9028725565467565133" name="start_of_web">"<ns1:g id="ID_1">%1$s</ns1:g> मागील कोणताही नाही"</string>
+    <string msgid="6000275621941971563" name="status_bar">"स्टेटस बार"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1601902797531350013" name="summaryOff_pref_a11y_hints">"प्रवेशयोग्यता फोकस हलवित असताना वापर सूचना बोलल्या जाणार नाहीत."</string>
+    <string msgid="5187278527518557715" name="summaryOff_pref_intonation">"बोलताना व्हॉइस पिच बदलू नका"</string>
+    <string msgid="2801720386630515717" name="summaryOff_pref_phonetic_letters">"ध्वन्यात्मक अक्षरे बोलली जाणार नाहीत."</string>
+    <string msgid="2976964867820234940" name="summaryOff_pref_proximity">"समीपता सेन्सर उच्चारण नियंत्रित करत नाही"</string>
+    <string msgid="1820564330334595916" name="summaryOff_pref_speak_screenoff">"स्क्रीन बंद असते तेव्हा उच्चारण होत नाही"</string>
+    <string msgid="7312945354572119026" name="summaryOn_pref_a11y_hints">"थोड्या विलंबानंतर, नेव्हिगेशन दरम्यान वापर सूचना बोलल्या जातील."</string>
+    <string msgid="2753815930477168225" name="summaryOn_pref_intonation">"निम्न-पिच असलेल्या व्हॉइसमध्ये कीबोर्ड अभिप्राय बोला"</string>
+    <string msgid="6864480534029061476" name="summaryOn_pref_phonetic_letters">"कीबोर्डवर दीर्घकाळ दाबून ठेवल्यावर आणि वर्णानुसार प्रवेशयोग्यता फोकस हलविल्यावर ध्वन्यात्मक अक्षरे बोलली जातील."</string>
+    <string msgid="8552562564045883839" name="summaryOn_pref_proximity">"समीपता सेन्सर उच्चारण मूक करते"</string>
+    <string msgid="3200696691374942097" name="summaryOn_pref_speak_screenoff">"स्क्रीन बंद असते तेव्हा सूचना बोलल्या जातात"</string>
+    <string msgid="3575108337945375864" name="summary_pref_play_store">"वर्तमान TalkBack आवृत्ती: <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1868206223500105704" name="summary_pref_single_tap">"(प्रायोगिक) सक्रिय करण्यासाठी सध्या फोकस केलेल्या आयटमवर टॅप करा"</string>
+    <string msgid="4049484318410744029" name="summary_pref_use_audio_focus">"बोलताना अन्य ऑडिओ व्हॉल्‍यूम कमी करा"</string>
+    <string msgid="3996491708050765411" name="summary_pref_web_scripts">"वेब सामग्रीसाठी प्रवेशयोग्यता स्क्रिप्ट डाउनलोड करा"</string>
+    <string msgid="8907204357556153170" name="switch_access_auto_start_scan_summary">"स्विच न दाबता स्कॅन करण्यास प्रारंभ होतो"</string>
+    <string msgid="1112172023292555792" name="switch_access_auto_start_scan_title">"स्वयंचलितपणे स्कॅन करणे प्रारंभ करा"</string>
+    <string msgid="2470480705014577440" name="switch_access_dup_bounds_format">"%1$s (%2$d)"</string>
+    <string msgid="777214990214649732" name="switch_access_global_menu_disable_autoselect">"स्वयं-निवडा अक्षम करा"</string>
+    <string msgid="1781611399874689922" name="switch_access_global_menu_enable_autoselect">"स्वयं-निवडा सक्षम करा"</string>
+    <string msgid="1084530527433232522" name="switch_access_move_next_character">"पुढील वर्ण"</string>
+    <string msgid="1957454942120077989" name="switch_access_move_next_line">"पुढील ओळ"</string>
+    <string msgid="5509521398337232740" name="switch_access_move_next_page">"पुढील पृष्ठ"</string>
+    <string msgid="2401188575204362710" name="switch_access_move_next_paragraph">"पुढील परिच्छेद"</string>
+    <string msgid="4364935355445273844" name="switch_access_move_next_word">"पुढील शब्द"</string>
+    <string msgid="8927445469710181053" name="switch_access_move_prev_character">"मागील वर्ण"</string>
+    <string msgid="4933911200239574311" name="switch_access_move_prev_line">"मागील ओळ"</string>
+    <string msgid="2162166283498843093" name="switch_access_move_prev_page">"मागील पृष्ठ"</string>
+    <string msgid="6628794063582527750" name="switch_access_move_prev_paragraph">"मागील परिच्छेद"</string>
+    <string msgid="8425765588178702402" name="switch_access_move_prev_word">"मागील शब्द"</string>
+    <string msgid="8339289604407443597" name="switch_access_preferences_title">"प्रवेश स्विच प्राधान्ये"</string>
+    <string msgid="1958519878116811543" name="switch_access_service_description">"स्विच प्रवेश आपल्याला एक किंवा अधिक स्विचचा वापर करून स्कॅन करू देतो आणि आयटम निवडू देतो"</string>
+    <string msgid="6043415138576713888" name="switch_service_name">"प्रवेश स्विच करा"</string>
+    <string msgid="7456083235616834438" name="symbol_almost_equals">"जवळजवळ बरोबर"</string>
+    <string msgid="2896965192299496498" name="symbol_ampersand">"जोडाक्षर"</string>
+    <string msgid="7380903071611293121" name="symbol_angle_bracket_left">"डाव्या कोनाचा कंस"</string>
+    <string msgid="1868235467151646558" name="symbol_angle_bracket_right">"उजव्या कोनाचा कंस"</string>
+    <string msgid="7208629120802819915" name="symbol_apostrophe">"अॅपॉस्ट्रॉफी"</string>
+    <string msgid="3850753675865899520" name="symbol_approximately_equals">"अंदाजे समान"</string>
+    <string msgid="6817126584493630223" name="symbol_asterisk">"ताराचिन्ह"</string>
+    <string msgid="2065827119717043200" name="symbol_at_sign">"At"</string>
+    <string msgid="1611754081972480510" name="symbol_backslash">"बॅकस्लॅश"</string>
+    <string msgid="5289487097432366247" name="symbol_beamed_sixteenth_note">"सोळाव्‍या टिपा बीम केल्या"</string>
+    <string msgid="4016846628518042983" name="symbol_black_circle">"काळे मंडळ"</string>
+    <string msgid="2472170057113549474" name="symbol_black_heart">"काळे हृदय"</string>
+    <string msgid="3400946876721230212" name="symbol_black_square">"काळा चौरस"</string>
+    <string msgid="6183317822489362024" name="symbol_black_star">"काळा तारा"</string>
+    <string msgid="6813132652561276644" name="symbol_broken_bar">"ब्रोकन बार"</string>
+    <string msgid="8476099303225493047" name="symbol_bullet">"बिंदू"</string>
+    <string msgid="7971468907049474418" name="symbol_bullseye">"बुल्‍सआय"</string>
+    <string msgid="3928223571254608359" name="symbol_caret">"कॅरेट"</string>
+    <string msgid="1072933014815535633" name="symbol_celsius_degree">"सेल्‍सिअस अंश"</string>
+    <string msgid="2397683564958310433" name="symbol_cent">"सेंट"</string>
+    <string msgid="3982983201762226254" name="symbol_circle_left_half_black">"डावे अर्धे काळे सह मंडळ"</string>
+    <string msgid="2702128700103408427" name="symbol_circle_right_half_black">"उजवे अर्धे काळे सह मंडळ"</string>
+    <string msgid="4099865219187606667" name="symbol_colon">"अपूर्ण विराम"</string>
+    <string msgid="5645826628625828518" name="symbol_comma">"स्वल्पविराम"</string>
+    <string msgid="4560734240781916706" name="symbol_copyright">"कॉपीराइट"</string>
+    <string msgid="2875419571455950965" name="symbol_curly_bracket_left">"डावा महिरपी कंस"</string>
+    <string msgid="7223443061586552971" name="symbol_curly_bracket_right">"उजवा महिरपी कंस"</string>
+    <string msgid="3851601116109370799" name="symbol_currency_sign">"चलन चिन्ह"</string>
+    <string msgid="2370756516179429371" name="symbol_degree">"अंश"</string>
+    <string msgid="8469030548234745900" name="symbol_division">"भागिले चिन्ह"</string>
+    <string msgid="7172720889757863645" name="symbol_dollar_sign">"डॉलर चिन्ह"</string>
+    <string msgid="1093826934627615258" name="symbol_downwards_arrow">"खालील बाण"</string>
+    <string msgid="7550656761730728669" name="symbol_eighth_note">"आठवी टीप"</string>
+    <string msgid="6107023479924320264" name="symbol_ellipsis">"पदलोप"</string>
+    <string msgid="9095293634011901230" name="symbol_em_dash">"Em डॅश"</string>
+    <string msgid="7221481427651082891" name="symbol_en_dash">"En डॅश"</string>
+    <string msgid="5554709359828733331" name="symbol_equal">"समान चिन्ह"</string>
+    <string msgid="7368999812147737584" name="symbol_euro">"युरो"</string>
+    <string msgid="988583649131855220" name="symbol_exclamation_mark">"उद्गार चिन्ह"</string>
+    <string msgid="7868161106382873456" name="symbol_fahrenheit_degree">"फॅरेनहाइट अंश"</string>
+    <string msgid="2832652212740214355" name="symbol_female">"महिला चिन्ह"</string>
+    <string msgid="2871187029685072964" name="symbol_grave_accent">"अनुदात्त स्वर"</string>
+    <string msgid="6395913704731547145" name="symbol_hyphen_minus">"डॅश"</string>
+    <string msgid="6535139335710090448" name="symbol_integral">"संकलनात्मक"</string>
+    <string msgid="4461462147632976820" name="symbol_left_black_lenticular_bracket">"डावा काळा भिंगासारखा कंस"</string>
+    <string msgid="2662006752461479838" name="symbol_left_corner_bracket">"डावा कोपरा कंस"</string>
+    <string msgid="2516207072081863313" name="symbol_leftwards_arrow">"डावीकडचा बाण"</string>
+    <string msgid="4485675468642882911" name="symbol_liter">"लीटर"</string>
+    <string msgid="1311537029059161496" name="symbol_low_double_quote">"खालील दुहेरी अवतरण"</string>
+    <string msgid="614668218440322904" name="symbol_male">"पुरूष चिन्ह"</string>
+    <string msgid="3513065482309329740" name="symbol_micro_sign">"सूक्ष्म चिन्ह"</string>
+    <string msgid="4500464364344640871" name="symbol_multiplication">"गुणिले चिन्ह"</string>
+    <string msgid="6848635267438885623" name="symbol_new_line">"नवीन रेखा"</string>
+    <string msgid="5319485097346278422" name="symbol_not_equals">"समान नाही"</string>
+    <string msgid="6673590940229304440" name="symbol_not_sign">"चिन्ह नाही"</string>
+    <string msgid="5514376704992468938" name="symbol_paragraph_mark">"परिच्छेद खूण"</string>
+    <string msgid="6800146954886245634" name="symbol_parenthesis_left">"डावा कंस"</string>
+    <string msgid="7215651695123277015" name="symbol_parenthesis_right">"उजवा कंस"</string>
+    <string msgid="5459242644598387133" name="symbol_percent">"टक्के"</string>
+    <string msgid="5437120137086222612" name="symbol_period">"पूर्णविरामचिन्ह"</string>
+    <string msgid="9110332441949361829" name="symbol_pi">"पाय"</string>
+    <string msgid="9058945923657357434" name="symbol_plus_minus_sign">"अधिक वजा चिन्ह"</string>
+    <string msgid="93826676999305096" name="symbol_pound">"पाउंड"</string>
+    <string msgid="728725055605726481" name="symbol_pound_sterling">"पाउंड स्टर्लिंग"</string>
+    <string msgid="5036555895753560541" name="symbol_quarter_note">"एक चतुर्थांश"</string>
+    <string msgid="8540567415937384964" name="symbol_question_mark">"प्रश्नचिन्ह"</string>
+    <string msgid="1191348665202247948" name="symbol_quotation_mark">"अवतरण"</string>
+    <string msgid="905951483425189419" name="symbol_reference">"संदर्भ चिन्ह"</string>
+    <string msgid="3258562921626703647" name="symbol_registered_trademark">"नोंदणीकृत ट्रेडमार्क"</string>
+    <string msgid="3919101748915826659" name="symbol_right_black_lenticular_bracket">"उजवा काळा भिंगासारखा कंस"</string>
+    <string msgid="4305940879297701054" name="symbol_right_corner_bracket">"उजवा कोपरा कंस"</string>
+    <string msgid="3621071010761086207" name="symbol_rightwards_arrow">"उजवीकडील बाण"</string>
+    <string msgid="5442584145297714761" name="symbol_rupee">"रुपया"</string>
+    <string msgid="1425993244831126813" name="symbol_section_sign">"अनुभाग चिन्ह"</string>
+    <string msgid="5125185295573713214" name="symbol_semicolon">"अर्धविराम"</string>
+    <string msgid="7183595255121136380" name="symbol_slash">"स्लॅश"</string>
+    <string msgid="5566592322045991166" name="symbol_smiley">"हसरा चेहरा"</string>
+    <string msgid="803832672390677661" name="symbol_solar">"सोलर चिन्ह"</string>
+    <string msgid="5752206151798562920" name="symbol_space">"Space"</string>
+    <string msgid="8272586261793885172" name="symbol_square_bracket_left">"डावा चौकोनी कंस"</string>
+    <string msgid="5927399844117072754" name="symbol_square_bracket_right">"उजवा चौकोनी कंस"</string>
+    <string msgid="683692620277245490" name="symbol_square_root">"वर्गमूळ"</string>
+    <string msgid="8207841648391314530" name="symbol_tilde">"नासिक्यत्व चिन्ह"</string>
+    <string msgid="3263529639090333558" name="symbol_trademark">"ट्रेडमार्क"</string>
+    <string msgid="7192169250700774805" name="symbol_underscore">"अंडरस्कोअर"</string>
+    <string msgid="6338361764081105639" name="symbol_upwards_arrow">"वरदर्शी बाण"</string>
+    <string msgid="1121156640601168272" name="symbol_vertical_bar">"अनुलंब बाण"</string>
+    <string msgid="246091813103192112" name="symbol_white_circle">"पांढरे मंडळ"</string>
+    <string msgid="9023266146462694521" name="symbol_white_club_suit">"सफेद किलवर पत्ते"</string>
+    <string msgid="148190588729388201" name="symbol_white_diamond">"पांढरा हीरा"</string>
+    <string msgid="2759895601608939558" name="symbol_white_down_pointing_triangle">"पांढरा खाली निर्देशित करणारा त्रिकोण"</string>
+    <string msgid="3902539821929296760" name="symbol_white_heart">"पांढरे बदाम"</string>
+    <string msgid="5774703989927211853" name="symbol_white_left_pointing_index">"पांढरे डावे निर्देशित करणारी तर्जनी"</string>
+    <string msgid="4714391974332267014" name="symbol_white_left_pointing_triangle">"पांढरे डावे निर्देशित करणारा त्रिकोण"</string>
+    <string msgid="6971705818446128861" name="symbol_white_right_pointing_index">"पांढरे उजवे निर्देशित करणारी तर्जनी"</string>
+    <string msgid="1147044895009619696" name="symbol_white_right_pointing_triangle">"पांढरे उजवे निर्देशित करणारा त्रिकोण"</string>
+    <string msgid="364770901730057047" name="symbol_white_spade_suit">"पांढरे इस्‍पिक पत्ते"</string>
+    <string msgid="6607687155279147668" name="symbol_white_square">"पांढरा चौरस"</string>
+    <string msgid="6150436720760853960" name="symbol_white_star">"पांढरा तारा"</string>
+    <string msgid="1445685217848949209" name="symbol_white_up_pointing_triangle">"पांढरा वर निर्देशित करणारा त्रिकोण"</string>
+    <string msgid="6959844046981982031" name="symbol_won">"विजयी चिन्ह"</string>
+    <string msgid="5956873078564706159" name="symbol_yen">"येन"</string>
+    <string msgid="6065419331469295927" name="talkback_built_in_gesture_change_details">"TalkBack ची ही आवृत्ती डीफॉल्ट प्रवेशयोग्यता जेश्चरवरील बदल समाविष्ट करते.\n\nवर-नंतर-खाली होणारे जेश्चर आपल्याला स्क्रीनवरील प्रथम आयटमवर जाण्यास अनुमती देईल आणि खाली-नंतर-वर होणारे जेश्चर शेवटच्या आयटमवर जाईल.\n\nवाचन ग्रॅन्युलॅरिटी आता आयटम फोकस करून, नंतर स्थानिक संदर्भ मेनूमधून ग्रॅन्युलॅरिटी निवडून बदलली जाऊ शकते.\n\nआपण TalkBack सेटिंग्जमध्ये या जेश्चरने केलेल्या क्रिया बदलू शकता."</string>
+    <string msgid="7727588774719330051" name="talkback_built_in_gesture_change_details_45">"TalkBack ची ही आवृत्ती डीफॉल्ट प्रवेशयोग्यता जेश्चर मधील बदल समाविष्ट करते.\n\nवर जेश्चर आता मागील नेव्हिगेशन सेटिंगवर जाते आणि खाली जेश्चर आता पुढील नेव्हिगेशन सेटिंगवर जाते."</string>
+    <string msgid="2536155587482587238" name="talkback_disabled">"Talkback बंद केले गेले आहे."</string>
+    <string msgid="1242896734553682887" name="talkback_gesture_change_details">"TalkBack ची ही आवृत्ती डीफॉल्ट प्रवेशयोग्यता जेश्चरवरील बदल समाविष्ट करते. या जेश्चरशी संबंधित क्रिया TalkBack सेटिंग्जमध्ये सानुकूलित केल्या जाऊ शकतात. जेव्हा स्पर्श करून एक्सप्लोर करा सक्षम केले जाते, तेव्हा आपण विशिष्ट क्रिया करण्यासाठी खालील जेश्चर वापरू शकता.\n\n<ns1:g id="MAPPINGS">%1$s</ns1:g>"</string>
+    <string msgid="315529674405160699" name="talkback_on">"TalkBack चालू"</string>
+    <string msgid="1318051290124952165" name="talkback_preferences_subtitle">"आवृत्ती <ns1:g id="VERSION_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4249486159144445549" name="talkback_preferences_title">"TalkBack सेटिंग्ज"</string>
+    <string msgid="3229591037647690759" name="talkback_resumed">"TalkBack पुनः सुरु केले"</string>
+    <string msgid="5081383053733275450" name="talkback_service_description">"TalkBack चालू असते तेव्हा, आपले डिव्हाइस दृष्टीहीन आणि कमी-दृष्टी असलेल्या वापरकर्त्यांना मदत करण्यासाठी बोललेला अभिप्राय प्रदान करते. उदाहरणार्थ, आपण जे स्पर्श करता, निवडता आणि सक्रिय करता त्याचे वर्णन करते.\n\nआपण TalkBack चुकीने चालू केले असल्यास, स्विचच्या आसपास हिरवी बाह्यरेखा दिसेपर्यंत ते टॅप करून बंद करा नंतर, ते दोनदा टॅप करा. त्यानंतर दिसणाऱ्या पुष्टीकरण संवादासाठी तोच परस्परसंवाद करा."</string>
+    <string msgid="183421830476125877" name="talkback_suspended">"TalkBack निलंबित केले"</string>
+    <string msgid="7563462166661082029" name="tap_sensitivity_high">"उच्च"</string>
+    <string msgid="6514475998218787336" name="tap_sensitivity_low">"निम्न"</string>
+    <string msgid="1137618443590383650" name="tap_sensitivity_lowest">"सर्वात कमी"</string>
+    <string msgid="5512827926666078515" name="tap_sensitivity_medium">"मध्यम"</string>
+    <string msgid="5493715708649314332" name="template_alert_dialog_template">"सूचना <ns1:g id="MESSAGE">%1$s</ns1:g>"</string>
+    <string msgid="8500638272120951960" name="template_announce_selected_text">"निवडलेला मजकूर: <ns1:g id="SELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="4920626008395727629" name="template_capital_letter">"कॅपिटल <ns1:g id="UPPERCASE_CHARACTER">%1$s</ns1:g>"</string>
+    <string msgid="2038200557537960378" name="template_charging">"चार्ज होत आहे <ns1:g id="CHANGING_STATUS">%1$s</ns1:g> बॅटरी पातळी <ns1:g id="BATTERY_LEVEL">%2$s</ns1:g> टक्के."</string>
+    <string msgid="2167296836815021551" name="template_collection_end">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g> च्या बाहेर"</string>
+    <string msgid="8386016656549198972" name="template_collection_level">"<ns1:g id="LEVEL">%1$s</ns1:g> दर्जा"</string>
+    <string msgid="4362535543397747567" name="template_collection_start">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g> मध्ये"</string>
+    <string msgid="3963364867159704159" name="template_current_tts_engine">"<ns1:g id="ENGINE_NAME">%1$s</ns1:g> वापरत आहे"</string>
+    <string msgid="6271864053572367186" name="template_custom_hint_for_actions">"<ns1:g id="HINT">%2$s</ns1:g> साठी <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="3049485226126876806" name="template_custom_hint_for_actions_keyboard">"<ns1:g id="HINT">%2$s</ns1:g> साठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा."</string>
+    <string msgid="1384724119268711688" name="template_custom_hint_for_long_clickable_actions">"<ns1:g id="ACTION">%1$s</ns1:g> आणि <ns1:g id="HINT">%2$s</ns1:g> साठी धरून ठेवा."</string>
+    <string msgid="384588741799097665" name="template_drawer_opened">"<ns1:g id="TITLE">%1$s</ns1:g> मेनू"</string>
+    <string msgid="504233139047201761" name="template_hint_checkable">"टॉगल करण्यासाठी <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="3968541225490733596" name="template_hint_checkable_keyboard">"टॉगल करण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा."</string>
+    <string msgid="3443819371543556149" name="template_hint_clickable">"सक्रिय करण्यासाठी <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="5861489320881379198" name="template_hint_clickable_keyboard">"सक्रिय करण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा."</string>
+    <string msgid="543401796694872575" name="template_hint_custom_actions">"सानुकूल क्रिया"</string>
+    <string msgid="2298057410435081106" name="template_hint_edit_text">"मजकूर प्रविष्‍ट करण्‍यासाठी <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="7634371425618645820" name="template_hint_edit_text_keyboard">"मजकूर प्रविष्ट करण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा."</string>
+    <string msgid="4546854599035099034" name="template_hint_long_clickable">"दीर्घ दाबून ठेवण्‍यासाठी <ns1:g id="ACTION">%1$s</ns1:g> आणि धरून ठेवा."</string>
+    <string msgid="1256266252223424130" name="template_hint_long_clickable_keyboard">"जास्त वेळ दाबण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा."</string>
+    <string msgid="5090637252098427661" name="template_hint_pager">"पृष्‍ठांमधून स्विच करण्‍यासाठी दोन बोटांनी स्वाइप करा."</string>
+    <string msgid="3607132801071926505" name="template_hint_pager_single_page">"कोणतीही अतिरिक्त पृष्‍ठे उपलब्ध नाहीत."</string>
+    <string msgid="8074023820596008628" name="template_hint_seek_control_tv">"बदलण्यासाठी <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="7251008361827086735" name="template_hint_spinner">"बदलण्‍यासाठी <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="7561069958801230664" name="template_hint_spinner_keyboard">"बदलण्यासाठी <ns1:g id="KEYCOMBO">%1$s</ns1:g> दाबा."</string>
+    <string msgid="6575017531554968477" name="template_labeled_item">"<ns1:g id="LABEL">%2$s</ns1:g> साठी <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="1962442828386303832" name="template_long_clicked">"दीर्घ-दाबून ठेवलेले <ns1:g id="TITLE">%1$s</ns1:g>"</string>
+    <string msgid="2592357933256217001" name="template_menu">"<ns1:g id="TITLE">%1$s</ns1:g> मेनू"</string>
+    <string msgid="5665980541549462608" name="template_no_text_selected">"कोणताही मजकूर निवडला नाही"</string>
+    <string msgid="962942796289068525" name="template_password_selected">"<ns1:g id="FROM_INDEX">%1$d</ns1:g> पासून <ns1:g id="TO_INDEX">%2$d</ns1:g> पर्यंत वर्ण"</string>
+    <string msgid="937695852582849077" name="template_password_traversed">"वर्ण <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="6118803183030408820" name="template_percent">"<ns1:g id="PERCENTAGE">%1$s</ns1:g> टक्के."</string>
+    <string msgid="6384850410145990959" name="template_replaced_characters">"<ns1:g id="OLD_TEXT_LENGTH">%1$s</ns1:g> वर्ण <ns1:g id="NEW_TEXT_LENGTH">%2$s</ns1:g> वर्णांसह पुनर्स्‍थित केले"</string>
+    <string msgid="4696666433263950881" name="template_scroll_from_count">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g> पैकी <ns1:g id="FROM_INDEX">%1$d</ns1:g> आयटम दर्शवित अाहोत."</string>
+    <string msgid="2060702043504844709" name="template_scroll_from_to_count">"<ns1:g id="TOTAL_COUNT">%3$d</ns1:g> पैकी <ns1:g id="FROM_INDEX">%1$d</ns1:g> ते <ns1:g id="TO_INDEX">%2$d</ns1:g> आयटम दर्शवित आहोत."</string>
+    <string msgid="1256791763596391124" name="template_split_screen_mode_landscape_ltr">"<ns1:g id="ID_1">%1$s</ns1:g> डावीकडे, <ns1:g id="ID_2">%2$s</ns1:g> उजवीकडे"</string>
+    <string msgid="7868698948612319665" name="template_split_screen_mode_landscape_rtl">"<ns1:g id="ID_1">%1$s</ns1:g> उजवीकडे <ns1:g id="ID_2">%2$s</ns1:g> डावीकडे"</string>
+    <string msgid="7565682598301271955" name="template_split_screen_mode_portrait">"<ns1:g id="ID_1">%1$s</ns1:g> शीर्षस्थानी, <ns1:g id="ID_2">%2$s</ns1:g> तळाशी"</string>
+    <string msgid="1816951995792085063" name="template_stream_volume">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> व्हॉल्‍यूम <ns1:g id="PERCENT">%2$d</ns1:g> टक्के."</string>
+    <string msgid="4964670773272907835" name="template_stream_volume_set">"<ns1:g id="STREAM_NAME">%1$s</ns1:g> व्हॉल्‍यूम <ns1:g id="PERCENT">%2$d</ns1:g> टक्क्‍यावर सेट केले."</string>
+    <string msgid="1059175355898959427" name="template_text_copied">"<ns1:g id="TEXT">%1$s</ns1:g>, कॉपी केला"</string>
+    <string msgid="7952067813030057908" name="template_text_cut">"<ns1:g id="TEXT">%1$s</ns1:g>, कट करा"</string>
+    <string msgid="153775825635730287" name="template_text_error">"अवैध इनपुट <ns1:g id="ERROR_MSG">%1$s</ns1:g>"</string>
+    <string msgid="8439319384947093963" name="template_text_pasted">"<ns1:g id="TEXT">%1$s</ns1:g>, पेस्ट केला"</string>
+    <string msgid="2069327286898545053" name="template_text_removed">"<ns1:g id="TEXT">%1$s</ns1:g> हटविला"</string>
+    <string msgid="837970148139617839" name="template_text_replaced">"<ns1:g id="OLD_TEXT">%2$s</ns1:g> ला <ns1:g id="NEW_TEXT">%1$s</ns1:g> ने पुनर्स्‍थित केले"</string>
+    <string msgid="7969528330209940634" name="template_text_selected">"<ns1:g id="SELECTED_TEXT">%1$s</ns1:g>, निवडला"</string>
+    <string msgid="8491489660236837367" name="template_text_unselected">"<ns1:g id="UNSELECTED_TEXT">%1$s</ns1:g>, निवड रद्द केलेला"</string>
+    <string msgid="4410160163389481887" name="template_tv_remote_mode_ended">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> समाप्त झाला"</string>
+    <string msgid="5968574403263650425" name="template_tv_remote_mode_started">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> प्रारंभ केला"</string>
+    <string msgid="4811442521690748167" name="template_viewpager_index_count">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g> पैकी <ns1:g id="PAGE_INDEX">%1$d</ns1:g> पृष्ठ"</string>
+    <string msgid="5093912546331180510" name="template_viewpager_index_count_short">"<ns1:g id="TOTAL_COUNT">%2$d</ns1:g> पैकी <ns1:g id="PAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="2517638358851774040" name="title_activity_dump_a11y_event">"लॉग इन करण्यासाठी इव्हेंट निवडा"</string>
+    <string msgid="7908169922901920318" name="title_custom_action">"सानुकूल क्रिया"</string>
+    <string msgid="4738051430500766039" name="title_dim_screen_when_talkback_enabled">"TalkBack सक्षम झाल्यानंतर स्क्रीन मंद करा"</string>
+    <string msgid="55211944889868460" name="title_edittext_breakout_end_selection_mode">"निवड मोड समाप्त करा"</string>
+    <string msgid="4021304144865258223" name="title_edittext_breakout_move_to_beginning">"आरंभाकडे कर्सर हलवा"</string>
+    <string msgid="3197737555808584828" name="title_edittext_breakout_move_to_end">"समाप्तीकडे कर्सर हलवा"</string>
+    <string msgid="4183196270306568761" name="title_edittext_breakout_start_selection_mode">"निवड मोड प्रारंभ करा"</string>
+    <string msgid="2102286116390895883" name="title_edittext_controls">"कर्सर नियंत्रण"</string>
+    <string msgid="399801096771904747" name="title_granularity">"नेव्हिगेशन सेटिंग्ज"</string>
+    <string msgid="5005702316138877183" name="title_labeling_controls">"लेबल"</string>
+    <string msgid="5016265453627241456" name="title_local_breakout_no_items">"मेनू आयटम नाहीत."</string>
+    <string msgid="3770770318417664565" name="title_pref_a11y_hints">"वापर सूचना बोला"</string>
+    <string msgid="7396126388313295285" name="title_pref_auto_scan_time_delay">"स्वयं-स्कॅन वेळ"</string>
+    <string msgid="306503376875826605" name="title_pref_auto_scroll">"सूची स्वयंचलितपणे स्क्रोल करा"</string>
+    <string msgid="2804297157354831139" name="title_pref_category_auto_scan">"स्वयं-स्कॅन"</string>
+    <string msgid="4277057711356252674" name="title_pref_category_built_in_gestures">"अंगभूत जेश्चर"</string>
+    <string msgid="3576441094143356231" name="title_pref_category_developer_settings">"विकसक सेटिंग्ज"</string>
+    <string msgid="3417629010416895022" name="title_pref_category_feedback_settings">"अन्य अभिप्राय"</string>
+    <string msgid="463227090301036752" name="title_pref_category_key_mappings">"क्रियांवर की नियुक्त करा"</string>
+    <string msgid="6578504997140953627" name="title_pref_category_manage_gestures">"जेश्चर व्यवस्थापित करा"</string>
+    <string msgid="611512059219131263" name="title_pref_category_miscellaneous_settings">"संकीर्ण"</string>
+    <string msgid="3352934615940599431" name="title_pref_category_scan_key_mappings">"स्कॅन करण्यासाठी की नियुक्त करत आहे"</string>
+    <string msgid="8846405149013321460" name="title_pref_category_side_tap_shortcuts">"(प्रायोगिक) डिव्‍हाइसच्‍या बाजूवर टॅप करा"</string>
+    <string msgid="802401622203667328" name="title_pref_category_touch_exploration">"स्पर्श एक्सप्लोरेशन"</string>
+    <string msgid="4974406968544300731" name="title_pref_category_touch_shortcuts">"शॉर्टकट जेश्चर"</string>
+    <string msgid="463133232649258739" name="title_pref_category_when_to_speak">"भाषण"</string>
+    <string msgid="7170662881035255012" name="title_pref_dim_volume_three_clicks">"मंद स्क्रीन शॉर्टकट"</string>
+    <string msgid="3999046718706391324" name="title_pref_dump_a11y_event">"प्रवेशयोग्यता कार्यक्रम नोंदी फिल्टर करा"</string>
+    <string msgid="1836003265647871107" name="title_pref_explore_by_touch">"स्पर्श करून एक्सप्लोर करा"</string>
+    <string msgid="8576056446194448505" name="title_pref_export_custom_labels">"सानुकूल लेबले निर्यात करा"</string>
+    <string msgid="2022820131100451763" name="title_pref_help">"मदत"</string>
+    <string msgid="5718610056539542854" name="title_pref_help_and_feedback">"मदत आणि अभिप्राय"</string>
+    <string msgid="7578057484183597929" name="title_pref_help_feedback">"मदत आणि अभिप्राय"</string>
+    <string msgid="6745845465683574401" name="title_pref_highlight_0">"हायलाइट शैली स्कॅन करीत आहे"</string>
+    <string msgid="2495577882313852825" name="title_pref_highlight_0_color">"रंग हायलाइट करा"</string>
+    <string msgid="7296464279890648714" name="title_pref_highlight_0_weight">"ओळ शैली हायलाइट करा"</string>
+    <string msgid="7375380428425494034" name="title_pref_intonation">"पिच बदल वापरा"</string>
+    <string msgid="8300291129646957414" name="title_pref_keyboard_echo">"कीबोर्ड इको"</string>
+    <string msgid="267415170405921603" name="title_pref_log_level">"लॉग आउटपुट स्तर"</string>
+    <string msgid="1365850439559496078" name="title_pref_manage_keyboard_shortcuts">"कीबोर्ड शॉर्टकट व्यवस्‍थापित करा"</string>
+    <string msgid="8796338627297226539" name="title_pref_manage_labels">"सानुकूल लेबले व्यवस्थापित करा"</string>
+    <string msgid="4315025096187253577" name="title_pref_phonetic_letters">"ध्वन्यात्मक अक्षरे बोला"</string>
+    <string msgid="5158596411034985043" name="title_pref_play_store">"Play Store मध्ये TalkBack उघडा"</string>
+    <string msgid="3250995506517482375" name="title_pref_primary_scan_style">"प्राथमिक स्कॅन शैली"</string>
+    <string msgid="4533552749993575929" name="title_pref_proximity">"समीपता सेन्सर वापरा"</string>
+    <string msgid="4098949311311089235" name="title_pref_resume_talkback">"निलंबनावरून पुन्हा सुरु करा"</string>
+    <string msgid="2351427385843210311" name="title_pref_scanning_methods">"स्कॅनिंग पद्धत"</string>
+    <string msgid="1335607796304866893" name="title_pref_shake_to_read_threshold">"सतत वाचन प्रारंभ करण्यासाठी हलवा"</string>
+    <string msgid="4454853121476703529" name="title_pref_shortcut_double_tap">"दोन्‍ही बाजूस टॅप करा"</string>
+    <string msgid="7510938211617979299" name="title_pref_shortcut_down">"खाली स्वाइप करा"</string>
+    <string msgid="6249716604721789627" name="title_pref_shortcut_down_and_left">"खाली नंतर डावीकडे स्वाइप करा"</string>
+    <string msgid="7683422992972248031" name="title_pref_shortcut_down_and_right">"खाली नंतर उजवीकडे स्वाइप करा"</string>
+    <string msgid="862181907993343425" name="title_pref_shortcut_down_and_up">"खाली नंतर वर स्वाइप करा"</string>
+    <string msgid="1294673470106169765" name="title_pref_shortcut_left">"डावीकडे स्वाइप करा"</string>
+    <string msgid="2899217574677150730" name="title_pref_shortcut_left_and_down">"डावीकडे नंतर खाली स्वाइप करा"</string>
+    <string msgid="320138621029568357" name="title_pref_shortcut_left_and_right">"डावीकडे नंतर उजवीकडे स्वाइप करा"</string>
+    <string msgid="369887751217245542" name="title_pref_shortcut_left_and_up">"डावीकडे नंतर वर स्वाइप करा"</string>
+    <string msgid="2563651710870983074" name="title_pref_shortcut_right">"उजवीकडे स्वाइप करा"</string>
+    <string msgid="4893018634563250104" name="title_pref_shortcut_right_and_down">"उजवीकडे नंतर खाली स्वाइप करा"</string>
+    <string msgid="1184543975336584677" name="title_pref_shortcut_right_and_left">"उजवीकडे नंतर डावीकडे स्वाइप करा"</string>
+    <string msgid="6848971895903777166" name="title_pref_shortcut_right_and_up">"उजवीकडे नंतर वर स्वाइप करा"</string>
+    <string msgid="7220195169492947031" name="title_pref_shortcut_single_tap">"एका बाजूस टॅप"</string>
+    <string msgid="464026441232788284" name="title_pref_shortcut_up">"वर स्वाइप करा"</string>
+    <string msgid="7970635117146596582" name="title_pref_shortcut_up_and_down">"वर नंतर खाली स्वाइप करा"</string>
+    <string msgid="6548364994546979158" name="title_pref_shortcut_up_and_left">"वर नंतर डावीकडे स्वाइप करा"</string>
+    <string msgid="8856595421274730440" name="title_pref_shortcut_up_and_right">"वर नंतर उजवीकडे स्वाइप करा"</string>
+    <string msgid="8048703987011256280" name="title_pref_show_context_menu_as_list">"संदर्भ मेनू सूची म्हणून दर्शवा"</string>
+    <string msgid="4420464510142864819" name="title_pref_show_privacy_policy">"गोपनीयता धोरण"</string>
+    <string msgid="6167834013879233992" name="title_pref_show_tos">"सेवा अटी"</string>
+    <string msgid="5333869781230265376" name="title_pref_single_tap">"एकदा-टॅप करा सक्रियकरण"</string>
+    <string msgid="3131811048184077738" name="title_pref_soundback">"ध्वनी अभिप्राय"</string>
+    <string msgid="8633886470832131926" name="title_pref_soundback_volume">"ध्वनी व्हॉल्‍यूम"</string>
+    <string msgid="7056106236376536133" name="title_pref_speak_screenoff">"स्क्रीन बंद असते तेव्हा बोला"</string>
+    <string msgid="17846978416951489" name="title_pref_speech_volume">"उच्चारण व्‍हॉल्‍यूम"</string>
+    <string msgid="3737945934603267137" name="title_pref_tap_sensitivity">"टॅप शोधक संवेदनशीलता"</string>
+    <string msgid="1525763448981997023" name="title_pref_tree_debug">"नोड ट्री डीबग करणे सक्षम करा"</string>
+    <string msgid="4448445593132620627" name="title_pref_tts_overlay">"उच्चारण आउटपुट प्रदर्शित करा"</string>
+    <string msgid="2810986068277138359" name="title_pref_tutorial">"TalkBack ट्यूटोरियल लाँच करा"</string>
+    <string msgid="2306010395434853106" name="title_pref_two_part_vertical_gestures">"दोन भाग अनुलंब जेश्चर"</string>
+    <string msgid="4867534784887155899" name="title_pref_two_volume_button_long_click">"TalkBack निलंबित आणि शॉर्टकट पुनः सुरु करा"</string>
+    <string msgid="3150034317307025609" name="title_pref_use_audio_focus">"उच्चारण ऑडिओवर फोकस करा"</string>
+    <string msgid="4156396276749836864" name="title_pref_vibration">"कंपन अभिप्राय"</string>
+    <string msgid="3016793641076890473" name="title_pref_web_scripts">"वेब प्रवेशयोग्यता वर्धित करा"</string>
+    <string msgid="8335248824829650066" name="title_seek_bar_controls">"शोध नियंत्रण"</string>
+    <string msgid="4197424047192764616" name="title_seek_bar_edit">"शोध नियंत्रण स्तर संपादित करा"</string>
+    <string msgid="3596164166456847306" name="title_suggestions_breakout_anchor">"संपादन करा फील्डवर परत या"</string>
+    <string msgid="8722323161157337123" name="title_suggestions_breakout_suggestions">"सूचनांंवर जा"</string>
+    <string msgid="5486233362252604824" name="title_suggestions_controls">"स्वयंपूर्ण सूचना"</string>
+    <string msgid="3037924006370977165" name="title_summary">"द्रुत नेव्हिगेशन"</string>
+    <string msgid="6936782185806198910" name="title_viewpager_breakout_next_page">"पुढील पृष्ठ"</string>
+    <string msgid="1352284456691236167" name="title_viewpager_breakout_prev_page">"मागील पृष्ठ"</string>
+    <string msgid="3775818290312516095" name="title_viewpager_controls">"पृष्ठ नेव्हिगेशन"</string>
+    <string msgid="7663977538463352430" name="title_web_breakout_next_control">"पुढील नियंत्रण"</string>
+    <string msgid="801337905459445939" name="title_web_breakout_next_list">"पुढील सूची"</string>
+    <string msgid="7355139595269361571" name="title_web_breakout_next_section">"पुढील विभाग"</string>
+    <string msgid="2637721101068457234" name="title_web_breakout_prev_control">"मागील नियंत्रण"</string>
+    <string msgid="744039532529277819" name="title_web_breakout_prev_list">"मागील सूची"</string>
+    <string msgid="1738336598629616234" name="title_web_breakout_prev_section">"मागील विभाग"</string>
+    <string msgid="6873568861550304420" name="toast_msg_key_already_assigned">"\'<ns1:g id="KEY_NAME">%1$s</ns1:g>\' की आधीपासून \'<ns1:g id="ACTION_NAME">%2$s</ns1:g>\' साठी नियुक्त केली आहे"</string>
+    <string msgid="6233811187483633874" name="tts_preferences_title">"टेक्स्ट-टू-स्पीच सेटिंग्ज"</string>
+    <string msgid="6480388345726953149" name="turn_off_talkback">"TalkBack बंद करा"</string>
+    <string msgid="5426041850804920228" name="tutorial_alert_dialog_exit">"बाहेर पडा"</string>
+    <string msgid="153385821637979511" name="tutorial_disabled_item_clicked">"सराव मोडमध्ये %1$s सक्रिय केले आहे. बाहेर पडण्यासाठी रद्द करा बटण सक्रिय करा."</string>
+    <string msgid="9109552709434930176" name="tutorial_exercise_completed_auto">"अभ्यास पूर्ण झाला आणि क्षणभरात सुरु करू"</string>
+    <string msgid="5711951853376611538" name="tutorial_home">"ट्युटोरियल मुख्यपृष्ठ"</string>
+    <string msgid="2912330081549004678" name="tutorial_lesson_1_page1_description">"सक्षम केले असताना, स्पर्श करून एक्सप्लोर करा आपल्या बोटाच्या खाली जे आहे ते आपल्याला ऐकू देते. आपल्या स्क्रीनच्या मध्यभागी आयटम वरून आपले बोट हलवा. आपण पाच आयटम एक्सप्लोर केल्यानंतर, धडा सुरु होईल."</string>
+    <string msgid="8696897836045271462" name="tutorial_lesson_1_page1_subtitle">"भाग 1: स्पर्श करून एक्सप्लोर करा"</string>
+    <string msgid="4328249029315743419" name="tutorial_lesson_1_page2_complete_message">"आयटम 7 सक्रिय केला. सुरु ठेवण्यासाठी पुढील बटण शोधा आणि सक्रिय करा"</string>
+    <string msgid="3437424287122738630" name="tutorial_lesson_1_page2_description">"आपण ऐकलेला अखेरचा आयटम सक्रिय करण्यासाठी, कुठेही दोनदा-टॅप करा. 7 आयटम शोधा आणि तो आता सक्रिय करा. त्यानंतर, सुरु ठेवण्यासाठी, पुढील सक्रिय करा."</string>
+    <string msgid="395358029332125189" name="tutorial_lesson_1_page2_subtitle">"भाग 2: सक्रिय करण्यासाठी दोनदा-टॅप करा"</string>
+    <string msgid="6782138079048102236" name="tutorial_lesson_1_page3_description">"TalkBack धड्यांची त्याचप्रकारे मांडणी केली जाते. शीर्ष भागामध्ये धडा असतो, जो आपण एक्सप्लोर करू शकता आणि कधीही वाचू शकता. त्यामध्ये शीर्ष डाव्या कोपऱ्यात ट्युटोरियल मुख्यपृष्ठ बटण देखील असते. मध्यभागी सराव क्षेत्र असते. तळाशी प्रगती सूचक आणि धडा नेव्हिगेशन बटणे असतात. सुरु ठेवण्यासाठी आता पुढील सक्रिय करा."</string>
+    <string msgid="5644143038265902856" name="tutorial_lesson_1_page3_subtitle">"भाग 3: नॅव्हिगेट करण्याचे धडे"</string>
+    <string msgid="8864367516443934956" name="tutorial_lesson_1_page4_description">"आपल्या बोटाने स्क्रीन स्वाइप करून देखील आपण एक्सप्लोर करू शकता. डावीकडे स्वाइप करण्यामुळे सर्वसाधारणपणे वर आणि डावीकडे एक्सप्लोर केले जाते तर उजवीकडे स्वाइप करण्यामुळे खाली आणि उजवीकडे एक्सप्लोर केले जाते. ते आता करून पहा."</string>
+    <string msgid="8686179604479736061" name="tutorial_lesson_1_page4_subtitle">"भाग 4: एक्सप्लोर करण्यासाठी स्वाइप करा"</string>
+    <string msgid="6465486659264068934" name="tutorial_lesson_1_practice_description">"आपल्या बोटाखाली काय आहे ते ऐकण्यासाठी, ते स्क्रीनवरून फिरवा. आपण जे ऐकता ते सक्रिय करण्यासाठी कुठेही दोनदा-टॅप करा. एक्सप्लोर करण्यासाठी डीकडे किंवा उजवीकडे स्वाइप करा."</string>
+    <string msgid="8409951305889305897" name="tutorial_lesson_1_practice_title">"भाग 5: सराव"</string>
+    <string msgid="711726460367061721" name="tutorial_lesson_1_short_description">"एक्सप्लोर करण्यासाठी स्पर्श करा, एक्सप्लोर करण्यासाठी स्वाइप करा, सक्रिय करण्यासाठी दोनदा टॅप करा"</string>
+    <string msgid="5236404350916286434" name="tutorial_lesson_1_title">"धडा 1: मूलभूत नेव्हिगेशन"</string>
+    <string msgid="580551557422353615" name="tutorial_lesson_2_page1_description">"अनुलंब सूचीमधून स्क्रोल करण्यासाठी, सूची आयटम शोधा, नंतर दोन बोटे वर किंवा खाली हलवा. क्षैतिज सूचीमधून स्क्रोल करण्यासाठी, सूची आयटम शोधा, नंतर दोन बोटे डावीकडे किंवा उजवीकडे हलवा."</string>
+    <string msgid="3831360802282402385" name="tutorial_lesson_2_page1_subtitle">"भाग 1: दोन-बोटांनी स्क्रोल करणे"</string>
+    <string msgid="6803623252361709120" name="tutorial_lesson_2_page2_description">"शॉर्टकट वापरून आपण सूचीमध्ये पुढे किंवा मागे जाऊ शकता. पुढे जाण्यासाठी, एक बोट एकल हालचालीत उजवीकडे नंतर डावीकडे हलवा. मागे जाण्यासाठी, एक बोट डावीकडे नंतर उजवीकडे हलवा. येथे करून पहा."</string>
+    <string msgid="4984192682960806856" name="tutorial_lesson_2_page2_subtitle">"भाग 2: स्क्रोल करण्याचे शॉर्टकट"</string>
+    <string msgid="408119978126134776" name="tutorial_lesson_2_practice_description">"दोन बोटे वर किंवा खाली स्लाइड करून स्क्रोल करा. एक बोट उजवीकडे नंतर डावीकडे हलवून पुढे जा. एक बोट डावीकडे नंतर उजवीकडे हलवून मागे जा."</string>
+    <string msgid="2743676222265424015" name="tutorial_lesson_2_practice_title">"भाग 3: सराव"</string>
+    <string msgid="1266674748996686981" name="tutorial_lesson_2_short_description">"दोन-बोटांनी स्क्रोल करणे, पुढे आणि मागे जाणे"</string>
+    <string msgid="8944439067496916569" name="tutorial_lesson_2_title">"धडा 2: स्क्रोल करणे"</string>
+    <string msgid="2871203321195090324" name="tutorial_lesson_3_down_right">"खाली नंतर उजवीकडे"</string>
+    <string msgid="7029517714331489043" name="tutorial_lesson_3_message">"मेनू पर्याय स्क्रीनच्या मध्याभागी अनुलंबरित्या सुचीबद्ध केलेले आहेत. एक्सप्लोर करून पहा. आपले पूर्ण झाले की, रद्द करा सक्रिय करा."</string>
+    <string msgid="6970763850543511675" name="tutorial_lesson_3_page1_description">"TalkBack मध्ये दोन भिन्न मेनू आहेत. पहिल्या, जागतिक TalkBack मेनूमध्ये, नेहमी समान आदेश असतात. एक बोट खाली नंतर उजवीकडे एकल हालचालीत हलवून नंतर आपले बोट वर उचलून आपण ते सक्रिय करू शकता. एक सराव आवृत्ती आता सक्रिय करा."</string>
+    <string msgid="769564591288469622" name="tutorial_lesson_3_page1_subtitle">"भाग 1: जागतिक TalkBack मेनू"</string>
+    <string msgid="236959207452065871" name="tutorial_lesson_3_page2_description">"द्वितीय मेनू हा स्थानिक TalkBack मेनू आहे. आपण अखेरीस जे ऐकले होते त्यावर आधारित या आयटम मधील मेनू भिन्न आहेत. एक बोट एकल हालचालीत वर नंतर उजवीकडे हलवून नंतर आपले बोट वर उचलून आपण हा मेनू सक्रिय करू शकता. आता एक सराव मेनू सक्रिय करा."</string>
+    <string msgid="3248006863733497778" name="tutorial_lesson_3_page2_subtitle">"भाग 2: स्थानिक TalkBack मेनू"</string>
+    <string msgid="4687022774852406126" name="tutorial_lesson_3_practice_content_description">"जागतिक TalkBack मेनू: खाली नंतर उजवीकडे. स्थानिक TalkBack मेनू: वर नंतर उजवीकडे"</string>
+    <string msgid="9053899021556392823" name="tutorial_lesson_3_practice_description">"जागतिक TalkBack मेनू सक्रिय करण्यासाठी आपले बोट खाली नंतर उजवीकडे हलवा. स्थानिक TalkBack मेनू सक्रिय करण्यासाठी आपले बोट वर नंतर उजवीकडे हलवा."</string>
+    <string msgid="7992894865660442281" name="tutorial_lesson_3_practice_title">"भाग 3: सराव"</string>
+    <string msgid="4897481164693437589" name="tutorial_lesson_3_short_description">"जागतिक TalkBack मेनू, स्थानिक TalkBack मेनू"</string>
+    <string msgid="1534037844912254504" name="tutorial_lesson_3_title">"धडा 3: TalkBack मेनू"</string>
+    <string msgid="1257290751747215466" name="tutorial_lesson_3_up_right">"वर नंतर उजवीकडे"</string>
+    <string msgid="825751290656500339" name="tutorial_lesson_4_page1_description">"TalkBack आपल्यासाठी वाचलेला मजकूर हा परिच्छेद, एक ओळ, एक शब्द किंवा वर्ण असला तरीही आपल्याला एकाचवेळी नियंत्रित करू दते. वर्णानुसार वाचण्यामुळे शब्दलेखनासह मदत होते. खालील मजकुरावर टॅप करून, नंतर वर आणि खाली स्वाइप करून मजकूर नेव्हिगेशन दर वर्णांवर सेट करा."</string>
+    <string msgid="4100459258679365726" name="tutorial_lesson_4_page1_message">"येथे अनुलंबरित्या सूचीबद्ध केलेला वाचन दर पर्याय एक्सप्लोर करा. वर्ण पर्यायानुसार वाचा शोधा आणि सक्रिय करा."</string>
+    <string msgid="6722398610043882883" name="tutorial_lesson_4_page1_subtitle">"भाग 1: नेव्हिगेशन सेटिंग्ज निवडणे"</string>
+    <string msgid="665951393520581926" name="tutorial_lesson_4_page2_description">"आपण आता वर्णानुसार वाचत आहात. नमुना मजकूर निवडा नंतर, वर्णानुसार वाचण्यासाठी उजवीकडे स्वाइप करा."</string>
+    <string msgid="1749198627288834931" name="tutorial_lesson_4_page2_subtitle">"भाग 2: मजकूर नेव्हिगेशन"</string>
+    <string msgid="2135338093046263335" name="tutorial_lesson_4_practice_description">"वर आणि खाली स्वाइप करून मजकूर नेव्हिगेशन दर बदला. उजवीकडे स्वाइप करून नमुना मजकुरामधील पुढील वर्ण वाचा."</string>
+    <string msgid="4917843401985911727" name="tutorial_lesson_4_practice_title">"भाग 3: सराव"</string>
+    <string msgid="8795532729146357613" name="tutorial_lesson_4_sample_text">"TalkBack सरावासाठी येथे काही नमुना मजकूर आहे. आश्चर्याने माणसाने विचारले \"कॅन्सास कुठे आहे?\" \"मला माहित नाही,\" दु:खी होऊन डोरोथीने उत्तर दिले, \"परंतु हे माझे घर आहे आणि मला खात्री आहे की ते कुठेतरी आहे.\"\n\n\"खूप शक्यता आहे. ओझ काहीही करू शकतो; त्यामुळे मला वाटते तो आपल्यासाठी कॅन्सास शोधेल. परंतु प्रथम आपल्याला त्यास भेटणे आवश्यक आहे आणि ते अवघड कार्य असेल; परंतु महान विझार्डला कोणासही भेटणे आवडत नाही आणि सहसा त्याची स्वत:ची पद्धत असते परंतु आपल्याला काय हवे आहे?\" टोटोशी बोलताना तो पुढे म्हणाला."</string>
+    <string msgid="7418527496120482465" name="tutorial_lesson_4_short_description">"मजकूर नेव्हिगेशन सेटिंग्ज निवडणे"</string>
+    <string msgid="4147432329454145413" name="tutorial_lesson_4_title">"धडा 4: मजकूर नेव्हिगेशन"</string>
+    <string msgid="5518047261885161170" name="tutorial_lesson_5_hint">"मजकूर संपादित करा"</string>
+    <string msgid="2284207114288159699" name="tutorial_lesson_5_page1_description">"TalkBack सह, आपण टाइप करण्यासाठी, निवडण्यासाठी आणि मजकूर संपादित करण्‍यासाठी संपादन बॉक्स वापरू शकता. संपादन बॉक्स सक्रिय करण्‍यासाठी, त्यावर दोनदा-टॅप करा. आपण संपादन बॉक्स सक्रिय केल्यानंतर, स्क्रीनच्या तळाशी कीबोर्ड उपलब्‍ध होतो. आपण परत बटण टॅप करून कीबोर्ड डिसमिस करू शकता. आता संपादन बॉक्स सक्रिय करून पहा. आपले पूर्ण झाले की, आता कीबोर्डच्या वरील बाजूस असलेले पुढील सक्रिय करा."</string>
+    <string msgid="1509462164197325310" name="tutorial_lesson_5_page1_subtitle">"भाग 1: संपादन बॉक्स सक्रिय करणे"</string>
+    <string msgid="8728726969848635963" name="tutorial_lesson_5_page2_description">"टाइप करण्यासाठी, संपादन बॉक्स सक्रिय करा आणि आपले बोट स्क्रीनवरील कीबोर्ड वरून फिरवा. आपण इच्छित असलेला वर्ण ऐकता तेव्हा, तो सक्रिय करण्यासाठी आपले बोट उचला. खालील संपादन बॉक्स सक्रिय करण्याचा आणि टाइप करण्याचा प्रयत्न करा."</string>
+    <string msgid="8696015537398598026" name="tutorial_lesson_5_page2_subtitle">"भाग 2: संपादन बॉक्समध्ये टाइप करणे"</string>
+    <string msgid="325778749713576462" name="tutorial_lesson_5_page3_description">"आपल्या डिव्हाइसवरील किंवा स्थानिक TalkBack मेनूमधून आवाज बटणांचा वापर करून कर्सर हलवू शकता. या मेनूमधील कर्सर नियंत्रण पर्यायासह, आपण निवडू शकता, कट, कॉपी किंवा मजकूर पेस्ट देखील करू शकता. खालील संपादन बॉक्स सक्रिय करा आणि कर्सर नमुना मजकुराच्या आसपास फिरवा."</string>
+    <string msgid="7553394100000534557" name="tutorial_lesson_5_page3_sample_text">"डोरोथी गेलेचा ईमेल पत्ता dorothy@ozmail.com हा आहे"</string>
+    <string msgid="6803668615502110439" name="tutorial_lesson_5_page3_subtitle">"भाग 3: कर्सर वापरणे"</string>
+    <string msgid="4966124103376747840" name="tutorial_lesson_5_practice_description">"दोनदा-टॅप करून संपादन बॉक्स सक्रिय करा. वर्णावरून आपले बोट फिरवून, नंतर आपले बोट उचलून टाइप करा. आवाज बटणे आणि स्थानिक TalkBack मेनूसह कर्सर हलवा. स्थानिक TalkBack मेनू मधील कर्सर नियंत्रण पर्याय वापरून मजकूर निवडा आणि त्यावर क्रिया करा."</string>
+    <string msgid="4502932434891583878" name="tutorial_lesson_5_practice_title">"भाग 4: सराव"</string>
+    <string msgid="5739314401061989157" name="tutorial_lesson_5_short_description">"संपादन बॉक्स, टाइप करणे, कर्सर हलविणे, मजकूर निवडणे आणि त्यावर क्रिया करणे सक्रिय करणे"</string>
+    <string msgid="6951330400155565474" name="tutorial_lesson_5_title">"धडा 5: मजकूर संपादित करणे"</string>
+    <string msgid="5584403341719984367" name="tutorial_lesson_number">"धडा %1$d"</string>
+    <string msgid="2301417040370437180" name="tutorial_next">"पुढील"</string>
+    <string msgid="1856740039454216256" name="tutorial_next_lesson">"पुढील धडा"</string>
+    <string msgid="5664505784839483070" name="tutorial_no_touch_explore_message">"या ट्युटोरियलसाठी स्पर्श करून एक्सप्लोर करा आवश्यक आहे. कृपया ट्यूटोरियल लाँच करण्यापूर्वी स्पर्श करून एक्सप्लोर करा सक्षम करा."</string>
+    <string msgid="1958343592980548652" name="tutorial_no_touch_explore_title">"स्पर्श करून एक्सप्लोर करा आवश्यक आहे"</string>
+    <string msgid="2663970515299904800" name="tutorial_page_number">"भाग %1$d"</string>
+    <string msgid="7024184577193466936" name="tutorial_page_number_of">"भाग %2$d पैकी %1$d"</string>
+    <string msgid="8329925887106371812" name="tutorial_practice">"सराव करा"</string>
+    <string msgid="2176846563813803041" name="tutorial_practice_area">"सराव क्षेत्र"</string>
+    <string msgid="7310221766775514110" name="tutorial_practice_content">"सराव धडा <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="3270312755677041276" name="tutorial_previous">"मागील"</string>
+    <string msgid="2975374258662807931" name="tutorial_previous_lesson">"मागील धडा"</string>
+    <string msgid="4109204744674617699" name="tutorial_service_inactive_message">"या ट्युटोरियलसाठी TalkBack सक्षम करणे आवश्यक आहे. कृपया ट्यूटोरियल लाँच करण्यापूर्वी TalkBack चालू करा."</string>
+    <string msgid="14143423693392009" name="tutorial_service_inactive_title">"TalkBack अक्षम केले"</string>
+    <string msgid="126663814939225670" name="tutorial_service_suspended_message">"अभिप्रायास विराम दिलेला असताना TalkBack ट्यूटोरियल उपलब्ध नसते. कृपया सुरु ठेवण्यासाठी TalkBack अभिप्राय पुन्हा सुरु करा आणि ट्यूटोरियल रीलाँच करा."</string>
+    <string msgid="7825932862221387070" name="tutorial_service_suspended_title">"TalkBack निलंबित केले"</string>
+    <string msgid="8656234062338441589" name="tutorial_start_lesson">"जाणून घ्या"</string>
+    <string msgid="6993792008827898101" name="tutorial_start_lesson_content">"<ns1:g id="INDEX">%1$d</ns1:g> धडा शिका"</string>
+    <string msgid="491797656581740453" name="tutorial_template_item">"आयटम <ns1:g id="INDEX">%1$d</ns1:g>"</string>
+    <string msgid="1602036284900841687" name="tutorial_title">"TalkBack ट्यूटोरियल"</string>
+    <string msgid="3902654026290995891" name="tutorial_up_button_description">"ट्यूटोरियल मुख्यपृष्ठ बटण"</string>
+    <string msgid="7017590766394623328" name="untitled_window">"अशीर्षकांकित"</string>
+    <string msgid="2459787142940409576" name="value_button">"बटण"</string>
+    <string msgid="3838601485428893942" name="value_caps_lock_off">"Caps Lock बंद."</string>
+    <string msgid="7573294600745888208" name="value_caps_lock_on">"Caps Lock चालू."</string>
+    <string msgid="668616875637472508" name="value_checkbox">"चेक बॉक्स"</string>
+    <string msgid="3006751014125833966" name="value_checked">"निवडले"</string>
+    <string msgid="5183845393779526573" name="value_classic_keymap">"क्लासिक की नकाशा"</string>
+    <string msgid="3341356513608380759" name="value_collapsed">"संकुचित केले"</string>
+    <string msgid="2991108554131770843" name="value_default_keymap">"डीफॉल्ट की नकाशा"</string>
+    <string msgid="5503481137448624626" name="value_device_unlocked">"डिव्हाइस अनलॉक केले."</string>
+    <string formatted="false" msgid="3589346610879193419" name="value_dim_volume_three_clicks">"स्क्रीन मंद करणे सक्षम किंवा अक्षम करण्यासाठी दोन्ही व्हॉल्यूम की तीन वेळा द्रुतपणे दाबा"</string>
+    <string msgid="8072362433982733982" name="value_direction_down">"खाली"</string>
+    <string msgid="8554316039693996323" name="value_direction_down_and_left">"खाली नंतर डावीकडे"</string>
+    <string msgid="7001881662779097616" name="value_direction_down_and_right">"खाली नंतर उजवीकडे"</string>
+    <string msgid="8751291630548709587" name="value_direction_down_and_up">"खाली नंतर वर"</string>
+    <string msgid="676932617445677488" name="value_direction_left">"डावीकडे"</string>
+    <string msgid="7803183066938070433" name="value_direction_left_and_down">"डावीकडे नंतर खाली"</string>
+    <string msgid="5700946272615649006" name="value_direction_left_and_right">"डावीकडे नंतर उजवीकडे"</string>
+    <string msgid="1953824696291100833" name="value_direction_left_and_up">"डावीकडे नंतर वर"</string>
+    <string msgid="3555261520059818184" name="value_direction_right">"उजवीकडे"</string>
+    <string msgid="3939890273004054796" name="value_direction_right_and_down">"उजवीकडे नंतर खाली"</string>
+    <string msgid="8982138891493120929" name="value_direction_right_and_left">"उजवीकडे नंतर डावीकडे"</string>
+    <string msgid="9165127187203257982" name="value_direction_right_and_up">"उजवीकडे नंतर वर"</string>
+    <string msgid="1646290331150992975" name="value_direction_up">"वर"</string>
+    <string msgid="3964398023350956969" name="value_direction_up_and_down">"वर नंतर खाली"</string>
+    <string msgid="2880257670663743521" name="value_direction_up_and_left">"वर नंतर डावीकडे"</string>
+    <string msgid="1769623264993139598" name="value_direction_up_and_right">"वर नंतर उजवीकडे"</string>
+    <string msgid="5160977094078900656" name="value_disabled">"अक्षम केलेले"</string>
+    <string msgid="6104708724544509699" name="value_double_tap">"डबल-टॅप"</string>
+    <string msgid="3400838694172416741" name="value_edit_box">"संपादन बॉक्स"</string>
+    <string msgid="761496650256809196" name="value_edit_box_editing">"संपादन करीत आहे"</string>
+    <string msgid="3777451536288368857" name="value_expanded">"विस्तृत केले"</string>
+    <string msgid="7426444022147570511" name="value_googletv_screen_saver">"स्क्रीन सेव्हर"</string>
+    <string msgid="1382219539169157957" name="value_gridview">"ग्रिड"</string>
+    <string msgid="6443720093459914584" name="value_hint_tv_remote_mode_seek_control">"मूल्य बदलण्यासाठी बाण बटण दाबा किंवा समाप्त करण्‍यासाठी निवडा दाबा."</string>
+    <string msgid="5114229220871881124" name="value_image">"प्रतिमा"</string>
+    <string msgid="6889426165608387394" name="value_keyboard_echo_always">"टाइप केलेल्या की नेहमी उच्चारा"</string>
+    <string msgid="7181327459690946870" name="value_keyboard_echo_never">"टाइप केलेल्या की कधीही उच्चारू नका"</string>
+    <string msgid="1595001302535254665" name="value_keyboard_echo_softkeys">"फक्त ऑन-स्क्रीन कीबोर्डसाठी"</string>
+    <string msgid="7625152822709234439" name="value_listview">"सूची"</string>
+    <string formatted="false" msgid="541929774635348126" name="value_long_volume_pressed_suspend_talkback">"आवाज वाढवा आणि आवाज कमी की दीर्घकाळ दाबा"</string>
+    <string msgid="37422559536361725" name="value_not_checked">"निवडले नाही"</string>
+    <string msgid="5404406119689977269" name="value_notification_shade_opened">"शेड उघडले"</string>
+    <string msgid="1037451128304445281" name="value_num_lock_off">"Num Lock बंद."</string>
+    <string msgid="5129177598867360081" name="value_num_lock_on">"Num Lock चालू."</string>
+    <string msgid="6700497510945744608" name="value_off">"बंद"</string>
+    <string msgid="39454338086317219" name="value_on">"चालू"</string>
+    <string msgid="4936310094261315665" name="value_options_menu_open">"पर्याय."</string>
+    <string msgid="7708574424402835461" name="value_pager">"एकाधिक-पृष्ठ दृश्य"</string>
+    <string msgid="7671668766555622125" name="value_pager_page">"पृष्ठ"</string>
+    <string msgid="7285572231215250557" name="value_password">"संकेतशब्द"</string>
+    <string msgid="4270348255373188872" name="value_press_select">"निवडा दाबा"</string>
+    <string msgid="254185377743644004" name="value_radio_button">"रेडिओ बटण"</string>
+    <string msgid="2780570849205482994" name="value_resume_keyguard">"लॉक स्क्रीन दर्शविली जाते तेव्हा"</string>
+    <string msgid="615523100721295547" name="value_resume_manual">"फक्त सूचनांवरून"</string>
+    <string msgid="2104101584116309597" name="value_resume_screen_on">"स्क्रीन चालू होते तेव्हा"</string>
+    <string msgid="3881352685288650823" name="value_ringer_silent">"रिंगर मूक."</string>
+    <string msgid="2453075127843329125" name="value_ringer_vibrate">"रिंगर कंपन."</string>
+    <string msgid="4442166505764238236" name="value_screen_off">"स्क्रीन बंद."</string>
+    <string msgid="4051568127659724519" name="value_screen_on">"स्क्रीन चालू."</string>
+    <string msgid="4083567784058485871" name="value_scroll_lock_off">"Scroll Lock बंद."</string>
+    <string msgid="2645082633954205788" name="value_scroll_lock_on">"Scroll Lock चालू"</string>
+    <string msgid="4084950138979192413" name="value_seek_bar">"नियंत्रण शोधा"</string>
+    <string msgid="4688216864497436971" name="value_seek_bar_dialog_instructions">"0 ते 100 मधील एक संख्या प्रविष्ट करा."</string>
+    <string msgid="1999088520209822207" name="value_seek_bar_dialog_percent">"%"</string>
+    <string msgid="1307429702194660766" name="value_selected">"निवडलेले"</string>
+    <string msgid="33115748930768552" name="value_shake_to_read_disabled">"अक्षम केले"</string>
+    <string msgid="7661843662865960874" name="value_shake_to_read_threshold_hard">"जोरात"</string>
+    <string msgid="6122029921067500618" name="value_shake_to_read_threshold_light">"हलके"</string>
+    <string msgid="8892692566516131981" name="value_shake_to_read_threshold_medium">"मध्यम"</string>
+    <string msgid="3423392173494851854" name="value_shake_to_read_threshold_very_hard">"खूप जोरात"</string>
+    <string msgid="2767872234193772050" name="value_shake_to_read_threshold_very_light">"खूप हलके"</string>
+    <string msgid="5044168772549910285" name="value_single_tap">"टॅप करा"</string>
+    <string msgid="1275285354723670810" name="value_sliding_drawer_opened">"स्लाइड करण्याचे ड्रॉवर उघडले"</string>
+    <string msgid="9204474944714379541" name="value_spinner">"ड्रॉप डाउन सूची"</string>
+    <string msgid="7440086841584851897" name="value_stream_alarm">"अलार्म"</string>
+    <string msgid="433463500088767280" name="value_stream_dtmf">"टोन डायलिंग ला स्पर्श करा"</string>
+    <string msgid="4636086067147877021" name="value_stream_master">"प्रमुख"</string>
+    <string msgid="3472112192147204509" name="value_stream_music">"संगीत"</string>
+    <string msgid="7166743133549871424" name="value_stream_notification">"सूचना"</string>
+    <string msgid="5981333765536911375" name="value_stream_ring">"रिंग टोन"</string>
+    <string msgid="2589285265752092053" name="value_stream_system">"सिस्टीम ध्वनी"</string>
+    <string msgid="3808346037153621863" name="value_stream_voice_call">"फोन कॉल"</string>
+    <string msgid="6946709666466895221" name="value_switch">"स्विच"</string>
+    <string msgid="6935453013254857519" name="value_tabwidget">"टॅब बार"</string>
+    <string msgid="6558192295636412162" name="value_text_cleared">"मजकूर साफ केला"</string>
+    <string msgid="4129865255646994586" name="value_text_max_length">"कमाल लांबी गाठली"</string>
+    <string msgid="9064311081864073839" name="value_text_removed">"हटविला"</string>
+    <string msgid="2003438824962970029" name="value_tv_remote_mode_seek_control">"शोध नियंत्रण मोड"</string>
+    <string msgid="6226815555228981094" name="value_unlabelled">"लेबल न केलेला"</string>
+    <string formatted="false" msgid="1925212291067338164" name="value_volume_100_percent">"मीडिया व्‍हॉल्‍यूम जुळवा"</string>
+    <string formatted="false" msgid="7765340636472447035" name="value_volume_25_percent">"मीडिया व्‍हॉल्‍यूमच्या 25%"</string>
+    <string formatted="false" msgid="571313670701581653" name="value_volume_50_percent">"मीडिया व्‍हॉल्‍यूमच्या 50%"</string>
+    <string formatted="false" msgid="4112643575612833142" name="value_volume_75_percent">"मीडिया व्‍हॉल्‍यूमच्या 75%"</string>
+</resources>

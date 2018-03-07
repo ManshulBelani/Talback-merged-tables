@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"您確定要停用 TalkBack 嗎？\n\n如果停用 TalkBack，裝置將不會提供回應，「輕觸探索」功能也會停用。"</string>
+</resources>

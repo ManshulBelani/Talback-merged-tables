@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\hit_edge_web_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\hit_edge_web_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\scroll_two_buttons.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\scroll_two_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\cursor_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\cursor_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\checkable_complex.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\checkable_complex.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\live_region.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\live_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\scroll_seek_bar_with_volume_key_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\scroll_seek_bar_with_volume_key_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\view_pager_fragment.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\view_pager_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\view_pager.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\cursor_web_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\cursor_web_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\directional_traversal.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\directional_traversal.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\role_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\role_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\view_selected_events.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\view_selected_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\text_activity.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\text_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\cursor_horizontal_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\cursor_horizontal_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\seek_bar_test.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\seek_bar_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\nested_views.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\nested_views.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\compound_button.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\compound_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\ordered_traversal.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\ordered_traversal.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\androidTest\\aosp\\debug\\layout\\toggle_button.xml",
+        "source": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\layout\\toggle_button.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugResources\\merged.dir\\values-mk-rMK-v14\\values-mk-rMK-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 262,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\main\\res\\values-mk-rMK-v14\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 262,
+                        "endOffset": 428
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="2135700124003003344" name="dialog_message_suspend_talkback">"Kas soovite kindlasti TalkBacki peatada?\n\nKui TalkBack on peatatud, siis ei edasta teie seade tagasisidet ja funktsioon Puudutusega uurimine on keelatud."</string>
+</resources>

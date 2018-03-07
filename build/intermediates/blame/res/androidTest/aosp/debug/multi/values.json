@@ -1,0 +1,294 @@
+[
+    {
+        "outputFile": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\incremental\\mergeAospDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endLine": 23,
+                        "endColumn": 19,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 44,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 44,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 44,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 44,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 44,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 44,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 44,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 109,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 109,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 79,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 116,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 116,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 96,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 96,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 94,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 94,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 88,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 88,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 92,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 92,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 98,
+                    "endOffset": 1402
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 98,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1407,
+                    "endColumn": 90,
+                    "endOffset": 1493
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\Downloads\\talkback-master\\src\\instrumentation_tests\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 90,
+                        "endOffset": 612
+                    }
+                }
+            }
+        ]
+    }
+]

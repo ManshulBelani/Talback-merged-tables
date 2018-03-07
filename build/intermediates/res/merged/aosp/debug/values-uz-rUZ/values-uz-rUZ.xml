@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="html_input_to_desc_values">
+    <item msgid="4096172354068997146">"Tugma"</item>
+    <item msgid="2699169428263688931">"Belgilash katakchasi"</item>
+    <item msgid="7550171965279727706">"Rang tanlash"</item>
+    <item msgid="2406148632948142554">"Sana va vaqtni sozlash"</item>
+    <item msgid="6206734636643693831">"Sana va vaqtni sozlash"</item>
+    <item msgid="6494793311723250360">"Sanani sozlash"</item>
+    <item msgid="6233043014283782070">"E-pochta manzilini tahrirlash"</item>
+    <item msgid="182198520168681864">"Fayl tanlash"</item>
+    <item msgid="7635844014202244925"/>
+    <item msgid="7139901113287304585">"Tugma"</item>
+    <item msgid="7877770148678429766">"Oyni tanlash"</item>
+    <item msgid="7002577823944482722">"Matnni tahrirlash: faqat raqamlar"</item>
+    <item msgid="917273821530305195">"Parolni tahrirlash"</item>
+    <item msgid="5154071363992838475">"Radio tugma"</item>
+    <item msgid="2560372821541772181">"Tortma"</item>
+    <item msgid="779695939031888316">"Asliga qaytarish"</item>
+    <item msgid="1955065531595564834">"Qidiruv so‘rovini tahrirlash"</item>
+    <item msgid="3623131192112730435">"Tugma"</item>
+    <item msgid="6312991181689088005">"Telefon raqamini tahrirlash"</item>
+    <item msgid="8762125587567231566">"Matnni tahrirlash"</item>
+    <item msgid="1947579002513979409">"URL manzilini tahrirlash"</item>
+    <item msgid="3903775116049114237">"Yilning haftasini tanlash"</item>
+  </string-array>
+    <string-array name="html_role_to_desc_values">
+    <item msgid="3658512898735203541">"Signal"</item>
+    <item msgid="935137618042089194">"Signal oynasi"</item>
+    <item msgid="686369214205693600">"Tugma"</item>
+    <item msgid="5449693577048552694">"Belgilash katakchasi"</item>
+    <item msgid="7272822698378169340">"Ro‘yxatli maydon"</item>
+    <item msgid="5713583829575581939">"Muloqot oynasi"</item>
+    <item msgid="5216929483884327567">"Jadval katakchasi"</item>
+    <item msgid="19661835905260843">"Havola"</item>
+    <item msgid="8836528596849462517">"Jurnal"</item>
+    <item msgid="6363472636779109133">"Ajratib belgilash"</item>
+    <item msgid="207979235591166657">"Menyu bandi"</item>
+    <item msgid="5314221954121037157">"Menyu bandi: belgilash katakchasi"</item>
+    <item msgid="8530188741088975507">"Menyu bandi: radio tugma"</item>
+    <item msgid="7133038652454746643">"Variant"</item>
+    <item msgid="8884929996375815553">"Holat paneli"</item>
+    <item msgid="2491530352752186178">"Radio tugma"</item>
+    <item msgid="5885543297378953099">"Radio tugmalar guruhi"</item>
+    <item msgid="3817058470626837478">"Aylantirish yo‘li"</item>
+    <item msgid="2598539587247777337">"Tortma"</item>
+    <item msgid="7266241064748434859">"Hisoblagich"</item>
+    <item msgid="4150753681642535303">"Holat"</item>
+    <item msgid="3573349580765929816">"Darcha"</item>
+    <item msgid="9107453920877701301">"Darchalar paneli"</item>
+    <item msgid="5718988101358695130">"Matn maydoni"</item>
+    <item msgid="9046935926547104284">"Taymer"</item>
+    <item msgid="8242601659670346415">"Asboblar paneli"</item>
+    <item msgid="8035569092868245025">"Yo‘l-yo‘riq"</item>
+    <item msgid="4623430632959558435">"Daraxtsimon tuzilma elementi"</item>
+  </string-array>
+    <string-array name="html_tag_to_desc_values">
+    <item msgid="1581643603826521323">"Havola"</item>
+    <item msgid="5847514471672094541">"Birinchi darajali sarlavha"</item>
+    <item msgid="7964504533413328902">"Ikkinchi darajali sarlavha"</item>
+    <item msgid="7775012721364572701">"Uchinchi darajali sarlavha"</item>
+    <item msgid="1979200594411818064">"To‘rtinchi darajali sarlavha"</item>
+    <item msgid="7881108930806590659">"Beshinchi darajali sarlavha"</item>
+    <item msgid="8181883417007695049">"Oltinchi darajali sarlavha"</item>
+    <item msgid="2343598882253497500">"Tugma"</item>
+    <item msgid="5522305372945364608">"Ro‘yxatli maydon"</item>
+    <item msgid="2674550010931559202">"Jadval"</item>
+    <item msgid="6844260645051963771">"Matn maydoni"</item>
+  </string-array>
+    <string-array name="switch_access_color_entries">
+    <item msgid="7934595828699536711">"Yashil"</item>
+    <item msgid="7616478199824616148">"To‘q sariq"</item>
+    <item msgid="528738291475141372">"Qizil"</item>
+    <item msgid="3613307072137891343">"Ko‘k"</item>
+    <item msgid="1719741716015833575">"Oq"</item>
+  </string-array>
+    <string-array name="switch_access_scanning_methods_entries">
+    <item msgid="3706133143777972955">"Qator bo‘ylab tekshirish (faqat klaviatura)"</item>
+    <item msgid="6882375457227534722">"Qator bo‘ylab tekshirish"</item>
+    <item msgid="4021832268378176260">"Tekshiruv usuli"</item>
+  </string-array>
+    <string-array name="switch_access_weight_entries">
+    <item msgid="5215195704613305820">"Yupqa tutash chiziq"</item>
+    <item msgid="7698398358042168523">"O‘rtacha qalinlikdagi tutash chiziq"</item>
+    <item msgid="4047443674448719927">"Qalin tutash chiziq"</item>
+  </string-array>
+    <plurals formatted="false" msgid="5524438721359954583" name="auto_scan_time_delay_summary_format">
+      <item quantity="other">%.2f soniya</item>
+      <item quantity="one">1 soniya</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709295987864614176" name="label_import_succeeded">
+      <item quantity="other">%d ta yorliq yangilandi</item>
+      <item quantity="one">1 ta yorliq yangilandi</item>
+    </plurals>
+    <plurals formatted="false" msgid="8070929030388121623" name="label_num_keys_assigned_format">
+      <item quantity="other">%d ta tugma biriktirilgan</item>
+      <item quantity="one">%d ta tugma biriktirilgan</item>
+    </plurals>
+    <plurals formatted="false" msgid="9179529663500973282" name="template_containers">
+      <item quantity="other"><ns1:g id="TYPE_2">%1$s</ns1:g> <ns1:g id="COUNT_3">%2$d</ns1:g> ta element ko‘rsatilmoqda.</item>
+      <item quantity="one"><ns1:g id="TYPE_0">%1$s</ns1:g> <ns1:g id="COUNT_1">%2$d</ns1:g> ta element ko‘rsatilmoqda.</item>
+    </plurals>
+    <plurals formatted="false" msgid="4038822501642812499" name="template_dump_event_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT">%1$d</ns1:g> ta tadbir belgilangan</item>
+      <item quantity="one">1 ta tadbir belgilangan</item>
+    </plurals>
+    <plurals formatted="false" msgid="5016154931003131594" name="template_list_column_count">
+      <item quantity="other"><ns1:g id="COLUMN_COUNT_1">%1$d</ns1:g> ta ustun</item>
+      <item quantity="one"><ns1:g id="COLUMN_COUNT_0">%1$d</ns1:g> ta ustun</item>
+    </plurals>
+    <plurals formatted="false" msgid="3432009359831385828" name="template_list_row_count">
+      <item quantity="other"><ns1:g id="ROW_COUNT_1">%1$d</ns1:g> ta qator</item>
+      <item quantity="one"><ns1:g id="ROW_COUNT_0">%1$d</ns1:g> ta qator</item>
+    </plurals>
+    <plurals formatted="false" msgid="3955737557576761990" name="template_list_total_count">
+      <item quantity="other"><ns1:g id="TOTAL_COUNT_1">%1$d</ns1:g> ta element</item>
+      <item quantity="one"><ns1:g id="TOTAL_COUNT_0">%1$d</ns1:g> ta element</item>
+    </plurals>
+    <plurals formatted="false" msgid="1628316286149773405" name="template_password_character_count">
+      <item quantity="other"><ns1:g id="CHARACTER_COUNT_1">%1$d</ns1:g> ta belgi</item>
+      <item quantity="one"><ns1:g id="CHARACTER_COUNT_0">%1$d</ns1:g> ta belgi</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Boshiga o‘tish"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yuqoriga o‘tish"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Qo‘shimcha sozlamalar"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tayyor"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Barchasini ko‘rish"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Dastur tanlang"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Qidirish…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"So‘rovni tozalash"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"So‘rovni izlash"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Izlash"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"So‘rov yaratish"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ovozli qidiruv"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bo‘lishish:"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yig‘ish"</string>
+    <string msgid="3283027285894267908" name="accessibility_tutorial_title">"Maxsus imkoniyatlar qo‘llanmasi"</string>
+    <string msgid="8073233516135659087" name="action_name_click">"Tanlash"</string>
+    <string msgid="4275752158295125939" name="action_name_dismiss">"Yopish"</string>
+    <string msgid="5708679123666477849" name="action_name_long_click">"Bosib turish"</string>
+    <string msgid="4106603510441280028" name="action_name_next">"Keyingisi"</string>
+    <string msgid="5382750123072539005" name="action_name_previous">"Avvalgi"</string>
+    <string msgid="4257814255726312722" name="action_name_reverse_auto_scan">"Teskari avtotekshiruv"</string>
+    <string msgid="579045012327139100" name="action_name_scroll_backward">"Orqaga o‘tkazish"</string>
+    <string msgid="6969788891937406270" name="action_name_scroll_forward">"Oldinga o‘tkazish"</string>
+    <string msgid="697316167642517245" name="arc_android_window">"Android oynasi"</string>
+    <string msgid="6957148997380624671" name="arc_maximize_window_for_touch_hint">"Yaxshiroq ovozli maslahatlar va teginishga reaksiyalar olish uchun ilova oynasini yoying"</string>
+    <string msgid="3272314052097101117" name="arc_navigation_hint">"O‘tish uchun qidirish va ko‘rsatkichli chiziq tugmalarini bosing"</string>
+    <string msgid="293518233104520901" name="arc_open_manage_keyboard_shortcuts_hint">"Tezkor tugmalar ro‘yxatini ko‘rish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing"</string>
+    <string msgid="9026011084239235722" name="arc_open_talkback_settings_hint">"TalkBack sozlamalarini ochish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalari birikmasini bosing"</string>
+    <string msgid="8528412412593489695" name="axis_character">"Belgilar bo‘yicha harakatlanish."</string>
+    <string msgid="816142869754118685" name="axis_default_web_view_behavior">"Veb-sahifalarni ko‘rish rejimida harakatlanish."</string>
+    <string msgid="8037283796488966887" name="axis_document">"Hujjatlar bo‘yicha harakatlanish."</string>
+    <string msgid="8829265824683632088" name="axis_heading">"Sarlavhalar bo‘yicha harakatlanish."</string>
+    <string msgid="4398740201672273541" name="axis_sentence">"Gaplar bo‘yicha harakatlanish."</string>
+    <string msgid="3267377527761217139" name="axis_sibling">"O‘xshash elementlar bo‘yicha harakatlanish."</string>
+    <string msgid="8823389407337076750" name="axis_word">"So‘zlar bo‘yicha harakatlanish."</string>
+    <string msgid="7776830309528651093" name="button_accept_changed_gesture_mappings">"Imo-ishoralarni qabul qilish"</string>
+    <string msgid="301383322727007726" name="button_check_all_events">"Hammasini belgilash"</string>
+    <string msgid="2128349101908653825" name="button_clear_all_events">"Hammasini o‘chirish"</string>
+    <string msgid="5895884645531139464" name="button_customize_gesture_mappings">"Imo-ishoralarni sozlash"</string>
+    <string msgid="2754406023113433479" name="cannot_add_label">"Ushbu elementga yorliq qo‘yib bo‘lmaydi."</string>
+    <string msgid="3556846822411648601" name="character_collapse_template">" <ns1:g id="NUMBER">%1$d</ns1:g> ta <ns1:g id="CHARACTER">%2$s</ns1:g>"</string>
+    <string msgid="1222984615395028719" name="column_heading_template">"Ustun sarlavhasi"</string>
+    <string msgid="258393957626754806" name="column_index_template">"<ns1:g id="COL">%1$d</ns1:g>-ustun"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ilovasining ishlashi uchun zarur bo‘lgan bir yoki bir nechta Google Play xizmatlari yo‘q. Yordam olish uchun ilovaning ishlab chiquvchisi bilan bog‘laning."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Google Play xizmatlarini yoqish"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"Google Play xizmatlari yoqilmaguncha, <ns1:g id="APP_NAME">%1$s</ns1:g> ishlamaydi."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Google Play xizmatlarini yoqish"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Google Play xizmatlarini o‘rnatish"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ishlashi uchun telefoningizga Google Play xizmatlarini o‘rnatish lozim."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ishlashi uchun planshetingizga Google Play xizmatlarini o‘rnatish lozim."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Google Play xizmatlarini o‘rnatish"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"Qurilmada bunday hisob topilmadi. Boshqa hisobni tanlang."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Hisob haqiqiy emas"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Google Play xizmatlariga ulanish uchun internetga ulanish lozim."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Tarmoq xatosi"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Google Play xizmatlari xatosi"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"Cheklangan profildan hisoblarga kirish qo‘llab-quvvatlanmaydi."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Cheklangan profil"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Ko‘rsatilgan hisobga kirishda xatolik yuz berdi. Boshqa hisob tanlang."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Kirish amalga oshmadi"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ilovasi Google Play xizmatlari bilan muammoga uchradi. Agar muammo hal bo‘lmasa, yordam olish uchun ilovaning ishlab chiquvchisi bilan bog‘laning."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi. Yordam olish uchun qurilmaning ishlab chiqaruvchisi bilan bog‘laning."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play xizmatlari"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Yangilash"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"Google Play xizmatlari yangilanmaguncha, <ns1:g id="APP_NAME">%1$s</ns1:g> ishga tushmaydi."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Google Play xizmatlarini yangilash"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play xizmatlari yangilanmoqda"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Google Play xizmatlarining yangi versiyasi zarur. U o‘zini qisqa vaqt ichida yangilaydi."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Telefonda ochish"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Kirish"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Google orqali kirish"</string>
+    <string msgid="330592638837220675" name="context_menu_layout_description">"Kontekst menyusi"</string>
+    <string msgid="7595558180210850775" name="dialog_message_dim_screen">"Ekran haqiqatan ham xiralashtirilsinmi?"</string>
+    <string msgid="3526530041207600349" name="dialog_message_disable_exploration">"“Teginib o‘rganish” funksiyasini o‘chirib qo‘ymoqchimisiz?\n\nQurilmangiz imo-ishoralarga javob qaytarmaydi va ekranga bosilganda elementlar nomini aytmaydi."</string>
+    <string msgid="1939098607233562642" name="dialog_message_enable_tree_debug">"“Tugunlar daraxtini tuzatish” funksiyasini yoqmoqchimisiz?\n\n“Tugunlar daraxtini tuzatish” funksiyasi ekrandagi kontentni qurilma jurnaliga taqdim etib, keyin uni boshqa ilovalar ham o‘qishi mumkin bo‘ladi."</string>
+    <string msgid="5767155087369798907" name="dialog_message_suspend_talkback">"Ishonchingiz komilmi? \"Teginib o‘rganish\" funksiyasini o‘chirib qo‘ysangiz qurilmangiz ma’lumot bermay qo‘yadi. TalkBack xizmatini bildirishnomalardan ekran qulfiga qaytish yoki ovoz balandligini boshqarish tugmalari yordamida qaytarishingiz mumkin."</string>
+    <string msgid="603850602120147151" name="dialog_title_dim_screen">"Ekran xiralashtirilsinmi?"</string>
+    <string msgid="2662971136340460644" name="dialog_title_disable_exploration">"“Teginib o‘rganish” funksiyasi o‘chirib qo‘yilsinmi?"</string>
+    <string msgid="2107489862179537135" name="dialog_title_enable_tree_debug">"“Tugunlar daraxtini tuzatish” funksiyasi yoqilsinmi?"</string>
+    <string msgid="5117432568615750164" name="dialog_title_suspend_talkback">"TalkBack funksiyasi o‘chirib qo‘yilsinmi?"</string>
+    <string msgid="6117331350509062908" name="display_name_aria_landmark">"ARIA mo‘ljali"</string>
+    <string msgid="6801468093111637502" name="display_name_button">"tugma"</string>
+    <string msgid="2060147158898197667" name="display_name_checkbox">"belgilash katakchasi"</string>
+    <string msgid="3627879841881471141" name="display_name_combobox">"ro‘yxatli maydon"</string>
+    <string msgid="7621147750572129887" name="display_name_control">"boshqaruv elementi"</string>
+    <string msgid="5014778180731737501" name="display_name_edit_field">"tahrirlash maydonchasi"</string>
+    <string msgid="1687969602866460765" name="display_name_focusable_item">"faollashtiriladigan element"</string>
+    <string msgid="5292831903337779423" name="display_name_graphic">"tasviriy"</string>
+    <string msgid="7554771761850653608" name="display_name_heading">"sarlavha"</string>
+    <string msgid="30730842343032834" name="display_name_heading_1">"1-darajali sarlavha"</string>
+    <string msgid="754950733934619571" name="display_name_heading_2">"2-darajali sarlavha"</string>
+    <string msgid="5499505893988231066" name="display_name_heading_3">"3-darajali sarlavha"</string>
+    <string msgid="8795813919278024796" name="display_name_heading_4">"4-darajali sarlavha"</string>
+    <string msgid="6033290790336260109" name="display_name_heading_5">"5-darajali sarlavha"</string>
+    <string msgid="6401554046489668344" name="display_name_heading_6">"6-darajali sarlavha"</string>
+    <string msgid="1766513019820473329" name="display_name_link">"havola"</string>
+    <string msgid="6043055138670390963" name="display_name_list">"ro‘yxat"</string>
+    <string msgid="5955953898740497356" name="display_name_list_item">"ro‘yxat bandi"</string>
+    <string msgid="4568845228422422699" name="display_name_section">"sarlavha yoki mo‘ljal"</string>
+    <string msgid="1369599790038567007" name="display_name_table">"jadval"</string>
+    <string msgid="3595733062526019550" name="end_of_text">"Oxiri"</string>
+    <string msgid="2634106379315171501" name="end_of_web">"Keyingi bunday element yo‘q: <ns1:g id="ID_1">%1$s</ns1:g>"</string>
+    <string msgid="8326879739948707767" name="global_action_back">"Orqaga"</string>
+    <string msgid="2498984784930393183" name="global_action_home">"Bosh ekran"</string>
+    <string msgid="7052190988699716765" name="global_action_notifications">"Bildirishnomalar"</string>
+    <string msgid="51725242460849609" name="global_action_overview">"Umumiy ma’lumot"</string>
+    <string msgid="425687562421432080" name="global_action_quick_settings">"Tezkor sozlamalar"</string>
+    <string msgid="2580664964591545065" name="global_context_menu_title">"Global kontekst menyusi"</string>
+    <string msgid="2036726841460203840" name="granularity_character">"Belgilar"</string>
+    <string msgid="4948042687369948597" name="granularity_default">"Standart"</string>
+    <string msgid="727359260064093782" name="granularity_line">"Qatorlar"</string>
+    <string msgid="2739238666516816581" name="granularity_page">"Sahifalar"</string>
+    <string msgid="3760401274833105422" name="granularity_paragraph">"Xatboshilar"</string>
+    <string msgid="437761042603242585" name="granularity_pseudo_web_special_content">"Maxsus kontent"</string>
+    <string msgid="1885138772895126953" name="granularity_web_control">"Boshqaruv elementlari"</string>
+    <string msgid="7817726975417542626" name="granularity_web_link">"Havolalar"</string>
+    <string msgid="4386991044245560102" name="granularity_web_list">"Ro‘yxatlar"</string>
+    <string msgid="8219174463230029732" name="granularity_web_section">"Sarlavhalar va belgilar"</string>
+    <string msgid="2653776823920279013" name="granularity_word">"So‘zlar"</string>
+    <string msgid="3585514481777782183" name="heading_template">"Sarlavha"</string>
+    <string msgid="2042130200569709650" name="hint_radial_menu">"Ekran ustiga bosing va kerakli bandni topish uchun barmog‘ingizni aylana bo‘ylab suring. Faollashtirish uchun uni yuqoriga ko‘taring."</string>
+    <string msgid="6139951755594105602" name="hint_script_injection">"“Teginib o‘rganish” funksiyasi veb-sahifalar uchun mavjud emas. Veb-sahifani o‘rganish uchun Maxsus imkoniyatlar sozlamalaridan <ns1:g id="PREFERENCE_NAME">%1$s</ns1:g> funksiyasini yoqing."</string>
+    <string msgid="2050246931229863299" name="hint_summary_jog_dial">"Ekran ustiga bosing va kerakli bandni topish uchun barmog‘ingizni aylana bo‘ylab suring. Tanlash uchun uni yuqoriga ko‘taring."</string>
+    <string msgid="6117098234531459917" name="imported_labels_reverted">"Import qilingan yorliqlar qaytarildi"</string>
+    <string msgid="71505978833721807" name="item_index_template">"<ns1:g id="ITEM">%1$d</ns1:g>-element"</string>
+    <string msgid="3635428232205897122" name="key_combo_preference_alt_plus">"ALT + "</string>
+    <string msgid="3798670998031739354" name="key_combo_preference_control_plus">"CTRL + "</string>
+    <string msgid="729970729293779243" name="key_combo_preference_instructions">"Ro‘yxatdan olib tashlash uchun tugmalar birikmasini bosing"</string>
+    <string msgid="766369207787941384" name="key_combo_preference_reset_button">"Tugma vazifasini o‘chirish"</string>
+    <string msgid="2809984878781105825" name="key_combo_preference_shift_plus">"SHIFT + "</string>
+    <string msgid="2481495794999250718" name="keycombo_announce_shortcut_not_supported">"Tezkor tugmalar qo‘llab-quvvatlanmaydi"</string>
+    <string msgid="3473075449729957326" name="keycombo_assign_dialog_clear">"Yorliqni o‘chirish"</string>
+    <string msgid="8675660213696360536" name="keycombo_assign_dialog_default_keymap_instruction">"Yangi tezkor tugmalar birikmasini o‘rnatish uchun uni <ns1:g id="TRIGGER_MODIFIER_NAME">%1$s</ns1:g> modifikator tugmasi bilan bosing."</string>
+    <string msgid="7298194792465449819" name="keycombo_assign_dialog_instruction">"Biror amalga tugmalar birikmasini tayinlash uchun ularni bosing. Unda Ctrl yoki ALT tugmasi bo‘lishi shart."</string>
+    <string msgid="2212047143066468004" name="keycombo_assign_dialog_message">"Tugmalar birikmasi:"</string>
+    <string msgid="7481082388500840525" name="keycombo_assign_dialog_navigation_reminder">"Tezkor tugmalarni o‘chirish uchun BACKSPACE tugmasini bosing, saqlash uchun – ENTER, bekor qilish uchun esa –  ESC."</string>
+    <string msgid="2088979197242112118" name="keycombo_key_arrow_down">"Pastga qaragan ko‘rsatkichli chiziq"</string>
+    <string msgid="7617113973940474625" name="keycombo_key_arrow_left">"Chapga qaragan ko‘rsatkichli chiziq"</string>
+    <string msgid="3021807777617903460" name="keycombo_key_arrow_right">"O‘ngga qaragan ko‘rsatkichli chiziq"</string>
+    <string msgid="3428552869533106939" name="keycombo_key_arrow_up">"Tepaga qaragan ko‘rsatkichli chiziq"</string>
+    <string msgid="5899747265287524712" name="keycombo_key_modifier_alt">"Alt"</string>
+    <string msgid="7834452577952298995" name="keycombo_key_modifier_ctrl">"Ctrl"</string>
+    <string msgid="4552213738130479993" name="keycombo_key_modifier_meta">"Qidiruv"</string>
+    <string msgid="5635477035615538497" name="keycombo_key_modifier_shift">"Shift"</string>
+    <string msgid="1828508564583672416" name="keycombo_menu_alert_message_trigger_modifier">"TalkBack tugmalar sxemasini qayta tiklaydi va modifikator tugmasini <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g> tugmasiga o‘zgartiradi"</string>
+    <string msgid="2294464165508562696" name="keycombo_menu_alert_title_trigger_modifier">"TalkBack tugmalar sxemasini qayta tiklaydi"</string>
+    <string msgid="6826451509012716500" name="keycombo_menu_announce_active_keymap">"<ns1:g id="KEYMAP_NAME">%1$s</ns1:g> faollashtirildi."</string>
+    <string msgid="7217139940963945885" name="keycombo_menu_announce_new_trigger_modifier">"Modifikator tugmasi <ns1:g id="NEW_TRIGGER_MODIFIER">%1$s</ns1:g> tugmasiga o‘zgartirildi."</string>
+    <string msgid="6125748767740120870" name="keycombo_menu_announce_reset_keymap">"Tugmalar sxemasi qayta yuklandi."</string>
+    <string msgid="7309875734492478067" name="keycombo_menu_category_global">"Umumiy amallar"</string>
+    <string msgid="1510641633727773395" name="keycombo_menu_category_granularity">"Navigatsiya sozlamalari"</string>
+    <string msgid="4152949225907039706" name="keycombo_menu_category_navigation">"Navigatsiya amallari"</string>
+    <string msgid="440132295339458288" name="keycombo_menu_category_other">"Boshqa amallar"</string>
+    <string msgid="51409040763676563" name="keycombo_menu_category_select_keymap">"Tugmalar sxemasi"</string>
+    <string msgid="197426246774034347" name="keycombo_menu_category_web">"Veb-navigatsiya amallari"</string>
+    <string msgid="1134261938982195470" name="keycombo_menu_choose_trigger_modifier">"Modifikator tugmasini tanlang"</string>
+    <string msgid="4567585750566224959" name="keycombo_menu_global_back">"Orqaga"</string>
+    <string msgid="7189369064773623371" name="keycombo_menu_global_home">"Bosh sahifa"</string>
+    <string msgid="7376426148339964566" name="keycombo_menu_global_notifications">"Bildirishnomalar"</string>
+    <string msgid="927586811460340459" name="keycombo_menu_global_recent">"Yaqinda ishlatilgan ilovalar"</string>
+    <string msgid="6155357392695951243" name="keycombo_menu_global_suspend">"TalkBack’ni to‘xtatib turish yoki yoqish"</string>
+    <string msgid="4124885036136489177" name="keycombo_menu_granularity_decrease">"Avvalgi navigatsiya sozlamasi"</string>
+    <string msgid="4418197063118287013" name="keycombo_menu_granularity_increase">"Keyingi navigatsiya sozlamasi"</string>
+    <string msgid="8107187053010960249" name="keycombo_menu_navigate_down">"Quyidagi obyektga o‘tish"</string>
+    <string msgid="3158152161988911032" name="keycombo_menu_navigate_first">"Birinchi obyektga o‘tish"</string>
+    <string msgid="1263547978659004801" name="keycombo_menu_navigate_last">"Oxirgi obyektga o‘tish"</string>
+    <string msgid="759996660496701149" name="keycombo_menu_navigate_next">"Keyingi obyektga o‘tish"</string>
+    <string msgid="2366740353671146191" name="keycombo_menu_navigate_next_character">"Keyingi belgiga o‘tish"</string>
+    <string msgid="25126714988891178" name="keycombo_menu_navigate_next_window">"Keyingi oynaga o‘tish"</string>
+    <string msgid="1395811611039468067" name="keycombo_menu_navigate_next_word">"Keyingi so‘zga o‘tish"</string>
+    <string msgid="6854364806063486016" name="keycombo_menu_navigate_previous">"Avvalgi obyektga o‘tish"</string>
+    <string msgid="2721742949377224859" name="keycombo_menu_navigate_previous_character">"Avvalgi belgiga o‘tish"</string>
+    <string msgid="4564537307456535973" name="keycombo_menu_navigate_previous_window">"Oldingi oynaga o‘tish"</string>
+    <string msgid="4068599657564535841" name="keycombo_menu_navigate_previous_word">"Avvalgi so‘zga o‘tish"</string>
+    <string msgid="8246000047771671403" name="keycombo_menu_navigate_up">"Yuqoridagi obyektga o‘tish"</string>
+    <string msgid="2225006890613375860" name="keycombo_menu_other_global_context_menu">"Global kontekst menyusini ko‘rsatish"</string>
+    <string msgid="4021429520088110904" name="keycombo_menu_other_local_context_menu">"Mahalliy kontekst menyusini ko‘rsatish"</string>
+    <string msgid="1317406596143818756" name="keycombo_menu_other_open_manage_keyboard_shortcuts">"Tezkor tugmalarni boshqarish"</string>
+    <string msgid="7172351544340904928" name="keycombo_menu_other_open_talkback_settings">"TalkBack sozlamalarini ochish"</string>
+    <string msgid="1511843443312220392" name="keycombo_menu_other_read_from_next_item">"Keyingi obyektdan boshlab o‘qish"</string>
+    <string msgid="5903852171117275622" name="keycombo_menu_other_read_from_top">"Boshidan boshlab o‘qish"</string>
+    <string msgid="5587057667593041194" name="keycombo_menu_other_toggle_search">"Ekrandagi obyektni qidirish"</string>
+    <string msgid="243666968746657931" name="keycombo_menu_perform_click">"Obyekt ustiga bosish"</string>
+    <string msgid="5580717252946630027" name="keycombo_menu_perform_long_click">"Bosib turish"</string>
+    <string msgid="2023072719324737919" name="keycombo_menu_reset_keymap">"Tugmalar sxemasini qayta yuklash"</string>
+    <string msgid="373592569630998413" name="keycombo_menu_select_keymap">"Tugmalar sxemasini tanlash"</string>
+    <string msgid="6234830691861291732" name="keycombo_menu_web_navigate_to_next_aria_landmark">"Keyingi ARIA mo‘ljaliga o‘tish"</string>
+    <string msgid="5786404186459162862" name="keycombo_menu_web_navigate_to_next_button">"Keyingi tugmaga o‘tish"</string>
+    <string msgid="3722561185964557699" name="keycombo_menu_web_navigate_to_next_checkbox">"Keyingi belgilash katakchasiga o‘tish"</string>
+    <string msgid="8664957205621246821" name="keycombo_menu_web_navigate_to_next_combobox">"Keyingi ro‘yxatli maydonga o‘tish"</string>
+    <string msgid="5118493330693292266" name="keycombo_menu_web_navigate_to_next_control">"Keyingi boshqaruv elementiga o‘tish"</string>
+    <string msgid="212436471355413352" name="keycombo_menu_web_navigate_to_next_edit_field">"Keyingi tahrirlash maydonchasiga o‘tish"</string>
+    <string msgid="6577338510655384932" name="keycombo_menu_web_navigate_to_next_focusable_item">"Keyingi faollashtiriladigan element"</string>
+    <string msgid="3860950617153731037" name="keycombo_menu_web_navigate_to_next_graphic">"Keyingi tasvirga o‘tish"</string>
+    <string msgid="6529174070300116949" name="keycombo_menu_web_navigate_to_next_heading">"Keyingi sarlavhaga o‘tish"</string>
+    <string msgid="3244117772760471353" name="keycombo_menu_web_navigate_to_next_heading_1">"Keyingi 1-darajali sarlavhaga o‘tish"</string>
+    <string msgid="75822840123780036" name="keycombo_menu_web_navigate_to_next_heading_2">"Keyingi 2-darajali sarlavhaga o‘tish"</string>
+    <string msgid="6068489868699550150" name="keycombo_menu_web_navigate_to_next_heading_3">"Keyingi 3-darajali sarlavhaga o‘tish"</string>
+    <string msgid="3960229240959901354" name="keycombo_menu_web_navigate_to_next_heading_4">"Keyingi 4-darajali sarlavhaga o‘tish"</string>
+    <string msgid="9101669601111190142" name="keycombo_menu_web_navigate_to_next_heading_5">"Keyingi 5-darajali sarlavhaga o‘tish"</string>
+    <string msgid="6918176243153506542" name="keycombo_menu_web_navigate_to_next_heading_6">"Keyingi 6-darajali sarlavhaga o‘tish"</string>
+    <string msgid="3567614429970148323" name="keycombo_menu_web_navigate_to_next_link">"Keyingi havolaga o‘tish"</string>
+    <string msgid="8731606795102810314" name="keycombo_menu_web_navigate_to_next_list">"Keyingi ro‘yxatga o‘tish"</string>
+    <string msgid="5640113968924738728" name="keycombo_menu_web_navigate_to_next_list_item">"Keyingi ro‘yxat bandiga o‘tish"</string>
+    <string msgid="6540415308854724223" name="keycombo_menu_web_navigate_to_next_table">"Keyingi jadvalga o‘tish"</string>
+    <string msgid="1779439621789951193" name="keycombo_menu_web_navigate_to_previous_aria_landmark">"Avvalgi ARIA mo‘ljaliga o‘tish"</string>
+    <string msgid="7341520853947364002" name="keycombo_menu_web_navigate_to_previous_button">"Avvalgi tugmaga o‘tish"</string>
+    <string msgid="6560080364424986498" name="keycombo_menu_web_navigate_to_previous_checkbox">"Avvalgi belgilash katakchasiga o‘tish"</string>
+    <string msgid="5252314449233286869" name="keycombo_menu_web_navigate_to_previous_combobox">"Avvalgi ro‘yxatli maydonga o‘tish"</string>
+    <string msgid="6218169838978520955" name="keycombo_menu_web_navigate_to_previous_control">"Avvalgi boshqaruv elementiga o‘tish"</string>
+    <string msgid="5495489017658262310" name="keycombo_menu_web_navigate_to_previous_edit_field">"Avvalgi tahrirlash maydonchasiga o‘tish"</string>
+    <string msgid="4960141150651374820" name="keycombo_menu_web_navigate_to_previous_focusable_item">"Avvalgi faollashtiriladigan element"</string>
+    <string msgid="4496215226346619518" name="keycombo_menu_web_navigate_to_previous_graphic">"Avvalgi tasvirga o‘tish"</string>
+    <string msgid="3501846285908107279" name="keycombo_menu_web_navigate_to_previous_heading">"Avvalgi sarlavhaga o‘tish"</string>
+    <string msgid="3317845146689095006" name="keycombo_menu_web_navigate_to_previous_heading_1">"Avvalgi 1-darajali sarlavhaga o‘tish"</string>
+    <string msgid="2130159635618042033" name="keycombo_menu_web_navigate_to_previous_heading_2">"Avvalgi 2-darajali sarlavhaga o‘tish"</string>
+    <string msgid="3261881889523320310" name="keycombo_menu_web_navigate_to_previous_heading_3">"Avvalgi 3-darajali sarlavhaga o‘tish"</string>
+    <string msgid="4665169714217637276" name="keycombo_menu_web_navigate_to_previous_heading_4">"Avvalgi 4-darajali sarlavhaga o‘tish"</string>
+    <string msgid="1057554300668048210" name="keycombo_menu_web_navigate_to_previous_heading_5">"Avvalgi 5-darajali sarlavhaga o‘tish"</string>
+    <string msgid="2400489461796001671" name="keycombo_menu_web_navigate_to_previous_heading_6">"Avvalgi 6-darajali sarlavhaga o‘tish"</string>
+    <string msgid="1510672359574680127" name="keycombo_menu_web_navigate_to_previous_link">"Avvalgi havolaga o‘tish"</string>
+    <string msgid="8999329379609937777" name="keycombo_menu_web_navigate_to_previous_list">"Avvalgi ro‘yxatga o‘tish"</string>
+    <string msgid="3557085444094910366" name="keycombo_menu_web_navigate_to_previous_list_item">"Avvalgi ro‘yxat bandiga o‘tish"</string>
+    <string msgid="8234050317398672680" name="keycombo_menu_web_navigate_to_previous_table">"Avvalgi jadvalga o‘tish"</string>
+    <string msgid="5817151372114230015" name="keycombo_unassigned">"Tayinlanmagan"</string>
+    <string msgid="3288834802071890267" name="label_choose_app_to_export">"Yorliqlarni eksport qilish uchun ilovani tanlang:"</string>
+    <string msgid="4342585248215824717" name="label_dialog_edit_hint">"Yorliq matni"</string>
+    <string msgid="5879506218245648848" name="label_dialog_text">"Ushbu rasm bilan ishlatiladigan matnni quyidagi maydonchaga kiriting."</string>
+    <string msgid="1255044087558866043" name="label_dialog_title_add">"Yorliq qo‘shish"</string>
+    <string msgid="7914376979667771585" name="label_dialog_title_edit">"Yorliqni tahrirlash"</string>
+    <string msgid="1791163736307626930" name="label_dialog_title_remove">"Yorliqni o‘chirish"</string>
+    <string msgid="7663052451851715440" name="label_export_empty">"Eksport qilishga hech narsa yo‘q. Hech qanday yorliq qo‘shilmagan"</string>
+    <string msgid="4500274103149146929" name="label_export_failed">"Yorliqni eksport qilib bo‘lmadi"</string>
+    <string msgid="1773817433300194935" name="label_import">"Shaxsiy yorliqlarni import qilish"</string>
+    <string msgid="7975227530187709469" name="label_import_dialog_message">"Ziddiyat yuz berganda takroriy yorliqlarni almashtirishni yoki o‘tkazib yuborishni tanlang."</string>
+    <string msgid="4387408051194229513" name="label_import_dialog_override">"Almashtirish"</string>
+    <string msgid="2078597180132028657" name="label_import_dialog_skip">"O‘tkazib yuborish"</string>
+    <string msgid="5305411653917870790" name="label_import_dialog_title">"TalkBack xizmatiga shaxsiy yorliqlarni import qilish"</string>
+    <string msgid="1321882372299892757" name="label_import_failed">"Yorliqni import qilib bo‘lmadi"</string>
+    <string msgid="4478523067360108574" name="label_manager_no_packages_message">"Sizda hozircha o‘zingizga moslashtirilgan yorliqlar yo‘q. Yangi yorliq yaratish uchun kerakli rasmni oching va mahalliy kontekst menyusidan mos bandni tanlang."</string>
+    <string msgid="6984665343963494151" name="label_manager_package_title">"<ns1:g id="APPLICATIONLABEL">%1$s</ns1:g> yorliqlarini boshqarish"</string>
+    <string msgid="6786694853113585661" name="label_manager_summary_title">"Shaxsiy yorliqlarni boshqarish"</string>
+    <string msgid="2632240906498521602" name="label_manager_timestamp_text">"So‘nggi o‘zgarish: <ns1:g id="TIMESTAMP">%1$s</ns1:g>"</string>
+    <string msgid="372916461303485723" name="label_remove_dialog_text">"Haqiqatan ham “<ns1:g id="LABEL">%1$s</ns1:g>” yorlig‘ini o‘chirib tashlamoqchimisiz?"</string>
+    <string msgid="8329270316487665017" name="label_remove_dialog_text_app_name">"Haqiqatan ham <ns1:g id="LABEL">%1$s</ns1:g> ilovasidagi “<ns1:g id="APP_NAME">%2$s</ns1:g>” yorlig‘ini o‘chirib tashlamoqchimisiz?"</string>
+    <string msgid="6758073806811666684" name="label_talkback_context_menu">"TalkBack umumiy kontekst menyusi"</string>
+    <string msgid="3448225474115458693" name="links">"Havolalar"</string>
+    <string msgid="6672321005470828526" name="local_context_menu_title">"Mahalliy kontekst menyusi"</string>
+    <string msgid="4795202818108740382" name="main_description">"TalkBack – ko‘r va ko‘rish qobiliyati past odamlar uchun ekrandan o‘qish vositasi. Qurilmadan ovozli nutq orqali foydalanish imkonini beradi."</string>
+    <string msgid="13771282771329188" name="message_in_reset_keymap_confirm_dialog">"Bu tugmalar sxemasi uchun tezkor tugmalarni birlamchi qiymatlariga qayta tiklamoqchimisiz? Yodda tuting, bu amalni ortga qaytarib bo‘lmaydi."</string>
+    <string msgid="6721228114050709276" name="message_resume_keyguard">"TalkBack funksiyasini bildirishnomalar panelidan yoki qulflangan ekrandan qayta yoqishingiz mumkin."</string>
+    <string msgid="6522293510722570646" name="message_resume_manual">"TalkBack funksiyasini bildirishnomalar panelidan qayta yoqishingiz mumkin."</string>
+    <string msgid="9016720947126938212" name="message_resume_screen_on">"TalkBack funksiyasini bildirishnomalar panelidan yoki ekranni yoqish orqali qayta yoqishingiz mumkin."</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Translatsiya qilish"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Qurilmalar izlanmoqda…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Qurilmaga ulanish"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Uzish"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Hech qanday ma’lumot yo‘q"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"To‘xtatib turish"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Ijro qilish"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Yo‘naltirish sozlamalari"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Translatsiyani to‘xtatish"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Tizim"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Qurilmalar"</string>
+    <string msgid="6379785627490220649" name="name_of_enter_key">"Enter tugmasi"</string>
+    <string msgid="5083960909593906754" name="name_of_space_bar">"Bo‘sh joy tugmasi"</string>
+    <string msgid="6744983965001375397" name="name_of_tab_key">"Tab"</string>
+    <string msgid="4602958479941673535" name="navigation_bar">"navigatsiya paneli"</string>
+    <string msgid="2792530694141012295" name="no_key_assigned">"Hech qanday tugma biriktirilmagan"</string>
+    <string msgid="7419188718124788690" name="notification_message_talkback_gestures_changed">"O‘zgarishlarni ko‘rish uchun bosing"</string>
+    <string msgid="1542127125162503034" name="notification_message_talkback_suspended">"Qayta yoqish uchun bosing."</string>
+    <string msgid="7913123792593843784" name="notification_status_sync">"Sinxronlash"</string>
+    <string msgid="8680063755043078528" name="notification_title_talkback_gestures_changed">"TalkBack ishoralari o‘zgardi"</string>
+    <string msgid="4350835042954222637" name="notification_title_talkback_suspended">"TalkBack to‘xtatib qo‘yildi"</string>
+    <string msgid="6810236215373132892" name="notification_tutorial_navigate_to_lession_1">"Birinchi darsga avtomatik o‘tish."</string>
+    <string msgid="8377204645672459594" name="notification_type_beginning_of_field">"Maydonning boshi"</string>
+    <string msgid="7980557705539894781" name="notification_type_end_of_field">"Maydonning oxiri"</string>
+    <string msgid="6585664098525214473" name="notification_type_missed_call">"Javobsiz qo‘ng‘iroq"</string>
+    <string msgid="3540829343521564569" name="notification_type_selection_cleared">"Matn tanlash tozalandi"</string>
+    <string msgid="5851903648134458514" name="notification_type_selection_mode_off">"Tanlash rejimi o‘chiq"</string>
+    <string msgid="9089325915356056509" name="notification_type_selection_mode_on">"Tanlash rejimi yoniq"</string>
+    <string msgid="3593906461181368010" name="notification_type_status_chat">"Suhbat"</string>
+    <string msgid="8762616334364573004" name="notification_type_status_error">"Xato"</string>
+    <string msgid="4889548393564513820" name="notification_type_status_more">"Yana"</string>
+    <string msgid="2024742614005804613" name="notification_type_status_mute">"Ovozni o‘chirish"</string>
+    <string msgid="6675459139116184337" name="notification_type_status_sdcard">"SD karta"</string>
+    <string msgid="6882955062811560802" name="notification_type_status_sdcard_usb">"SD kartali USB"</string>
+    <string msgid="1071939833188591219" name="notification_type_status_started">"Boshlandi"</string>
+    <string msgid="6004666820256747725" name="notification_type_status_stopped">"To‘xtatildi"</string>
+    <string msgid="3708903607797168409" name="notification_type_status_sync_noanim">"Sinxronlash"</string>
+    <string msgid="1611063561670902017" name="notification_type_status_voicemail">"Ovozli xabar"</string>
+    <string msgid="2034348456907055979" name="option_scan_switch_format">"Tekshiruv usulini o‘zgartirish %1$d"</string>
+    <string msgid="4460266289722058928" name="option_scanning_menu_button">"MENYU"</string>
+    <string msgid="2204457920803882766" name="orientation_landscape">"Eniga"</string>
+    <string msgid="7714435567541027105" name="orientation_portrait">"Tik holat"</string>
+    <string msgid="9043246837899844909" name="override_keycombo">"Ushbu tugma allaqachon tayinlangan"</string>
+    <string msgid="3764483710022091999" name="override_keycombo_message_two_params">"Ushbu tugmalar birikmasi allaqachon “<ns1:g id="ID_1">%1$s</ns1:g>” amali uchun tayinlangan. Bu birikma o‘chirilib, “<ns1:g id="ID_2">%2$s</ns1:g>” amali uchun qaytadan tayinlansinmi?"</string>
+    <string msgid="8065967887484901473" name="permission_labeling_desc">"TalkBack funksiyasi tomonidan ishlatiladigan moslashtirilgan yorliqlardan foydalanish, o‘zgartirish va o‘chirish."</string>
+    <string msgid="2956001661481169498" name="permission_labeling_label">"TalkBack moslashtirilgan yorliqlarini boshqarish"</string>
+    <string msgid="8320433482567759963" name="permission_talkback_desc">"TalkBack xizmatiga imo-ishoralarni yuborish va harakatlarni ovozli qilish funksiyasini qayta yoqish."</string>
+    <string msgid="2235244838320678938" name="permission_talkback_label">"TalkBack funksiyasini boshqarish"</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Qidiruvni tozalash"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Qidirish"</string>
+    <string msgid="8323015765774812284" name="reset_button_in_reset_keymap_confirm_dialog">"Asliga qaytarish"</string>
+    <string msgid="5508730389432571776" name="revert_imported_labels">"Import qilingan yorliqlarni qaytarish"</string>
+    <string msgid="7106495985061954643" name="row_heading_template">"Qator sarlavhasi"</string>
+    <string msgid="4107789959609911947" name="row_index_template">"<ns1:g id="ROW">%1$d</ns1:g>-qator"</string>
+    <string msgid="5398278773451196019" name="save">"Saqlash"</string>
+    <string msgid="378010604065368658" name="screen_brightness_restored">"Ekran yorqinligi qayta tiklandi"</string>
+    <string msgid="8072279323762069231" name="screen_dimmed">"Ekranlar xiralashtirildi"</string>
+    <string msgid="176693707001658416" name="screen_dimming_exit_instruction_line1">"TalkBack qulayliklari xizmati ekranni xiralashtirib qo‘ydi."</string>
+    <string msgid="2111548310775079127" name="screen_dimming_exit_instruction_line2">"Ovozni ko‘tarish va ovozni tushirish tugmalarini birgalida tezkor uch marta bosish bilan amalni orqaga qaytaring."</string>
+    <string msgid="7006494712728198438" name="screen_dimming_exit_instruction_line3">"Ekran xiraligini TalkBack Sozlamalaridan boshqarish mumkin."</string>
+    <string msgid="5109861709058665917" name="scrollable_backward">"Orqaga o‘tkazish"</string>
+    <string msgid="6312908487874132401" name="scrollable_forward">"Oldinga o‘tkazish"</string>
+    <string msgid="7273037326593054813" name="search_dialog_label">"Qidiruv: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>"</string>
+    <string msgid="4938867934958343710" name="search_mode_cancel">"Qidiruv bekor qilindi."</string>
+    <string msgid="7166574479757238944" name="search_mode_finish">"Qidiruv tugallandi."</string>
+    <string msgid="3919282680896571220" name="search_mode_hint_no_query">"Hech narsa kiritilmadi."</string>
+    <string msgid="882227441829755961" name="search_mode_hint_no_selection">"Hech narsa tanlanmadi."</string>
+    <string msgid="5896493032072187997" name="search_mode_hint_query">"Joriy so‘rov: <ns1:g id="SEARCH_QUERY">%1$s</ns1:g>."</string>
+    <string msgid="8541673936818652399" name="search_mode_hint_selection">"Joriy tanlov: <ns1:g id="SELECTED_NODE">%1$s</ns1:g>."</string>
+    <string msgid="4597528088567439979" name="search_mode_hint_start">"Qidiruv rejimi."</string>
+    <string msgid="910823044260738937" name="search_mode_open">"Qidiruv rejimi ochildi."</string>
+    <string msgid="2558372839282319745" name="shortcut_back">"Orqaga tugmasi"</string>
+    <string msgid="9018001118250050381" name="shortcut_copy_last_utterance_to_clipboard">"So‘nggi iborani vaqtinchalik xotiraga nusxalash"</string>
+    <string msgid="8041762180167320322" name="shortcut_disable_dimming">"Ekranni yoritish"</string>
+    <string msgid="751310793206738883" name="shortcut_enable_dimming">"Ekranni xiralashtirish"</string>
+    <string msgid="4549343120881649603" name="shortcut_first_in_screen">"Ekrandagi birinchi obyektni tanlash"</string>
+    <string msgid="5711865496104188848" name="shortcut_hear_lesson">"Menyuni tasvirlab berish"</string>
+    <string msgid="6670249804418900175" name="shortcut_home">"Boshiga tugmasi"</string>
+    <string msgid="1584183195221110323" name="shortcut_last_in_screen">"Ekrandagi so‘nggi obyektni tanlash"</string>
+    <string msgid="8164203174881196072" name="shortcut_local_breakout">"Mahalliy kontekst menyusini ochish"</string>
+    <string msgid="6887743145853506373" name="shortcut_next">"Keyingi element"</string>
+    <string msgid="5058063575500265017" name="shortcut_next_granularity">"Keyingi navigatsiya sozlamasi"</string>
+    <string msgid="5291839248233515759" name="shortcut_notifications">"Bildirishnomalarni ochish"</string>
+    <string msgid="3649651004283936027" name="shortcut_overview">"Umumiy ma’lumot tugmasi"</string>
+    <string msgid="1412613174540942399" name="shortcut_pause_feedback">"Aks ta’sirlarni to‘xtatish"</string>
+    <string msgid="3679790113454394245" name="shortcut_previous">"Avvalgi element"</string>
+    <string msgid="5483850878839529117" name="shortcut_previous_granularity">"Avvalgi navigatsiya sozlamasi"</string>
+    <string msgid="7570974794642091616" name="shortcut_print_node_tree">"Tugunli daraxtni chop qilish"</string>
+    <string msgid="5769337869539736463" name="shortcut_read_from_current">"Keyingi elementdan boshlab o‘qish"</string>
+    <string msgid="6031418895933550221" name="shortcut_read_from_top">"Boshidan boshlab o‘qish"</string>
+    <string msgid="9059705754075010951" name="shortcut_repeat_last_utterance">"So‘nggi iborani takrorlash"</string>
+    <string msgid="1025337926618449476" name="shortcut_scroll_back">"Orqaga o‘tkazish"</string>
+    <string msgid="7299589176359902775" name="shortcut_scroll_forward">"Oldinga o‘tkazish"</string>
+    <string msgid="1996746992705940253" name="shortcut_show_custom_actions">"Maxsus amallarni ko‘rsatish"</string>
+    <string msgid="642984322649148879" name="shortcut_spell_last_utterance">"So‘nggi iborani talaffuz qilish"</string>
+    <string msgid="2673085935736432213" name="shortcut_talkback_breakout">"Umumiy kontekst menyusini ochish"</string>
+    <string msgid="1803159459924262469" name="shortcut_unassigned">"Tayinlanmagan"</string>
+    <string msgid="3193206799395252518" name="show_suspend_warning_label">"Ushbu ogohlantirish har doim ko‘rsatilsin"</string>
+    <string msgid="9028725565467565133" name="start_of_web">"Oldingi bu element yo‘q: <ns1:g id="ID_1">%1$s</ns1:g>"</string>
+    <string msgid="6000275621941971563" name="status_bar">"holat paneli"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1601902797531350013" name="summaryOff_pref_a11y_hints">"Foydalanish bo‘yicha yo‘l-yuriqlar maxsus imkoniyatlar fokusi harakatlantirilganda o‘qib eshittirilmaydi."</string>
+    <string msgid="5187278527518557715" name="summaryOff_pref_intonation">"Ovoz ohangi o‘zgarmasin"</string>
+    <string msgid="2801720386630515717" name="summaryOff_pref_phonetic_letters">"Fonetik harflar aytilmaydi."</string>
+    <string msgid="2976964867820234940" name="summaryOff_pref_proximity">"Masofa sezgichi nutqni boshqarmaydi"</string>
+    <string msgid="1820564330334595916" name="summaryOff_pref_speak_screenoff">"Ekran o‘chiqligida talaffuz qilinmasin"</string>
+    <string msgid="7312945354572119026" name="summaryOn_pref_a11y_hints">"Navigatsiya paytida keyin qisqa tanaffusdan so‘ng foydalanish bo‘yicha yo‘l-yo‘riqlar aytiladi."</string>
+    <string msgid="2753815930477168225" name="summaryOn_pref_intonation">"Matn o‘qib eshittirilayotganda ohang pasaytirilsin"</string>
+    <string msgid="6864480534029061476" name="summaryOn_pref_phonetic_letters">"Fonetik harflar klaviatura ustida biroz bosib turilgandanda hamda maxsus imkoniyatlar fokusi belgilar bo‘ylab harakatlanganda aytiladi."</string>
+    <string msgid="8552562564045883839" name="summaryOn_pref_proximity">"Masofa sezgichi nutq balandligini boshqaradi"</string>
+    <string msgid="3200696691374942097" name="summaryOn_pref_speak_screenoff">"Ovozli bildirishnomalar ekran o‘chiqligida ham ishlasin"</string>
+    <string msgid="3575108337945375864" name="summary_pref_play_store">"Joriy TalkBack versiyasi: <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="1868206223500105704" name="summary_pref_single_tap">"Fokusga olingan elementni faollashtirish uchun uning ustiga bosing (tajribaviy funksiya)"</string>
+    <string msgid="4049484318410744029" name="summary_pref_use_audio_focus">"TalkBack ishlayotganda boshqa ilovalarning ovozi pasaytirilsin"</string>
+    <string msgid="3996491708050765411" name="summary_pref_web_scripts">"Veb-kontent bilan ishlashni yaxshilash uchun skriptlarni yuklab oling"</string>
+    <string msgid="8907204357556153170" name="switch_access_auto_start_scan_summary">"Tekshiruv o‘chirib-yoqish tugmasini bosmasdan boshlanadi"</string>
+    <string msgid="1112172023292555792" name="switch_access_auto_start_scan_title">"Tekshiruvni avtomatik yoqish"</string>
+    <string msgid="2470480705014577440" name="switch_access_dup_bounds_format">"%1$s (%2$d)"</string>
+    <string msgid="777214990214649732" name="switch_access_global_menu_disable_autoselect">"Avto-begilashni o‘chirish"</string>
+    <string msgid="1781611399874689922" name="switch_access_global_menu_enable_autoselect">"Avto-belgilashni yoqish"</string>
+    <string msgid="1084530527433232522" name="switch_access_move_next_character">"Keyingi belgi"</string>
+    <string msgid="1957454942120077989" name="switch_access_move_next_line">"Keyingi satr"</string>
+    <string msgid="5509521398337232740" name="switch_access_move_next_page">"Keyingi sahifa"</string>
+    <string msgid="2401188575204362710" name="switch_access_move_next_paragraph">"Keyingi xatboshi"</string>
+    <string msgid="4364935355445273844" name="switch_access_move_next_word">"Keyingi so‘z"</string>
+    <string msgid="8927445469710181053" name="switch_access_move_prev_character">"Avvalgi belgi"</string>
+    <string msgid="4933911200239574311" name="switch_access_move_prev_line">"Avvalgi satr"</string>
+    <string msgid="2162166283498843093" name="switch_access_move_prev_page">"Avvalgi sahifa"</string>
+    <string msgid="6628794063582527750" name="switch_access_move_prev_paragraph">"Avvalgi xatboshi"</string>
+    <string msgid="8425765588178702402" name="switch_access_move_prev_word">"Avvalgi so‘z"</string>
+    <string msgid="8339289604407443597" name="switch_access_preferences_title">"Switch Access sozlamalari"</string>
+    <string msgid="1958519878116811543" name="switch_access_service_description">"Switch Access elementlarni tekshirish va ularni bir yoki bir nechta o‘chirib-yoqqichlar yordamida belgilash imkonini beradi."</string>
+    <string msgid="6043415138576713888" name="switch_service_name">"Switch Access"</string>
+    <string msgid="7456083235616834438" name="symbol_almost_equals">"Taqriban teng"</string>
+    <string msgid="2896965192299496498" name="symbol_ampersand">"“Va” belgisi"</string>
+    <string msgid="7380903071611293121" name="symbol_angle_bracket_left">"Chap burchakli qavs"</string>
+    <string msgid="1868235467151646558" name="symbol_angle_bracket_right">"O‘ng burchakli qavs"</string>
+    <string msgid="7208629120802819915" name="symbol_apostrophe">"Tutuq belgisi"</string>
+    <string msgid="3850753675865899520" name="symbol_approximately_equals">"Taqriban teng"</string>
+    <string msgid="6817126584493630223" name="symbol_asterisk">"Yulduzcha"</string>
+    <string msgid="2065827119717043200" name="symbol_at_sign">"Elektron pochta belgisi"</string>
+    <string msgid="1611754081972480510" name="symbol_backslash">"Teskari qiya chiziq"</string>
+    <string msgid="5289487097432366247" name="symbol_beamed_sixteenth_note">"Qo‘shma o‘n oltitalik nota"</string>
+    <string msgid="4016846628518042983" name="symbol_black_circle">"Qora doira"</string>
+    <string msgid="2472170057113549474" name="symbol_black_heart">"Qora cha"</string>
+    <string msgid="3400946876721230212" name="symbol_black_square">"Qora kvadrat"</string>
+    <string msgid="6183317822489362024" name="symbol_black_star">"Qora yulduzcha"</string>
+    <string msgid="6813132652561276644" name="symbol_broken_bar">"Tik uzuq chiziq"</string>
+    <string msgid="8476099303225493047" name="symbol_bullet">"Qora nuqta"</string>
+    <string msgid="7971468907049474418" name="symbol_bullseye">"Katta ko‘z"</string>
+    <string msgid="3928223571254608359" name="symbol_caret">"Qo‘yish belgisi"</string>
+    <string msgid="1072933014815535633" name="symbol_celsius_degree">"Selsiy darajasi"</string>
+    <string msgid="2397683564958310433" name="symbol_cent">"Sent belgisi"</string>
+    <string msgid="3982983201762226254" name="symbol_circle_left_half_black">"Chap yarmi qora doira"</string>
+    <string msgid="2702128700103408427" name="symbol_circle_right_half_black">"O‘ng yarmi qora doira"</string>
+    <string msgid="4099865219187606667" name="symbol_colon">"Ikki nuqta"</string>
+    <string msgid="5645826628625828518" name="symbol_comma">"Vergul"</string>
+    <string msgid="4560734240781916706" name="symbol_copyright">"Mualliflik huquqi belgisi"</string>
+    <string msgid="2875419571455950965" name="symbol_curly_bracket_left">"Chap figurali qavs"</string>
+    <string msgid="7223443061586552971" name="symbol_curly_bracket_right">"O‘ng figurali qavs"</string>
+    <string msgid="3851601116109370799" name="symbol_currency_sign">"Valyuta belgisi"</string>
+    <string msgid="2370756516179429371" name="symbol_degree">"Daraja belgisi"</string>
+    <string msgid="8469030548234745900" name="symbol_division">"Bo‘lish belgisi"</string>
+    <string msgid="7172720889757863645" name="symbol_dollar_sign">"Dollar belgisi"</string>
+    <string msgid="1093826934627615258" name="symbol_downwards_arrow">"Pastga qaragan ko‘rsatkichli chiziq"</string>
+    <string msgid="7550656761730728669" name="symbol_eighth_note">"Sakkiztalik nota"</string>
+    <string msgid="6107023479924320264" name="symbol_ellipsis">"Uch nuqta"</string>
+    <string msgid="9095293634011901230" name="symbol_em_dash">"Uzun chiziqcha"</string>
+    <string msgid="7221481427651082891" name="symbol_en_dash">"O‘rta chiziqcha"</string>
+    <string msgid="5554709359828733331" name="symbol_equal">"Teng belgisi"</string>
+    <string msgid="7368999812147737584" name="symbol_euro">"Yevro belgisi"</string>
+    <string msgid="988583649131855220" name="symbol_exclamation_mark">"Undov belgisi"</string>
+    <string msgid="7868161106382873456" name="symbol_fahrenheit_degree">"Farengeyt darajasi"</string>
+    <string msgid="2832652212740214355" name="symbol_female">"Ayol belgisi"</string>
+    <string msgid="2871187029685072964" name="symbol_grave_accent">"Gravis"</string>
+    <string msgid="6395913704731547145" name="symbol_hyphen_minus">"Chiziqcha"</string>
+    <string msgid="6535139335710090448" name="symbol_integral">"Integral"</string>
+    <string msgid="4461462147632976820" name="symbol_left_black_lenticular_bracket">"Qora chap ikkiyoqlama qavariq qavs"</string>
+    <string msgid="2662006752461479838" name="symbol_left_corner_bracket">"Chap burchak qavs"</string>
+    <string msgid="2516207072081863313" name="symbol_leftwards_arrow">"Chap ko‘rsatkichli chiziq"</string>
+    <string msgid="4485675468642882911" name="symbol_liter">"Litr"</string>
+    <string msgid="1311537029059161496" name="symbol_low_double_quote">"Pastki qo‘shtirnoq"</string>
+    <string msgid="614668218440322904" name="symbol_male">"Erkak belgisi"</string>
+    <string msgid="3513065482309329740" name="symbol_micro_sign">"Mikro belgisi"</string>
+    <string msgid="4500464364344640871" name="symbol_multiplication">"Ko‘paytirish belgisi"</string>
+    <string msgid="6848635267438885623" name="symbol_new_line">"Yangi chiziq"</string>
+    <string msgid="5319485097346278422" name="symbol_not_equals">"Tengsizlik belgisi"</string>
+    <string msgid="6673590940229304440" name="symbol_not_sign">"Mumkin emas belgisi"</string>
+    <string msgid="5514376704992468938" name="symbol_paragraph_mark">"Xatboshi belgisi"</string>
+    <string msgid="6800146954886245634" name="symbol_parenthesis_left">"Chap qavs"</string>
+    <string msgid="7215651695123277015" name="symbol_parenthesis_right">"O‘ng qavs"</string>
+    <string msgid="5459242644598387133" name="symbol_percent">"Foiz belgisi"</string>
+    <string msgid="5437120137086222612" name="symbol_period">"Nuqta"</string>
+    <string msgid="9110332441949361829" name="symbol_pi">"Pi harfi"</string>
+    <string msgid="9058945923657357434" name="symbol_plus_minus_sign">"Plus-minus belgisi"</string>
+    <string msgid="93826676999305096" name="symbol_pound">"Panjara"</string>
+    <string msgid="728725055605726481" name="symbol_pound_sterling">"Funt-sterling belgisi"</string>
+    <string msgid="5036555895753560541" name="symbol_quarter_note">"Chorak nota"</string>
+    <string msgid="8540567415937384964" name="symbol_question_mark">"So‘roq belgisi"</string>
+    <string msgid="1191348665202247948" name="symbol_quotation_mark">"Iqtibos belgisi"</string>
+    <string msgid="905951483425189419" name="symbol_reference">"Havola belgisi"</string>
+    <string msgid="3258562921626703647" name="symbol_registered_trademark">"Ro‘yxatga olingan savdo belgisi"</string>
+    <string msgid="3919101748915826659" name="symbol_right_black_lenticular_bracket">"Qora o‘ng ikkiyoqlama qavariq qavs"</string>
+    <string msgid="4305940879297701054" name="symbol_right_corner_bracket">"O‘ng burchak qavs"</string>
+    <string msgid="3621071010761086207" name="symbol_rightwards_arrow">"O‘ngga qaragan ko‘rsatkichli chiziq"</string>
+    <string msgid="5442584145297714761" name="symbol_rupee">"Rupiya belgisi"</string>
+    <string msgid="1425993244831126813" name="symbol_section_sign">"Bo‘lim belgisi"</string>
+    <string msgid="5125185295573713214" name="symbol_semicolon">"Nuqtali vergul"</string>
+    <string msgid="7183595255121136380" name="symbol_slash">"Qiya chiziq"</string>
+    <string msgid="5566592322045991166" name="symbol_smiley">"Kulgich"</string>
+    <string msgid="803832672390677661" name="symbol_solar">"Quyosh belgisi"</string>
+    <string msgid="5752206151798562920" name="symbol_space">"Bo‘sh joy"</string>
+    <string msgid="8272586261793885172" name="symbol_square_bracket_left">"Chap kvadrat qavs"</string>
+    <string msgid="5927399844117072754" name="symbol_square_bracket_right">"O‘ng kvadrat qavs"</string>
+    <string msgid="683692620277245490" name="symbol_square_root">"Kvadrat ildiz"</string>
+    <string msgid="8207841648391314530" name="symbol_tilde">"Tilda"</string>
+    <string msgid="3263529639090333558" name="symbol_trademark">"Savdo belgisi"</string>
+    <string msgid="7192169250700774805" name="symbol_underscore">"Ostiga chizish"</string>
+    <string msgid="6338361764081105639" name="symbol_upwards_arrow">"Yuqori ko‘rsatkichli chiziq"</string>
+    <string msgid="1121156640601168272" name="symbol_vertical_bar">"Tik chiziq"</string>
+    <string msgid="246091813103192112" name="symbol_white_circle">"Oq doira"</string>
+    <string msgid="9023266146462694521" name="symbol_white_club_suit">"Oq chillik"</string>
+    <string msgid="148190588729388201" name="symbol_white_diamond">"Oq g‘ishtin"</string>
+    <string msgid="2759895601608939558" name="symbol_white_down_pointing_triangle">"Pastga qaragan oq uchburchak"</string>
+    <string msgid="3902539821929296760" name="symbol_white_heart">"Oq yurakcha"</string>
+    <string msgid="5774703989927211853" name="symbol_white_left_pointing_index">"Chapga qaragan oq ko‘rsatkich belgisi"</string>
+    <string msgid="4714391974332267014" name="symbol_white_left_pointing_triangle">"Chapga qaragan oq uchburchak"</string>
+    <string msgid="6971705818446128861" name="symbol_white_right_pointing_index">"O‘ngga qaragan oq ko‘rsatkich belgisi"</string>
+    <string msgid="1147044895009619696" name="symbol_white_right_pointing_triangle">"O‘ngga qaragan oq uchburchak"</string>
+    <string msgid="364770901730057047" name="symbol_white_spade_suit">"Oq qarg‘a"</string>
+    <string msgid="6607687155279147668" name="symbol_white_square">"Oq kvadrat"</string>
+    <string msgid="6150436720760853960" name="symbol_white_star">"Oq yulduzcha"</string>
+    <string msgid="1445685217848949209" name="symbol_white_up_pointing_triangle">"Tepaga qaragan oq uchburchak"</string>
+    <string msgid="6959844046981982031" name="symbol_won">"Von belgisi"</string>
+    <string msgid="5956873078564706159" name="symbol_yen">"Iyena belgisi"</string>
+    <string msgid="6065419331469295927" name="talkback_built_in_gesture_change_details">"TalkBack’ning ushbu versiyasida standart imo-ishoralarga o‘zgartirishlar kiritilgan.\n\nBarmoqni avval tepaga, keyin pastga surish ekrandagi birinchi elementga o‘tish imkonini beradi; avval pastga, keyin yuqoriga surish esa – oxirgi elementga.\n\nEndi o‘qishning teranlik darajasini o‘zgartirish uchun avval elementni tanlab, keyin mahalliy kontekst menyusidan teranlik darajasini tanlash mumkin.\n\nImo-ishoralardan foydalanganda bajariladigan harakatlarni TalkBack sozlamalaridan o‘zgartirish mumkin."</string>
+    <string msgid="7727588774719330051" name="talkback_built_in_gesture_change_details_45">"TalkBack’ning ushbu versiyasida standart imo-ishoralarga o‘zgartirishlar kiritilgan.\n\nBarmoqni yuqoriga surish ishorasi bilan endi avvalgi navigatsiya sozlamasiga o‘tiladi va barmoqni pastga surish bilan esa keyingi navigatsiya sozlamasiga o‘tiladi."</string>
+    <string msgid="2536155587482587238" name="talkback_disabled">"TalkBack o‘chirilgan."</string>
+    <string msgid="1242896734553682887" name="talkback_gesture_change_details">"TalkBack’ning ushbu versiyasida standart imo-ishoralarga o‘zgartirishlar kiritilgan. Ushbu imo-ishoralar bajaradigan harakatlarni sozlamalar orqali tayinlash mumkin. Agar “Teginib o‘rganish” funksiyasi yoqilgan bo‘lsa, quyidagi imo-ishoralardan foydalanishingiz mumkin.\n\n<ns1:g id="MAPPINGS">%1$s</ns1:g>"</string>
+    <string msgid="315529674405160699" name="talkback_on">"TalkBack yoniq"</string>
+    <string msgid="1318051290124952165" name="talkback_preferences_subtitle">"<ns1:g id="VERSION_NAME">%1$s</ns1:g> versiya"</string>
+    <string msgid="4249486159144445549" name="talkback_preferences_title">"TalkBack sozlamalari"</string>
+    <string msgid="3229591037647690759" name="talkback_resumed">"TalkBack yana ishga tushdi"</string>
+    <string msgid="5081383053733275450" name="talkback_service_description">"TalkBack funksiyasi ko‘r va ko‘rish qobiliyati past foydalanuvchilar uchun mo‘ljallangan. U siz bosadigan, tanlaydigan yoki faollashtiradigan interfeys elementlarining ovozli ta’rifini aytadi.\n\nAgar TalkBack funksiyasini tasodifan yoqib qo‘ysangiz, uni o‘chirish uchun atrofda yashil chiziqlar paydo bo‘lguncha o‘chirib-yoqqichning ustiga bosing, keyin uni ikki marta bosing. Tasdiqlash muloqot oynasini chaqirish uchun ham shu amalni bajaring."</string>
+    <string msgid="183421830476125877" name="talkback_suspended">"TalkBack to‘xtatildi"</string>
+    <string msgid="7563462166661082029" name="tap_sensitivity_high">"Yuqori"</string>
+    <string msgid="6514475998218787336" name="tap_sensitivity_low">"Past"</string>
+    <string msgid="1137618443590383650" name="tap_sensitivity_lowest">"Eng past"</string>
+    <string msgid="5512827926666078515" name="tap_sensitivity_medium">"O‘rtacha"</string>
+    <string msgid="5493715708649314332" name="template_alert_dialog_template">"Ogohlantirish <ns1:g id="MESSAGE">%1$s</ns1:g>"</string>
+    <string msgid="8500638272120951960" name="template_announce_selected_text">"Belgilangan matn: <ns1:g id="SELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="4920626008395727629" name="template_capital_letter">"bosh harf: <ns1:g id="UPPERCASE_CHARACTER">%1$s</ns1:g>"</string>
+    <string msgid="2038200557537960378" name="template_charging">"Quvvatlash: <ns1:g id="CHANGING_STATUS">%1$s</ns1:g>. Batareya darajasi <ns1:g id="BATTERY_LEVEL">%2$s</ns1:g> foiz."</string>
+    <string msgid="2167296836815021551" name="template_collection_end">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g> to‘plamidan"</string>
+    <string msgid="8386016656549198972" name="template_collection_level">"<ns1:g id="LEVEL">%1$s</ns1:g>-daraja"</string>
+    <string msgid="4362535543397747567" name="template_collection_start">"<ns1:g id="COLLECTION_NAME">%1$s</ns1:g> to‘plamida"</string>
+    <string msgid="3963364867159704159" name="template_current_tts_engine">"Foydalanilmoqda: <ns1:g id="ENGINE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="6271864053572367186" name="template_custom_hint_for_actions">"<ns1:g id="HINT">%2$s</ns1:g> uchun <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="3049485226126876806" name="template_custom_hint_for_actions_keyboard">"<ns1:g id="HINT">%2$s</ns1:g> uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing."</string>
+    <string msgid="1384724119268711688" name="template_custom_hint_for_long_clickable_actions">"<ns1:g id="HINT">%2$s</ns1:g> uchun <ns1:g id="ACTION">%1$s</ns1:g> va ushlab turing."</string>
+    <string msgid="384588741799097665" name="template_drawer_opened">"<ns1:g id="TITLE">%1$s</ns1:g> menyusi"</string>
+    <string msgid="504233139047201761" name="template_hint_checkable">"Yoqish yoki o‘chirish uchun: <ns1:g id="ACTION">%1$s</ns1:g>"</string>
+    <string msgid="3968541225490733596" name="template_hint_checkable_keyboard">"Yoqish yoki o‘chirish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing."</string>
+    <string msgid="3443819371543556149" name="template_hint_clickable">"Faollashtirish uchun <ns1:g id="ACTION">%1$s</ns1:g>."</string>
+    <string msgid="5861489320881379198" name="template_hint_clickable_keyboard">"Faollashtirish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing."</string>
+    <string msgid="543401796694872575" name="template_hint_custom_actions">"Maxsus amallar:"</string>
+    <string msgid="2298057410435081106" name="template_hint_edit_text">"Matn kiritish uchun: <ns1:g id="ACTION">%1$s</ns1:g>"</string>
+    <string msgid="7634371425618645820" name="template_hint_edit_text_keyboard">"Matn kiritish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing."</string>
+    <string msgid="4546854599035099034" name="template_hint_long_clickable">"<ns1:g id="ACTION">%1$s</ns1:g> va ushlab turing."</string>
+    <string msgid="1256266252223424130" name="template_hint_long_clickable_keyboard">"Ushlab turish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing."</string>
+    <string msgid="5090637252098427661" name="template_hint_pager">"Sahifalarni almashtirish uchun ikki barmoq bilan suring."</string>
+    <string msgid="3607132801071926505" name="template_hint_pager_single_page">"Qo‘shimcha sahifa yo‘q."</string>
+    <string msgid="8074023820596008628" name="template_hint_seek_control_tv">"O‘zgartirish uchun: <ns1:g id="ACTION">%1$s</ns1:g>"</string>
+    <string msgid="7251008361827086735" name="template_hint_spinner">"O‘zgartirish uchun: <ns1:g id="ACTION">%1$s</ns1:g>"</string>
+    <string msgid="7561069958801230664" name="template_hint_spinner_keyboard">"O‘zgartirish uchun <ns1:g id="KEYCOMBO">%1$s</ns1:g> tugmalar birikmasini bosing."</string>
+    <string msgid="6575017531554968477" name="template_labeled_item">"<ns1:g id="ITEM">%1$s</ns1:g> uchun <ns1:g id="LABEL">%2$s</ns1:g>"</string>
+    <string msgid="1962442828386303832" name="template_long_clicked">"<ns1:g id="TITLE">%1$s</ns1:g> bosib turildi"</string>
+    <string msgid="2592357933256217001" name="template_menu">"<ns1:g id="TITLE">%1$s</ns1:g> menyusi"</string>
+    <string msgid="5665980541549462608" name="template_no_text_selected">"Hech qanday matn belgilanmagan"</string>
+    <string msgid="962942796289068525" name="template_password_selected">"Belgilar: <ns1:g id="FROM_INDEX">%1$d</ns1:g> – <ns1:g id="TO_INDEX">%2$d</ns1:g>"</string>
+    <string msgid="937695852582849077" name="template_password_traversed">"<ns1:g id="INDEX">%1$d</ns1:g>-belgi"</string>
+    <string msgid="6118803183030408820" name="template_percent">"<ns1:g id="PERCENTAGE">%1$s</ns1:g> foiz."</string>
+    <string msgid="6384850410145990959" name="template_replaced_characters">"<ns1:g id="OLD_TEXT_LENGTH">%1$s</ns1:g> ta belgi <ns1:g id="NEW_TEXT_LENGTH">%2$s</ns1:g> ta belgi bilan almashtirildi"</string>
+    <string msgid="4696666433263950881" name="template_scroll_from_count">"Jami <ns1:g id="FROM_INDEX">%1$d</ns1:g> ta elementdan <ns1:g id="TOTAL_COUNT">%2$d</ns1:g> tasi ko‘rsatilmoqda."</string>
+    <string msgid="2060702043504844709" name="template_scroll_from_to_count">"Jami <ns1:g id="FROM_INDEX">%1$d</ns1:g> ta elementdan <ns1:g id="TO_INDEX">%2$d</ns1:g> dan <ns1:g id="TOTAL_COUNT">%3$d</ns1:g> gacha elementlar ko‘rsatilmoqda."</string>
+    <string msgid="1256791763596391124" name="template_split_screen_mode_landscape_ltr">"Chapda <ns1:g id="ID_1">%1$s</ns1:g>, o‘ngda <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="7868698948612319665" name="template_split_screen_mode_landscape_rtl">"O‘ngda <ns1:g id="ID_1">%1$s</ns1:g>, chapda <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="7565682598301271955" name="template_split_screen_mode_portrait">"Tepada <ns1:g id="ID_1">%1$s</ns1:g>, pastda <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="1816951995792085063" name="template_stream_volume">"<ns1:g id="STREAM_NAME">%1$s</ns1:g>. Ovoz balandligi darajasi: <ns1:g id="PERCENT">%2$d</ns1:g> foiz."</string>
+    <string msgid="4964670773272907835" name="template_stream_volume_set">"<ns1:g id="STREAM_NAME">%1$s</ns1:g>. Ovoz balandligi darajasi: <ns1:g id="PERCENT">%2$d</ns1:g> foiz."</string>
+    <string msgid="1059175355898959427" name="template_text_copied">"nusxa ko‘chirildi: <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="7952067813030057908" name="template_text_cut">"qirqib olindi: <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="153775825635730287" name="template_text_error">"Noto‘g‘ri kiritildi: <ns1:g id="ERROR_MSG">%1$s</ns1:g>"</string>
+    <string msgid="8439319384947093963" name="template_text_pasted">"joylandi: <ns1:g id="TEXT">%1$s</ns1:g>"</string>
+    <string msgid="2069327286898545053" name="template_text_removed">"<ns1:g id="TEXT">%1$s</ns1:g> o‘chirib tashlandi"</string>
+    <string msgid="837970148139617839" name="template_text_replaced">"“<ns1:g id="NEW_TEXT">%1$s</ns1:g>” matni “<ns1:g id="OLD_TEXT">%2$s</ns1:g>” bilan almashtirildi"</string>
+    <string msgid="7969528330209940634" name="template_text_selected">"belgilandi: <ns1:g id="SELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="8491489660236837367" name="template_text_unselected">"belgilash bekor qilindi: <ns1:g id="UNSELECTED_TEXT">%1$s</ns1:g>"</string>
+    <string msgid="4410160163389481887" name="template_tv_remote_mode_ended">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> o‘chirib qo‘yildi"</string>
+    <string msgid="5968574403263650425" name="template_tv_remote_mode_started">"<ns1:g id="REMOTE_MODE">%1$s</ns1:g> boshlandi"</string>
+    <string msgid="4811442521690748167" name="template_viewpager_index_count">"Jami <ns1:g id="TOTAL_COUNT">%2$d</ns1:g> tadan <ns1:g id="PAGE_INDEX">%1$d</ns1:g> ta sahifa"</string>
+    <string msgid="5093912546331180510" name="template_viewpager_index_count_short">"Jami <ns1:g id="TOTAL_COUNT">%2$d</ns1:g> tadan <ns1:g id="PAGE_INDEX">%1$d</ns1:g> ta"</string>
+    <string msgid="2517638358851774040" name="title_activity_dump_a11y_event">"Jurnalga qo‘shish kerak bo‘lgan tadbirni tanlang"</string>
+    <string msgid="7908169922901920318" name="title_custom_action">"Ixtiyoriy harakatlar"</string>
+    <string msgid="4738051430500766039" name="title_dim_screen_when_talkback_enabled">"TalkBalk yoqilganda, ekran xiralashtirilsin"</string>
+    <string msgid="55211944889868460" name="title_edittext_breakout_end_selection_mode">"Matn tanlash rejimini o‘chirish"</string>
+    <string msgid="4021304144865258223" name="title_edittext_breakout_move_to_beginning">"Kursorni matn boshiga o‘tkazish"</string>
+    <string msgid="3197737555808584828" name="title_edittext_breakout_move_to_end">"Kursorni matn oxiriga o‘tkazish"</string>
+    <string msgid="4183196270306568761" name="title_edittext_breakout_start_selection_mode">"Matn tanlash rejimini yoqish"</string>
+    <string msgid="2102286116390895883" name="title_edittext_controls">"Kursorni boshqarish"</string>
+    <string msgid="399801096771904747" name="title_granularity">"Navigatsiya sozlamalari"</string>
+    <string msgid="5005702316138877183" name="title_labeling_controls">"Yorliqlar"</string>
+    <string msgid="5016265453627241456" name="title_local_breakout_no_items">"Bo‘m-bo‘sh."</string>
+    <string msgid="3770770318417664565" name="title_pref_a11y_hints">"Foydalanish bo‘yicha yo‘l-yo‘riqlar aytilsin"</string>
+    <string msgid="7396126388313295285" name="title_pref_auto_scan_time_delay">"Avto-tekshiruv vaqti"</string>
+    <string msgid="306503376875826605" name="title_pref_auto_scroll">"Ro‘yxatni avtomatik o‘tkazish"</string>
+    <string msgid="2804297157354831139" name="title_pref_category_auto_scan">"Avto-tekshiruv"</string>
+    <string msgid="4277057711356252674" name="title_pref_category_built_in_gestures">"Ichki o‘rnatilgan imo-ishora"</string>
+    <string msgid="3576441094143356231" name="title_pref_category_developer_settings">"Dasturchi sozlamalari"</string>
+    <string msgid="3417629010416895022" name="title_pref_category_feedback_settings">"Boshqa signallar"</string>
+    <string msgid="463227090301036752" name="title_pref_category_key_mappings">"Tugmalarni amallarga biriktirish"</string>
+    <string msgid="6578504997140953627" name="title_pref_category_manage_gestures">"Imo-ishoralarni boshqarish"</string>
+    <string msgid="611512059219131263" name="title_pref_category_miscellaneous_settings">"Boshqalar"</string>
+    <string msgid="3352934615940599431" name="title_pref_category_scan_key_mappings">"Tekshirish uchun tugmalarni belgilash"</string>
+    <string msgid="8846405149013321460" name="title_pref_category_side_tap_shortcuts">"Yon tomoniga tegish (tajribaviy)"</string>
+    <string msgid="802401622203667328" name="title_pref_category_touch_exploration">"Teginib o‘rganish"</string>
+    <string msgid="4974406968544300731" name="title_pref_category_touch_shortcuts">"Tezkor imo-ishoralar"</string>
+    <string msgid="463133232649258739" name="title_pref_category_when_to_speak">"Nutq"</string>
+    <string msgid="7170662881035255012" name="title_pref_dim_volume_three_clicks">"Xiralatish u-n tezkor tugma"</string>
+    <string msgid="3999046718706391324" name="title_pref_dump_a11y_event">"Jurnalga qo‘shish uchun maxsus imkoniyatlardan foydalanib tadbirlarni filtrlash"</string>
+    <string msgid="1836003265647871107" name="title_pref_explore_by_touch">"Teginib o‘rganish"</string>
+    <string msgid="8576056446194448505" name="title_pref_export_custom_labels">"Shaxsiy yorliqlarni eksport qilish"</string>
+    <string msgid="2022820131100451763" name="title_pref_help">"Yordam"</string>
+    <string msgid="5718610056539542854" name="title_pref_help_and_feedback">"Yordam va fikr-mulohaza"</string>
+    <string msgid="7578057484183597929" name="title_pref_help_feedback">"Yordam va fikr-mulohaza"</string>
+    <string msgid="6745845465683574401" name="title_pref_highlight_0">"Ajratib belgilash uslubi tekshirilmoqda"</string>
+    <string msgid="2495577882313852825" name="title_pref_highlight_0_color">"Ajratib belgilash rangi"</string>
+    <string msgid="7296464279890648714" name="title_pref_highlight_0_weight">"Ajratib belgilash chizig‘i uslubi"</string>
+    <string msgid="7375380428425494034" name="title_pref_intonation">"Talaffuzda ohangni o‘zgartirish"</string>
+    <string msgid="8300291129646957414" name="title_pref_keyboard_echo">"Klaviatura aks-sadosi"</string>
+    <string msgid="267415170405921603" name="title_pref_log_level">"Jurnalni chiqarish darajasi"</string>
+    <string msgid="1365850439559496078" name="title_pref_manage_keyboard_shortcuts">"Tezkor tugmalarni boshqarish"</string>
+    <string msgid="8796338627297226539" name="title_pref_manage_labels">"Shaxsiy yorliqlarni boshqarish"</string>
+    <string msgid="4315025096187253577" name="title_pref_phonetic_letters">"Fonetik harflar aytilsin"</string>
+    <string msgid="5158596411034985043" name="title_pref_play_store">"Google Play do‘konidan TalkBack sahifasini ochish"</string>
+    <string msgid="3250995506517482375" name="title_pref_primary_scan_style">"Asosiy tekshiruv usuli"</string>
+    <string msgid="4533552749993575929" name="title_pref_proximity">"Masofa sezgichi"</string>
+    <string msgid="4098949311311089235" name="title_pref_resume_talkback">"To‘xtagan joyidan davom ettirish"</string>
+    <string msgid="2351427385843210311" name="title_pref_scanning_methods">"Tekshirish usuli"</string>
+    <string msgid="1335607796304866893" name="title_pref_shake_to_read_threshold">"O‘qish uchun silkitish"</string>
+    <string msgid="4454853121476703529" name="title_pref_shortcut_double_tap">"Ikki marta teginish"</string>
+    <string msgid="7510938211617979299" name="title_pref_shortcut_down">"Pastga surish"</string>
+    <string msgid="6249716604721789627" name="title_pref_shortcut_down_and_left">"Pastga, keyin chapga surish"</string>
+    <string msgid="7683422992972248031" name="title_pref_shortcut_down_and_right">"Pastga, keyin o‘ngga surish"</string>
+    <string msgid="862181907993343425" name="title_pref_shortcut_down_and_up">"Pastga, keyin tepaga surish"</string>
+    <string msgid="1294673470106169765" name="title_pref_shortcut_left">"Chapga surish"</string>
+    <string msgid="2899217574677150730" name="title_pref_shortcut_left_and_down">"Chapga, keyin pastga surish"</string>
+    <string msgid="320138621029568357" name="title_pref_shortcut_left_and_right">"Chapga, keyin o‘ngga surish"</string>
+    <string msgid="369887751217245542" name="title_pref_shortcut_left_and_up">"Chapga, keyin tepaga surish"</string>
+    <string msgid="2563651710870983074" name="title_pref_shortcut_right">"O‘ngga surish"</string>
+    <string msgid="4893018634563250104" name="title_pref_shortcut_right_and_down">"O‘ngga, keyin pastga surish"</string>
+    <string msgid="1184543975336584677" name="title_pref_shortcut_right_and_left">"O‘ngga, keyin chapga surish"</string>
+    <string msgid="6848971895903777166" name="title_pref_shortcut_right_and_up">"O‘ngga, keyin tepaga surish"</string>
+    <string msgid="7220195169492947031" name="title_pref_shortcut_single_tap">"Bir marta teginish"</string>
+    <string msgid="464026441232788284" name="title_pref_shortcut_up">"Tepaga surish"</string>
+    <string msgid="7970635117146596582" name="title_pref_shortcut_up_and_down">"Tepaga, keyin pastga surish"</string>
+    <string msgid="6548364994546979158" name="title_pref_shortcut_up_and_left">"Tepaga, keyin chapga surish"</string>
+    <string msgid="8856595421274730440" name="title_pref_shortcut_up_and_right">"Tepaga, keyin o‘ngga surish"</string>
+    <string msgid="8048703987011256280" name="title_pref_show_context_menu_as_list">"Ro‘yxat shaklidagi kontekst menyusi"</string>
+    <string msgid="4420464510142864819" name="title_pref_show_privacy_policy">"Maxfiylik siyosati"</string>
+    <string msgid="6167834013879233992" name="title_pref_show_tos">"Foydalanish shartlari"</string>
+    <string msgid="5333869781230265376" name="title_pref_single_tap">"Bir marta bosib faollashtirish"</string>
+    <string msgid="3131811048184077738" name="title_pref_soundback">"Ovozli signal"</string>
+    <string msgid="8633886470832131926" name="title_pref_soundback_volume">"Ovoz balandligi"</string>
+    <string msgid="7056106236376536133" name="title_pref_speak_screenoff">"Ekran o‘chiqligida talaffuz qilish"</string>
+    <string msgid="17846978416951489" name="title_pref_speech_volume">"Nutqning balandligi"</string>
+    <string msgid="3737945934603267137" name="title_pref_tap_sensitivity">"Sezgichning sezuvchanligi"</string>
+    <string msgid="1525763448981997023" name="title_pref_tree_debug">"Tugunlar daraxtini tuzatishni yoqish"</string>
+    <string msgid="4448445593132620627" name="title_pref_tts_overlay">"Nutqni matnga aylantirish"</string>
+    <string msgid="2810986068277138359" name="title_pref_tutorial">"TalkBack qo‘llanmasini ishga tushirish"</string>
+    <string msgid="2306010395434853106" name="title_pref_two_part_vertical_gestures">"Ikki qismli tik imo-ishoralar"</string>
+    <string msgid="4867534784887155899" name="title_pref_two_volume_button_long_click">"TalkBack xizmatini to‘xtatish va yoqib qo‘yish uchun tezkor tugma"</string>
+    <string msgid="3150034317307025609" name="title_pref_use_audio_focus">"Nutqning ovozi balandroq"</string>
+    <string msgid="4156396276749836864" name="title_pref_vibration">"Tebranishli aks ta’sir"</string>
+    <string msgid="3016793641076890473" name="title_pref_web_scripts">"Maxsus veb-skriptlar"</string>
+    <string msgid="8335248824829650066" name="title_seek_bar_controls">"Qidiruv paneli"</string>
+    <string msgid="4197424047192764616" name="title_seek_bar_edit">"Qidiruv paneli darajasini o‘zgartirish"</string>
+    <string msgid="3596164166456847306" name="title_suggestions_breakout_anchor">"Tahrirlash maydonchasiga qaytish"</string>
+    <string msgid="8722323161157337123" name="title_suggestions_breakout_suggestions">"Takliflarga o‘tish"</string>
+    <string msgid="5486233362252604824" name="title_suggestions_controls">"Avtomatik to‘ldirish takliflari"</string>
+    <string msgid="3037924006370977165" name="title_summary">"Tezkor navigatsiya"</string>
+    <string msgid="6936782185806198910" name="title_viewpager_breakout_next_page">"Keyingi sahifa"</string>
+    <string msgid="1352284456691236167" name="title_viewpager_breakout_prev_page">"Avvalgi sahifa"</string>
+    <string msgid="3775818290312516095" name="title_viewpager_controls">"Sahifalar navigatsiyasi"</string>
+    <string msgid="7663977538463352430" name="title_web_breakout_next_control">"Keyingi boshqaruv elementi"</string>
+    <string msgid="801337905459445939" name="title_web_breakout_next_list">"Keyingi ro‘yxat"</string>
+    <string msgid="7355139595269361571" name="title_web_breakout_next_section">"Keyingi bo‘lim"</string>
+    <string msgid="2637721101068457234" name="title_web_breakout_prev_control">"Avvalgi boshqaruv elementi"</string>
+    <string msgid="744039532529277819" name="title_web_breakout_prev_list">"Avvalgi ro‘yxat"</string>
+    <string msgid="1738336598629616234" name="title_web_breakout_prev_section">"Avvalgi bo‘lim"</string>
+    <string msgid="6873568861550304420" name="toast_msg_key_already_assigned">"“<ns1:g id="KEY_NAME">%1$s</ns1:g>” tugmasi allaqachon “<ns1:g id="ACTION_NAME">%2$s</ns1:g>” amaliga biriktirilgan"</string>
+    <string msgid="6233811187483633874" name="tts_preferences_title">"Nutq sintezi sozlamalari"</string>
+    <string msgid="6480388345726953149" name="turn_off_talkback">"TalkBack funksiyasini o‘chirib qo‘yish"</string>
+    <string msgid="5426041850804920228" name="tutorial_alert_dialog_exit">"Chiqish"</string>
+    <string msgid="153385821637979511" name="tutorial_disabled_item_clicked">"%1$s mashq qilish rejimida faollashtirildi. Chiqish uchun BEKOR QILISH tugmasini faollashtiring."</string>
+    <string msgid="9109552709434930176" name="tutorial_exercise_completed_auto">"Mashq tugallandi. Hozir keyingi dars ochiladi."</string>
+    <string msgid="5711951853376611538" name="tutorial_home">"QO‘LLANMA BOSH SAHIFASI"</string>
+    <string msgid="2912330081549004678" name="tutorial_lesson_1_page1_description">"“Teginib o‘rganish” funksiyasi yoqilganda barmog‘ingiz tekkan elementlarning nomlarini eshitish mumkin bo‘ladi. Ekran markazida joylashgan elementlar bo‘ylab barmog‘ingizni harakatlantiring. 5 ta element topilgandan so‘ng, dars davom ettiriladi."</string>
+    <string msgid="8696897836045271462" name="tutorial_lesson_1_page1_subtitle">"1-qism: Teginib o‘rganish"</string>
+    <string msgid="4328249029315743419" name="tutorial_lesson_1_page2_complete_message">"7-element faollashtirildi. Davom etish uchun Keyingisi tugmasini topib, faollashtiring."</string>
+    <string msgid="3437424287122738630" name="tutorial_lesson_1_page2_description">"Eshitilgan so‘nggi elementni faollashtirish uchun xohlagan joyni ustiga ikki marta bosing. 7-elementni topib, uni faollashtiring. Keyin davom etish uchun Keyingisi tugmasini faollashtiring."</string>
+    <string msgid="395358029332125189" name="tutorial_lesson_1_page2_subtitle">"2-qism: Faollashtirish uchun ikki marta bosing"</string>
+    <string msgid="6782138079048102236" name="tutorial_lesson_1_page3_description">"TalkBack darslari o‘xshash qilib tuzilgan. Xohlagan vaqtda tanishib chiqish va o‘qish uchun yuqori qismda darslar mavjud. Shuningdek, yuqori chap burchakda boshiga tugmasi uchun qo‘llanma ham bor. Asosiy qism mashq qilish maydoni hisoblanadi. Pastki qismda jarayon ko‘rsatkichi va darslarga o‘tish tugmalari joylashgan. Davom etish uchun Keyingisi tugmasini faollashtiring."</string>
+    <string msgid="5644143038265902856" name="tutorial_lesson_1_page3_subtitle">"3-qism: Navigatsiya darslari"</string>
+    <string msgid="8864367516443934956" name="tutorial_lesson_1_page4_description">"Ekranda barmog‘ingizni surish orqali ham elementlar bilan tanishish mumkin. Chapga surish bilan tepa va chap qismdagi elementlarni, o‘ngga surish bilan esa pastki va o‘ng qismdagi elementlarni o‘rganish mumkin. Mashq qilib ko‘ring."</string>
+    <string msgid="8686179604479736061" name="tutorial_lesson_1_page4_subtitle">"4-qism: Surish orqali o‘rganish"</string>
+    <string msgid="6465486659264068934" name="tutorial_lesson_1_practice_description">"Barmoq ostidagini eshitish uchun uni ekran bo‘ylab suring. Eshitganingizni faollash uchun ekranning xohlagan joyini ikki marta bosing. Tanishib chiqish uchun chapga yoki o‘ngga suring."</string>
+    <string msgid="8409951305889305897" name="tutorial_lesson_1_practice_title">"5-qism: Amaliyot"</string>
+    <string msgid="711726460367061721" name="tutorial_lesson_1_short_description">"Tanishib chiqish uchun bosish, tanishib chiqish uchun surish, faollashtirish uchun ikki marta bosish"</string>
+    <string msgid="5236404350916286434" name="tutorial_lesson_1_title">"1-dars: Asosiy navigatsiyalar"</string>
+    <string msgid="580551557422353615" name="tutorial_lesson_2_page1_description">"Tik ro‘yxatni aylantirish uchun, ro‘yxat bandini topib, ikki barmoq bilan tepaga yoki pastga harakatlantiring. Yotiq ro‘yxatni aylantirish uchun esa ro‘yxat bandini topib, ikki barmoq bilan chap yoki o‘ngga harakatlaning."</string>
+    <string msgid="3831360802282402385" name="tutorial_lesson_2_page1_subtitle">"1-qism: Ikki barmoq bilan aylantirish"</string>
+    <string msgid="6803623252361709120" name="tutorial_lesson_2_page2_description">"Ro‘yxatda oldinga yoki orqaga o‘tishni maxsus imo-ishora orqali amalga oshirish mumkin. Oldinga o‘tish uchun bitta barmog‘ingizni bir urinishda o‘ngdan chapga harakatlantiring. Orqaga qaytish uchun esa bir urinishda chapdan o‘ngga harakatlantiring. Mashq qilib ko‘ring."</string>
+    <string msgid="4984192682960806856" name="tutorial_lesson_2_page2_subtitle">"2-qism: Aylantirish imo-ishoralari"</string>
+    <string msgid="408119978126134776" name="tutorial_lesson_2_practice_description">"Ikki barmoq bilan tepaga yoki pastga surish orqali aylantiring. Bitta barmoqni o‘ngdan chapga harakatlantirish orqali oldinga o‘ting. Bitta barmoqni chapdan o‘ngga harakatlantirish orqali orqaga o‘ting."</string>
+    <string msgid="2743676222265424015" name="tutorial_lesson_2_practice_title">"3-qism: Amaliyot"</string>
+    <string msgid="1266674748996686981" name="tutorial_lesson_2_short_description">"Ikki barmoq bilan aylantirish, oldinga va orqaga o‘tish"</string>
+    <string msgid="8944439067496916569" name="tutorial_lesson_2_title">"2-dars: Aylantirish"</string>
+    <string msgid="2871203321195090324" name="tutorial_lesson_3_down_right">"Pastga, keyin o‘ngga"</string>
+    <string msgid="7029517714331489043" name="tutorial_lesson_3_message">"Menyu parametrlari ekranning asosiy qismida tik holatda ro‘yxat qilingan. Tanishib chiqing. Bo‘lganingizdan so‘ng, Bekor qilish tugmasini faollashtiring."</string>
+    <string msgid="6970763850543511675" name="tutorial_lesson_3_page1_description">"TalkBack xizmatida ikki xil menyu bor. Birinchisi TalkBack global menyusi bo‘lib, u doim bir xil buyruqlardan tashkil topgan. Uni faollashtirish uchun bitta barmoqni bir harakat bilan pastga, keyin o‘ngga harakatlantiring, keyin barmoqni ko‘taring. Global menyuni faollashtirishni mashq qilib ko‘ring."</string>
+    <string msgid="769564591288469622" name="tutorial_lesson_3_page1_subtitle">"1-qism: TalkBack global menyusi"</string>
+    <string msgid="236959207452065871" name="tutorial_lesson_3_page2_description">"Ikkinchi menyu TalkBack mahalliy menyusi deb nomlanadi. Bu menyuda elementlar oxirgi marta o‘qib eshittirilgan holatda saqlanadi. Uni faollashtirish uchun bitta barmoqni bir harakat bilan tepaga, keyin o‘ngga harakatlantiring, keyin barmoqni ko‘taring. Mahalliy menyuni faollashtirishni mashq qilib ko‘ring."</string>
+    <string msgid="3248006863733497778" name="tutorial_lesson_3_page2_subtitle">"2-qism: TalkBack mahalliy menyusi"</string>
+    <string msgid="4687022774852406126" name="tutorial_lesson_3_practice_content_description">"TalkBack global menyusi: pastga, keyin o‘ngga. TalkBack mahalliy menyusi: tepaga, keyin o‘ngga"</string>
+    <string msgid="9053899021556392823" name="tutorial_lesson_3_practice_description">"TalkBack global menyusini faollashtirish uchun barmoqni pastga, keyin o‘ngga harakatlantiring. TalkBack mahalliy menyusini faollashtirish uchun barmoqni tepaga, keyin o‘ngga harakatlantiring."</string>
+    <string msgid="7992894865660442281" name="tutorial_lesson_3_practice_title">"3-qism: Amaliyot"</string>
+    <string msgid="4897481164693437589" name="tutorial_lesson_3_short_description">"TalkBack global menyusi, TalkBack mahalliy menyusi"</string>
+    <string msgid="1534037844912254504" name="tutorial_lesson_3_title">"3-dars: TalkBack menyulari"</string>
+    <string msgid="1257290751747215466" name="tutorial_lesson_3_up_right">"Tepaga, keyin o‘ngga"</string>
+    <string msgid="825751290656500339" name="tutorial_lesson_4_page1_description">"TalkBack sizga matnni xat boshi, qator, so‘z yoki belgi bo‘yicha o‘qishni boshqarish imkonini beradi. Belgi bo‘yicha o‘qish talaffuz qilishga yordam beradi. Matn navigatsiya tezligini belgilarga o‘rnatish uchun quyidagi matnni bosib, keyin tepa va pastga suring."</string>
+    <string msgid="4100459258679365726" name="tutorial_lesson_4_page1_message">"Bu yerda tik ro‘yxat qilingan o‘qish tezligi bilan tanishib chiqing. Belgi bo‘yicha o‘qish parametrini topib, uni faollashtiring."</string>
+    <string msgid="6722398610043882883" name="tutorial_lesson_4_page1_subtitle">"1-qism: Navigatsiya sozlamalarini tanlash"</string>
+    <string msgid="665951393520581926" name="tutorial_lesson_4_page2_description">"Siz hozir belgi bo‘yicha o‘qimoqdasiz. Namunaviy matnni tanlab, belgi bo‘yicha o‘qish uchun o‘ngga suring."</string>
+    <string msgid="1749198627288834931" name="tutorial_lesson_4_page2_subtitle">"2-qism: Matn bo‘ylab harakatlanish"</string>
+    <string msgid="2135338093046263335" name="tutorial_lesson_4_practice_description">"Matn navigatsiya tezligini o‘zgartirish uchun tepa yoki pastga suring. Namunaviy matndagi keyingi belgini o‘qish uchun o‘ngga suring."</string>
+    <string msgid="4917843401985911727" name="tutorial_lesson_4_practice_title">"3-qism: Amaliyot"</string>
+    <string msgid="8795532729146357613" name="tutorial_lesson_4_sample_text">"TalkBack’ni mashq qilish uchun namunaviy matn. “Kansas qayerda?” deb hayron bo‘lib so‘radi u kishi. Doroti ma’yuslik bilan “Bilmayman, lekin bu mening uyim va aminmanki, u shu yaqin-atrofda” deb javob berdi.\n\n“Katta ehtimollik bilan Oz hamma narsani qila oladi; umid qilaman, sen uchun Kanzasni topib beradi. Lekin, avvalo u bilan uchrashishing kerak va bu oson bo‘lmaydi. Buyuk sehrgar hech kim bilan ko‘rishishni yoqtirmaydi va o‘zi kim bilan ko‘rishishni hal qiladi. Ammo, o‘zing nimani xohlaysan?” – deb so‘radi Totodan, gapini davom etayotib."</string>
+    <string msgid="7418527496120482465" name="tutorial_lesson_4_short_description">"Matn bo‘ylab harakatlanish sozlamalarini tanlash"</string>
+    <string msgid="4147432329454145413" name="tutorial_lesson_4_title">"4-dars: Matn navigatsiyasi"</string>
+    <string msgid="5518047261885161170" name="tutorial_lesson_5_hint">"Matnni tahrirlash"</string>
+    <string msgid="2284207114288159699" name="tutorial_lesson_5_page1_description">"TalkBack yordamida tahrirlash maydonida matn kiritish, belgilash va matnni o‘zgartirishingiz mumkin. Tahrirlash maydonini faollashtirish uchun uni ikki marta bosing. Uni faollashtirib bo‘lganingizdan so‘ng, ekranning quyi qismida klaviatura paydo bo‘ladi. Klaviaturani Orqaga tugmasini bosish bilan yopishingiz mumkin. Tahrirlash maydonini faollashtirib ko‘ring. Tugatganingizdan so‘ng, klaviaturaning tepasida joylashgan Keyingisi tugmasini faollashtiring."</string>
+    <string msgid="1509462164197325310" name="tutorial_lesson_5_page1_subtitle">"1-qism: Tahrirlash maydonini faollashtirish"</string>
+    <string msgid="8728726969848635963" name="tutorial_lesson_5_page2_description">"Matn kiritish uchun tahrirlash maydonini faollashtiring va ekrandagi klaviatura bo‘ylab barmog‘ingizni harakatlantiring. Kerakli belgini eshitganingizda, uni faollashtirish uchun barmog‘ingizni ko‘taring. Quyidagi tahrirlash maydonini faollashtirib, matn kiritib ko‘ring."</string>
+    <string msgid="8696015537398598026" name="tutorial_lesson_5_page2_subtitle">"2-qism: Tahrirlash maydoniga matn kiritish"</string>
+    <string msgid="325778749713576462" name="tutorial_lesson_5_page3_description">"Kursorni qurilmaning ovoz balandligini boshqarish tugmalari yoki mahalliy TalkBack menyusi yordamida harakatlantirish mumkin. Bu menyudagi kursorni boshqarish parametri yordamida matnni belgilash, qirqib olish, undan nusxa olish va ko‘chirib qo‘yish mumkin. Quyidagi tahrirlash maydonini faollashtirib, namunaviy matn bo‘ylab kursorni harakatlantirib ko‘ring."</string>
+    <string msgid="7553394100000534557" name="tutorial_lesson_5_page3_sample_text">"Dorothy Galening e-pochta manzili – dorothy@ozmail.com"</string>
+    <string msgid="6803668615502110439" name="tutorial_lesson_5_page3_subtitle">"3-qism: Kursordan foydalanish"</string>
+    <string msgid="4966124103376747840" name="tutorial_lesson_5_practice_description">"Tahrirlash maydonini ikki marta bosish bilan faollashtiring. Belgilar ustida barmog‘ingizni harakatlantirish orqali matn kiriting, keyin barmog‘ingizni ko‘taring. Kursorni ovoz balandligini boshqarish tugmalari va Mahalliy TalkBack menyusi yordamida harakatlantiring. Mahalliy TalkBack menyusidagi Kursorni boshqarish parametri orqali matnni belgilab, uning ustida ishlang."</string>
+    <string msgid="4502932434891583878" name="tutorial_lesson_5_practice_title">"4-qism: Amaliyot"</string>
+    <string msgid="5739314401061989157" name="tutorial_lesson_5_short_description">"Tahrirlash maydonini faollashtirish, matn kiritish, kursorni harakatlantirish, matnni belgilash va uning ustida ishlash"</string>
+    <string msgid="6951330400155565474" name="tutorial_lesson_5_title">"5-dars: Matnni tahrirlash"</string>
+    <string msgid="5584403341719984367" name="tutorial_lesson_number">"%1$d-dars"</string>
+    <string msgid="2301417040370437180" name="tutorial_next">"KEYINGI"</string>
+    <string msgid="1856740039454216256" name="tutorial_next_lesson">"KEYINGI DARS"</string>
+    <string msgid="5664505784839483070" name="tutorial_no_touch_explore_message">"Qo‘llanmani ochishdan oldin “Teginib o‘rganish” funksiyasini yoqing."</string>
+    <string msgid="1958343592980548652" name="tutorial_no_touch_explore_title">"“Teginib o‘rganish” funksiyasini yoqing"</string>
+    <string msgid="2663970515299904800" name="tutorial_page_number">"%1$d-qism"</string>
+    <string msgid="7024184577193466936" name="tutorial_page_number_of">"Jami %2$d tadan %1$d-qism"</string>
+    <string msgid="8329925887106371812" name="tutorial_practice">"Mashq qilish"</string>
+    <string msgid="2176846563813803041" name="tutorial_practice_area">"Mashq qilish maydoni"</string>
+    <string msgid="7310221766775514110" name="tutorial_practice_content">"<ns1:g id="INDEX">%1$d</ns1:g>-amaliy dars"</string>
+    <string msgid="3270312755677041276" name="tutorial_previous">"AVVALGI"</string>
+    <string msgid="2975374258662807931" name="tutorial_previous_lesson">"AVVALGI DARS"</string>
+    <string msgid="4109204744674617699" name="tutorial_service_inactive_message">"Qo‘llanmani ochishdan oldin TalkBack funksiyasini yoqing."</string>
+    <string msgid="14143423693392009" name="tutorial_service_inactive_title">"TalkBack o‘chiq"</string>
+    <string msgid="126663814939225670" name="tutorial_service_suspended_message">"Qo‘llanmadan faqat TalkBack funksiyasi yoniq ekanligida foydalanish mumkin. TalkBack funksiyasini yoqing va qo‘llanmani qaytadan oching."</string>
+    <string msgid="7825932862221387070" name="tutorial_service_suspended_title">"TalkBack to‘xtatildi"</string>
+    <string msgid="8656234062338441589" name="tutorial_start_lesson">"O‘rganish"</string>
+    <string msgid="6993792008827898101" name="tutorial_start_lesson_content">"<ns1:g id="INDEX">%1$d</ns1:g>-darsni o‘rganish"</string>
+    <string msgid="491797656581740453" name="tutorial_template_item">"<ns1:g id="INDEX">%1$d</ns1:g>-element"</string>
+    <string msgid="1602036284900841687" name="tutorial_title">"TalkBack qo‘llanmasi"</string>
+    <string msgid="3902654026290995891" name="tutorial_up_button_description">"“Qo‘llanma bosh sahifasi” tugmasi"</string>
+    <string msgid="7017590766394623328" name="untitled_window">"sarlavhasiz"</string>
+    <string msgid="2459787142940409576" name="value_button">"Tugma"</string>
+    <string msgid="3838601485428893942" name="value_caps_lock_off">"Caps Lock o‘chiq."</string>
+    <string msgid="7573294600745888208" name="value_caps_lock_on">"Caps Lock yoniq."</string>
+    <string msgid="668616875637472508" name="value_checkbox">"Belgilash katakchasi"</string>
+    <string msgid="3006751014125833966" name="value_checked">"belgilandi"</string>
+    <string msgid="5183845393779526573" name="value_classic_keymap">"Klassik tugmalar sxemasi"</string>
+    <string msgid="3341356513608380759" name="value_collapsed">"yig‘ildi"</string>
+    <string msgid="2991108554131770843" name="value_default_keymap">"Birlamchi tugmalar sxemasi"</string>
+    <string msgid="5503481137448624626" name="value_device_unlocked">"Qurilma qulfdan chiqarildi."</string>
+    <string formatted="false" msgid="3589346610879193419" name="value_dim_volume_three_clicks">"Ekranni xiralashtirish funksiyasini yoqish yoki o‘chirib qo‘yish uchun har ikkala ovoz tugmasini uch marta tez-tez bosing"</string>
+    <string msgid="8072362433982733982" name="value_direction_down">"pastga"</string>
+    <string msgid="8554316039693996323" name="value_direction_down_and_left">"pastga, keyin chapga"</string>
+    <string msgid="7001881662779097616" name="value_direction_down_and_right">"pastga, keyin o‘ngga"</string>
+    <string msgid="8751291630548709587" name="value_direction_down_and_up">"pastga, keyin tepaga"</string>
+    <string msgid="676932617445677488" name="value_direction_left">"chapga"</string>
+    <string msgid="7803183066938070433" name="value_direction_left_and_down">"chapga, keyin pastga"</string>
+    <string msgid="5700946272615649006" name="value_direction_left_and_right">"chapga, keyin o‘ngga"</string>
+    <string msgid="1953824696291100833" name="value_direction_left_and_up">"chapga, keyin tepaga"</string>
+    <string msgid="3555261520059818184" name="value_direction_right">"o‘ngga"</string>
+    <string msgid="3939890273004054796" name="value_direction_right_and_down">"o‘ngga, keyin pastga"</string>
+    <string msgid="8982138891493120929" name="value_direction_right_and_left">"o‘ngga, keyin chapga"</string>
+    <string msgid="9165127187203257982" name="value_direction_right_and_up">"o‘ngga, keyin tepaga"</string>
+    <string msgid="1646290331150992975" name="value_direction_up">"tepaga"</string>
+    <string msgid="3964398023350956969" name="value_direction_up_and_down">"tepaga, keyin pastga"</string>
+    <string msgid="2880257670663743521" name="value_direction_up_and_left">"tepaga, keyin chapga"</string>
+    <string msgid="1769623264993139598" name="value_direction_up_and_right">"tepaga, keyin o‘ngga"</string>
+    <string msgid="5160977094078900656" name="value_disabled">"o‘chirib qo‘yildi"</string>
+    <string msgid="6104708724544509699" name="value_double_tap">"Ikki marta bosish"</string>
+    <string msgid="3400838694172416741" name="value_edit_box">"Tahrirlash maydoni"</string>
+    <string msgid="761496650256809196" name="value_edit_box_editing">"Tahrirlanmoqda"</string>
+    <string msgid="3777451536288368857" name="value_expanded">"yoyildi"</string>
+    <string msgid="7426444022147570511" name="value_googletv_screen_saver">"Ekran lavhasi"</string>
+    <string msgid="1382219539169157957" name="value_gridview">"Jadval"</string>
+    <string msgid="6443720093459914584" name="value_hint_tv_remote_mode_seek_control">"Qiymatini o‘zgartirish uchun ko‘rsatkichli chiziq tugmalarini yoki yakunlash uchun “Tanlash” tugmasini bosing."</string>
+    <string msgid="5114229220871881124" name="value_image">"Rasm"</string>
+    <string msgid="6889426165608387394" name="value_keyboard_echo_always">"Har doim"</string>
+    <string msgid="7181327459690946870" name="value_keyboard_echo_never">"Hech qachon"</string>
+    <string msgid="1595001302535254665" name="value_keyboard_echo_softkeys">"Faqat ekrandagi klaviatura uchun"</string>
+    <string msgid="7625152822709234439" name="value_listview">"Ro‘yxat"</string>
+    <string formatted="false" msgid="541929774635348126" name="value_long_volume_pressed_suspend_talkback">"Har ikkala ovoz tugmasini birga bosib turing"</string>
+    <string msgid="37422559536361725" name="value_not_checked">"belgilanmadi"</string>
+    <string msgid="5404406119689977269" name="value_notification_shade_opened">"Tizim maydoni ochildi"</string>
+    <string msgid="1037451128304445281" name="value_num_lock_off">"Num Lock o‘chiq."</string>
+    <string msgid="5129177598867360081" name="value_num_lock_on">"Num Lock yoniq."</string>
+    <string msgid="6700497510945744608" name="value_off">"o‘chiq"</string>
+    <string msgid="39454338086317219" name="value_on">"yoniq"</string>
+    <string msgid="4936310094261315665" name="value_options_menu_open">"Tanlanmalar."</string>
+    <string msgid="7708574424402835461" name="value_pager">"Bir nechta sahifali ko‘rinish"</string>
+    <string msgid="7671668766555622125" name="value_pager_page">"Sahifa"</string>
+    <string msgid="7285572231215250557" name="value_password">"parol"</string>
+    <string msgid="4270348255373188872" name="value_press_select">"“Tugmani tanlash”ni bosing"</string>
+    <string msgid="254185377743644004" name="value_radio_button">"Tanlash tugmasi"</string>
+    <string msgid="2780570849205482994" name="value_resume_keyguard">"Ekran qulflanganda"</string>
+    <string msgid="615523100721295547" name="value_resume_manual">"Faqat bildirishnomalar panelidan"</string>
+    <string msgid="2104101584116309597" name="value_resume_screen_on">"Ekran yonganda"</string>
+    <string msgid="3881352685288650823" name="value_ringer_silent">"Ovozsiz rejim."</string>
+    <string msgid="2453075127843329125" name="value_ringer_vibrate">"Tebranishli qo‘ng‘iroq."</string>
+    <string msgid="4442166505764238236" name="value_screen_off">"Ekran o‘chirildi."</string>
+    <string msgid="4051568127659724519" name="value_screen_on">"Ekran yoqildi."</string>
+    <string msgid="4083567784058485871" name="value_scroll_lock_off">"Scroll Lock o‘chiq."</string>
+    <string msgid="2645082633954205788" name="value_scroll_lock_on">"Scroll Lock yoniq."</string>
+    <string msgid="4084950138979192413" name="value_seek_bar">"Qidiruv paneli"</string>
+    <string msgid="4688216864497436971" name="value_seek_bar_dialog_instructions">"0 dan 100 gacha bo‘lgan raqamni kiriting."</string>
+    <string msgid="1999088520209822207" name="value_seek_bar_dialog_percent">"%"</string>
+    <string msgid="1307429702194660766" name="value_selected">"tanlandi"</string>
+    <string msgid="33115748930768552" name="value_shake_to_read_disabled">"O‘chiq"</string>
+    <string msgid="7661843662865960874" name="value_shake_to_read_threshold_hard">"Kuchli"</string>
+    <string msgid="6122029921067500618" name="value_shake_to_read_threshold_light">"Yengil"</string>
+    <string msgid="8892692566516131981" name="value_shake_to_read_threshold_medium">"O‘rtacha"</string>
+    <string msgid="3423392173494851854" name="value_shake_to_read_threshold_very_hard">"Juda kuchli"</string>
+    <string msgid="2767872234193772050" name="value_shake_to_read_threshold_very_light">"Juda yengil"</string>
+    <string msgid="5044168772549910285" name="value_single_tap">"Bosish"</string>
+    <string msgid="1275285354723670810" name="value_sliding_drawer_opened">"Tortma panel ochildi"</string>
+    <string msgid="9204474944714379541" name="value_spinner">"Pastga ochiladigan ro‘yxat"</string>
+    <string msgid="7440086841584851897" name="value_stream_alarm">"Signal"</string>
+    <string msgid="433463500088767280" name="value_stream_dtmf">"Ohang bilan terish"</string>
+    <string msgid="4636086067147877021" name="value_stream_master">"Asosiy ovoz"</string>
+    <string msgid="3472112192147204509" name="value_stream_music">"Musiqa"</string>
+    <string msgid="7166743133549871424" name="value_stream_notification">"Bildirishnoma"</string>
+    <string msgid="5981333765536911375" name="value_stream_ring">"Rington"</string>
+    <string msgid="2589285265752092053" name="value_stream_system">"Tizim ovozi"</string>
+    <string msgid="3808346037153621863" name="value_stream_voice_call">"Telefon qo‘ng‘irog‘i"</string>
+    <string msgid="6946709666466895221" name="value_switch">"O‘chirib-yoqish"</string>
+    <string msgid="6935453013254857519" name="value_tabwidget">"Darchalar paneli"</string>
+    <string msgid="6558192295636412162" name="value_text_cleared">"Matn o‘chirib tashlandi"</string>
+    <string msgid="4129865255646994586" name="value_text_max_length">"Belgilar soni maksimal miqdorga yetdi"</string>
+    <string msgid="9064311081864073839" name="value_text_removed">"o‘chirib tashlandi"</string>
+    <string msgid="2003438824962970029" name="value_tv_remote_mode_seek_control">"Qidiruv paneli rejimi"</string>
+    <string msgid="6226815555228981094" name="value_unlabelled">"Yorliqsiz"</string>
+    <string formatted="false" msgid="1925212291067338164" name="value_volume_100_percent">"Multimedia ovozi balandligi darajasida"</string>
+    <string formatted="false" msgid="7765340636472447035" name="value_volume_25_percent">"Multimedia ovozi balandligining 25% qismicha"</string>
+    <string formatted="false" msgid="571313670701581653" name="value_volume_50_percent">"Multimedia ovozi balandligining 50% qismicha"</string>
+    <string formatted="false" msgid="4112643575612833142" name="value_volume_75_percent">"Multimedia ovozi balandligining 75% qismicha"</string>
+</resources>

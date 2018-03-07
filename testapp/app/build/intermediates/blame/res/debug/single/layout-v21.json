@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nikhil Pratap\\Desktop\\Talkback\\talkback-master\\testapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_information_material.xml",
+        "source": "C:\\Users\\Nikhil Pratap\\Desktop\\Talkback\\talkback-master\\testapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\24.0.0\\res\\layout-v21\\preference_information_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikhil Pratap\\Desktop\\Talkback\\talkback-master\\testapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_material.xml",
+        "source": "C:\\Users\\Nikhil Pratap\\Desktop\\Talkback\\talkback-master\\testapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\24.0.0\\res\\layout-v21\\preference_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikhil Pratap\\Desktop\\Talkback\\talkback-master\\testapp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_category_material.xml",
+        "source": "C:\\Users\\Nikhil Pratap\\Desktop\\Talkback\\talkback-master\\testapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\24.0.0\\res\\layout-v21\\preference_category_material.xml"
+    }
+]

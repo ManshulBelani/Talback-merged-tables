@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\dell\Downloads\talkback-master\src\main\shaders"/></dataSet><dataSet config="aosp"><source path="C:\Users\dell\Downloads\talkback-master\src\aosp\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\dell\Downloads\talkback-master\src\debug\shaders"/></dataSet><dataSet config="aospDebug"><source path="C:\Users\dell\Downloads\talkback-master\src\aospDebug\shaders"/></dataSet></merger>

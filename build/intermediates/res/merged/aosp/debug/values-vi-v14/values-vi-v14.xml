@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"Bạn có chắc chắn muốn tạm dừng TalkBack không?\n\nTrong khi TalkBack bị tạm ngưng, thiết bị của bạn sẽ không cung cấp phản hồi và tính năng Khám phá bằng cách chạm sẽ bị tắt."</string>
+</resources>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\aebda8fea4085ed48138daafde53fdbc2d6f8996\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\ccc46296b6ec8dec3377a9513caa2b0a0a11768e\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\aebda8fea4085ed48138daafde53fdbc2d6f8996\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Downloads\\talkback-master\\build\\intermediates\\res\\merged\\aosp\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\2fffa96d29d68eb33e40f2f538a93332857aa2bc\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    }
+]

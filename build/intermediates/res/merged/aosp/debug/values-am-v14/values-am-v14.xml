@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="980499198689413028" name="dialog_message_suspend_talkback">"እርግጠኛ ነዎት TalkBackን ማገድ ይፈልጋሉ?\n\nTalkBack ታግዶ ሳለ መሣሪያዎ ግብረመልስ አያቀርብም እና በንኪኪ ማስስ ይሰናከላል።"</string>
+</resources>
